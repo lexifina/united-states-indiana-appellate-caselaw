@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,547"
+decided: "1934-03-09"
+citations: ["98 Ind. App. 331"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walker Theatre Company v. R. K. O. Distributing Company."]
+source_url: "https://static.case.law/ind-app/98/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1573021
+cites_cases: ["146 N. E. 217", "282 U. S. 30", "86 Ind. App. 277"]
+---
+
+# Walker Theatre Co. v. R. K. O. Distributing Co.
+
+## Majority (Curtis, J.)
+
+Curtis, J.
+The appellee sued the appellant in the Superior Court of Marion County, Indiana, for damages for breach of a written contract in which contract the appellant agreed to pay a fixed sum for the privilege of exhibiting certain motion pictures and photoplays in the Walker Theatre in Indianapolis, Indiana. The alleged breach of the contract consisted of appellant’s refusal to accept, play, or pay for the motion picture productions for which it had contracted. The cause was tried by the court without the intervention of a jury and judgment rendered against the appellant in the amount of $850.00.
+The written contract, the alleged breach of which is the basis of the complaint, is a standard form of contract used in the distribution end of the motion picture industry in which it is provided that the appellee granted to the appellant a license to exhibit in a certain theatre in Indianapolis four moving pictures and photo-plays, and that when the said picture productions contracted for were available to the exhibitor (appellant) the distributor (appellee) should give availability notices to that effect, whereupon the exhibitor should indicate a date or dates when the available productions would be accepted and played at said theatre. The contract in question covered four such productions, each at a separate price, amounting in the total to $1300.00, none of which were ever accepted and played by the appellant. The complaint alleged the readiness, willingness, and ability of the appellee to perform its part of the contract and the refusal of the appellant to carry out its part of said contract, and that availability notices were given by the appellee to said appellant as provided by said contract as to each of said productions. The prayer of the complaint was for the contract price of the productions as fixed in said contract. The complaint was answered in four paragraphs, the first being a general denial; the second a claim that clause 18 of the contract sued upon required that the appellee should have pursued a course of arbitration before resorting to court action; the third alleged that the appellant had gone out of business and had so notified the appellee before the appellee gave the said availability notices; and the fourth paragraph alleged that the contract sued upon was in restraint of trade and a violation of the Sherman Anti-Trust Law. To each of the last three paragraphs of answer the appellee filed a reply in general denial.
+Seasonably after the judgment was rendered the appellant filed a motion for a new trial which was overruled and an exception reserved and this appeal prayed. The causes in the motion are that the amount of the recovery is erroneous being too large, that the decision of the court is not sustained by sufficient evidence and is contrary to law.
+We have read the evidence carefully in the instant case and it fully sustains the decision of the trial court. None of the defenses set up in the appellant’s various paragraphs of answer were prove# unless it be that the appellee had failed to comply with clause 18 of the contract sued upon which in effect provides that before either party to it shall resort to any court to determine, enforce or protect its legal rights, it shall first submit the question or questions in dispute to an Arbitration Board. Said clause further provides that each party will abide by any decision and award of such board. While we do not believe this question has been properly presented yet giving the appellant the benefit of any doubt in that regard we may say that the Supreme Court of the United States has held a clause similar to clause 18 in the contract sued upon in the instant case, invalid on account of its special provisions violative in their inception of the Federal Anti-Trust Law. See: Paramount Famous Lasky Corporation v. United States (1930), 282 U. S. 30, 75 Law Ed. 145.
+If said clause is invalid then each party is excused from a compliance therewith. But if said clause 18 is held invalid, then is the entire contract invalid and unenforceable by the appellee herein? We think not. See: Columbia Pictures Corporation v. Bi-Metallic Inv. Co. (1930), 42 Fed. (2nd) series 873; Paramount Famous Lasky Corporation v. National Theatre Corporation (1931), 49 Fed. (2nd) series 64.
+Granting as we do that said clause 18 of the contract is invalid, yet under the authorities last above cited, the contract sued upon is not as to its other provisions rendered invalid for the reason that the contract is divisible and the remainder is lawful. In the instant case the appellee need not rely upon said clause 18 as the basis of its cause of action, and it needs no support from said clause to maintain fully its cause.
+It is the further contention of the appellant that the appellee has not discharged its burden to prove the amount of the damages that it has sustained. In this the appellant is mistaken. See: Blackstone Theatre Corporation v. Goldwyn Distributing Corporation (1927), 86 Ind. App. 277, 146 N. E. 217.
+We have found no reversible error. The judgment is affirmed.
