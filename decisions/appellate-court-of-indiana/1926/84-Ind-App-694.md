@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,359"
+decided: "1926-03-11"
+citations: ["84 Ind. App. 694"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fisher v. Rosander et al."]
+source_url: "https://static.case.law/ind-app/84/cases/0694-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2487555
+cites_cases: ["115 Ind. 297", "147 Ind. 299", "17 N. E. 570", "45 N. E. 786", "72 Ind. 5"]
+---
+
+# Fisher v. Rosander
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+Appeal from a judgment of the St. Joseph Superior Court, appellant assigning as error the action of the court in overruling his motion for a new trial, and appellees Rosander and others, hereinafter called appellees, assigning as cross-error the action of the court in overruling their motion for a new trial.
+It is averred in the complaint that on April 10, 1924, appellees agreed to sell and convey to the Spencers and Steinmetz, under the name of Mid-City Realty Company, the real estate involved, for $1,450, of which $200 was paid in cash, and the balance was payable sixty days thereafter, for which balance a promissory note was executed, bearing interest at the rate of seven per cent, per annum. That in the deed to said real estate executed by appellees, the Mid-City Realty Company was named by appellees as grantee; that thereafter, and on the advice of appellant, and without the knowledge or consent of appellees, the defendant altered and mutilated said deed, and struck therefrom the name of the grantee, Mid-City Realty Company, and substituted therefor, and after delivery, the name of appellee Kurt J. Spencer. Appellant accepted a deed from Kurt J. Spencer, and now claims an interest in said real estate. That a reasonable fee for appellees’ attorneys is $250. That said note is due and unpaid, and that the amount thereof is a lien upon said real estate. That the Spencers and Steinmetz, doing business under the firm name of Mid-City Realty Company, have no other property subject to execution. There was a demand for judgment and that the same be declared a lien upon said real estate, and that the same, or so much thereof as may be necessary for that purpose, be sold to satisfy appellees’ debt and costs. To the complaint, appellant filed a general denial, and appellees Spencer, Spencer and Steinmetz filed a general denial. It is to be observed that by these issues appellant has sought no affirmative relief, and, by his general denial to the complaint, has even denied that he claims any interest in the real estate involved. The only question for the consideration of the court, and properly within the issues, is the relief to which appellees are entitled under the averments of their complaint, challenged only by general denials.
+On a stipulation of facts, the court made a general finding, eliminating from which matters not in issue and conclusions as to the law, which, on general findings, must be disregarded, it found that “the defendants, Kurt J. Spencer, Dan W. Spencer, and Fred I. Steinmetz are indebted to the plaintiffs in the sum of $1,250 together with $53.47 interest thereon, and together with $250 as fees for services of plaintiffs’ attorneys, and which sum of $1,553.47 the plaintiffs are entitled to recover from the defendants, Kurt J. Spencer, Dan W. Spencer, and Fred I. Steinmetz, together with costs of this action without relief from valuation or appraisément laws. The court further finds that said sum of $1,250 is for the purchase money of the real estate hereinafter described. * * * The court further finds that the defendants Kurt J. Spencer, Dan W. Spencer and Fred I. Steinmetz are each insolvent and have no property subject to execution other than said real estate.” The court then rendered- judgment against the Spencers and Steinmetz, partners, on-said note for $1,553.47, ordered that execution be issued and levied upon the real estate involved, that the same be sold and the proceeds of sale be applied first to the payment of the costs, second, that two-thirds of the balance be applied to the payment of appellees’ lien in the sum of $1,303.47 together with interest, that one-third of such balance be applied to the payment of the lien and charge of appellant in the sum of $1,063.55 with interest, with further direction for the distribution of any excess ot surplus that might be after the above mentioned application of the proceeds of sale.
+It is apparent that the judgment in favor of appellant is not within the issues, and that it does not follow the findings. Under such circumstances, the proper remedy was not by motion for a new trial, but by a motion to modify the judgment. Chicago, etc., R. Co. v. Eggers (1897), 147 Ind. 299, 45 N. E. 786 ; Peoples Saving, etc., Assn. v. Spears (1888), 115 Ind. 297, 17 N. E. 570 ; 2 Watson, Revision Works' Practice §§ 2179, 2180, 2181.
+That the judgment is valid in part, neither appellant nor appellee is in a position to deny. Where a part of a judgment is valid, it will stand unless proper steps have been taken by objection duly presented to the trial court to secure a modification or amendment, by amending or rejecting the part which is wrong. Bayless v. Glenn (1880), 72 Ind. 5 ; Peoples Saving, etc., Assn. v. Spears, supra; 2 Watson, Revision Works' Practice § 2179.
+Appellant certainly may not be heard to complain of the judgment, for under the issues, it gives him relief to which he was not entitled.
+On the record as it comes to us, we will not disturb the judgment.
+Affirmed.
