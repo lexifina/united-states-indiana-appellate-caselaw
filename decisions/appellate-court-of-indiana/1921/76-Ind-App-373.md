@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,023"
+decided: "1921-10-07"
+citations: ["76 Ind. App. 373"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy v. Scales."]
+source_url: "https://static.case.law/ind-app/76/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2518937
+cites_cases: ["113 Ind. 425", "127 N. E. 810", "13 Ind. 103", "130 Ind. 415", "15 N. E. 1", "29 N. E. 365", "43 Am. Rep. 91", "50 Ind. 410", "73 Ind. App. 578", "74 Am. Dec. 250", "84 Ind. 347"]
+---
+
+# Roy v. Scales
+
+## Majority (Nichols, P. J.)
+
+Nichols, P. J.
+Appellant filed his complaint in the Pike Circuit Court to set aside a certain judgment and decree entered in said court upon his failure to appear at the trial, and asking that he be permitted to appear and defend said cause and offer evidence on the question of damages assessed against him in his absence.
+The complaint was in one paragraph, to which appellee’s demurrer was sustained and this ruling is assigned as the only error. Without reciting in detail the averments of the complaint, we deem it sufficient to say that there were such averments as to excusable neglect as standing alone, would have justified the court under §405 Burns 1914, §396 R. S. 1881, in setting aside the judgment mentioned in the complaint and in permitting appellant to appear and defend in said cause, but we are confronted with the following further facts as averred in the complaint: The trial, had in appellant’s absence and of which he complains, was on May 13, 1920. Appellant “first learned of said trial and judgment on the 14th day of May, 1920, and immediately went to the office of his said attorneys and had a motion prepared asking that said default be set aside, and he be' permitted to defend in said cause, and the same was filed in said court without delay, and on May 27, 1920, the following entry in said cause was made: ‘Comes now again the plaintiff and the defendant and by order of court the order of May 13th is corrected, and the court having heard the evidence on the motion of the defendant heretofore filed to set aside the judgment and decree in this cause, and being fully advised in the premises, now overrules said motion to which ruling the defendant at the time excepts, and the defendant prays for thirty days time in which to prepare and present a bill of exceptions which is granted.’ ” The correction referred to above consisted of striking from the entry containing the original judgment, a clause showing appellant’s default. Appellant complains of this correction but even if he was harmed thereby the question is not involved in the court’s ruling on the demurrer to his complaint, which complaint shows that the motion theretofore was to set aside the judgment and decree as well as the default.
+It appears, therefore, on the face of the complaint that theretofore appellant had filed his motion in the trial court asking that the judgment and decree from which he now here seeks relief, be set aside. The same parties and the same subject-matter were involved, and the same relief was sought. We have not the motion before us but the substantial facts averred in the complaint were in existence when the motion was filed and it is apparent that the same questions here involved were presented by such motion, or that they could have been so presented. It is a well established rule of law that a single cause of action cannot be split, in order that separate suits may be brought for the various parties on what really constitutes but one demand. 1 Ency. Pl and Pr. 48; Brannenburg v. Indianapolis, etc., R. Co. (1859), 13 Ind. 103, 74 Am. Dec. 250; Aetna Life Ins. Co. v. Nexsen (1882), 84 Ind. 347, 43 Am. Rep. 91; City of Lafayette v. Nagle (1888), 113 Ind. 425, 15 N. E. 1; Roby v. Eggers (1892), 130 Ind. 415, 29 N. E. 365. Clearly in this case appellant had but one cause of action, and the facts to sustain being in existence at the time his motion was filed, he was required to present them at that time or thereafter be precluded. §405, supra, expressly provides that relief such as is here sought may be granted upon the filing of either a motion or a complaint within two years.
+In the case of Ayrshire Coal Co. v. Thurman (1920), 73 Ind. App. 578, 127 N. E. 810, it is held that the action ■ of the court in ruling upon such a motion constitutes a final judgment from which an appeal lies. Many authorities are cited sustaining the principle. But no appeal was taken from the court’s action in overruling appellant’s motion to set aside the judgment and permit his defense. In lieu thereof appellant has chosen to file a second action in the form of a complaint, at a subsequent term. Upon the face of this complaint it clearly appears that the question presented has been adjudicated, and the defense of former adjudication was therefore properly presented by demurrer. Greenup v. Crooks (1875), 50 Ind. 410. The court did not commit reversible error in sustaining the demurrer to the complaint.
+The judgment is affirmed.
