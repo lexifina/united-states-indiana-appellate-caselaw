@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,888"
+decided: "1929-11-20"
+citations: ["90 Ind. App. 677"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Miskovich v. State of Indiana."]
+source_url: "https://static.case.law/ind-app/90/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553118
+---
+
+# Miskovich v. State
+
+## Majority (Lockyear, J.)
+
+Lockyear, J.
+This is an appeal from the judgment of the victed count
+Lake Criminal Court, wherein appellant was con-for possessing intoxicating liquor as charged in' one of the affidavit, and was given a fine of $100 and ordered imprisoned in the Indiana State Farm for a period of 60 days.
+The affidavit follows the language of the statute.
+Appellant filed a motion to suppress and reject the evidence, wherein he set out 16 specific counts, all of which may be considered under and are embraced in the allegation that said search warrant was issued without probable cause for the issuance thereof under the law.
+Evidence was heard by the trial court on the motion to suppress and reject the evidence. One Frank Cook testified that he was the officer whose name is subscribed to the affidavit upon which the search warrant was issued to search appellant’s premises.
+The proceedings for search warrant were had before Judge Greenlee of the Gary City Court. 'Before the issuance of said warrant, the said Frank Cook gave oral testimony before said court, wherein he testified he had knowledge through his own observation of the premises occupied by the appellant; that he had never been in the premises; that the place had all the earmarks of being a place where intoxicating liquor was sold; he did not buy any liquor nor see any sold there. He testified further that he had had this place under observation for about two and one-half weeks practically every day during that time; he remained some time in the vicinity of the place and observed what went on at the premises; he saw men going into the place sober and coming out intoxicated, and that it was a regular occurrence; he also observed the place at night about an hour at a time and he saw men doing the same thing.
+After hearing said evidence, the court ordered that whereas, from oral evidence heard by him, he found cause existed for belief that the things described in said affidavit were being kept concealed in and about the premises therein described and were being kept there unlawfully, therefore, the search warrant was issued.
+Search was made in pursuance to said search warrant, and there was found a large quantity of beer, whisky and pure alcohol in appellant’s premises.
+We are unable to see how a clearer case of probable cause for issuance of a search warrant could be found, and there is ample evidence to sustain the finding and the judgment of the court.
+Affirmed.
+McMahan, C. J., not participating.
