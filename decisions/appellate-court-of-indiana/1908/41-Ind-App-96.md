@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,064"
+decided: "1908-01-28"
+citations: ["41 Ind. App. 96"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stanton v. Ohio Oil Company."]
+source_url: "https://static.case.law/ind-app/41/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4959122
+---
+
+# Stanton v. Ohio Oil Co.
+
+## Majority (Comstock, J.)
+
+Comstock, J.
+The amended complaint alleges that on October 1, 1901, Zebulon Stanton was the owner in fee simple of certain real estate (describing it) ; that on said date, in consideration of the sum of $15, the receipt of which is acknowledged, he and his wife executed to Thomas A. Black “a contract,” by which they granted to said Black all the oil and gas in and under the premises described, for the purpose of drilling and operating for oil and gas, and to erect and maintain all structures and lay all pipes necessary for the production and transportation of oil and gas.
+It is unnecessary to set out all the stipulations and provisions of the contract. The following provision for the employment of the pumper is the only one in the contract upon which there is any controversy. We set it out in full:
+“First party to locate first well and not crowd lines. Lines to be protected and privilege of furnishing one pumper. Second party to pay said pumper the usual wages for such work.”
+It is alleged that in the month of October, 1901, said Black sold and assigned said contract to the defendant, Ohio Oil Company, and that the Ohio Oil Company executed said contract and immediately took possession of said premises and drilled six oil-wells thereon and is still in possession of said premises and property and operating six wells thereon; that since May 15, 1905, three men have been constantly employed by the Ohio Oil Company in pumping said wells; that on May 15, 1905, said Zebulon Stanton assigned, in writing, all his rights, title and interest in said privilege of furnishing a pumper under said contract, which assignment is in these words, to wit:
+“To the Ohio Oil Company, George Davids, Manager, Montpelier, Indiana. Whereas said Ohio Oil Company is the owner of the following described oil lease, made by the undersigned, Zebulon Stanton and wife, to Thomas A. Black, dated October 1, 1901, and covering [describing certain real estate], which lease is duly recorded in the recorder’s office of Wells county, Indiana, in Miscellaneous Book-, at page-; and whereas one of the substantial provisions set forth in said lease is that the undersigned grantor of said lease was to have the privilege of furnishing one pumper, who should be employed and paid by the owner or holder of said lease, for pumping and operating the wells upon said leased premises, the pay to be the usual wages for such work; and whereas your company, as the owner and operator of said lease, has wholly failed and refused to furnish employment since October 23, 1904, to the great loss, damage and detriment of the undersigned and his pumper so selected: Now, therefore, your company, the Ohio Oil Company and its manager, will take notice that I, Zebulon Stanton, the owner of said leased premises, and to whom said before-mentioned privilege of furnishing a pumper was granted, have and do hereby furnish, name and select as such pumper my son, Robert R. Stanton, who is able and well qualified to perform the ‘services, and your said company will take notice that for value received I have and do hereby sell, assign and transfer to my son Robert R. Stanton the right and privilege of the employment by your said company as pumper upon my said premises, for one year from and. after May 15, 1905, and until May 15, 1906, and this instrument shall be his authority to enter into the employment as such pumper for your company upon said leased premises in compliance with the privilege granted me in said lease.”
+It is further alleged that the plaintiff is sober, honest and an experienced pumper of oil-wells, and on May 15, 1905, the plaintiff demanded of the defendant employment as such pumper, but it refused to employ the plaintiff as such pumper, or permit him to pump any of its said wells.
+The court below sustained a demurrer for want of facts to the complaint, and plaintiff refusing to plead further judgment was rendered on the demurrer in favor of appellee for costs. This ruling of the court is the only question presented by the appeal.
+Various objections were made to the complaint. In part they are as follows: That the contract is indivisible and the whole must be assigned; that the license is strictly confined to the original parties, is personal to the licensee, and cannot be assigned by him; that, even if the clause in dispute is assignable, the complaint is insufficient, because it contains no averment that defendant was ever notified that the contract had been assigned to plaintiff.
+It must be conceded that the complaint contains no averment that defendant was ever notified that the contract had been assigned to the plaintiff. This omission alone is a fatal defect. The complaint alleges that the lessor assigned to his son, the plaintiff, the right and privilege of the employment by said company as pumper, upon said premises, and “this instrument' shall be his authority to enter into employment as such pumper,” and that the plaintiff demanded of said company employment; but it is nowhere averred, nor can it reasonably be inferred from the allegations of the complaint, that the notice addressed to the manager of the oil company was presented to said oil company, or the defendant was in any way made acquainted with the assignment of said right. Appellant was, so far as appears from the complaint, a stranger to appellee, and appellee owed him no duty. Other objections are not considered.
+Judgment affirmed.
