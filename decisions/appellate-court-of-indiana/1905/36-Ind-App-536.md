@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "5,514"
+decided: "1905-11-17"
+citations: ["36 Ind. App. 536"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harrington v. Harrington."]
+source_url: "https://static.case.law/ind-app/36/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5003301
+cites_cases: ["11 Ind. App. 408"]
+---
+
+# Harrington v. Harrington
+
+## Majority (Wiley, C. J.)
+
+Wiley, C. J.
+Appellee brought this suit against appellant for “a separation from bed and board for a limited time,” under the act approved Eebruary 28, 1903 (Acts 1903, p. 114). Appellant filed a cross-complaint, and also an answer in denial to appellee’s complaint. Upon appellee’s motion in writing the trial court struck from the files the cross-complaint. The reason assigned in said motion was that “said cross-complaint and the filing thereof in this action is wholly unauthorized by law.” Upon the issue joined by appellee’s complaint, and the answer in denial, the cause was submitted to the court, resulting in a finding and decree for appellee. In her complaint appellee asked for alimony, and the court allowed her the sum of $1,000. The order of the court was that the parties “be separated from bed and board for a period of two years,” and that the appellant pay to appellee the sum of $1,000 as and for alimony.
+Appellant moved for a new trial upon two grounds: (1) Because the court erred in sustaining the motion to strike out the cross-complaint; and (2) because the decision of the trial court is not sustained by sufficient evidence. This motion was overruled. Striking out the cross-complaint and overruling the motion for a new trial are assigned as errors.
+The first question discussed by counsel relates to the action of the court in striking out appellant’s cross-complaint. It is contended by appellee that the filing of a ’cross-petition for an absolute divorce is not authorized by the act of 1903, supra; that the power to grant divorce is of statutory, and not of common-law origin; and that the appellant had no common-law right to file a cross-complaint. Section three of said act is as follows: “This act is not intended to and shall not repeal or affect any existing law as to granting absolute divorces, and the obtaining of a temporary separation under this law shall not be a bar to the entering of a suit for absolute divorce by either party,” etc. Section four is as follows: “In granting separation from bed and board for a limited time, the same length of residence and proof thereof, and the practice and proceedings of the court shall be the same as in cases of absolute divorce.” Under section three it is clearly manifest that, where a temporary separation has been decreed, such decree is not a bar to a suit for an absolute divorce by either party. It necessarily follows that at any time after the decree in this case either party had the right to bring his or' her action for an absolute divorce. It is true that aside from the divorce statute there is no statutory provision for filing a cross-complaint or petition. While the code generally does not provide for a cross-complaint, the chancery practice of determining the rights of contending parties has long been recognized by our decisions; and in such cases the rule of pleading and the practice in chancery courts, as modified by the spirit of the code, govern. Heaton v. Lynch (1894), 11 Ind. App. 408.
+Section 1052 Burns 1901, §1040 R. S. 1881, specifically provides that a defendant in a divorce suit may file a cross-complaint for divorce. It is expressly provided by section three of the act of 1903, supra, that such act does not repeal or affect any existing law as to granting absolute divorces. It is almost a waste of time even to refer to the familiar rule that both law and equity favor the settlement and adjudication of all controversies germane to the subject-matter in a single proceeding between litigants. There is no provision of the act of 1903, supra, which prohibits, either expressly or impliedly, the filing of a cross-complaint for an absolute divorce in a suit for temporary separation. We know of no statute, rule of practice, or reason by which this can not be done. It is certainly germane to the question involved, and where a defendant in such a case applies to the court by cross-bill for an absolute divorce, and brings himself within the provisions of the statute under which such divorce may be granted, the issue thus presented is entitled to be submitted to the court for decision. We are clearly of the opinion that it was error to strike out appellant’s cross-complaint. As the judgment must be reversed for this reason, the questions presented and discussed under the motion for a new trial are left undecided.
+Judgment reversed, and the trial court is directed to grant a new trial, to overrule appellee’s motion to strike out the cross-complaint, and for further proceedings not inconsistent with this opinion.
