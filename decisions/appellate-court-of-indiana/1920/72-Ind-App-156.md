@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,369"
+decided: "1920-01-13"
+citations: ["72 Ind. App. 156"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gobin v. Piety."]
+source_url: "https://static.case.law/ind-app/72/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2535773
+cites_cases: ["114 N. E. 649", "67 Ind. App. 121"]
+---
+
+# Gobin v. Piety
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+—This action by appellant against appellee seeks a judgment for damages sustained by appellant and also injunctive and mandatory relief against the further continuance of the alleged wrongful acts of appellee in throwing up a levee across the ■ flood channels of the Wabash river and Prairie creek, thereby throwing back and diverting the overflow waters onto the lands of appellant.
+Appellee challenges appellant’s brief as not conforming to Rule 22 of this court and the Supreme Court, but, while the brief is subject to criticism, appellant has made a good-faith effort to comply with the rule and has so presented the questions involved that we are able to dispose of the case on its merits.
+The complaint consists of seven paragraphs, the first having been withdrawn. The substantial averments of the second paragraph are that: Appellant is the owner of the south half of the southeast quarter of section 30, township 10 north, range 10 west, in Vigo county, Indiana, and appellee is the owner of the north half of the northwest quarter of the northwest quarter of section 32, township and range aforesaid, the southeast corner of appellant’s land being adjacent to the northwest corner of appellee’s land, with a public highway on the' line running east and west between them. Such lands are subject to frequent overflows by the waters of Wabash river and Prairie creek, and at divers times in the last past years they have been submerged under many feet of back water by reason of the overflow of the banks of such streams, during • which time appellant and appellee have continued to be the owners of the respective tracts. For the past several years appellee has constructed and maintained an embankment or levee along the south side of said public highway, being along the north side of his land, in height from two to four feet. Such embankment obstructs and turns.aside the natural onward flow of said water, which is thrown out over the lands of appellant and appellee and all of the lands to the north of these lands by the overflow of the banks of said streams.Large volumes of water, which is overflow water from said streams rush down against said embankment, and are thrown backward over said public highway, and upon appellant’s said lands. By reason of appellee’s wrongful acts in constructing and maintaining such embankment, the backwater from said streams has been diverted, turned back from its true and natural course, and thrown by such means upon the lands of appellant in large volumes, which, if not for such obstruction, would go on in its natural way with'the natural slope of the lands and not overflow appellant’s land as it does by reason of such embankment. Much damage has been caused to appellant’s land by reason of said obstruction by washing the soil, cutting large ditches thereon by the water so diverted, rendering it unfit for cultivation.
+The third, fourth, fifth and sixth paragraphs of complaint are similar in their facts to the second, except that they contain no reference to backwater. The third paragraph avers the diverting of the natural flow of the water from its true channels as it returns to the streams from which it came. The fifth paragraph mentions the waters diverted as flood waters. The sixth paragraph avers that the flood waters flow in the flood channels which have well-' defined limits, and that in them there is a network of smaller streams, and that one such stream with banks and the marks of a watercourse is obstructed by the embankmént. The waters are mentioned in this paragraph as surface and flood waters. There is such a similarity of facts in these paragraphs of complaint that we agree with appellee that the statement thereof could well have been concisely stated in one paragraph. The facts averred involve substantially the same principle .as in the case of Evansville, etc., R. Co. v. Scott (1918), 67 Ind. App. 121, 114 N. E. 649, which grew out of damages resulting from the flood waters of the Wabash river, in Gibson county. That case is so well considered that we deem it wholly unnecessary to repeat the discussion of the principles there involved. Upon the authority of that case, we hold that the second to sixth paragraphs of complaint, inclusive each state a cause of action, and that the demurrer to each of said paragraphs should have been overruled. < If the seventh paragraph has a definite theory, we fail to discern it. The court properly sustained the demurrer thereto.
+The judgment is reversed, with instruction to overrule the demurrer to each' of the paragraphs of complaint, the second to the sixth inclusive.
