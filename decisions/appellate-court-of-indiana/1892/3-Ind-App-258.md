@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "310"
+decided: "1892-01-07"
+citations: ["3 Ind. App. 258"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lockwood, Administrator, v. Woods."]
+source_url: "https://static.case.law/ind-app/3/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4697213
+cites_cases: ["107 Ind. 224", "111 Ind. 272", "13 Ind. 448", "16 Ind. 189", "17 Ind. 521", "17 Ind. 528", "21 N. Y. 567", "23 Ind. 119", "75 Ind. 443", "83 Ind. 204", "96 Ind. 195", "97 Ind. 311"]
+---
+
+# Lockwood v. Woods
+
+## Majority (Robinson, C. J. —)
+
+Robinson, C. J. —
+The appellant sued the appellee on a promissory note for one hundred and thirty-seven dollars, dated April 4th, 1876, due in one day after date, with ten per cent, interest and attorney’s fees.
+The cause was tried by the court. The finding and judgment was for the appellee.
+The appellant presses for our consideration the alleged error of the circuit court in overruling the demurrer to the second paragraph of the appellee’s answer, which, omitting the caption and signature of attorneys, was as follows, to wit:
+“ For a second and further answer to plaintiff’s complaint defendant says that he admits the execution of the note sued On, but avers that said note was usurious and Svoid, and was corruptly and usuriously obtained by the plaintiff’s decedent, in this, that on the 21st day of September, 1867, the defendant executed his note for five hundred dollars to one Ravitha A. Woods, due in five years' after date, bearing no interest from date until due, and secured the payment of the same by mortgage upon real estate in DeKalb county, Indiana ; that thereafter said payee sold and transferred said note and mortgage to plaintiff’s decedent; that on the- 4th day of April, 1876, the defendant paid thereon the sum of six hundred and forty-six and dollars and took up said note and gave the said decedent the note in suit for one hundred and thirty-seven dollars, with an endorsement on the back thereof for the sum of fifty dollars; that said note in suit was so executed as a balance then claimed by decedent to be due to said decedent upon said first note, after deducting all that had been paid thereon by the defendant; that the note in suit had no other or different consideration. Wherefore the defendant asks that he be allowed to recoup the illegal interest so paid to said decedent against the sum claimed by the plaintiff on said note.”
+We have not been favored with a brief by the appellee, and are not, therefore, advised upon what theory the demurrer was overruled to this answer. We must determine from the allegations in the answer the theory upon which it was based by the pleader.
+An answer, like a complaint, must proceed upon some single, definite theory, which must be determined from the general character and scope of the pleading. First Nat'l Bank, etc., v. Root, 107 Ind. 224.
+'When it appears by the prayer and tenor of the pleading that if was formed on a definite theory, and it is insufficient on that theory, it will be held bad on demurrer, though the facts averred may be held sufficient on a different theory. Cottrell v. Ætna Life Ins. Co., 97 Ind. 311.
+“ Isolated and detached allegations, which are not essential to support its main theory, should be disregarded.” Cottrell v. Ætna Life Ins. Co., supra.
+“The object of pleading is to present, in a distinct and definite form, questions of fact for trial, and this object can not be accomplished unless parties are required to state positively the facts upon which they rely, and in accordance with a distinct, definite, and controlling theory. If ambiguous pleadings are tolerated, no issue can be framed which will present in an intelligible form questions for trial, and perplexity and confusion will necessarily result.” Western Union Telegraph Co. v. Reed, 96 Ind. 195. Under the rule, as thus stated, it is clear that the paragraph of the answer was founded upon the defence of usury. This is conclusive from the prayer and tenor of the pleading. The question then is, whether the answer stated facts sufficient to constitute a defence to the action. The answer is pleaded as a full defence to the action. It. is objectionable on this account, because it seeks to annul the entire contract sued on, without showing how much or what amount of illegal interest it includes. To bring such a defence within the statute, it is essential that the amount of interest in the note should appear on the face of the pleading. Collins v. Makepeace, 13 Ind. 448. “Usury does not render a note void, under our statute, for the principal. An answer of usury, therefore, goes only to a part of the cause of action. Such an answer should not, therefore, assume to answer the whole cause of action, * * * because an answer that assumes to go in bar of the action, and only on its face bars a part, is bad, not containing facts sufficient to bar the action.” Webb v. Deitch, 17 Ind. 521 ; McIntire v. Whitney, 17 Ind. 528. The answer in question, as already intimated, does not assume to state how much of the note sued on was usurious, or the amount of the interest the appellee claimed to recoup; nor does it specify the particulars of the contract upon which the usurious interest was included in the note, or the quantum of the usurious interest that was agreed upon ; it was essential to allege these facts in the answer. Engler v. Collins, 16 Ind. 189 Manning v. Tyler, 21 N. Y. 567 ; Wilson v. Fleming, 23 Ind. 119.
+The answer alleged that the note in suit was given for the balance claimed to be due on a note for $500, dated September 21, 1867, and (fue in five years, and that the appellee paid thereon $646.67 April 4, 1876. It is not alleged what rate of interest the note drew after maturity, but, under the law governing the contract sued on, it was not illegal to pay or accept a voluntary payment of ten per cent, interest, and, if so paid, only the excess could be recouped. Sager v. Schnewind, 83 Ind. 204.
+Even if the answer contained the necessary averments to constitute usury, it would be bad, because it is pleaded in bar of the action. An answer which is pleaded as a full defence,-and is not, is bad. McIntire v. Whitney, supra ; Webb v. Deitch, supra; Wilson v. Fleming, supra.
+From these considerations we must hold that the court erred in overruling the demurrer to this paragraph of the appellee’s answer.
+There were other answers filed by the appellee, but it does not appear from the record that the judgment was not rendered upon the paragraph in question ; therefore we can not say that the appellant was not injured by the ruling. Conyers v. Mericles, 75 Ind. 443.
+The overruling of a demurrer to a bad answer is l’eversi.ble error, even though there be other' good answers under which the same evidence is admissible. Thompson v. Lowe, 111 Ind. 272. There was no answer in the case except the paragraph in question, under which the alleged usury could have been admitted in evidence.
+Filed Jan. 7, 1892.
+The judgment is reversed at appellee’s costs, with instructions to sustain the demurrer to the second paragraph of appellee’s answer, and for further proceedings in accordance with this opinion.
