@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,677"
+decided: "1920-02-03"
+citations: ["74 Ind. App. 617"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Steel Foundries v. Melinik."]
+source_url: "https://static.case.law/ind-app/74/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2525620
+cites_cases: ["115 N. E. 676", "122 N. E. 796", "123 N. E. 480", "125 N. E. 464", "287 Ill. 564", "64 Ind. App. 227", "70 Ind. App. 444", "73 Ind. App. 136"]
+---
+
+# American Steel Foundries v. Melinik
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+This proceeding was brought before the Industrial Board of Indiana by the appellee against the appellant asking compensation on account of personal injuries received by appellee. The cause was heard before the full board on August 26, 1919, which found that on December 22, 1918, appellee was in the employ of appellant at an average weekly wage in excess of $24; that on said date he received a personal injury by an accident arising out of and in the course of employment which resulted in a total disability to work for two and three-sevenths weeks; that the appellant had actual knowledge of appellee’s injury at the time it occurred, and neglected and failed to provide appellee with an attending physician and necessary surgical services and supplies for the treatment of his injuries; that as a part of his injury he had two teeth knocked out, which could and should have been replaced within thirty days after that date; that without replacing said teeth the appellee was permanently disfigured and suffered a permanent and partial impairment; that he procured the replacement of said teeth, incurring an expense for dental surgery of $50. There was an award on this finding in favor of appellee of one and three-sevenths weeks’ compensation of $13.20 per week, in full of his claim for compensation, and the further sum of $50 for the necessary surgical services and supplies which could and should have been provided by appellant within the first thirty days after appellee’s injury. From this award this appeal is prosecuted.
+After the cause was pending in this court, appellee made his motion to dismiss for the reason that the .rec- . ord and assignment of errors were not -filed in the office of the clerk of the Appellate Court until more than thirty days after the rendition of the award of the Industrial Board as provided by §3, Ch. 63, Acts 1917 p. 154, §8020s2 Burns’ Supp. 1918. The final award was rendered on August 29, 1919, and the record was filed with the clerk of the Appellate Court on September 29, 1919. September 28th was on Sunday and, although September 29th was the thirty-first day, it was in time. This question has been repeatedly decided. Wartell v. Peters Hotel Co. (1919), 70 Ind. App. 444, 123 N. E. 480. The motion to dismiss is overruled.
+Appellant contends that appellee’s injuries did not arise out of the employment, and also that the injury was not accidental. The evidence shows that appellee was working for appellant under the. direction of his superior and-was wheeling wood from the yard into the dry furnace. In so doing, he was going through the coreroom, in which room one Ulstrom was a foreman. By accident, appellee while pushing his wheelbarrow with wood ran it against Ulstrom, the foreman, who at the time cried out to him, “What you doing?” kicked over the wheelbarrow, at the same time calling him a name, to which it seems appellee made some rejoinder, and the foreman then struck him in the mouth, resulting in the injury involved in this action. There is nothing in this case that indicates that appellee was out of the course of his employment. It does not even appear that he let loose of his wheelbarrow when it was kicked over by the appellant’s foreman. Appellant insists that the case of Union Sanitary Mfg. Co. v. Davis (1917), 64 Ind. App. 227, 115 N. E. 676, is decisive of this case, but we are not inclined so to hold. In that case it seems that the injury to the laborer grew out of the fact that he made a complaint to a fellow workman which he was not authorized to make and which was not a part of his employment. We think the case of Mueller v. Klingman (1919), 73 Ind. App. 136, 125 N. E. 464 is in point. In that case it was held (citing Swift & Co. v. Industrial Commission [1919], 287 Ill. 564, 122 N. E. 796) that where an injury occurs within the period of employment at a place where the injured person may reasonably be and while he is reasonably fulfilling the duties of his employ-, nient, or engaged in doing something incidental thereto, such employe is injured in the course of his employment.
+The award of the Industrial Board is affirmed, and under §3 of the amendment of 1917, supra, the amount thereof is increased five per cent,
