@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,612"
+decided: "1896-01-08"
+citations: ["15 Ind. App. 29"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Newman v. Railway Officials and Employees’ Accident Association."]
+source_url: "https://static.case.law/ind-app/15/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2401451
+cites_cases: ["131 U. S. 100", "23 Fed. Rep. 712", "24 Wis. 28", "47 N. Y. 52", "69 Pa. St. 43"]
+---
+
+# Newman v. Railway Officials & Employees' Accident Ass'n
+
+## Majority (Ross, J.)
+
+Ross, J.
+The appellant brought this action against the appellee, in the Marion Superior Court, upon a policy of insurance issued by it to appellant’s husband, insuring him, for her benefit, against death from “external, violent and accidental means.” A demurrer for want of facts was filed to the complaint and overruled, whereupon appellee filed an answer in four paragraphs, three of which were in confession and avoidance, and to each of which demurrers were filed and overruled. A reply of general denial was filed to these special answers. Upon the issues formed, the cause was tried by jury and a verdict returned in favor of appellant, upon which the court rendered judgment, and the appellee appealed to the general term, where the judgment was reversed and the court at special term directed to sustain the demurrer to the complaint. From the judgment of reversal this appeal is taken.
+The only specification of error assigned by the appellant is that “The court in general term erred in reversing the judgment of the court in special term.”
+The first insistence of appellant is, “That the court in general term had no jurisdiction of the person of the appellant herein, Lida Newman.”
+The record discloses that on the 16th day of December, 1892, the court in special term rendered judgment on the verdict of the jury; that on the 22d day of the same month appellee file'd its motion and causes for a new trial, which motion was overruled by the court on the 6th day of F ebruary, 1893, sixty days time being given to prepare and file bill of exceptions, and an appeal granted to the general term. On the 21st day of March, 1893, appellee filed its bill of exceptions. The next entry in the cause is one made by the court in general term, wherein it recites that on the 27th day of June, 1893, the appellant (the appellee here) filed an abstract of the record and its “assignment of errors.”
+The contention of counsel for appellant is, that inasmuch as more than 140 days elapsed from the time the appeal was prayed for and granted until appellee filed its assignment of errors in the general term, no notice of such appeal having been served on appellant, the general term acquired no jurisdiction over her.
+True, if the court in general term did not acquire jurisdiction over the person of the appellant, Lida Newman, the judgment of reversal is not binding against her, and the judgment in her favor rendered by the court in special term must stand.
+It must be conceded that the right of appeal is regulated by statute, and that all, not merely a part, of the acts designated by the statute to be done must be performed or the appeal is not perfected.
+“The right to appeal is granted upon the condition that all of the several designated acts shall be per-, formed, and not upon the condition that any number of the entire series of acts designated, less than the whole, shall be performed by the party asserting the right.” Elliott App. Proced., section 128.
+This court indulges the presumption that the judgment and proceedings of the court below are regular and correct, and a party appealing therefrom is required to present a record which shows affirmatively that such proceedings and judgment are wrong.
+We deem it unnecessary, at this time, to consider or decide just what steps the statute requires to be taken by a complaining party in order to take an appeal from the special to the general term. Suffice it to say, that in this case the appellant’s contention is, simply, “That the court in general term had no jurisdiction of the person of the appellant herein,” and the record of the court in general term, at the time the judgment of reversal was entered, recites that the “parties” were present “by counsel, and that the appellant objected andexcepted to the ruling and judgment of the court.” The statement that the parties were present by counsel, is in no manner limited, and applies to both the appellant and appellee, especially when coupled with the fact that appellant objected and excepted to the court’s rulings. If the appellant appeared in general term, such appearance gave the court jurisdiction over her person.
+The policy sued on is not like the ordinary life policy, but is effective and enforcible upon certain conditions or the happening of certain things, hence it provided that the appellee would pay the appellant $2,000.00 in the event her husband’s death resulted directly and immediately from “physical bodily injury inflicted by external, violent, and accidental means.” There would be no liability under the terms of the policy unless his death was the result of some physical bodily injury which was inflicted, not only by external and violent means, but was also accidentally received. These facts are necessary to create a liability under the policy of> insurance, and it is necessary that appellant allege and prove them before she will be allowed to recover.
+Assuming, without deciding, that the facts alleged sufficiently show that the decedent’s death was the result of physical bodily injuries inflicted by external and violent means, there are no facts alleged showing that they were inflicted, or at least received, “accidentally.” An injury which is the result of an accident, as applied in the construction of insurance policies, is defined to be the result of some violence, casualty, or vis major to the assured, without, his design or consent or voluntary co-operation. 7 Am. Law Rev. 588; North Am. Life, etc., Ins. Co. v. Burroughs, 69 Pa. St. 43; Mallory v. Travellers’ Ins. Co. 47 N. Y. 52; Schneider v. Provident Life Ins. Co., 24 Wis. 28; Barry v. United States Mut. Acc. Assn., 23 Fed. Rep. 712. This latter case subsequently came before the Supreme Court of the United States, when it defined an accident as “an event happening by chance; unexpectedly taking place; not according to the usual course of things, or not as expected.” United States Mut. Acc. Assn. v. Barry, 131 U. S. 100.
+Filed January 8, 1896;
+petition for rehearing overruled April 3, 1896.
+The undertaking of the appellant was to insure the decedent’s life against accidental injuries. If death resulted from' injuries purposely inflicted by the decedent himself, or through his connivance, they could not be said to have been accidentally received. It devolved upon the appellee, therefore, to allege and prove that his death was the result of injuries accidentally received, and for the want of such facts the complaint is insufficient.
+The judgment of the court below in general term is therefore affirmed.
