@@ -1,0 +1,41 @@
+---
+court: "Appellate Court of Indiana"
+docket: "359"
+decided: "1892-01-05"
+citations: ["3 Ind. App. 245"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Owens v. Tague et al."]
+source_url: "https://static.case.law/ind-app/3/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4697738
+cites_cases: ["103 Ind. 17", "106 Ind. 195", "106 Ind. 332", "114 Ind. 275", "117 Ind. 420", "13 Ia. 567", "17 Ind. 314", "21 Ill. 128", "80 Ind. 113", "80 Ind. 260", "84 Ind. 423", "87 Ind. 514", "90 Ind. 515", "92 Ind. 570"]
+---
+
+# Owens v. Tague
+
+## Majority (Black, J. —)
+
+Black, J. —
+This was an action on a joint promissory note, dated May 5tli, 1885, brought by the payee, the appellant, against the makers, the appellees, James M. Tague, Jacob Tague, and Joel H. Morgan. Judgment by default, for failure to answer, was taken against James M. Tague. Upon the trial of issues formed by the appellant and Jacob Tague and Joel H. Morgan, there was a finding in favor of these two defendants, on which judgment was rendered for them.
+The appellee Morgan answered separately that he signed the note without any consideration.
+The appellee Jacob Tague answered separately, admitting that he executed the note when it was originally given, but alleging that he did so as surety for said James M. Tague, and that in 1886, long after the execution of the note, the appellant materially altered the note, without the knowledge or consent of said Jacob, in this, that the appellant and said James, without the knowledge of said Jacob, and with full knowledge that said Jacob had executed the note as surety, merely, for said James, caused said Morgan to sign and execute the note as surety for said James.
+The appellant contends that the court erred in overruling his motion to strike out this separate answer of Jacob Tague; but the motion is not made part of the record by bill of exceptions or order of court. Therefore this ruling is not properly presented for our consideration. Section 650, R. S. 1881 ; Merritt v. Cobb, 17 Ind. 314 ; Manhattan L. Ins. Co. v. Doll, 80 Ind. 113; Lang v. Clapp, 103 Ind. 17.
+Besides,an erroneous refusal to strike out a pleading is not an available error. Smith v. Martin, 80 Ind. 260 ; Lake Erie, etc., R. W. Co. v. Kinsey, 87 Ind. 514 ; Hoke v. Applegate, 92 Ind. 570.
+The appellant replied to the separate answer of Jacob Tague: First,by general denial, and, second, that the money loaned for which the note was given was the money of the appellant; that he left it with William H. East to loan, with instructions to loan only on the borrower’s giving a good note with at least two solvent sureties; that thereafter said East presented the note to appellant with only one name thereon as surety; that appellant refused to accept the note; that it was then signed by James M. and Jacob Tague ; that thereafter said East delivered to appellant the note as sued on, with all the names thereon; * at long after it was so delivered said Jacob Tague, having full knowledge of all the facts and circumstances of its execution, and that said Morgan had signed the note as a co-surety, then and there fully ratified the note, and agreed to pay one-half as the surety of said James M. Tague, on the agreement that said Morgan would pay one-half thereof, which he agreed to do.
+The appellant replied to the separate answer of the appellee Morgan, first by general denial, and second, that after the execution and delivery of the note by said Morgan, and after full knowledge of all the facts connected therewith, “ he fully ratified the same, and agreed to pay to this plaintiff one-half thereof as the surety of James M. Tague, in consideration that Jacob Tague would pay one-half thereof, which he agreed to do.”
+The court sustained Jacob Tague’s demurrer to the second paragraph of the reply to his answer, and Joel H. Morgan’s demurrer to the second paragraph of reply to his answer.
+The answer of Jacob Tague stated a sufficient defence. Nicholson v. Combs, 90 Ind. 515; Houck v. Graham, 106 Ind. 195.
+The facts that the agent of the' payee had special instructions to loan the money for which the note was given only upon a note with two sureties, and that the payee refused to •receive the note from his agent when he presented it with only one surety, and that the name of the additional surety was thereafter obtained, would not affect the question as to the liability of the first surety. He could be bound only upon the contract to which he had assented. It is not a case of the delivery of the note by the first surety to his principal. The note was delivered to the agent of the payee, and the fact that the note with one surety had been delivered to the agent was communicated to the payee. When it was delivered to the agent for the loaned money, the contract was completely executed so_ far as the first surety was concerned, and it could not be altered afterward without his assent.
+He had a right to object if the contract into which he had entered was not preserved unchanged. If the payee was not satisfied with the contract which his agent had made, and wished to have an additional surety upon the note, the consent of all other parties to the contract should have been obtained to the change.
+The payee was bound by the knowledge of his agent that the name of the second surety was signed without the knowledge of the first surety, and, therefore, that it was not the contract into which the first surety had entered.
+A surety upon a promissory note, having a right to insist upon his discharge because of the material alteration of the note by the addition without his consent of the signature of a new surety, may renew his liability without any new consideration, by subsequently consenting to the alteration with full knowledge of all the facts. Gardiner v. Harback, 21 Ill. 128 ; Pelton v. Prescott, 13 Ia. 567 ; Henry v. Heeb, 114 Ind. 275 (279).
+This confirmation of the change in the contract is usually called a ratification.
+To secure the continued obligation of Jacob Tague as a surety it was not necessary that the elements of any new contract should be shown. All that was needed to bind him was that, with knowledge of all the facts, he should consent to be bound notwithstanding the alteration. The facts relating to this consent are meagerly stated in the special reply to the answer of Jacob Tague; but we have concluded that the reply sufficiently showed such consent.
+The undertaking of Morgan as surety, subsequent to the execution of the note by James M. Tague, the principal, and Jacob Tague, his surety, was a new and distinct undertaking, and to make it a sufficient contract it required the support of a consideration other than that which sustained the contract of the principal and the first surety. Favorite v. Stidham, 84 Ind. 423 ; Bridges v. Blake, 106 Ind. 332 ; Brownlee v. Lowe, 117 Ind. 420.
+Filed Jan. 5, 1892.
+If the original undertaking of Morgan wás of no binding effect, it needs no argument to show that his confirmation of that undertaking, his subsequent agreement to pay, would not bind him, without some consideration other than that imported by the note.
+The second paragraph of reply to Morgan’s answer of want of consideration seems to have been drawn with a purpose to state a new consideration. It is averred that he agreed, with whom is not stated, to pay the payee one-half of the note as surety of the principal maker, in consideration that the first surety would pay one-half. Then, instead of showing that the first surety paid one-half, the reply states that he agreed to do so. Besides not showing who was the other party to the agreement with Morgan, or that there was any other party thereto, the reply fails to show the existence or performance of the consideration alleged, but alleges a different fact.
+The appellant’s motion for a new trial was overruled. We have examined the evidence, and we do not find any reason for granting a new trial as to the appellee Morgan. The judgment in his favor is affirmed.
+For error in sustaining the demurrer to the second paragraph of reply to the separate answer of the appellee Jacob Tague, the judgment as to him is reversed.
