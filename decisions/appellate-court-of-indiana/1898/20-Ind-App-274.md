@@ -1,0 +1,23 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,398"
+decided: "1898-05-25"
+citations: ["20 Ind. App. 274"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Geddis v. The Board of Commissioners of Greene County."]
+source_url: "https://static.case.law/ind-app/20/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4830134
+---
+
+# Geddis v. Board of Commissioners
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+In his first paragraph of complaint appellant alleges that appellee is indebted to him in the sum of $300.00 for work and labor performed and traveling expenses incurred at the special instance and request of appellee, a bill of particulars of which is filed with the paragraph. The second paragraph averred that appellee employed appellant to prepare plans and specifications for a county sheriff’s residence and jail, for which appellant was to receive five per cent, of the estimated cost of the building, which estimated cost was $5,000.00; that appellant performed his part of the contract, and that said plans and specifications were adopted by appellant, and the letting of the contract advertised under said plans and specifications. The third paragraph differs from the second only in the estimated cost of the building, which was $4,500.00, and that appellant was to receive traveling expenses. Appellee answered by general denial.
+The special verdict shows that appellant, at the request of appellee, furnished plans and specifications for a jail and sheriff’s residence, which plans were filed in the auditor’s office; that appellee advertised for and received and opened bids on said plans; that said plans and specifications were then abandoned by appellee on account of imperfections therein, and were not used by appellee in the construction of any building or jail residence; that appellant agreed with appellee that his plans should be abandoned by appellee without any compensation to him for the same; that there was an agreement between appellant and appellee that appellant should not be paid for said plans in case they were not used by appellee in the erection and construction of the proposed jail residence. The jury further answered in the special verdict that appellee at the June session, 1894, orally adopted said plans and specifications and agreed to pay for such plans in case they were adopted, and that appellant’s services in preparing said plans and specifications were worth $170.00.
+It is argued by appellant’s counsel that the verdict is contradictory and ambiguous, and that the motion for a venire de novo should have been sustained. But construing the verdict as a whole, which mnst be done, we think the verdict sufficiently certain to support a judgment. It is found that appellant agreed that if his plans were not nsed in the construction of the particular building he was to receive no pay for them, and that the plans were abandoned on account of imperfections. It is true that the jury found that the board adopted the plans, and received bids on them. But this is not necessarily inconsistent with the other findings. The jury must be understood as saying that they were adopted for the purpose of receiving bids. If they were imperfect, and a contract could not be let upon them, they were useless to appellee. Taking the verdict as a whole, it is clear that appellee did not adopt the plans and specifications in the first instance in the sense of adopting and using them in the construction of the building, in which event, only, appellant was to receive pay.
+The special verdict does not show a different contract from the one mentioned in the complaint. Under the general issue appellee could show that appellant had not complied with the contract by failing to furnish such plans and specifications as could be used. Appellee, under the issues, had the right to show any state of facts that would negative appellant’s right to recover in the cause of action stated in his complaint. If appellant furnished imperfect plans that could not be used he had no right of action. The findings of the jury that the plans were imperfect and were abandoned on account of imperfections and were not used by appellee, are conclusive as to those facts. The special verdict is clearly within the issues presented by the pleadings. As the verdict shows appellant was not to receive anything for the plans if they were not used and that they were abandoned because of imperfections, it is not material as to what appellant’s labor was worth in preparing the plans. Judgment affirmed.
