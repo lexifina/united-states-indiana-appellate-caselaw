@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,711"
+decided: "1909-06-11"
+citations: ["44 Ind. App. 140"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Swing, Trustee, v. Hill."]
+source_url: "https://static.case.law/ind-app/44/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5025031
+cites_cases: ["105 Ind. 243", "149 Ind. 248", "151 Ind. 534", "163 Ind. 560", "17 Ind. 406", "33 Ind. App. 623", "36 Ind. 549", "39 Ind. App. 556", "42 Ind. App. 54"]
+---
+
+# Swing v. Hill
+
+## Majority (Rabb, J.)
+
+Rabb, J.
+This action was brought by appellant as the
+trustee for the creditors and policy-holders of the Union Mutual Pire Insurance Company of Cincinnati, Ohio, formerly a corporation, against appellee and Philip K. Buskirk, who were described in appellant’s complaint as surviving partners of the firm of Waldron, Hill & Co., to recover assessments made upon two policies of insurance, taken out by said firm in the insurance company of which the appellant is trustee, upon a certain factory, the property of said firm, which it is claimed by the terms of the contract rendered said firm liable for the payment of such assessments.
+The appellee and his codefendant filed an answer in abatement, to which appellant filed a special denial. The issues were submitted to a .jury for trial, and a general verdict rendered in favor of the appellee and his codefendant. Appellant’s motion for a new trial was overruled, and judgment rendered on the verdict that appellant’s action abate.
+The errors assigned, discussed, and relied upon for reversal, arise upon the action of the court in overruling appellant’s motion for a new trial.
+Onr consideration of these questions, however, is postponed by another question involving the jurisdiction of this court to entertain the appeal.
+As before stated, the action was instituted against the appellee and Philip K. Buskirk. The only person made a party to this appeal, and named in the assignment of errors, is the appellee, Nathaniel U. Hill, and in explanation of the omission to make appellee’s eodefendant a party to the appeal, the affidavit of one of the attorneys for appellant is filed, bringing to the attention of the court the fact that, subsequent to the rendition of the judgment appealed from, and before taking the appeal, appellee’s codefendant, Philip K. Buskirk, died.
+This is a vacation appeal, and, to give this court jurisdiction to hear and determine the same, all parties interested in the judgment appealed from must be before the court, and made parties, either as appellants or appellees, to the appeal. Upon the death of a party to a judgment rendered in the lower court and appealed to this court, it is necessary that either the personal representative or his heirs at law be made parties to the appeal, and notified of its pendency. §677 Burns 1908, §636 R. S. 1881; Richgrove Tp. v. Emmett (1904), 163 Ind. 560; Canaday v. Yager (1904), 33 Ind. App. 623; Abshire v. Williamson (1898), 149 Ind. 248; Michigan Mut. Life Ins. Co. v. Frankel (1898), 151 Ind. 534; Waldrip v. McConnell (1908), 42 Ind. App. 54.
+This proposition is not controverted by appellant, but is met by the contention that this rule has no application here, for the reason that in this case the suit is against the parties defendant as surviving partners of a firm, and that where such is the case the surviving partner or partners represent the firm; that the parties to this suit each appeared in his representative capacity, and that upon the death of one of the members, leaving his copartner still surviving, such copartner continued fully to represent the partnership, precisely the same as it was represented by both partners.
+The difficulty with appellant’s contention rests in the fact that the action is not a proceeding in equity, to enforce the payment of appellant’s alleged claim against the assets of a partnership, but is an action at law against the defendants to recover a personal judgment against each of them, based upon their personal liability for the debts of the partnership of which they were members. It is the law that the members of a copartnership are personally, jointly and. severally liable for all of the indebtedness of the firm. Dean v. Phillips (1861), 17 Ind. 406; Hardy v. Overman (1871), 36 Ind. 549; Ralston v. Moore (1886), 105 Ind. 243; Schnull v. Schnull (1907), 39 Ind. App. 556.
+The creditors of a firm may sue the partners at law, personally, and recover personal judgments against them for the indebtedness owing to them by the firm, or they may resort, in a proper ease, to a court of equity to compel the application of partnership property to the payment of partnership debts, and upon the death of a member of the firm, under the law in this State (§§9712-9719 Burns 1908, §§6046-6053 R. S. 1881), it is made the duty of the surviving members of the co-partnership to qualify and give bond, precisely the same as does an executor or administrator, and the statute makes provision for the proper procedure in such cases. And where this is done the surviving partner's become trustees for the benefit of the creditors of the firm. By a proper proceeding, the creditors of the firm may seek relief against such surviving partners, exactly as parties may proceed against the estate of a decedent for the payment of their debts, and may have judgment against the surviving partners, in their trust capacity, payable out of the assets of the firm, in preference to the payment of individual indebtedness of the individual members of the firm. * But nothing of the kind was done here. The parties were described, it is true, as surviving partners of the firm, but it is not averred that they had qualified, given bond, or taken upon themselves the winding up of the affairs of the partnership, nor was any judgment sought against them in any such capacity, but a personal judgment was sought against each one of the parties defendant. The facts averred and the relief sought must determine the nature of the action, and not the designation given to the parties plaintiff or defendant. The term “surviving partners” is simply descriplio personae, and does not determine the character of the action.
+For the failure of appellant to bring before this court the necessary parties to a determination of the appeal, the appeal must be dismissed.
+Appeal dismissed.
