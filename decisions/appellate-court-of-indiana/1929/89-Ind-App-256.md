@@ -1,0 +1,57 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,589"
+decided: "1929-04-26"
+citations: ["89 Ind. App. 256"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cummins v. State of Indiana."]
+source_url: "https://static.case.law/ind-app/89/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1551386
+cites_cases: ["1 N. E. 734", "102 Ind. 416", "113 Iowa 161", "33 N. E. 132", "49 Am. Rep. 185", "5 Ind. 364", "53 L. R. A. 236", "6 Ind. App. 70", "68 Ind, 538", "84 N. W. 1046", "88 Ind. 312", "96 Ind. 461"]
+---
+
+# Cummins v. State
+
+## Majority (Lockyear, J.)
+
+Lockyear, J.
+This was an action brought by the State of Indiana upon an affidavit of Elmer Bossert, prosecuting attorney of the Franklin Circuit Court, charging appellant and one Ed Hoffman in three counts with criminal libel.
+First count of affidavit charged appellant and one Ed Hoffman with unlawfully making, composing, dictating, printing and writing a certain libel to be published in a weekly newspaper published and printed in the' city of Chicago, Illinois, known as “Tolerance.”
+Second count of affidavit charged appellant and one Ed Hoffman with unlawfully publishing and knowingly aiding in publishing and communicating a libel in a weekly newspaper published and printed in the city of Chicago, Illinois, known as “Tolerance.”
+Third count of affidavit charged appellant and one Ed Hoffman with unlawfully, maliciously and knowingly publishing a false charge of and concerning certain named persons in a weekly newspaper published and printed in the city of Chicago, Illinois, known as “Tolerance.”
+Separate motion to quash each count of affidavit filed, overruled and separate exceptions as to each count. „
+Motion filed on part of Ed Hoffman for separate trial; same sustained.
+Appellant waived arraignment and pleaded not guilty.
+Verdict in favor of the State of Indiana, finding appellant guilty of libel, fixing fine in the sum of $250; judgment on the verdict in accordance therewith.
+The errors relied upon for reversal are: The court overruled appellant’s motion to quash theaffidavit herein.
+The court erred in overruling appellant’s motion to quash each count of the affidavit separately and severally.
+The court erred in overruling the appellant’s motion for a new trial.
+It is in evidence in this case that, on Sunday, February 25, 1923, Cecil C. Tague, then judge of the circuit court of Franklin and Union counties in Indiana, received a telephone message from some one at Laurel, who wanted the judge to come over, as he had some information he wanted to give the judge; that the judge went in response to the call, and sent for the sheriff, VanCamp; that one Elmer Bossert signed an affidavit before the judge at a place called “Cracker Ridge,” Franklin county. The affidavit charged that one Green Gabbard had in his possession intoxicating liquor and stills, equipment and devices for the purpose of manufacturing intoxicating liquor, etc., “on the premises known as Old Brant’s Place in Mt. Auburn, west of Laurel, on top of Kokomo Hill, on the left side of the road, a small white frame house in the township of Laurel, said county and state.” Upon this affidavit being signed, the judge then and there issued a search warrant, and, with a number of men, went in person and assisted in the search of the premises. As a result of the search, Green Gabbard and his son were arrested and were soon thereafter arraigned and tried before this same judge, who participated in the search above referred to; that said Green Gabbard and Rebecca Gab-bard, his wife, were incensed and outraged in that they believed that they were unlawfully arrested and their rights invaded to such a degree that they sent for the appellant herein to consult with him as to some way to secure legal redress of their grievances; that the appellant went to the home of the Gabbards at their solicitation, together with one Ed Hoffman, and, at the dictation of the Gabbards, the following article was written out by the appellant herein:
+“We, the undersigned, make the following statement, which we solemnly aver to be true as to every material fact set forth.
+“On Feb. 25, 1923, our home in Franklin County, Indiana, was raided by a mob led by Cecil C. Tague, present judge of the Circuit Court of Franklin and Union Counties; the mob otherwise constituted of the sheriff of Franklin County, the prosecutor of Franklin County, also of one Edward Ensminger, one Harry C. Jones, Ex-postmaster, and others, all supposed to be members of the Indiana Horse Thief Association, an auxiliary of the Ku Klux Klan Organization of Indiana.
+“We herewith assert and affirm that on said date, that these men, after having violently and unlawfully entered our home, in the presence of my daughter-in-law, but seventeen years old, who at the time was in delicate condition,"did carry-on in a loud, boisterous and profane manner, flourishing revolvers, and threatening to shoot our son on the spot. Such was the character of their loud and threatening conduct, that the young wife swooned away from sheer fright and never recovered from the shock of this invasion in our home, the poor girl dying May 14, 1923.
+“The doctor who waited upon her gave it as his opinion that IT WAS THE SHOCK SUSTAINED ON THE DATE MENTIONED THAT CAUSED HER DEATH.
+“Sheriff VanCamp, a man of humane feelings, pleaded with the mob of Ku Klux, posing as horse thief detectives, not to take my son from his wife, but this request was loudly and threateningly objected to by Judge Cecil' C. Tague, who said, 'Bring him along. God damn him!’
+“The mob thus took our boy into custody. He was conveyed to Brookville, where he was thrown into jail, and later was arraigned on the charge of unlawful possession of liquor. He was tried before the man who had led the men in arresting him—Judge Cecil C. Tague. He was prosecuted by attorney Bassett, who was also in the raid. He was tried before a jury partly composed of members of the raiding party,
+“Yet the boy was so clearly innocent that the jury disagreed and the case was thrown out of court.
+“We, the undersigned, again desire to certify that the statements contained in the foregoing are absolutely true as to every detail, i. e., the facts relating to the unlawful invasion of our home by the mob of Ku Klux Klan, the arrest of our son, the shock to his wife causing death, our son’s trial and acquittal before a jury composed largely of the very crowd that brought about his arrest, the connection of this mob with the Ku Klux organization, and the Indiana Horse Thief Association, which the members of the mob claim to represent.
+“Green Gabbard.
+“Rebecca Gabbard.”
+That thereafter, this article, together with a lengthy comment thereon appeared in the paper “Tolerance,” in the city of Chicago, Illinois, and was circulated in the county of Franklin, State of Indiana.
+This action appears to be the outgrowth of strife in a community over matters which, to say the least, are only collateral to the question before the court in this case.
+Any false publication maliciously made, which imputes official dishonesty and corruption in an officer constitutes a criminal libel. State v. DeLong (1882), 88 Ind. 312; Hartford v. State (1884), 96 Ind. 461, 49 Am. Rep. 185.
+Any publication that tends to disgrace, degrade, or injure the reputation of a person or to bring him into contempt, hatred, or ridicule, is as much a libel as though it contained a charge of infamy or crime. Johnson v. Stebbins (1854), 5 Ind. 364; Gabe v. McGinnis (1879), 68 Ind, 538; Crocker v. Hadley (1885), 102 Ind. 416, 1 N. E. 734; Patchell v. Jaqua (1893), 6 Ind. App. 70, 33 N. E. 132; Hartford v. State, supra.
+The article complained of divides itself into two parts: First, the part signed by Green Gabbard and Rebecca Gabbard, his wife. This part of the article was signed and delivered to the appellant for the purpose of having the appellant present the facts therein set out to some attorney and, if possible, to seek some redress of the grievance which the said Gabbards had suffered at the hands of the parties complained of in this article, which, taken by itself, and considered in the manner in which it was signed by the Gabbards and delivered to the appellant, would sustain no criminal charge.
+It is contended by the prosecution in this case that the appellant took this original article and, in some manner or means not disclosed by the evidence, procured the same to be published, with additions thereto,-as set out in the' published article in the paper “Tolerance,” which when so enlarged and embellished, may have been libelous, and constitutes the second part of' the article complained of.
+The evidence to support the verdict of guilty was to the effect that the appellant was an agent of what is known as the Unity League, an organization opposed to the. principles and policies of the Ku Klux Klan; that the persons of whom the Gabbards complained were mostly members of the Ku Klux Klan; that the substance of the statements signed by the Gabbards was shown to have been transmitted to M. J. Hanrahan, state manager of American Unity League, and to one Joe Roach, an attorney of Indianapolis, and perhaps some other persons; and that the paper “Tolerance” is published by the American Unity League. From these facts, the prosecution contends, the jury had the right under the law to find the appellant guilty as charged. We cannot concur in this view.
+Since it is not shown that the appellant was connected with or responsible for the publication of the article, no good purpose can be served by setting out the article in full nor are we called upon to say whether, in our opinion, it was libelous.
+The proof is lacking in this, to wit: It is not shown that the appellant had anything to do with the composition or the writing of the article as published. It is not shown that he even knew what was to be published. It is not shown that he had anything to do with the printing or the circulation of the article.
+Even though it had been shown that the appellant had delivered the Gabbard article to the publishers, yet that fact would not render him liable for criminal libel for the publication of an article containing additional statements without which the original article would not have been libelous.
+It has been held that the original libel must be carefully traced where it has passed through many hands. Newell, Slander & Libel (4th ed.) §665, p. 126.
+It has been held that where a party wrote-an article to a newspaper, which rewrote and changed it before it was published, it is not sufficient to show that the party participated in the publication of the article, but it must be shown that he participated in the publication of the libelous matter. Klos v. Zahorik (1901), 113 Iowa 161, 84 N. W. 1046, 53 L. R. A. 236.
+If the article published in the-paper “Tolerance” was a libel, it is not shown in what way the appellant had anything to do with its publication, and the article signed by Green Gabbard and his wife, when viewed in the light of the circumstances of the issuance of a warrant and the arrest of Green Gabbard and his son, which was the only part of the article with which appellant was connected, was not libelous.
+We hold that there is an utter lack of evidence to show defendant guilty.
+Judgment reversed.
