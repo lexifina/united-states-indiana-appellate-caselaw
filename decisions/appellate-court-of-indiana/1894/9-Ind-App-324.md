@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,130"
+decided: "1894-02-24"
+citations: ["9 Ind. App. 324"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Huffman, Administratrix, v. Hendry."]
+source_url: "https://static.case.law/ind-app/9/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4734966
+cites_cases: ["2 Blackf. 47", "54 Ind. 444", "57 Ind. 268", "58 Ind. 278", "75 Ind. 84", "85 Ind. 88", "94 Ind. 308"]
+---
+
+# Huffman v. Hendry
+
+## Majority (Davis, C. J.)
+
+Davis, C. J.
+The appellee, in the court below, filed a claim, in two paragraphs, against said Margaret Huffman as administratrix of the estate of Daniel Huffman, deceased, pursuant to the provisions of section 2465, R. S. 1894 (2310, R. S. 1881).
+The substantial averments in the first paragraph are, that at the sale of the personal property of said decedent, the appellee, upon the faith of the representations and warranty of said administratrix, which he believed to be true, that two Durham cows were with calf, from a thoroughbred bull, purchased and paid for them, and that said cows in fact were not with calf, and that by reason thereof said cows were worth twenty-five dollars less than they would have been had they been with calf, as represented.
+The material averments in the second paragraph are, in substance, the same as in the first, with the exception that no warranty is alleged, and that the representations are averred to have heen made by the administratrix through the auctioneer who cried the sale, and that the purchase price paid by appellee for the cows has become, and is, a part of the assets of said estate in the hands of the administratrix, and is under the control and subject to the order of the court, and that by reason of the mutual mistake of the parties in supposing and believing said cows were with calf the said estate is indebted to appellee in said sum, etc. Appellee recovered judgment for eighteen dollars. Whoever succeeds in this litigation will be a loser. Each party has undoubtedly expended more than the entire amount in controversy. The printed brief of eighteen pages, filed by appellant, has evidently cost the estate more than the judgment, to say nothing of the attorney’s fees, and neither of these items can be recovered in the event of success. Such litigation is not to be commended.
+The sufficiency of the complaint is attacked for the first time in this court.
+The action can not be maintained against the estate. The estate is not liable for the torts of the administratrix. Neither is the estate liable for her representations, warranties, or statements in respect to the condition or quality of said cows. She may be liable personally for any damages appellee may have sustained in reliance on her representations, warranties, or statements, but there can be no recovery against the estate on account thereof.
+In Moody v. Shaw, Admr., 85 Ind. 88, the administrator sold real estate which was incumbered by taxes which the administrator agreed to pay, and it was held that the “promise made by the administrator will bind him personally, but not the estate.”
+In Rodman v. Rodman, Admr., 54 Ind. 444, the Supreme Court said: “When property or money, which does not belong to the estate of a decedent, may come into the possession of a party who happens to be the administrator of such estate, such party can not, by charging himself as' such administrator with such property or money, make such property or money a part of the assets of his decedent’s estate, nor can he, by so doing, render the estate of his decedent, or himself as administrator, liable for such property or money to the lawful owner thereof.”
+In Kiley v. Kepler, 94 Ind. 308, this language is used: “If he made false representations in the sale, that was his individual tort for which he alone could be held individually liable.” See, also, Rose v. Cash, 58 Ind. 278; Holderbaugh v. Turpin, 75 Ind. 84; Mills, Admr., v. Kuykendall, Admr., 2 Blackf. 47; Cornthwaite v. First Nat’l Bank, 57 Ind. 268.
+Whether the claim of appellee sounds in tort or is founded in contract, the result is the same. In any view that may be taken of the case, it is clear, under the authorities cited, that the estate is not liable for any damages sustained by appellee, growing out of the alleged representations, warranties, or statements of said administratrix.
+Neither can either paragraph of the complaint be sustained on the theory that the money was paid by appellee to the estate on account of the mutual mistake of the parties. There might be circumstances under which such a claim could be sustained, but it clearly appears, in this case, that the only mistake, if such it can be called, grows out of the fact that neither of the cows was with calf at the time of the sale. It is conceded that appellee obtained the identical cows he purchased, and that he paid the administratrix the amount he agreed to pay for them. There was, therefore, no mistake, either of law or fact, as to the property he purchased or as to the price he paid therefor. The gist of the claim is, that because one of the cows was barren and the other was not with calf, they were less valuable than they would have been if each of them had been with calf, as represented. It is not alleged that the cows were not worth what he paid for them, or that appellee offered, at any time, to rescind the contract or to return the property. It may be conceded that if parties acting in good faith make a mutual mistake, either of fact or law, as the result of which an estate under control of the court is benefited, such court, having jurisdiction of the trust, may, in •a proper case, in the exercise of a sound discretion, grant the injured party equitable relief, but as a condition precedent to such equitable relief, it would certainly be necessary for him to restore or offer to return to the •estate what he had received, or show a good reason for his failure to do so.
+Filed Feb. 24, 1894.
+In this case appellee is not entitled to recover from the estate, either under the rules of law or the principles of equity, and our conclusion is that inasmuch as neither paragraph of the complaint states facts sufficient to constitute a cause of action, the judgment of the court below should be, and hereby is, reversed.
