@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "4246"
+decided: "1903-02-17"
+citations: ["30 Ind. App. 470"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Green et al. v. McCord, trustee."]
+source_url: "https://static.case.law/ind-app/30/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4913931
+cites_cases: ["103 Ind. 533", "104 Ind. 479", "115 Ind. 423", "14 Ind. App. 260", "143 Ind. 63", "145 Ind. 496", "156 Ind. 30", "16 Ind. App. 221", "18 Ind. 36", "22 Ind. App. 232", "22 Ind. App. 617", "25 Ind. App. 99", "27 Ind. App. 360", "3 Ind. App. 518"]
+---
+
+# Green v. McCord
+
+## Majority (Roby, C. J.)
+
+Roby, C. J.
+Action to foreclose a mortgage executed by John L. Green and wife, to William and Erank Green, to indemnify them as sureties fo; John Ij. Green upon a note made by the parties named to R. B. Jessnp-. The- appellant the Home Building and Loan Association was made a defendant, and alleged to have an interest in the mortgaged premises subordinate to that of the plaintiff. A special finding of facts was made, and conclusions of law stated thereon favorable to appellee McCord. From a judgment following such conclusions, foreclosing the mortgage and postponing the lien of the building association thereto, it appeals, assigning error upon each conclusion of law.
+Finding number five is the only one relating to the subject therein referred to, and is in terms as follows: “On the 24th day of February, 1894, William Green and Hannah Green executed to Charles G. McCord, trustee-, a certain trust deed conveying certain read estate therein described, and certain personal property, and all the rights, credits, and choses in action, and all personal property of every description whatever, belonging to said William Green, or in which he had any interest, and wherever situated, save and except his household property and wearing apparel, subject to the payment of the note of $1,601.50, dated the 9th day of December, 1893, payable to R. B. Jessup on or before the 9th day of December, 1894, with eight per cent, interest from its date, and signed by John L. Green and William Green; and other debts of said William Green. This trust deed did not embarce part of lot Ho. 283, in the city of Yincennes, described in the mortgage dated December 9, 1893, executed by William Green and Hannah Green to R. B. Jessup, to secure the note for $1,601.50, payable-to said Jessup-. Said deed of trust was recorded on the 24th day of February, 1894, in the recorder’s office in Knox county, and said grantee Charles G. McCord qualified and entered upon his duties as trustee under said deed of trust.
+The suit was instituted by “Charles G. McCord, trustee of William Green.” “It devolved upon the plaintiff, the mortgage not having been executed to him, to establish the specific title thereto set up in his complaint. Indianapolis, etc., R. Co. v. Center Tp., 143 Ind. 63-70, and authorities there cited.
+The mortgage having been executed to William Green and not being assigned by indorsement thereon, said Green should have been made a party defendant. §277 Burns 1901; Watson v. Conwell, 3 Ind. App. 518; Stewart v. Fralich, 14 Ind. App. 260.
+The failure to demur to the complaint upon the ground stated was a waiver of the objection. Ayres v. Foster, 25 Ind. App. 99; Loufer v. Stottlemyer, 16 Ind. App. 221.
+The requirement is none the less a matter of substance and not technical at all. The trustee of an express trust may sue without joining the person for whose benefit the action is prosecuted. §252 Burns 1901; Hord v. Bradbury, 156 Ind. 30.
+The finding does not disclose who the beneficiary of the alleged trust is. ÍTeither its purpose nor its terms are stated. If the facts found are sufficient by the most liberal intendment to establish the trust alleged, ’it is so because of the use of the word “trustee” and the designation of the deed alleged to have been executed to him as a “trust deed.” “ISTo particular technical words need be used; even the words trust or trustee are not essential; any other words which unequivocally show an intention that the legal estate was vested in one person, but to be held in some manner or for some purpose on behalf of another, if certain as to all other requisites, are sufficient. On the other hand, if the words trust or trustee are employed, they do not necessarily show an intention to create or. declare a trust.” Pomeroy Eq. Jurisp'. (2d ed.), §1009.
+The words “trust” and “trustee” are used, but no requisite necessary to create a trust is stated. Whether an attempted trust is illegal or incomplete is always a question of law for the court. Gaylord v. City of Lafayette, 115 Ind. 423-429; Perry, Trusts (5th ed.), §24.
+The facts exhibited in the finding tend to show a beneficial interest in the grantee. He takes certain property subject to the payment of certain debts owed by the grantor. He therefore took the property charged with the payment of the debts, having presumably retained the amount thereof out of the purchase price. Hancock v. Fleming, 103 Ind. 533-535.
+The existence of a trust, express or implied, is to be determined by reference to the facts upon which it depends, and as matter of law. Hedges v. Keller, 104 Ind. 479; Hollingsworth v. Board, etc., 22 Ind. App. 232; Repp v. Lesher, 27 Ind. App. 360.
+Appellee’s attorneys have skilfully sought to maintain the sufficiency of the finding by an argument based upon an averred copy of the alleged trust deed filed as an exhibit to the complaint. • Pacts omitted from the special finding can not be supplied by reference to the pleadings. The exhibit referred to is not a part of the record. It is not the foundation of the action. The right of the building association in the mortgaged premises is in nowise dependent upon it. However necessary it may have been as an item of evidence it is not such an instrument as may he made a part of the complaint by filing a copy as an exhibit thereto. §365 Burns 1901; Diggs v. Way, 22 Ind. App. 617; Treadway v. Cobb, 18 Ind. 36; Meridian Nat. Bank v. Hauser, 145 Ind. 496-505. The proposition is not a new one. See notes to section of statute cited.
+The ends of justice require a retrial of this cause to be had. Judgment reversed, with instructions to grant a new trial, and with leave to amend the pleadings.
