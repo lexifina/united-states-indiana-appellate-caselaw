@@ -1,0 +1,20 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,221"
+decided: "1928-12-19"
+citations: ["89 Ind. App. 709"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gardner v. Gardner et al."]
+source_url: "https://static.case.law/ind-app/89/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1551267
+---
+
+# Gardner v. Gardner
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Affirmed.
