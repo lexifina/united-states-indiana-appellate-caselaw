@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,124"
+decided: "1925-06-24"
+citations: ["83 Ind. App. 613"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carpenter Construction Company v. Scoonover."]
+source_url: "https://static.case.law/ind-app/83/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5305424
+cites_cases: ["122 N. E. 603", "144 Ind. 125", "32 L. R. A. 154", "39 Ind. App. 328", "43 N. E. 133", "69 Ind. App. 652", "72 Ind. 5", "79 N. E. 539"]
+---
+
+# Carpenter Construction Co. v. Scoonover
+
+## Majority (Remy, C. J.)
+
+Remy, C. J.
+Action by appellant against appellee. The complaint as it- comes to this court is in two paragraphs denominated the second and third respectively. Material averments of the second paragraph are, in substance, as follows: That plaintiff is, and at all times mentioned in the complaint has been, a domestic corporation engaged in the business of constructing and repairing public highways; that on January 13, 1920, plaintiff, having filed with the county auditor of Vigo county its bid for the improvement of a certain highway, purchased of the Chicago Bonding and Insurance Company, through defendant as agent, a bond which was by plaintiff filed with its bid; that on January 13, 1921, the American Bonding and Casualty Company acquired all the assets, and assumed all the liabilities, of the Chicago Bonding and Insurance Company; that the bond so filed with the auditor provided that from the time of its being filed until the date of the issuance and sale of bonds by the county from which a fund would be created out of which the highway improvement might be paid, it was to be considered as a proposal or bid bond, for which a premium of five dollars was to be paid; that after the county bonds were sold and the fund created, the bond filed by plaintiff with the county auditor was to be considered and treated as a construction bond, the annual premium of which was to be $3,071.05; that the premium of five dollars for the bid bond was paid, and the county bonds were not sold until February 26, 1921; that on June 4, 1921, defendant represented to plaintiff that he was the agent and attorney in fact of the American Bonding and Casualty Company, to which company the premium of $3,071.05 on the bond, had become due, February 26, 1921, and that in accordance with his custom as agent he had paid the premium, and that plaintiff was indebted to him for the amount so advanced and paid by him; that the representations of defendant were false; that he was not the agent of the American Bonding and Casualty Company, and had not advanced the premium of $3,071.05, or any part thereof; that plaintiff, believing the representations of defendant to be true, and in reliance thereon, and under a misapprehension of the facts, paid to defendant $3,071.05, the amount of the premium; that the American Bonding and Casualty Company having become insolvent is now in the hands of a receiver who is claiming the right to collect the premium, and has commenced suit against plaintiff to recover the same; that, before the commencement of this action, plaintiff demanded of defendant the return of the money, but that defendant refused, and still refuses, to comply with such demand. There is a prayer for judgment for $5,000.
+The material averments of the third paragraph of complaint are substantially the same as those of the second.
+Appellee separately demurred to each paragraph of complaint for want of sufficient facts. The demurrers were sustained, and appellant refusing to plead further, judgment was rendered for appellee. The rulings of the court on the demurrers are assigned as errors.
+It is urged by appellee that the plaintiff in each paragraph of the complaint seeks to recover for fraud, that neither paragraph is sufficient upon that theory, and that therefore the 1. demurrers were properly sustained. The complaint was not carefully drawn. The theory of each paragraph, as the term theory is used by appellee, is not certain; but, as is well stated by the Supreme Court in Scott v. Cleveland, etc., R. Co. (1896), 144 Ind. 125, 43 N. E. 133, 32 L. R. A. 154: "The statute does not make the want of a theory in a complaint a ground for demurrer." The Code provides: "The defendant may demur to the complaint when it appears upon the face thereof * * *, that the complaint does not state facts sufficient to constitute a cause of action." § 85 Code of Civil Proc., § 362 Burns 1926, § 344 Burns 1914. A complaint, when tested by demurrer for want of facts, must be construed as a whole, and if it contains facts stated which are sufficient to authorize any relief it will withstand the demurrer. Bayless v. Glenn (1880), 72 Ind. 5, 7 ; Indianapolis, etc., Traction Co. v. Henderson (1906), 39 Ind. App. 328, 79 N. E. 539; Adams Express Co. v. Heagy (1919), 69 Ind. App. 652, 122 N. E. 603.
+Whether a cause of action for fraud is stated, it is not necessary to decide. Clearly each paragraph of the pleading is sufficient as a complaint for money had and received, and, under the above authorities, the court erred in sustaining the demurrers.
+Reversed.
