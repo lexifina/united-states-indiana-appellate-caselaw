@@ -1,0 +1,21 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,351"
+decided: "1923-04-18"
+citations: ["79 Ind. App. 706"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robinson et al. v. Welton."]
+source_url: "https://static.case.law/ind-app/79/cases/0706-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2504043
+cites_cases: ["137 N. E. 569"]
+---
+
+# Robinson v. Welton
+
+## Majority (Batman, J.)
+
+Batman, J.
+The death of appellant Edward J. Robinson having been suggested, the judgment is affirmed as of the date of submission, on the authority of Robinson v. Cato (1923), ante 530, 137 N. E. 569.
