@@ -1,0 +1,39 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,189"
+decided: "1894-04-18"
+citations: ["10 Ind. App. 525"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Lake Erie and Western Railroad Company v. McHenry."]
+source_url: "https://static.case.law/ind-app/10/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4748337
+cites_cases: ["107 Ind. 381", "126 Ind. 391", "126 Ind. 80", "132 Ind. 199", "134 Ind. 156", "5 Ind. App. 159", "53 Ind. 143", "6 Ind. App. 340", "6 Ind. App. 545", "9 Ind. App. 169"]
+---
+
+# Lake Erie & Western Railroad v. McHenry
+
+## Majority (Gavin, J.)
+
+Gavin, J.
+The appellee sued to recover damages for injuries received by him while coupling cars, by reason of a defective engine “whose appliances for taking steam into the steam chests and cylinders from] her steam generating apparatus'had become and were defective, worn, perforated, misplaced, and broken, so that said engine was not obedient and responsive to the control of the engineer.”
+There was a trial by jury and verdict for appellee. The only questions presented to us relate to the action of the court, first, in overruling appellant’s motion for judgment upon the answers to interrogatories, notwithstanding the general verdict; second, in overruling appellant’s motion for a new trial.
+Answers to the special interrogatories will not control the general verdict unless irreconcilable with it. Such answers will not be aided by intendment. They must of themselves establish some fact or facts absolutely incompatible with the appellee’s right of recovery upon any evidence admissible under the pleadings; otherwise the general verdict will stand. Ohio, etc., R. W. Co. v. Trowbridge, 126 Ind. 391; Town of Poseyville v. Lewis, 126 Ind. 80; Evansville, etc., R. R. Co. v. Weikle, 6 Ind. App. 340.
+When examined with this rule of law in view, we are unable to discover any irreconcilable inconsistency between the general verdict and the answers to interrogatories.
+From these answers it appears that appellee was a switchman in appellant’s employ, whose hand was caught between the “deadwoods” of two cars which he was engaged in coupling; that he knew the character and location of the deadwoods, and that the proper mode of making the coupling was by keeping his hand and arm below the deadwoods while making it, and while withdrawing his hand and arm after making it; that he knew that while so engaged he was likely to be injured if he brought his hand or arm between the “deadwoods;” that he sustained the injury while withdrawing his hand.
+These facts do not conclusively establish contributory negligence upon the part of appellee. If, as might be proved under the complaint, the appellee was standing between the cars, holding the link of an approaching car to direct it to its proper place in the stationary car, and, when just about ready to complete the coupling, the approaching car gave a sudden lurch or spring forward, which was the result of appellant’s negligence, appellee would not necessarily be negligent in failing, under such an emergency, to observe,, in withdrawing his hand, that exact mode which would be absolutely safe. When thus startled by the sudden and unexpected increase in the speed of the car, he might naturally and instinctively jerk out his hand in the most direct and quickest manner possible without being guilty of negligence because he did not pursue the safest method. One who does an act under an impulse or belief created by a sudden danger produced by another’s negligence, will not necessarily be regarded as in fault, even though the act might be deemed negligent if performed in the absence of circumstances indicating sudden peril. Clarke v. Pennsylvania Co., 132 Ind. 199; Woolery, Admr., v. Louisville, etc., R. W. Co., 107 Ind. 381; Indianapolis, etc., R. R. Co. v. Stout, Admr., 53 Ind. 143; Louisville, etc., R. R. Co. v. Kelly, 6 Ind. App. 545. Buswell Pers. Inj., section 142.
+Other facts set forth in the answer relate to the character of the defect. It is impossible for us to say, from these answers, that the dry pipe was not defective long before this accident. Even conceding that the final principal break in the pipe occurred only immediately before the accident, the pipe may have been worn thin in several places, with a slight leak in one, and there may have occurred suddenly a more extensive break which would permit a rush of steam, causing the sudden acceleration of speed.
+This worn condition may have been fully known to the appellant for aught that is disclosed by the answers to interrogatories. It must be borne in mind that in considering appellant’s rights under these answers we are dealing not only with what was, but with what might have been, proved under the issues.
+While the evidence is not satisfactory to us in all respects, we do not feel justified in saying that there is absolutely no evidence which fairly sustains the verdict. If the evidence of some of the witnesses is to be believed, there was clearly something seriously wrong with this engine so as to cause it to be beyond the engineer’s control some considerable time before the accident. If there was, the appellant should, within a reasonable time, have discovered and remedied the defect. Counsel are in error in their position that no issue was presented as to appellant’s failure to inspect the engine. The allegation in the complaint that appellant had knowledge of the defective condition of the engine includes actual and imputed knowledge.
+When one ought, by the exercise of reasonable diligence, to have discovered the existence of a certain defect, he is held in law to have knowledge thereof. Evansville, etc., R. R. Co. v. Duel, 134 Ind. 156; Parke County Coal Co. v. Barth, 5 Ind. App. 159.
+The duty of inspection rests upon the master in cases such as this. Pittsburgh, etc., R. W. Co. v. Woodward, 9 Ind. App. 169, and cases there cited.
+Complaint is made of the first instruction given. While it is true that this instruction might properly have contained more than it did it correctly states the law as far as it goes. If, therefore, appellants desired other matters to be given, in connection with those already adverted to in the instruction, it should have so requested. Moreover, it abundantly appears from a subsequent instruction that knowledge of the defect by appellant was essential.
+Of the second and third instructions appellant can not justly complain. If there be any error in them it is in favor of appellant and not against it.
+Filed April 18, 1894;
+petition for rehearing overruled Sept. 21, 1894.
+The fourth instruction, like the first, correctly states the law so far as it goes. It does not purport to embrace all the elements essential to appellee’s recovery. Some of them it does give, and that these are rightly stated to be essential is not denied by appellant’s counsel.
+The matter contained in appellant’s fourth instruction is fully covered by the fourth instruction given, wherein the jury is told that if the defect occurred by reason of the engineer’s negligence the appellee could not recover. So, also, the other instructions asked are substantially and fairly, though not literally, covered by those given.
+We do not think the jury could have failed to understand that it was necessary for the appellee to prove negligence upon the part of the appellant as the proximate cause of the injury and freedom from, contributory negligence upon his part, knowledge of the defect, either actual or imputed, upon the part of the appellant and want of knowledge by the appellee. Considering the instructions asked and given as applicable to the evidence in this case, we are unable to find any material error prejudicial to appellant.
+Judgment affirmed.
