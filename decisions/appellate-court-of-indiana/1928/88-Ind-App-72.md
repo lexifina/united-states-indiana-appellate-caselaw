@@ -1,0 +1,35 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,077"
+decided: "1928-10-24"
+citations: ["88 Ind. App. 72"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Booker v. Deane et al."]
+source_url: "https://static.case.law/ind-app/88/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1550012
+cites_cases: ["101 Me. 424", "114 N. E. 431", "117 Iowa 72", "135 Ind. 647", "137 Ind. 652", "146 Ind. 476", "146 N. E. 219", "174 Ind. 601", "180 Ill. 208", "185 Mass. 156", "225 Mass. 331", "35 N. E. 507", "35 N. E. 701", "45 N. E. 659", "54 N. E. 315", "64 Atl. 768", "70 N. E. 49", "85 Ind. App. 248", "90 N. W. 487", "91 N. E. 922"]
+---
+
+# Booker v. Deane
+
+## Majority (Thompson, J.)
+
+Thompson, J.
+Action by appellant against appellees to recover possession of real estate, to quiet her title to same, and for damages for unlawful detention.
+The main point in dispute in this case is in regard to the construction to be placed upon items 3 and 4 of the will of Isaac Fry, deceased, which items read as follows:
+“Item 3. I hereby give, devise and bequeath to my beloved wife, Mary L. Fry, all of my property of which I may die seized, both real and personal, for and during her natural life time, with the power hereby expressly granted to my said wife, Mary L. Fry, to use, enjoy and dispose of same for her own use and benefit as she may deem best. It is hereby intended that my said wife shall have the full power of disposition in fee simple of any part or all of the property herein devised as she may deem best.
+“Item 4. I hereby devise and bequeath to my niece Mary Booker of Sullivan county, Indiana, and to my nephews Tom Deane, Jr., and John Dean both of Sandborn, Indiana, to share and share alike whatever of my property of which I may die seized which remains undisposed of by my said wife during her life time, subject however to all the debts and funeral expenses of my said wife. This devise is given to the said Mary Booker, Tom Dean,_ Jr., and: John Dean for their loving devotion, affections, and services rendered to me during my last sickness.”
+The record shows that on January 2, 1914, Isaac Fry . died the owner of certain real estate here in dispute and disposed of in his will as set out in items 3 and 4 above; that he was survived by his widow Mary L. Fry; that he left no children; that his will was duly probated, and that thereafter, said widow, on February 21,1920, signed and duly executed a deed purporting to convey to Mary Booker the real estate here in controversy, said deed reciting that the consideration for said conveyance was $1 and other considerations. Mary L. Fry died a short time after she made the deed to Mary Booker, and the present controversy ensued.
+Appellant contends that the will vested in Mary L. Fry an absolute power to convey said real estate, and that her deed conveyed to appellant the fee simple title of the real estate, while the appellees contend that Mary L. Fry had only a limited power to convey, and that she could convey an absolute title to said real estate only when it was necessary to do so for her support and maintenance. Appellees say that Mary L. Fry attempted to make a disposition of said real estate contrary to the expressed intention of the decedent Isaac Fry, as set forth in his will.
+The complaint was in three paragraphs, the first paragraph being in ejectment, and the second and third paragraphs to quiet title. There was an answer in general denial.
+The cause was tried by the court without a jury, and there was finding for the appellees on all the paragraphs of the complaint. Judgment was rendered on the finding for appellees and against appellant for costs. Appellant’s motion for a new trial was overruled.
+The error relied upon for reversal is that the court erred in overruling appellant’s motion for a new trial, the grounds for new trial being: (1) The decision of the court is not sustained by sufficient evidence; (2) the decision of the court is contrary to law.
+. By item 4 of the will, the fee simple of the real estate vested in appellant, Mary Booker, and the appellees, John Deane and Thomas Deane, subject only to the life estate of Mary L. Fry and the power of disposition as vested in her by the will.
+The rule seems to be firmly established in this state that where an estate in lands is given to a person generally or indefinitely, with a power of disposition, it carries the fee, but if the testator by clear and definite language expressly gives to the first taker an estate for life only, coupled with a power of disposition, the express limitation of the grant to an estate for life controls, and the devisee for life will not take an estate in fee, but for life only, with such power of disposition as the instrument by which the title is obtained authorizes. Beatson v. Bowers (1910), 174 Ind. 601, 605, 91 N. E. 922; Mulvane v. Rude, Exr. (1896), 146 Ind. 476, 483, 45 N. E. 659; Wiley v. Gregory (1893), 135 Ind. 647, 652, 35 N. E. 507.
+It is the law that a testator may make a disposition of his property in which he may devise and give a life estate with power to sell in the first taker and remainder over in any residue that might be left on the death of- the life tenant. Bowser, Admr., v. Mattler (1894), 137 Ind. 652, 35 N. E. 701; Dana v. Dana (1903), 185 Mass. 156, 70 N. E. 49.
+The object to be attained in construing a will is the intention of the testator. The entire will and all of its provisions must be considered in arriving at such intention. It should be construed as a whole, if possible, so as to prevent intestacy, and all of its provisions should be upheld unless by so doing violence is done to the reasonable intention of the testator; and where that intention is clear, though some of the expressions are inaccurate and appear inconsistent, it is the duty of the court to subordinate the language to the plain purpose of the testator as ascertained from the language of the will. Billings v. Deputy (1925), 85 Ind. App. 248, 146 N. E. 219; Baldwin v. Morford (1902), 117 Iowa 72, 90 N. W. 487; Richards v. Morrison (1906), 101 Me. 424, 64 Atl. 768; Griffin v. Kitchen (1916), 225 Mass. 331, 114 N. E. 431; Lehnard v. Specht (1899), 180 Ill. 208, 54 N. E. 315.
+While the deed recites a consideration of $1 and other considerations, there is evidence in the record from which the court might have concluded that Mary L. Fry attempted to convey the land for services rendered by Mary Booker to Isaac Fry during his life time, and, in that event, the execution of said deed was an attempt to convey contrary to the intent of the testator as expressed in the latter part of item 4 of said will. We hold that under the will the widow had the power to convey the real estate only for her own use and benefit. We have carefully read and considered the evidence, and find that there is evidence to support the decision of the court.
+The court did not err in overruling appellant’s motion for a new trial, and-the judgment is affirmed.
