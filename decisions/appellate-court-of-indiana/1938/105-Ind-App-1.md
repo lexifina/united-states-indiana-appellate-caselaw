@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "15,590"
+decided: "1938-03-08"
+citations: ["105 Ind. App. 1"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Northern Indiana Finance Company, Inc. et al. v. Yakob."]
+source_url: "https://static.case.law/ind-app/105/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1561648
+cites_cases: ["103 Ind. App. 461", "156 N. E. 594", "192 N. E. 755", "207 Ind. 358", "8 N. E. (2d) 1009", "88 Ind. App. 176"]
+---
+
+# Northern Indiana Finance Co. v. Yakob
+
+## Majority (Dudine, P. J.)
+
+Dudine, P. J.
+— This was an action in replevin instituted by appellee against appellants to recover an automobile and to recover damages for alleged unlawful detention thereof.
+The issues were formed by a complaint in one paragraph and answers in general denial. The cause was tried by a jury and the jury found for appellee against appellants, fixing damages in the sum of $357.50. Judgment was rendered in accordance with the verdict.
+Appellants separately and severally appeal from that judgment, their sole error being alleged error in overruling their separate and several motion for new trial.
+The causes for new trial properly assigned and discussed in appellants’ brief are: (1) the verdict is not sustained by sufficient evidence; (2) the verdict is contrary to law; (3) the amount of recovery is too large; (4) error in giving instruction number eleven; (5) error in the admission of certain evidence; (6) error in overruling appellants’ motion to strike out certain evidence.
+Appellants’ recital of the evidence covers approximately nineteen pages of their brief. Appellee says in his brief that he is “unable to accept as correct” appellants’ recital of the evidence “in the following particulars and then follows approximately seventeen pages of “corrections” to appellants’ recital of the evidence. We have read the evidence, and find it to be conflicting as to many material facts.
+The evidence shows conclusively, however, that the appellee purchased the automobile on an installment conditional sale agreement, and that it was seized for contended delinquency in paying an installment.
+In support of the causes for new trial that the verdict is not sustained by sufficient evidence and that the verdict is contrary to law, appellants state five points, wherein they contend that the evidence conclusively shows certain ultimate facts, and contend further that the verdict is contrary to law in view of such facts. With reference to said points lettered a, b, c, and d we note that no reference is made to the transcript where the evidence may be found, upon which evidence appellants rely for such purpose. This court will not search the record to find a basis for reversing a judgment. The evidence referred to, by reference to pages and lines in the transcript, in such point lettered “e” is not all the evidence in the record as to the ultimate fact contended for. The evidence as to such fact is conflicting and there is some evidence in the record which disputes appellants’ contention as to such fact, therefore the contention based on such disputed fact is unavailing to appellants.
+Appellants contend it clearly appears that the jury acted through partiality, prejudice and passion in determining the value of the car and the damages for unlawful detention thereof, but appellants do not refer to the pages and lines in the transcript where the evidence may be found, upon which they rely. Furthermore we note that in appellants’ recital of the evidence they refer to evidence that the fair cash market value of the automobile was about $250.00 or $300.00, and that the value of its use was $8.00 per week. The record clearly shows that from the date when the automobile was seized by appellants until the date the case was submitted to the jury was in excess of sixty-four weeks. Such evidence “amply” sustains the verdict of the jury as to the amount of damages assessed, to wit, $357.50.
+Appellants complain of instruction number eleven which in effect merely submitted two forms of verdict, one to be adopted if the jury found for appellee against all appellants, and the other form to be adopted if the jury found against appellee. Appellants complain because the court did not instruct the jury as to the form of the verdict to be adopted if the jury found for appellee against some of the appellants but not against all of them. None of the appellants requested such an instruction, therefore the question is not presented. Bowman v. State (1934), 207 Ind. 358, 192 N. E. 755; Carter v. Drake (1928), 88 Ind. App. 176, 156 N. E. 594.
+Appellants complain of the admission of evidence of the payment of a monthly installment by appellee to Y. L. Harvil after the automobile was seized by appellants, and appellants complain of the admission of a certain exhibit in evidence which purported to be a receipt issued by Harvil for such payment “for Westchester Finance Co.” (Quoting from exhibit.) Appellants also complain of the court’s action in overruling their motion to strike out such evidence.' The premise for all of said complaints is the contention that the evidence indisputably shows that Harvil’s authority to receive such payments as agent of appelIants, if he had such authority, had been revoked, and appellee had been notified of such revocation. We can not agree with such contention. The evidence indisputably shows that Harvil had theretofore received such installments from appellee and appellant Westchester Finance Go. had theretofore accepted such payments from Harvil. We think the evidence warrants a finding .by the jury that the relation of agent and principal was established between Harvil and appellant Westchester Finance Co. authorizing said agent to collect and receipt for said installments from appellee, and that said relation had not been effectively dissolved as .against appellee when Harvil accepted said payment.
+We hold that no reversible error is shown. Furthermore, having read the record carefully we think it appears that the merits of this cause have been fairly tried and determined in the court below, and therefore the judgment should not be reversed. Sec. 2-3231 Burns 1933. See Commercial Union Fire Ins. Co. v. Wade (1937), 103 Ind. App. 461, 8 N. E. (2d) 1009.
+Judgment affirmed.
