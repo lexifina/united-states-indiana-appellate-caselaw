@@ -1,0 +1,64 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "2-1072A76"
+decided: "1973-07-19"
+citations: ["157 Ind. App. 44"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Juel Pugh v. Wilson Conway and Lavonne Conway, Harold Lawrence and Lucille Lawrence."]
+source_url: "https://static.case.law/ind-app/157/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1378679
+cites_cases: ["104 N.E.2d 669", "109 Ind. App. 383", "110 N.E. 194", "127 Ind. 164", "129 Ind. App. 157", "132 Ind. App. 412", "133 N.E. 156", "135 Ind. App. 674", "150 A. 70", "151 Ind. App. 471", "154 N.E.2d 389", "154 P. 881", "166 Ind. 537", "177 N.E.2d 669", "184 Ind. 53", "196 N.E.2d 757", "230 Ind. 523", "26 N.E. 766", "280 N.E.2d 327", "299 N.E.2d 214", "34 N.E.2d 168", "59 N.E.2d 477", "77 Ind. App. 119", "78 N.E. 76"]
+---
+
+# Pugh v. Conway
+
+## Majority (Buchanan, P.J.)
+
+Case Summary
+Buchanan, P.J.
+This appeal is by plaintiff-appellant Juel Pugh (Pugh) from a judgment declaring an easement in her favor upon the residential property of defendants-appellees Harold and Lucille Lawrence (Lawrence) covering a smaller area than claimed in her Complaint for Declaratory Judgment, and quieting title in Lawrence, subject to the easement declared.
+We affirm.
+FACTS
+The facts and evidence most favorable to Lawrence as appellee(s) are:
+In September of 1939, Pugh purchased the east one-half of Lot 4 in Banta’s Addition in Windfall, Indiana, the east line of which has a common boundary with Lots 2 and 3 of the same addition.
+Late in 1939 or in 1940, Pugh, without a survey or actual knowledge of the boundary line between her Lot 4 and Lots 2 and 3, constructed an additional room onto the existing residence on Lot 4, which new construction encroached approximately 3 feet onto Lot 3.
+Until 1954 Pugh and her tenants mowed and cared for a strip of ground extending approximately three feet beyond, or east of, the foundation of the encroaching room and running from north to south along the west end of Lots 2 and 3. This strip of ground is illustrated by the following drawing, and is hereinafter referred to as the Disputed Area, being that part of Lots 2 and 3 enclosed within points A, B, C and D.
+The area enclosed between points A, B, C & D == the Disputed Area. Geographically the Disputed Area is definable by the existence of a natural channel or slope running from the northern boundary of Lot 2 to the southern boundary of Lot 3.
+Pugh testified that she, or those claiming under her, at all times cared for the Disputed Area and at no time did she seek permission of the owners of Lots 2 and 3 to use the Disputed Area, nor did they ever object to her use thereof.
+In 1954, Lawrence purchased Lots 2 and 3 and rented the house on Lot 3 to Arlen Bailey (Bailey) who planted a garden on Lot 3 which came within 2 feet of the foundation of the addition to Pugh’s house and extended from the northern boundary of Lot 2 to the southern boundary of Lot 3, i.e., covered most of the Disputed Area.
+About a year later (1955) Bailey moved out of the house on Lot 3 and Lawrence moved in. Soon after taking possession, he replaced the entire garden with grass and continuously thereafter mowed and maintained the Disputed Area up to the foundation of the addition to Pugh’s house — “as close as the mower would go.”
+In 1968 a contract buyer of Lot 4 from Pugh planned to install a gas line over Lot 3 in order to service the Pugh house on Lot 4 and asked permission of Lawrence to install the gas line, to which Lawrence responded: “Why, sure, it won’t bother me.”
+Not until 1969, was it determined by survey that the addition to Pugh’s house encroached on Lot 3. Lawrence testified he never denied Pugh or any of her tenants free access to that part of Lot 3 upon which Pugh’s house encroached and was willing to allow the house to remain there.
+Thus, only that portion of the Disputed Area which is not encroached upon by Pugh’s house is actually contested by this action.
+Pugh’s action for Declaratory Judgment filed on September 30, 1971, sought a prescriptive easement for the entire Disputed Area. The trial court on April 19, 1972, granted a prescriptive easement only as to that portion of Lot 3 encroached upon by Pugh’s house. Title to the remainder of the disputed area was quieted in Lawrence, and Pugh now appeals.
+ISSUE
+The issues raised by Pugh may be resolved as one question: Did the trial court properly limit Pugh’s prescriptive easement to that portion of the Disputed Area upon which Pugh’s house encroached ?
+Pugh argues that the facts in evidence showed she met the requirements of a prescriptive easement by her continued, uninterrupted, and adverse use of the entire Disputed Area for more than twenty years; and that the easement ripened even though Lawrence acquiesced in the use.
+Lawrence elevates acquiescence to permission and apparently contends a license was granted or that by reason of this permission Pugh’s use was not adverse or inconsistent with the rights of Lawrence and a prescriptive easement could not result. Also, it is argued that Pugh’s use was interrupted in 1955 by the planting of a garden in the Disputed Area and continued use thereafter by Lawrence of the entire Disputed Area so as to stop the running of the 20 year period.
+DECISION
+CONCLUSION — It is our opinion that the trial court properly limited Pugh’s prescriptive easement to that portion of the Disputed Area upon which Pugh’s house encroached because Pugh’s use was not “continuous and uninterrupted” as to the remainder of the Disputed Area.
+The Indiana statute providing for acquisition of an easement in the land of another by adverse use is Ind. Ann. Stat. § 56-801, (Burns 1961 Repl.) IC 1971,32-5-1-1:
+“56-801 [6314]. WHEN ACQUIRED BY ADVERSE USE. — The right of way, air, light or other easement from, in, upon, or over, the land of another, shall not be acquired by adverse use, unless such use shall have been continued uninterruptedly for twenty [20] years. [1 R. S. 1852, ch. 30, § 1, p. 269.]” (Emphasis supplied.)
+The Indiana cases are more explicit. In order to establish the existence of a prescriptive easement across the land of another, the evidence must show an actual, hostile, open, notorious, continuous, uninterrupted, and adverse use for twenty years under claim of right, or such continuous adverse use with the knowledge and acquiescence of the owner of the servient land. Reder v. Radtke (1961), 132 Ind. App. 412, 177 N.E.2d 669; Hutchinson v. Worley (1958), 129 Ind. App. 157, 154 N.E.2d 389; Null v. Williamson (1906), 166 Ind. 537, 78 N.E. 76; De Shields v. Joest (1941), 109 Ind. App. 383, 34 N.E.2d 168; Monarch Real Estate Co. v. Frye (1922), 77 Ind. App. 119, 133 N.E. 156; Fankboner v. Corder (1890), 127 Ind. 164, 26 N.E. 766. The existence or nonexistence of a prescriptive easement is a question of fact for the trier of facts. Reder v. Radtke, supra; Griffith v. Neff, supra; De Shields v. Joest, supra.
+Further, each of the elements of a prescriptive easement must be established by the party asserting the prescriptive right. Failure to prove any one of such elements is fatal. Hutchinson v. Worley, supra; Monarch Real Estate Co. v. Frye, supra.
+Once open and continuous use of another’s land commences with knowledge on the part of the owner, such use is presumed to be adverse to the owner, Griffith v. Neff (1963), 135 Ind. App. 674, 196 N.E.2d 757; Smith v. Tonsford (1915), 184 Ind. 53, 110 N.E. 194.
+The presumption of adverse use, however, is a rebuttable presumption which the owner of the servient estate may overcome. Griffith v. Neff, supra.
+Null v. Williamson, supra, recognized that the ripening of the prescriptive right may be defeated:
+“* * * but, as the doctrine of prescription is founded on the presumption of a grant, the person against whom it is asserted may appeal to facts and circumstances for the purpose of showing that the use was not under claim of right ...”
+Defeat of the presumption may also come about by showing that the use was not continuous and uninterrupted. Continuous and uninterrupted use means use which is not interrupted by any act of the owner of the servient land or by voluntary abandonment by the party claiming the right. Fankboner v. Corder, supra.
+So we inquire as to the nature of an act by the owner of the servient tenant which so interrupts the use of the dominant tenant as to frustrate the ripening of the prescriptive easement.
+28 C. J. S. Easements § 13c, p. 650, states that the continuity of the adverse use is interrupted or broken so as to stop the running of the prescriptive period in favor of the person claiming the easement only if physical interruption or some unequivocal act of ownership takes place on the part of the owner of the servient tenement. See also 11 I. L. E. Easements § 12, p. 26.
+While we find no Indiana cases specifically describing the type of physical interruption or unequivocal act necessary to stop the running of the prescriptive period, foreign jurisdictions have addressed the subject.
+The typical case arises where the owner of the servient tenement physically obstructs the use of the easement by the person claiming the easement. In Gadreault v. Hillman (Mass. 1945), 59 N.E.2d 477, the building of a fence across a right-of-way was found to be a sufficient interruption so as to stop the running of the prescriptive period in favor of the person claiming the easement. Likewise, in Lapique v. Morrison (Calif. 1915), 154 P. 881, plowing of a field over a right-of-way by the true owner for farm purposes was found to be a sufficient obstruction to interrupt the adverse use by the person claiming the prescriptive easement.
+Particularly relevant is D’Orazio v. Pashby (Vt. 1930), 150 A. 70, in which a prescriptive easement was sought over a strip of adjoining land upon which the party claiming the easement had constructed and used a driveway for several years. The Supreme Court of Vermont affirmed the denial of the prescriptive easement, finding that the adverse use had been interrupted by use of the strip of ground in question as a driveway and in mowing the grass prior to construction of the driveway.
+Gathering together the principles enunciated above and remembering that on appeal we do not weigh the evidence or determine the credibility of witnesses, it is plain that Pugh failed to establish the existence of a prescriptive easement because there was evidence that the use was not continuous and uninterrupted for a period of twenty years. Pugh’s adverse use began in 1939 or 1940 and continued uninterruptedly until 1954, at which time there was evidence that Bailey (a tenant of Lawrence) planted a garden in most of the Disputed Area which Lawrence replaced in 1955 with grass and continuously mowed and maintained thereafter.
+Viewing the evidence most favorable in support of the trial court’s judgment, the inference of adverse and continued use of the Disputed Area by Pugh from 1940 was refuted by the evidence of these physical acts of the tenant of the servient estate. Pugh thus failed to prove an essential element necessary to establish a prescriptive easement across the land of another; and while there was some conflict in the evidence as to Pugh’s use of the Disputed Area after 1954, we cannot conclude as a matter of law that the evidence presented was such as to require reasonable men to reach but one conclusion and the trial court reached an opposite conclusion. Pokraka v. Lummus (1952), 230 Ind. 523, 104 N.E.2d 669; Registration & Management Corp. v. City of Hammond (1972), 151 Ind. App. 471, 280 N.E.2d 327.
+While it is our holding that Pugh, as one seeking to establish a prescriptive easement, failed to establish that the adverse use was continuous and uninterrupted for the required twenty-year period, we express doubt whether there is a meaningful distinction between “continuous” and “uninterrupted.” Neither the Indiana cases cited above nor the dictionary definition of these two words would indicate that they are anything other than synonyms— a legal tautology handed down through the years.
+Because we reach the conclusion that the trial court could have properly determined that Pugh’s use was interrupted short of the twenty-year period, the character of that use and whether it was acquiesced in or a license granted, is of no consequence. Pugh appeals from a negative judgment, having failed to prove at least one essential element of proof necessary to recovery.
+The judgment of the trial court is therefore affirmed.
+Sullivan and White, JJ., concur.
+Note. — -Reported at 299 N.E.2d 214.
+. Webster’s Third New International Dictionary (1971); The American Heritage Dictionary Of The English Language (1969). Both define “continuous” in terms of being without interruption.
