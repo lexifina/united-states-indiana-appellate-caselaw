@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,515"
+decided: "1909-10-14"
+citations: ["44 Ind. App. 372"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. Callahan Company v. Wall Rice Milling Company."]
+source_url: "https://static.case.law/ind-app/44/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5025928
+cites_cases: ["140 Ind. 190", "142 Ind. 354", "17 R. I. 475", "17 S. W. 241", "18 Ark. 236", "20 Ind. App. 515", "23 Atl. 14", "23 Ind. 198", "30 Vt. 76", "33 Me. 225", "37 Fed. 771", "37 Me. 49", "7 Ind. App. 84", "9 Vt. 349"]
+---
+
+# C. Callahan Co. v. Wall Rice Milling Co.
+
+## Majority (Hadley, C. J.)
+
+Hadley, C. J.
+This is an action brought by appellant against appellee, a foreign corporation, to recover for a breach of contract. Service was had on one Geyer, he, as the return of the sheriff states, “being the agent of said defendant, and said defendant having no officer and no other agent in said county.” To the action, appellee filed an answer in abatement, to which appellant demurred for want of facts, which demurrer was overruled, and appellant refusing to plead further judgment was rendered against it. The ruling of the court on this demurrer is the only error assigned.
+The answer seeks to abate the action, for the reasons that appellee had no agent in the county at the time the action was brought, and that Geyer, who was served with summons, was not its agent and never had been its agent.
+A plea in abatement, being a dilatory plea, is construed with much greater- strictness than an ordinary plea in bar, and no intendment can be taken in its favor. 1 Works’ Prac. (3d ed.), §576; Rush v. Foos Mfg. Co. (1898), 20 Ind. App. 515.
+Such pleas must contain the utmost fullness and particularity in statement in every respect, as well as the highest attainable accuracy and precision, leaving on the one hand nothing to be supplied by intendment, and on the other hand no supposable special answer unobviated. Rush v. Foos Mfg. Co., supra; Gold, Pleading, §57; Capwell v. Sipe (1891), 17 R. I. 475, 23 Atl. 14, 33 Am. St. 890; Mandel v. Peet, Simms & Co. (1856), 18 Ark. 236; Tweed v. Libbey (1853), 37 Me. 49; Needham v. Wright (1895), 140 Ind. 190; Moore v. Morris (1895), 142 Ind. 354.
+Suits may be instituted in this State, against foreign corporations, under two conditions: (1) When such corporation has an office or agency in this State for the transaction of business, suit may be brought in the county where such office or agency is located, on an action growing out of, or connected with, the business of such office or agency (§311 Burns 1908, §309 R. S. 1881; Debs v. Dalton [1893], 7 Ind. App. 84; Rush v. Foos Mfg. Co., supra); (2) when such corporation has property, money, credits or effects belonging to or due such corporation in the county where suit is brought (§316 Burns 1908, §313 R. S. 1881).
+The plea negatives all the conditions in §311, supra, except it does not aver that defendant had no office in the county where and when the suit was brought, but does not negative any of the conditions of §316, supra. Neither does the plea in abatement deny that appellee had no officer within the county upon whom service might be had, nor does it aver that Geyer was not such an officer, nor that any other summons had not been served on any other proper person. Since the plea seeks to abate the action for the reason that service has been had upon one not an agent of the company, to succeed it must exclude every possibility that proper services might not have been had in the action. Shampeau v. Connecticut River Limber Co. (1889), 37 Fed. 771; Moore v. Morris, supra; Burchard v. Record (1891), (Tex.), 17 S. W. 241; Pearson v. French (1837), 9 Vt. 349; Morse v. Nash (1858), 30 Vt. 76; Adams v. Hodsdon (1851), 33 Me. 225; Tweed v. Libbey, supra.
+In the ease last cited the court say: ‘ ‘ The degree of certainty required in a plea in abatement, is such as to exclude all such supposable matter, as would, if alleged on the opposite side, defeat the plea. * * * The plea in this case is clearly bad. Every allegation therein may be true, and the service of the writ sufficient. * * * Other modes of service are provided.” And in the case of Burchard v. Record, supra, the court say: “It is now well settled that the sufficiency of a plea in abatement, like the present, must be tested by its own averments, and, unless they exclude every exception which under the law would confer jurisdiction, the plea is fatally defective, if called in question by exceptions.” The plea cannot be aided by referenee to the process or other papers in the case where they are not made a part of the plea.
+In the case of Pearson v. French, supra, the court say: “No intendment is to be made in favor of a plea in abatement, but every reasonable intendment should be made in favor of the regularity and sufficiency of the proceedings. And here, as the defendant has not made the writ and officer’s return a part of his plea, by craving oyer, and setting them forth, or indeed, by referring to them, we cannot look beyond the plea to cure any of its defects. ’ ’
+It is contended by appellant that the plea shows that Geyer was a special agent of appellee, and that the service upon him was therefore valid. We think not. The specific averments of the plea might be held to show that he was a special agent in making the sale referred to, but this does not necessarily show that he was such special agent at the time service was had upon him in this action. The term “special agent” necessarily implies that the agency is for some special purpose. When that purpose is accomplished the agency terminates. Bragg v. Bamberger (1864), 23 Ind. 198. It is necessary to a valid service on an agent, under §311, supra, that the person so served be an agent at the time of the service.
+Judgment reversed, with instruction to sustain appellant’s demurrer to the plea.
