@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,022"
+decided: "1906-06-28"
+citations: ["38 Ind. App. 483"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State v. Dawson."]
+source_url: "https://static.case.law/ind-app/38/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4977244
+cites_cases: ["100 Ind. 154", "102 Ind. 156", "107 Ind. 567", "112 Ind. 245", "123 Ind. 128", "128 Ind. 189", "133 Ind. 404", "135 Ind. 195", "148 Ind. 238", "18 L. R. A. 774", "33 Ind. 304", "4 Ind. 141", "45 Hun 34", "53 Ind. 162", "61 Ind. 69", "9 Conn. 560", "9 Ind. App. 296"]
+---
+
+# State v. Dawson
+
+## Majority (Black, J.)
+
+Black, J.
+The court upon motion of tbe appellee quashed tbe affidavit in a prosecution commenced before a justice of tbe peace. Tbe affidavit charged that “on July 27, 1905, and for many days prior thereto, one George Dawson did then and there, knowingly and unlawfully allow Canada thistles to grow and mature, and become of length of more than six inches, upon bis land, to wit: [describing tbe land] which land was at said times occupied by him, contrary,” etc.
+The statute (§2308 Burns 1905, Acts 1905, pp. 584, 738, §627) provides: “Any person who shall knowingly allow Canada thistle or thistles to grow and mature, or shall allow any Canada thistle or thistles to grow until they or any of them become of the length of six inches, measuring from the surface of the soil to the end or tip of the stem above the surface of the ground, upon his, her or their land, or upon any land which they shall occupy or have under their charge and control, * * * shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined, for the first offense, in any sum not more than $1, and for each subsequent offense in any sum not more than $10.”
+In the next section (§2309 Burns 1905) it is provided: “If any resident in any township of this State shall make complaint to any road supervisor in the township in which such resident may live that any owner or occupant of land (as described in §627 of this act), in said road supervisor’s district, is allowing Canada thistle to grow (as defined in §627 of this act), it shall be the duty of said road supervisor to notify said owner or occupant of said land to within five days cut the said thistles off below the surface of the ground. Any owner or occupant of land, after having been notified as aforesaid, who shall fail to perform the duties required of him by the preceding section and by §627a of this act, shall be guilty of the offense described in §627 of this act and liable to the penalties provided therefor.”
+It is contended on behalf of the appellee that before a person can be liable to the punishment prescribed he must first have had the five days’ notice from the road supervisor, as provided in §2309, supra, and must have failed to comply with such notice. We cannot accept such a construction of the statute. In the portion of §2308, supra, quoted above, different offenses are described, for each of which the same punishment is provided: (1) When any person shall knowingly allow Canada thistle or thistles to grow and mature upon his, her or their land, or (2) upon any land which they shall occupy, or (3) have under their charge and control, or (4) when any person shall allow any Canada thistle or thistles to grow until they or any of them become of the length of six inches, measuring from the surface of the soil to the end or tip of the stem above the surface of the ground upon his, her or their land, or (5) upon any land which they shall occupy, or (6) have in their charge or control. Any person who shall thus do any of these things must be deemed guilty of a misdemeanor; and the offense is by the terms of §2308, supra> made complete without any reference to notice from any officer. Upon the occurrence of the facts stated in §2309, supra, the owner or occupant of land notified, if guilty of any offense, would be rendered so upon facts described in that section. The affidavit stated an offense completely when it charged the appellee with knowingly and unlawfully allowing Canada thistles to grow and mature upon his land described.
+If one offense be sufficiently charged in an indictment or affidavit, the pleading will not be rendered bad by the fact that an additional offense is insufficiently charged; the latter charge should be treated as surplusage. Eagan v. State (1876), 53 Ind. 162; Hatfield v. State (1894), 9 Ind. App. 296.
+When a statute makes it a crime to do any one of a number of things mentioned disjunctively, all of which are punishable alike, any or all of them may be charged conjunctively in a single count. Marshall v. State (1890), 123 Ind. 128; Rhodes v. State (1891), 128 Ind. 189, 25 Am. St. 429; Hauk v. State (1897), 148 Ind. 238; Hobbs v. State (1893), 133 Ind. 404, 18 L. R. A. 774; State v. Sarlls (1893), 135 Ind. 195; State v. Stout (1887), 112 Ind. 245; Mergentheim, v. State (1886), 107 Ind. 567; Fahnestock v. State (1885), 102 Ind. 156; Davis v. State (1885), 100 Ind. 154; Crawford v. State (1870), 33 Ind. 304; State v. Alsop (1853), 4 Ind. 141.
+It was not necessary to the sufficiency of the affidavit to state therein that the crime charged was a first or second or other subsequent offense. In the absence of an allegation concerning such matter, the crime charged would be assumed to be a first offense. 1 Bishop, Crim. Law (8th ed.), §959 et seq.; Kilbourn v. State (1833), 9 Conn. 560; People v. Cook (1887), 45 Hun 34. See, also, Good v. State (1878), 61 Ind. 69.
+Judgment reversed, with an instruction to overrule the appellee’s motion to quash.
