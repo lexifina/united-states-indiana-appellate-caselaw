@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,358"
+decided: "1925-10-09"
+citations: ["83 Ind. App. 478"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Klenke, Administratrix, v. New York, Chicago and St. Louis Railroad Company."]
+source_url: "https://static.case.law/ind-app/83/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5306571
+cites_cases: ["104 Ind. 588", "144 Ind. 569", "147 N. E. 288", "148 N. E. 410", "43 N. E. 642", "65 Ind. 12"]
+---
+
+# Klenke v. New York, Chicago & St. Louis Railroad
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This was an action by the appellant, as administratrix, for damages alleged to have been sustained by reason of the death of her husband, William Klenke, who was killed in a crossing accident in the city of Fort Wayne, as the result of alleged negligence on the part of certain servants of appellee.
+No question is made as to the sufficiency of any of the pleadings and .it is not, therefore, necessary that they be herein set out. There was a trial by a jury which resulted in a verdict in favor of the appellant in the sum of $400, upon which verdict, judgment was rendered. There was a motion for a new trial which was overruled and this appeal followed. The error assigned is the overruling of said motion, and, under this assignment, the appellant has presented only: (a) The sufficiency of the evidence to sustain the verdict; (b) that the verdict is contrary to law; and (c) alleged misconduct of counsel for appellee. We shall first notice the matter last complained of.
+Appellant first insists that counsel for appellee were guilty of misconduct during the examination of the jurors on their voir dire, and this alleged misconduct is stated as one of the grounds for a new trial. But an examination of the transcript fails to disclose any such conduct. In fact, it shows nothing as to what took place during the examination of the jurors as to their competency. Recitals in a motion for a new trial cannot perform the office of a statement required to be incorporated in a bill of exceptions. Clouser v. Ruckman, Admr. (1886), 104 Ind. 588 ; Hyatt v. Clements (1878), 65 Ind. 12 ; Robb v. State (1896), 144 Ind. 569, 43 N. E. 642 ; Croatian Bros. Packing Co. v. Rice (1925), ___ Ind. App. ___, 147 N. E. 288. No question, therefore, is presented by the aforesaid specification, as the appellant has no exception in the record in relation thereto.
+It is next urged that a new trial should have been granted be'cause of the alleged misconduct of counsel for appellee, occurring during the trial of said cause, in that counsel persistently propounded improper questions which had relation to matters prejudicial to the appellant. An examination of the record discloses that appellant has no “exception” upon which to base this contention. The record discloses that all objections made by counsel for appellant relating to the said objectional matter, were by the court sustained; that, at the request of counsel for appellant, the court admonished the jury that the question asked was improper, and that they should not allow the same to enter into their deliberations, in arriving at their verdict. Counsel having then received at the hands of the court all they then asked, could take no exception, and have now no reason for complaint. The record presents no question as to this alleged misconduct.
+The appellant next insists that thé said verdict is not sustained by sufficient evidence, and that it is contrary to law. It is strenuously urged that if the appellant was, in this case, entitled to recover any sum, she was entitled to recover a sum much larger than the amount awarded her by the jury.
+The record discloses that the deceased was, at the time of his death, thirty-six years of age; that he had been in the employment of the company for which he was then working for several years; that his wage was, and had been for about a year, $125 per month; that he was an able-bodied man and in good health; that the appellant was his wife; that they had no children and that he gave all of his earnings to his wife with whom he was living, for their support.
+There is also evidence in the record tending to show that the appellee was not guilty of any negligence which proximately caused the death of appellant’s husband, and also there is evidence in this record tending strongly to show that said deceased was guilty of negligence in driving upon the said crossing at the time and in the manner he did, and that this negligence was the proximate cause of his death. If the jury believed this testimony relative to the negligence of the said deceased, then appellant was not entitled to a verdict in her favor for any amount, and a verdict for her, under such circumstances, would be contrary to law. “Where the court, in passing upon an appeal, is reduced to the necessity of indulging presumptions, or drawing inferences, it will adopt those presumptions and those inferences which tend to support the action of the trial court, rather than those which would overthrow it.” Spannuth v. Cleveland, etc., R. Co. (1925), 196 Ind.___, 148 N. E. 410.
+To reverse this case, this court would have to indulge in presumptions not warranted by the foregoing rule, and this we cannot do. It was the duty of the trial judge, who saw the witnesses and heard their testimony, to sustain the motion for a new trial unless, in his opinion, justice had been done, and, by his denying said motion in this case, he gave the stamp of approval to this verdict as doing justice to the appellant herein. On this record, we cannot say, without indulging in presumptions, that the verdict herein is contrary to law.
+Affirmed.
