@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,118"
+decided: "1912-10-08"
+citations: ["51 Ind. App. 194"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Scott v. Scott."]
+source_url: "https://static.case.law/ind-app/51/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5097205
+cites_cases: ["37 Ind. 241", "99 N. E. 435"]
+---
+
+# Scott v. Scott
+
+## Majority (Myers, J.)
+
+Myers, J.
+— John M. Scott, at the time of his death, October 10, 1910, was the holder of an insurance certificate in The Supreme Tribe of Ben Hur, of the value of $900. After the death of John M. Scott, appellee, the beneficiary named in the certificate, for the purpose of enforcing payment thereof, brought this action against said order. Decedent was a brother of appellant, and the husband of appellee. The Supreme Tribe of Ben Hur answered, admitting its liability, and averring that appellant was claiming some interest in the certificate, and asked that he be made a party to the action.
+Appellant appeared and filed a cross-complaint against appellee, to the effect that The Supreme Tribe of Ben Hur had illegally and wrongfully refused to caneel the old certificate, and issue to John M. Scott a new one, naming cross-complainant as beneficiary; that decedent fully complied with all the rules and regulations of. said order entitling him to the requested change, except that he did not return the old certificate because of the fraud and deceit of appellee, who had possession of it.
+The record discloses that The Supreme Tribe of Ben Hur paid $900 into court for the benefit of the party entitled thereto, and on order of the court it was discharged from further liability. Thereafter the action was continued between appellant and appellee, as the only parties in interest. A trial before the court, without a jury, of the issues formed by a general denial to the complaint and cross-complaint, resulted in a finding and judgment in favor of appellee.
+Appellant’s motion for a new trial was overruled, and this ruling is made the basis for the only assignment of error relied on for a reversal of the judgment.
+The only reason pointed out by appellant in his brief in support of his motion challenges the ruling of the court in sustaining appellee’s objection to a question put by him to his own witness called in rebuttal, concerning a stateanent of appellee to the witness before the death of her husband, that she had possession of the certificate and intended to keep it.
+From the record it appears that appellee, to meet the case made by cross-complainant, in effect, testified that she and her husband, about nine years before that time, placed the certificate in a safety deposit box in the Marion National Bank, where it remained until after his death; also, that at the time she received a certain letter from her husband, said certificate, which he mentioned, was in the bank and not in her possession.
+As a rule, the admissions of a party to the record are admissible against him (Denman v. McMahin [1871], 37 Ind. 241); so, in this case, the admissions of appellee supposed by the question were admissible as a part of appellant’s case in chief. However, they were not offered in that connection, but as tending to contradict appellee’s testimony relative to her possession of the certificate. If, for the purpose claimed, the statements should have been admitted, still the judgment must be affirmed, for the reason that the error, if any, was harmless. The witness was the local scribe of the order of Ben Hur at Marion, and it is. not altogether improbable that the statements indicated by the offer to prove may have been understood and acted on by those then interested as being literally true, yet there is no evidence tending to show that appellee took any steps or made any request on the bank or any of its officers or agents which could be construed as an objection to a delivery of the certificate to her husband, had he made a demand on the bank for it; nor is there any evidence tending to show that such a demand was ever made, nor does it appear which of the two, or whether they jointly, secured the use of the box from the bank. The evidence shows that the certificate and the other papers found in the box after the husband’s death belonged to him. The fact, if important, that one of the two was to be recognized by the bank to the exclusion of the other, a finding by the trial court in favor of the husband in this respect would not have been an improper inference from the evidence. The by-laws of the order required a surrender of the certificate as a condition precedent to the issuing of a new one. There was an exception to this rule, but the applicant did not bring himself within it. The original certificate was not lost at the time he requested its cancelation and that a new one be issued in its place. For aught that appears, decedent knew he had a safety deposit box in the bank, and that he had placed the certificate in it.
+We have read all the evidence given in this cause, and we are convinced that had the excluded evidence been admitted, it would not have justified the court in finding appellee guilty of fraud and deceit, whereby the insured was prevented from returning the certificate in question to the insurer. True, as claimed by appellant, equity may be invoked to prevent injury to one by another through fraud and deceit, by declaring “that as done which in good conscience ought to be done’ 1 Pomeroy, Eq. Jurisp. (3rd ed.) §364. But this equitable principle applicable to all property rights, and under which appellant seeks protection, cannot be extended to work a reversal of the judgment in this case, even though the proposed evidence had been received.
+Judgment affirmed.
+Note. — Reported in 99 N. E. 435. See, also, under (1) 38 Oyc. 1355; (2) 16 Cyc. 977; (3) 38 Cyc. 1450; (4) 16 Oyc. 135. As to the admissibility of evidence of prior statements of a party, contradictory to his evidence at the trial, offered to impeach him, see 82 Am. St. 39.
