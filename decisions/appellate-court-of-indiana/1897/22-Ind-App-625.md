@@ -1,0 +1,22 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,093"
+decided: "1897-04-30"
+citations: ["22 Ind. App. 625"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hoefgen v. Harness et al."]
+source_url: "https://static.case.law/ind-app/22/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 430097
+cites_cases: ["126 Ind. 583"]
+---
+
+# Hoefgen v. Harness
+
+## Majority (Wiley, J.)
+
+Wiley, J.
+— June 11, 1890, George Harness and others, the appellees, filed their verified petition in the clerk’s office of the Marion Circuit Court praying for the construction of a ditch or drain, under the act of April, 1885. Appellant was made a party to said proceedings, as her lands were affected by the proposed improvement. She did not appear and remonstrate, but such proceedings were had as that the court ordered said ditch to be constructed, and referred it to the drainage commissioners. The assessments as made and reported by them were confirmed, and the work of construction was duly assigned to one of the commissioners. March 2, 1892, the commissioner charged with the construction of the drain, filed his semiannual report, which showed the work was not completed, and asked and was granted further time. May 10, 1894, appellant filed her “verified intervening petition,” averring that the ditch had been constructed through her lands, that it was not of any benefit whatever, but a source of damage, and asked for a modification of her assessments, and that she might recover damages resulting to her lands by reason of the construction of said ditch- J une 11, 1895, appellant filed her second and third paragraphs of “intervening petition,” which are substantially the same as the first, and in each of said paragraphs she asks the same relief. On motion, the court ordered each paragraph of appellant’s petition stricken from the files, to which she excepted, and filed her bill of exceptions within the time fixed by the court.
+The question presented by the record, under the facts, as stated, is, Did the appellant have the right to file her “intervening petition,” after the construction of the ditch, for the purpose of having the court modify its order and judgment, to the end that her lands might be released from the lien of the assessment or to have her assessments modified, and that she might recover for the damages alleged to have been sustained by reason of its construction? This question we do not decide, nor even intimate an opinion, for we are clear that this court is not clothed with jurisdiction to pass upon it. We are without jurisdiction, except where it is conferred by the express provisions of the statute, and we are unable to find any provision in. the statute which confers any power upon this court to hear and determine any question growing out of the construction of a ditch or drain, except in proceedings to enforce a lien, created by an assessment for benefits. It is not a proceeding wherein the appellant is seeking “the recovery of a money judgment only,” for she asks that the assessments against her lands be modified and canceled. She does, by her “intervening petition,” seek to recover damages to her said lands on account of the construction of said ditch.' If she is entitled to any relief at all (and this we do not decide), it would require a readjustment of the assessments made against all the lands affected by the construction of the ditch, and over questions of such character, involving the right of eminent domain, we are without jurisdiction. In ex parte Sweeney, 126 Ind. 583, it was held that where the exercise of appellate power is invoked, the jurisdiction is in the Supreme Oourt in all cases, except those specified in the act creating the Appellate Court. If the case is one of appellate cognizance, and does not fall within one of the classes over which the Appellate Court is given jurisdiction, it is within the jurisdiction of the Supreme Court. It follows, therefore, that, as the act creating the Appellate Court, and defining its jurisdiction, does not confer, by its express terms, power to determine questions arising under a petition to locate and establish, a ditch, under the laws of the State, this, court is without jurisdiction to determine the questions here involved, and this cause must be transferred to the Supreme Court, and it is so ordered.
