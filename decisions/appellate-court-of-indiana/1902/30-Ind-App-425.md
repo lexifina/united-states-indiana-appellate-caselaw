@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,964"
+decided: "1902-11-25"
+citations: ["30 Ind. App. 425"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rariden v. Mason."]
+source_url: "https://static.case.law/ind-app/30/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4908838
+cites_cases: ["12 Ind. App. 399", "16 Ind. App. 169", "17 Ind. App. 673", "26 Ind. 489", "89 Ind. 553", "99 Ind. 375"]
+---
+
+# Rariden v. Mason
+
+## Majority (Black, P. J.)
+
+Black, P. J.
+The appellee recovered judgment against the appellant for the price of certain goods and merchandise; the complaint being in the nature of common counts for goods sold by the plaintiff to the defendant and his family, Avith bills of particulars attached, and the answer being a general denial.
+The cause was tried by the court without a jury, and the only matter presented on appeal is the action of the court in overruling appellant’s motion for a new trial. The discussion of counsel relates to the evidence. The goods were sold and delivered by the appellee to the appellant’s wife, and were charged by the appellee to the appellant. At the times of the sales the appellant’s Avife was living and keeping house Avith her two children, the issue of marriage to a former husband; the appellant at the time residing on his farm about ten miles distant, where his wife had’ left him for the purpose of living apart from him. The articles sold were such that the court might find then to be necessaries; a portion, of comparatively small price, being for the exclusive use of the children. There was evidence from, which the court might Avell find that the separation of the husband and wife, and their living apart, were occasioned by the wrongful conduct of the husband. Under such circumstances the wife, excluded from the home of her husband, is in effect abandoned by him; and he continues, in law, bound to provide her with suitable maintenance, and is responsible to one furnishing her, on the husband’s credit, with necessaries proper in vieAV of the condition of the parties, though without his personal request, and though the person furnishing the necessaries kneAV at the time, as did the appellee, that the husband and wife were living separate and apart from each other.
+The husband can not by his wrongful conduct relieve himself of the legal obligation to support his wife. The law’treats her in such ease as having authority to contract for such necessaries upon his credit. It is necessary for her to do so in order to obtain the benefit of his obligation to support her, which the law so confers; and she, for the practical purposes of an action to enforce his liability, may be treated as his agent in the contracting of the indebtedness. 15 Am. & Eng. Ency. Law (2d ed.), 886; Litson v. Brown, 26 Ind. 489; Arnold v. Brandt, 16 Ind. App. 169; Watkins v. DeArmond, 89 Ind. 553; Eiler v. Crull, 99 Ind. 375; Scott v. Carothers, 17 Ind. App. 673.
+■ We do not understand counsel for appellant as controverting these legal principles concerning the obligation of a husband for necessaries furnished his wife, absent from him through his fault, but they contend that the remedy of the appellee could not be pursued under the form of complaint adopted in this case, or without specially pleading the facts in the complaint This seems to be the substance of the contention on the part of the appellant. It must be conceded, we think, that the burden is upon the plaintiff to show that the necessaries sold to the wife were furnished under such circumstances as rendered the husband responsible for the wife’s support. It appearing in evidence that she was living apart from her husband, the burden was upon the appellee to show such circumstances of the separation as would render the appellant liable notwithstanding the wife’s separation from her husband; yet as in such case the wife has, in legal contemplation, authority so to bind her delinquent husband and is in effect, therefore, his agent, we regard it sufficient to declare against him either by a complaint setting forth the facts specifically, or by a complaint as upon account, or in the 'form of a common count in assumpsit for goods sold and delivered. Under such complaint the facts establishing the implied obligation of the appellant to pay could be proved.
+The recovery in Arnold v. Brandt, supra, was upon a complaint on an account for goods and merchandise alleged to have been sold and delivered to the defendant and his family at his instance and request. See, also, Watts v. Moffett, 12 Ind. App. 399.
+It has been suggested that there could be no recovery because it appeared in evidence that some of the articles furnished by the appellee were for the use, not of the wife alone, but also of her children, who were not the children of the appellant. As already stated, it also appears that some of the articles were for the exclusive use of the children. It is sufficient to say concerning this portion of the evidence that the motion for a new trial did not include among its causes any. assignment relating to the amount of recovery. In Litson v. Brown, supra, to which reference is made by counsel, the question as to the excessiveness of the verdict involved was presented by an instruction to1 the jury which was held to be erroneous.
+Judgment affirmed.
