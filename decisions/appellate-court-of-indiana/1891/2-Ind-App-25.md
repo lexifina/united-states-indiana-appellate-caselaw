@@ -1,0 +1,52 @@
+---
+court: "Appellate Court of Indiana"
+docket: "197"
+decided: "1891-06-09"
+citations: ["2 Ind. App. 25"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barrett et al. v. Johnson."]
+source_url: "https://static.case.law/ind-app/2/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4687761
+cites_cases: ["107 Ind. 1", "107 Ind. 351", "74 Ind. 191", "82 Ind. 294", "91 Ind. 114"]
+---
+
+# Barrett v. Johnson
+
+## Majority (Crumpacker, J.)
+
+Crumpacker, J.
+This action was commenced by Johnson against Barrett and Varner to recover the possession of a parcel of real estate in Posey county, under a written lease.
+The complaint alleges that one William Price was the owner of the property, and, on the 5th day of April, 1889, he executed a written lease to one J. R. Bryan, whereby he demised the premises to him for a term of five years, from the 16th day of May, 1889; that said lease was duly executed and recorded, and said Bryan, by an instrument in writing, sold, assigned and transferred said leasehold to the plaintiff for a valuable consideration, and he was entitled to the possession of the premises, but the defendants unlawfully and without right withheld the same from him.
+An answer, in general denial, was filed, and the cause was tried by the court and resulted in a finding and judgment for the plaintiff for possession and damages.
+A motion for a new trial was filed by the defendants, which was overruled and they excepted, and they now prosecute this appeal, assigning as errors for the revei’sal of the judgment:
+1. That the complaint does not state facts sufficient to constitute a cause of action.
+2. Error in overruling the motion for a new trial.
+The only objection to the complaint made by counsel for appellants is. that no copy of the lease was filed with it as an exhibit.
+This was not necessary. A written instrument which is not the foundation of an action, but is only evidence of the title asserted, need not be set out with the complaint. Muniments of title do not constitute the foundation of an action for the recovery of real estate within the meaning of section 362 of the code, and it would be improper to file the originals or copies with a complaint in such cases. Rausch v. Trustees, etc., 107 Ind. 1 ; Whipple v. Shewalter, 91 Ind. 114; Boyd v. Olvey, 82 Ind. 294; Ragsdale v. Parrish, 74 Ind. 191.
+There is no more reason for requiring a copy of the lease to be filed with the complaint in this case than there would be to require an owner, in an action to recover the ¡possession of his real estate, to file with his complaint copies of all of the deeds and instruments forming his chain of title.
+Besides, in actions founded upon written instruments within the meaning of the statute, a failure to file the proper exhibits with the complaint must be taken advantage of in the trial court, to be made available on appeal; otherwise the omission will be cured by the verdict. Owen School Tp. v. Hay, 107 Ind. 351. The complaint is sufficient.
+The other assignment presents but a single question, viz.: The adequacy of the evidence to support the finding.
+It was admitted, at the trial, that Price was the owner of the real estate in controversy, and on the 5th day of April, 1889, he gave Bryan a written lease therefor, for five years from the 16th day of May, 1889, which lease was duly executed and recorded, and subsequently Bryan sold and transferred the leasehold, by a written instrument of assignment, to the appellee, who demanded possession before the commencement of the action.
+It was also established by the evidence that on the 15th day of May, 1888, Price executed a written instrument, in the form of a title bond, to said Bryan arid one J. B. Covington, whereby he undertook to convey the real estate in dispute to them upon certain conditions. This instrument was modified, at the time of its execution, by endorsement written upon it, and is as follows :
+“Title Bond: Know all men by these presents, That I, William Price, am held and bound unto J. B. Covington and J. B. Bryan in the sum of two hundred and fifty dollars. The condition of this obligation is such that, whereas I have this day sold to said Covington and Bryan the following real estate: Lot numbered one(l) in Price’s first addition to Price’s Station, in the county of Posey, and State of Indiana, on the following terms: Seventy-five dollars down and the rest twelve months from date. Now, if on full payment for said real estate according to the terms aforesaid, I shall convey said lands to said Covington and Bryan in fee by a good warranty deed, then this bond shall be void.”
+This was endorsed upon the back thereof:
+“ The within obligation is only on condition at the end of Twelve months the said William Price shall have the right to refuse a deed, but the seventy-five dollars shall go towards paying rent on said lot at the rate of six dollars per month. The said Covington and Bryan shall have the right also to let the seventy-five dollars go as rent if they do not ■ wish to buy said lot at the end of twelve months.”
+The modification utterly destroyed the obligatory character of the bond as such, and practically converted it into a lease.
+As a contract for the sale of the real estate, it is not enforceable against either party, and it was admitted upon the trial that both parties treated it as a lease from the date of its execution, and the trial court construed it upon that theory.
+On the 24th day of September, 1888, Covington and Bryan sold and assigned the leasehold created by this contract to the appellants, and they went into possession under it. The sum named in the contract was all paid at the date of the execution thereof.
+It is obvious that the result of this appeal must depend upon the term of the tenancy created by the contract under which appellants were in possession. It is insisted in their behalf that their possession was rightful under either one of two interpretations which the contract bears, viz.:
+First. The term created, being of an indefinite and uncertain duration, carries it within the class of general tenancies designated as tenancies from year to year, requiring three months’ notice to terminate, which was not given ; or, Second. If the term, shall be held definite and certain, it was only for a year, and the rental for that period at the rate fixed by the contract would amount to only seventy-two dolara, and the lessor having accepted seventy-five dollars, the excess would apply upon another rental year, and secure to the lessees the right to hold the premises an additional year upon the terms of the contract.
+It is true that all general tenancies, in which no term is fixed, are made by statute tenancies from year to year, requiring notice to terminate them. It is also the law that where the time is definite and certain in a lease, it will expire by limitation, and no notice to quit is necessary.
+In the contract under consideration there was no tenancy for a year. The provisions relative to the payment of purchase-money and the execution of the deed at the expiration of the year were entirely taken out of the contract by the modification and the construction placed upon it by the parties.
+Leases should be construed as all other contracts, with reference to discovering the intention of the parties from the instruments taken as a whole.
+Where a lease is given containing no express provisions respecting its duration, but providing for the payment of a sum in gross, which shall be accredited upon rent at a given rate per month, in the absence of any other evidence of intention, it may be fairly inferred that the parties intended to create a tenancy for the term for which the sum named would pay at the stipulated rate per month.
+Applying this rule to the case before us, the term of appellants’ tenancy was twelve and one-half months, and it had expired by limitation before the commencement of the action. This construction of the lease disposes of the question presented,adversely to the appellants.
+No question has been raised concerning the jurisdiction of this court over the subject-matter of this appeal; and that it may be understood that the question was not overlooked, we have concluded to express our opinion briefly upon the subject, which we shall do upon the case presented by the whole record.
+The act establishing the Appellate Court gave it jurisdiction in all “ actions between landlord and tenant for the recovery of the possession of the leased premises.”
+This case is not between parties directly sustaining to each other the relation of landlord and tenant, but it is for the recovery of leased premises under a lease, and the only questions for decision relate to the construction of a lease. If the action had been brought by the owner, the same questions would have been involved; yet there would have been no doubt of the authority of this court to have passed upon the appeal. If the owner of realty, burdened by a leasehold, should sell it subject to the lease, the covenants in the lease which run with the soil would, of course, enure to the benefit of the purchaser, and at its termination he could maintain an action against the tenant for possession as a tenant holding over. There would be that privity of estate between them that would give rise to the relation of landlord and tenant by construction of law. If the owner should dispose of an estate for years extending beyond the existing leasehold, all covenants enuring to the benefit of the possession could be enforced by the tenant for years, and at the expiration of the lease he could maintain an action in his own name for the recovery of the possession from the lessee, and for the purposes of such action the tenant of the estate for years would be endowed with the rights of the landlord, and a constructive relation of landlord and tenant would exist between him and the tenant holding over. Section 5218, R. S. 1881, provides that “ Alienees of lessors and lessees of land shall have the same legal remedies in relation to such lands as their principals.”
+Filed June 9, 1891.
+In our opinion all actions for the recovery of the possession of premises under a lease, involving no questions except such as arise upon the construction of the lease, are properly appealable to this court.
+Judgment affirmed, with costs.
