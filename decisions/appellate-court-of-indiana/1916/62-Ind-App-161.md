@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,004"
+decided: "1916-06-01"
+citations: ["62 Ind. App. 161"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Baltimore & Ohio Southwestern Railroad Co. et al. v. Duncan."]
+source_url: "https://static.case.law/ind-app/62/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5155829
+cites_cases: ["103 N. E. 360", "107 N. E. 545", "108 N. E. 114", "108 N. E. 535", "109 N. E. 194", "112 N. E. 898", "183 Ind. 323", "183 Ind. 522", "48 L. R. A. (N. S.) 443", "56 Ind. App. 211", "59 Ind. App. 271", "59 Ind. App. 280"]
+---
+
+# Baltimore & Ohio Southwestern Railroad v. Duncan
+
+## Majority (Caldwell, C. J.)
+
+Caldwell, C. J.
+Appellee, as a member of the relief department maintained by appellants, brought this action to recover total disability sick benefits for 312 days at $1.59 per day. A trial by the court resulted in a judgment for appellee in thesumof$477. To determine this appeal, it will be necessary for us to consider only the assignments in the motion for a new trial that the decision is not sustained by sufficient evideneé, and that it is contrary to law.
+The record discloses, the following facts: September 30, 1909,appellee was an employe of the Baltimore & Ohio Southwestern Railroad Company, as a yard conductor at Vincennes, on which day he became a member of such relief department. For a number of years prior to that date, the Baltimore & Ohio Railroad Company had maintained such relief department, its employes being members thereof. Under the plan of organization, employes became members of the relief department by application, medical examination and contract. An employe having been accepted as a member, and having signed the required contract, paid to the department a Certain per cent, of his wages each month, the payments being made in fact by being retained from his wages by his employer and turned into the relief department, in consideration of which the member in case of his sickness or injury, or his beneficiary in case of his death, was entitled to receive from the department certain benefits. The two companies enterted into a contract July 1, 1909, by virtue of which the relief department was extended to the employes of the Baltimore & Ohio- Southwestern Railroad Company. As required by therules of his employer* appellee submitted to a medical examination from time to time to determine his fitness to continue in the service. Certain examinations made in the latter part of 1911, and perhaps early in 1912, disclosed that appellee was a victim of defective color perception, or color blindness, by reason of which his employer released him from service February 15, 1912. Between that date and November 29, 1913, appellee was out of employment a portion of the time. On the latter date he entered the service of the Vandalia Railroad Company as brakeman and switchman, and was still in such service at the time of the trial. Appellee as a member of the relief department contributed three dollars per month thereto, and under the terms of his contract, by virtue of which he became a member of such department, he was entitled to receive $1.59 per day while totally disabled by sickness or other cause than accidental injury received in the line of duty. This action was brought on the theory that color blindness is such total disability. We find it unnecessary to determine the soundness of such theory.
+In order that appellee may maintain this action, it must appear that the contract between him and appellants and on which he bases his action is valid and binding. The relief department maintained by appellants has recently been considered by the Supreme Court and also by this court, and held to be within the prohibition of the act of 1907. Acts 1907 p. 46, §5308 Burns 1914. See Baltimore, etc., R. Co. v. Hagan (1915), 183 Ind. 522, 109 N. E. 194; Baltimore, etc., R. Co. v. Miller (1915), 183 Ind. 323, 107 N. E. 545; Acton v. Balti more, etc., R. Co. (1915), 59 Ind. App. 280, 108 N. E. 535. The features of the relief department bringing it within the condemnation of the act fully appear in the opinions in the cases above cited, and are, therefore, not set out here. Under the decisions, ‘the contract upon which appellee predicates his cause is void and he cannot, therefore, maintain his action. It results that the decision is not sustained by sufficient evidence, and that it is contrary to law. See also Boes v. Grand Rapids, etc., R. Co. (1915), 59 Ind. App. 271, 108 N. E. 114; Wells v. Vandalia R. Co. (1914), 56 Ind. App. 211, 103 N. E. 360.
+Judgment reversed, with instructions to sustain the motion for a new trial.
+Note. — Reported in 112 N. E. 898. Contracts by servants waiving right to recover for injuries, 3 Am. St. 255; or requiring an election between the acceptance of benefits from a relief fund and an action for damages, notes, 48 L. R. A. (N. S.) 443, 444. See under (2) 9 Cye 546.
