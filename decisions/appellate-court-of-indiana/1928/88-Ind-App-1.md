@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,023"
+decided: "1928-03-20"
+citations: ["88 Ind. App. 1"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Armstrong v. Peoples State Bank of Windfall et al."]
+source_url: "https://static.case.law/ind-app/88/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1550029
+cites_cases: ["118 N. E. 839", "137 Ind. 175", "166 Ind. 644", "36 N. E. 1095", "70 Ind. App. 266", "78 N. E. 184"]
+---
+
+# Armstrong v. Peoples State Bank
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Action by appellee the Peoples State Bank against Wilbur Armstrong, appellant, Luella Armstrong, George E. Armstrong, Frank E.. Morse and Faith Armstrong. The complaint consists of twelve paragraphs, each based on a promissory note. Appellee the Elwood State Bank, thereafter filed its complaint in the same court, making defendants thereto, George E. Armstrong, Wilbur Armstrong and Faith Armstrong. This complaint consisted of two paragraphs, each on a promissory note. Appellee the First National Bank, thereafter filed its complaint in the same court and made defendants thereto, George E. Armstrong, Wilbur Armstrong, appellant, Faith Armstrong and Frank E. Morris.
+Each paragraph of these complaints, for collateral relief, seeks to set aside a deed to appellant, from her husband, Wilbur Armstrong, and a chattel mortgage to Faith Armstrong from her father, George E. Armstrong, as fraudulent against creditors. These causes were later consolidated and were all tried together. As the court on the trial found for the defendants Faith Armstrong and George E. Armstrong on the issue of fraud, we do not further mention them.
+Appellant and her husband each answered the complaints of each of the above-named appellees by three paragraphs of answer — general denial and two affirmative paragraphs.
+The court, on request, made a special finding of facts and stated its conclusions of law thereon, but no exceptions were taken thereto and no questions concerning them are presented on appeal. We do not, therefore, set them out. It is sufficient for us to say that the findings were in favor of the respective appellees as to the amount due each of them and there is no challenge of the amounts of the respective judgments in favor of appellees. The court also found the fair market value of the land in controversy to be $13,720, one-fourth of which land, the court found appellant, as the wife of Wilbur Armstrong, had a right to have set off to her as against the creditors of her husband.
+The court found that Wilbur Armstrong was indebted to his wife only in the sum of $1,525, and that the deed executed by him to her was without consideration except in that amount, and the court also found that the appellant, before she paid certain notes that she had agreed to pay at the time the conveyance was made to her, was fully aware of all the indebtedness of said Wilbur Armstrong, and that said conveyance was executed by him to her with the intent to cheat, hinder and delay his creditors. The court rendered judgment that the deed of conveyance to appellant was fraudulent and void, that it be set aside, that three-fourths of the land be sold and the proceeds applied to the payment of costs, then to appellee Peoples State Bank’s judgment of $8,630.32 and interest, then to the payment of $1,525 due appellant, and then to the payment of the judgments of the other appellees, and, the balance, if any, to appellant. There was no objection to the order of sale.
+The only error assigned is that the court erred in overruling appellant’s motion for a new trial, under which appellant presents that the decision of the court is contrary to law, and that the decision of the court is not sustained by sufficient evidence;
+Appellant undertakes to present that special findings 7,11, 20, 22,24, 25 and 27 are not sustained by sufficient evidence, but it has been repeatedly held by this court and by the Supreme Court that such an assignment presents no question. Federal Life Ins. Co v. Maxam (1917), 70 Ind. App. 266, 118 N. E. 839; Scott v. Collier (1906), 166 Ind. 644, 78 N. E. 184.
+Contending that the decision of the court is not sustained by sufficient evidence, appellant has cited a long list of authorities to the effect that an embarrassed or insolvent debtor may lawfully prefer one or more of his creditors, and that the fact that the person whose debt is preferred is.a wife or other near relative does not affect the validity of the preference. But, in each of these cases so cited, except one, there was a válid indebtedness fully established. In the instant case, the court found that there was not a valid indebtedness owing from the husband to appellant, except in the sum of $1,525, a consideration wholly inadequate, as against the husband’s creditors, for the conveyance of the real estate here involved. In its decree setting aside the conveyance to appellant, the court has fully protected appellant as to the amount due her. The case of Adams v. Curtis (1894), 137 Ind. 175, 36 N. E. 1095, cited by appellant, is not helpful to her under the circumstances of this case as found by the court. In that case, the court, quoting with approval from 2 Rice, Evidence 954, 955, says: “When a grantor executes a deed with the intent to defraud his creditors, the grantee can only protect his title by showing that he is a purchaser for a valuable consideration and without notice of the fraudulent intent on the part of his grantor.”
+In the instant case, there are numerous badges of fraud, which fully sustain the court’s finding that the conveyance to appellee from her husband was fraudulent and void as against his creditors. Nothing can be gained by specifically mentioning them. It is sufficient for us to say that there was ample evidence to sustain the decision of the court, which, being within the issues, and there being no substantial error in the trial of the cause, was not contrary to law.
+Judgment affirmed.
