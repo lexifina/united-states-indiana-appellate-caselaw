@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,403"
+decided: "1914-06-12"
+citations: ["56 Ind. App. 499"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Schapker v. Schwetz."]
+source_url: "https://static.case.law/ind-app/56/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432607
+cites_cases: ["105 Ind. 598", "105 N. E. 579", "146 Ind. 564", "156 Ind. 348", "167 Ind. 330", "22 Ind. App. 282", "31 Ind. App. 595", "45 N. E. 108", "5 N. E. 175", "53 N. E. 654", "58 N. E. 842", "68 N. E. 639", "7 L. R. A. (N. S.) 597", "79 N. E. 186"]
+---
+
+# Schapker v. Schwetz
+
+## Majority (Shea, J.)
+
+Shea, J.
+Appellee’s complaint is in one paragraph in which he seeks to recover damages from appellant for the latter’s alleged negligence in driving an automobile into and upon a herd of milk cows upon a public highway in Posey County, Indiana, striking, injuring and wounding said cows to the damage of appellee in the sum of $100, alleging that because of said injuries, resulting from appellant’s negligence, appellee was unable to receive any milk from three of said cows, and that appellee lost a large amount of milk, to wit,-gallons, of the value of $50, the total judgment demanded being $300. Other items of damage are alleged which need not be set out.
+The cause was tried by the court in the absence of appellant and his attorney. Judgment was rendered in appellee’s favor for $275. Appellant sought to have the judgment set aside because of his alleged excusable neglect. We have not been favored with a brief in this case by appellee, so we are obliged to consider the ease as presented by counsel for appellant in his brief.
+To the complaint appellant addressed a motion to make same more specific in this: That it give a description of each cow alleged to have been injured, stating the nature, extent and character of said injury, and that he state specifically the amount of milk lost, if any. The overruling of this motion, to which exception was reserved, is assigned as error. A motion to require a plaintiff to make his complaint more specific, so as to inform the defendant of the exact nature and character of the injury complained of, so as to enable him to prepare his defense, if he has one, has received the sanction of our courts at all times. It sometimes happens that a pleading is skilfully drawn so as to state a cause of action or defense sufficient to withstand a demurrer, and yet the allegations be of such nature as not fully to inform the opposite party of the exact facts he is called upon to controvert, so that it has been uniformly held that where a cause of action is stated, an objection that the pleading is indefinite or uncertain must be reached by a motion to require the pleader to make it more specific. Such a case is presented by the record we are considering. 1 Works’ Practice §493; Baltimore, etc., R. Co. v. Slaughter (1906), 167 Ind. 330, 340, 79 N. E. 186, 7 L. R. A. (N. S.) 597, 119 Am. St. 503, and authorities cited; Louisville, etc., R. Co. v. Bates (1897), 146 Ind. 564, 45 N. E. 108; Mulky v. Karsell (1903), 31 Ind. App. 595, 68 N. E. 639; City of Mt. Vernon v. Hoehn (1899), 22 Ind. App. 282, 53 N. E. 654.
+It is the opinion of this court that the allegations of the complaint are not sufficient as against a motion to make more specific. The allegation that appellant “unlawfully, carelessly and negligently drove his automobile into and upon a herd of milk cows, striking and injuring and wounding said cows to the damage of this plaintiff in the sum of $100” is altogether too general in its statement as against a motion to make more specific, and does not sufficiently inform appellant as to the nature and character of the injury inflicted upon the particular cows alleged to have been injured. It is inconceivable that all the cows in a herd, the number of which is stated at “about twelve” could have been injured by contact with the automobile. No inference can be indulged which can supply the omission to state the nature and character of the injuries.
+The complaint also charges that appellee sustained damages because of the loss of - gallons of milk. The motion Was directed to this particular item of damages, praying that appellee be required to state in said blank space the number of gallons. While appellee was not required to set out with particularity the various items of damage he sustained, if he attempts to do so he should be required to make his allegations complete, therefore the blank space should have been filled in response to this motion. Wallace v. Brooker (1886), 105 Ind. 598, 5 N. E. 175. In the case of Tipton, etc., Light Co. v. Newcomer (1901), 156 Ind. 348, 352, 58 N. E. 842, the court said: “It is as much the judicial duty of the court to sustain a motion to make more specific, in a case where the motion is Avell founded, as it is to sustain a demurrer to an insufficient pleading, and the action of the trial court is reviewable in this court in the one case the same as in the other.”
+Errors assigned upon the motion to set aside the judgment because of alleged lack of notice to appellant and his attorney of the setting of the case for trial we need not consider in view of the conclusion we have reached.
+Judgment reversed with instructions to sustain the motion to make the complaint more specific, and for other proceedings not inconsistent with this opinion.
+Note. — Reported, in 105 N. E. 579. See, also, under (1) 31 Cyc. 644; (2) 31 Cyc. 649; (3) 29 Cyc. 569; (4) 31 Cyc. 669.
