@@ -1,0 +1,23 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,814"
+decided: "1903-04-21"
+citations: ["31 Ind. App. 25"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Utter et al. v. Kersey et al."]
+source_url: "https://static.case.law/ind-app/31/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2416553
+---
+
+# Utter v. Kersey
+
+## Majority (IIehxet, J.)
+
+IIehxet, J.
+This cause was transferred to this Court from the Supreme Court. ■ The action was commenced by one Elizabeth Kersey against appellants to cancel and set aside a deed by which she had conveyed her life estate in certain lands. Elizabeth Kersey was the- sole plaintiff in the action, and demanded no other interest or title in the land other than a life estate, and asked no other or different relief than that her deed be canceled and her title to the life estate be quieted. The trial resulted in a judgment and decree canceling the deed, and giving her the right of possession of the land during her lifetime. The defendants to this action appealed from thé judgment against them.
+Since the filing of the transcript on appeal the said Elizabeth Kersey has died. The submission of the appeal was, upon the motion of the appellants, set aside, and they were permitted to substitute as appellees the heirs of Elizabeth Kersey. The substituted appellees have moved to rh's-miss the appeal as to them, because they are not proper parties in any capacity, having no interest whatever in the subject-matter, and protesting that they should not be compelled to defend a judgment, the reversal or affirmance of which is of no consequence to them in any way.
+We make no further statement of the pleadings, nor of the facts found by the trial, court upon which the judgment was based, because we are convinced that the names of the substituted appellees ought, upon their motion, be stricken from the docket, and the appeal dismissed. By §648 Burns 1901 it is provided: “In case of the death of any or all the parties to a judgment before an appeal is taken, an appeal may be taken by, and notice of an appeal served upon, the persons in whose favor and against whom the action might have been revived, if death had occurred before judgment.” Under this section of the statute, this appeal could not be prosecuted against the substituted appellees, (1) because Elizabeth Kersey did not die before the appeal was taken, and (2) her heirs were not “persons in whose favor and against, whom the action might have been revived, if death had occurred before judgment.” This action having solely to do with the life estate of Elizabeth Kersey, her death casts nothing upon her heirs; and it must be assumed that where it is provided by the statute that, upon the death of a party, his heirs or personal representatives may be substituted, it can only occur in cases where the heirs or personal representatives succeed to the interest in the subject-matter of the action, and most certainly not in cases where the action abates with the death of the plaintiff, and nothing passed to the heirs. It is further provided by oúr statute (§649 Burns 1901) : “The death of any or all the parties shall not cause the proceedings to- abate; .but the names of the proper persons being substituted, upon consent or upon notice, the cause may proceed.” The heirs of Elizabeth Kersey are not the proper persons. The affirmance of the judgment would be of no benefit whatever to them. If this judgment were reversed, there could‘be no judgment against them for costs; and, if reversed and remanded, this action could not be prosecuted in the trial court in the names of these substituted appellees. It necessarily follows that if the cause could not be prosecuted in the trial court by the substituted appellees, an'appeal could not be prosecuted against them here. In an action of this kind, we do not see how a court could render a valid judgment of any kind against the heirs of Elizabeth Kersey. If appellants are placed in the best possible position, and the action of Elizabeth Kersey to cancel the deed defeated, and, following this action, she is held liable for the rental value of the land during the time she kept appellants out of possession, this rental value would be a general debt against her estate. It would be a claim against the administrator of her estate, and must be so collected, or not at all. Keither the heirs nor remainder-men could be held for such a claim.
+The names of the substituted appellees are stricken from the docket, and the appeal is dismissed.
