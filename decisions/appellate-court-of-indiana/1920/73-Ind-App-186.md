@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,253"
+decided: "1920-04-21"
+citations: ["73 Ind. App. 186"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Equitable Life Assurance Society of the United States v. James."]
+source_url: "https://static.case.law/ind-app/73/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2534289
+cites_cases: ["108 Ky. 11", "213 Ill. 9", "243 Ill. 560", "28 L. R. A. (N. S.) 181", "53 Ind. App. 24", "55 S. W. 695", "69 S. W. 662", "72 N. E. 764", "90 N. E. 1084", "96 Mo. App. 1", "99 N. E. 487"]
+---
+
+# Equitable Life Assurance Society of the United States v. James
+
+## Majority (Remy, P. J.)
+
+Remy, P. J.
+Action by appellee against appellant on a policy insuring the life of appellee’s husband. There-was a verdict and judgment for appellee. The only assigned error is the action of the court in overruling the motion for a new trial.
+On the trial there was no direct evidence of the death of the insured, but evidence was submitted by appellee showing his disappearance more than seven years before the commencement of the action; that at the time of his disappearance insured was fifty-three years of age, was married and living with his wife and children for whom he had great affection; that he was at the time addicted to the excessive use ■ of intoxicating liquor; that he had had pneumonia which left him in poor health resulting in his acquiring the morphine habit, because of which he had contemplated suicide; that since his disappearance no information whatever as to the whereabouts of the insured had been received, though diligent search had been made by his family and friends. On the other hand, appellant submitted evidence tending to show that a short time before his disappearance the insured had committed the crime of forgery; and two witnesses testified on behalf of appellant that they had each seen, him alive since his disappearance
+The only questions involved in this appeal relate to the law governing the presumption of death which arises from an absence of a person after the lapse of seven years. It is conceded by appellant that a presumption of death may arise from the continued and unexplained absence of a person from his home or place of residence for seven years. Appellant, however, contends that, under the evidence in the case at bar, there is no state of facts from which such a presumption could have arisen; that such presumption arises only from an unexplained absence, and that, where the absence is explained, or the person has been seen during the period of his absence, the presumption does not arise. These questions are presented under alleged errors of the court in the giving and refusing to give certain instructions, and that the verdict of the jury is contrary to law. These alleged errors will be considered collectively.
+The presumption of death which arises after a continuous absence for a period of seven years of one who left his home for a temporary purpose, and from whom no tidings have been received, is not a conclusive, presumption, , but may be rebutted by proof of facts and circumstances inconsistent with, and sufficient to overcome, such presumption. Policemen’s Benevolent Assn. v. Ryce (1904), 213 Ill. 9, 72 N. E. 764, 104 Am. St. 190. When, in an action of this kind, there is any evidence tending to rebut the presumption of death arising from such absence, it is for the jury to say whether such evidence is sufficient to rebut the presumption. Kennedy v. Modern Woodmen (1910), 243 Ill. 560, 90 N. E. 1084, 28 L. R. A. (N. S.) 181; 4 Wigmore, Evidence §2490. The fact that the insured, at the time of his disappearance, was guilty of the crime of forgery, and may have been a fugitive from justice, was properly admitted in evidence to rebut the presumption of death arising after seven years’ absence; but the proof of such fact did not, as a matter of law, overcome the presumption of death. Mutual Benefit Ins. Co. v. Martin (1900), 108 Ky. 11, 55 S. W. 695; Winter v. Supreme Lodge, etc. (1902), 96 Mo. App. 1, 69 S. W. 662.
+We hold that the evidence introduced by appellee was sufficient to raise the presumption that the insured was dead at the'time appellee commenced this action. However, if it can be said that the evidence submitted by appellant establishes, as a fact, that the insured hád been seen alive at any time during the seven years’ absence, the presumption of death arising from such absence, as shown by the proof of appellee, would be fully rebutted. Two witnesses were produced by appellant, each of whom testified to having seen and talked with insured since his disappearance. One of these witnesses was directly impeached, and the testimony of the other contained many inconsistent and contradictory statements relative to material matters. It is apparent from the verdict that the jury did not believe the statements made- by these witnesses, and, therefore, disregarded their testimony. It was within the province of the jury so to do. Lawlor v. State, ex rel. (1913), 53 Ind. App. 24, 99 N. E. 487; Kennedy v. Modern Woodmen, supra. The verdict of the jury is sustained by the evidence.
+The instructions when taken as a whole fairly state the law. The instructions tendered by appellant, so far as they are applicable, were covered by instructions given by the court on its own motion.
+Judgment affirmed.
