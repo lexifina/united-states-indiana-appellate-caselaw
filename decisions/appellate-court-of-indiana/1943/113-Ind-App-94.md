@@ -1,0 +1,39 @@
+---
+court: "Appellate Court of Indiana"
+docket: "16,970"
+decided: "1943-02-25"
+citations: ["113 Ind. App. 94"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Colberg v. Sebastian."]
+source_url: "https://static.case.law/ind-app/113/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1590627
+cites_cases: ["125 N. E. 400", "149 Ind. 632", "189 Ind. 189", "217 Ind. 408", "27 N. E. (2d) 879", "46 N. E. (2d) 716", "49 N. E. 797", "50 Ind. App. 468", "97 N. E. 946"]
+---
+
+# Colberg v. Sebastian
+
+## Majority (Dowell, J. —)
+
+Dowell, J. —
+Appellee, contractor and materialman, brought suit against appellant, owner, for enforcement of mechanic’s lien against real estate and for foreclosure. Appellee’s complaint was in two paragraphs, to which appellant filed no answer or cross-action; The parties having gone to trial without the issues having been closed the complaint will be deemed to have been controverted by a denial under the rules of pleading prevailing at the time (1938). The trial resulted in a judgment in favor of appellee in the amount of $750.00 together with attorney’s fee in the amount of $100.00 and’a foreclosure of the lien.
+Error assigned is the overruling of appellant’s motion for a new trial.
+In the early part of 1936, appellant made application to the Home Owners Loan Corporation, hereinafter referred to as* the Corporation, for a loan, which application was granted. One of the requirements of the Corporation was that certain repairs should be made to the property involved before the loan could be closed. A list of such repairs was submitted by the Corporation to prospective bidders and appellee submitted, on a bid form supplied by the Corporation, the successful bid. Appellee therein agreed to furnish labor and materials for the repairs to and alterations of the dwelling house and garages situated on the real estate for the sum of $1,265.00. Appellee, in his bid, agreed to be bound by a contract appended thereto which contained several provisions, those pertinent to the issues here being:
+1. Work was to begin within three days after notice of acceptance by the Corporation and to be completed within 40 days thereafter. (Note: The record does not disclose the date of acceptance, but appellee’s bid is dated February 17th, 1936.)
+2. Work was to be done in a substantial and workmanlike manner and contractor was to obtain and deposit with the Corporation satisfactory releases of liens and claims for liens of contractors, subcontractors, laborers, materialman, etc.
+'3. Work was to be done to the satisfaction and approval of the Corporation.
+4. The Corporation was to hold, in escrow deposit, the amount of the bid, i. e., $1,265.00 and to pay same to appellee upon completion of the work in a manner satisfactory to the Corporation.
+A disagreement having arisen between appellee and appellant as to the quality of some of the work and as to the alleged failure of appellee to perform certain portions thereof, the Corporation refused to pay over the amount of the escrow deposit and still holds same.
+On September 24, 1937, and within sixty days after furnishing certain labor and materials appellee' filed notice of his intention to hold a lien on the premises for the amount due. The amount was not paid, whereupon appellee brought his action in the court below.
+Specifications 3, 4, 5, 6 and 7 of appellant’s motion for new trial relate to alleged erroneous reception of evidence by the trial court over appellant’s objection. We find no error here.
+In considering appellant’s remaining specifications, i. e., the decision of the court is not sustained by sufficient evidence; and, the decision of the court is contrary to law, the evidence most favorable to appellee discloses that appellee was approved as contractor by the Corporation; that the work was to be performed to the satisfaction of the Corporation and not the owner; that appellee did certain work and furnished certain materials which were applied to the real estate here involved and that during the progress of the work it was inspected many times by engineers and inspectors of the Corporation who made only minor objections and criticisms and that appellee took prompt steps to remedy such objections when they were called to his attention; that appellant, owner, had difficulty in making up her mind as to selections of paint, wallpaper, etc., and on one occasion an inspector spent a half day with appellee’s painters and appellant attempting to obtain a color combination.to suit appellant; that the work was delayed many times by appellant’s objections and criticisms, her refusals to permit the work to proceed and her demands for alterations and departures from the contract provisions; that appellant insisted on complete retiling of bathrooms when the contract provision was for replacement of missing and broken tile; that appellant refused to make a selection of wall paper, thereby delaying the work of papering; that by reason of her refusal to select wall paper and bathroom tile the appellee was unable to complete the work of papering and retiling and that this portion of the work was still uncompleted at the time of the trial in the court below; that appellant refused to proceed to arbitration in conformity with arbitration provisions of the contract; that appellant ordered appellee’s employees off the premises on several occasions; that appellee was ready and willing to complete the work and willing to proceed to arbitration but that appellant refused; that appellee expended $1,525.18 on the work whereas the contract price thereof was $1,265.40; that the estimated cost of completing the work was from $496.00 to $625.00; that the Corporation still holds in escrow the deposit of $1,265.40, no part of which has been paid to appellee.
+We are of the opinion that the evidence was .sufficient to sustain the finding of the trial court.
+Appellant urges that appellee, having declared upon a special contract in the trial court, could not recover on an implied contract. This contention, we believe is not supported by the authorities. Whether the action is called an action on the contract or a common count for work and labor and' material is of no importance under our Code, which requires only a statement of the facts which will entitle the plaintiff to recover. Western Wheeled Scrcaper Co. v. Scott Const. Co. (1940), 217 Ind. 408, 417, 27 N. E. (2d) 879.
+Appellant also contends that appellee, having sued on a special contract, could not recover on a quantum meruit. This point is not well taken. It has been held that where one enters into a special contract to furnish materials to another and is prevented from completing his contract by the other party he may recover for the materials furnished on the quantum meruit not to exceed the contract price. French v. Cunningham (1898), 149 Ind. 632, 49 N. E. 797; Cullen-Friestedt Co. v. Turley (1912), 50 Ind. App. 468, 97 N. E. 946.
+Appellant also points out the lien release clauses in the contract and claims that these operate as waivers of lien on the'part of appellee. This we do not pass upon for the reason that such issue was not raised by special pleadings before the trial court. Baldwin, etc., Works v. Edward Hines. Lumber Co. (1920), 189 Ind. 189, 125 N. E. 400, 40 C. J. 439, § 607.
+Although the evidence in the instant case is somewhat conflicting, it seems clear to this court that appellee was prevented from carrying out and completing his contract by the appellant. The amount of recovery could be measured by the contract price less the estimated cost of completing same. The amount awarded by the trial court was well within this limitation.
+The decision of the court below was not contrary to law.
+Affirmed.
+Note. — Reported in 46 N. E. (2d) 716.
