@@ -1,0 +1,35 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,725"
+decided: "1919-02-13"
+citations: ["69 Ind. App. 348"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bayh et al. v. Hanna."]
+source_url: "https://static.case.law/ind-app/69/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2551856
+cites_cases: ["11 Ind. App. 20", "155 Ind. 581", "38 N. E. 536", "52 L. R. A. 307", "58 N. E. 833"]
+---
+
+# Bayh v. Hanna
+
+## Majority (McMahan, J.)
+
+McMahan, J.
+Action by the appellants against the appellee on a promissory note, of which the following is a copy:
+“$300.00 Patricksburg, Ind.,
+January 27, 1913.
+“Ninety days after date, for value received, we or either of us, promise to pay to the order of the Patricksburg Bank, Bayh Bros., Three Hundred Dollars. Negotiable and payable at the Patricksburg* Bank, Patricksburg, Indiana, without any relief from Valuation or Appraisement Laws, with interest at 8% per annum, after maturity, until paid, and ten per cent, attorney’s fees. The drawers and endorsers severally waive presentment' for payment, protest and notice of protest and nonpayment of this note. '
+“Indiana Coal and Clay Co., “George "W. Hanna, Pres.
+“No. 614. Due April 27, 1913.”
+The complaint alleges that prior to January 27, 1913, the appellants sold, and by written indorsement assigned to the Patricksburg Bank of Patricksburg, Indiana, a certain promissory note calling for $300, which had been executed by the Indiana Coal and Olay Company, a corporation; that upon the maturity of said note the bank demanded that the same be paid or renewed; that the said company, being financially embarrassed, requested a renewal; that the appellants refused to indorse such renewal note for such company without further security thereon, but that they consented to indorse such renewal note on condition that the appellee, who was the president of said company, would sign said renewal note ■with said company as one of the makers thereof, and that said company and the appellee, for the purpose of inducing the bank to accept such renewal note and for the purpose of obtaining the indorsement of the appellants on such a note, caused the cashier of said bank to draw up the note in controversy. That the said company signed its corporate name thereon with a rubber stamp and ink, and that the appellee then signed his name thereto by the use of a pen and ink, and that after so signing the same said company and appellee presented the same to appellants for their indorsement as requested by the bank; that in response thereto appellants, believing that the appellee had so signed such note as such additional security, indorsed said note in writing on the back thereof and delivered the same to the appellee, who at once delivered the same to said bank,.' and that the bank therefor surrendered and delivered the said first note to the said Coal and Clay company for cancellation as being paid and satisfied; that upon the maturity of said renewal note the said company and the appellee failed, and refused to pay the same; that appellants were compelled to and did pay the same, and that the said bank by delivery assigned said note to the appellants. The bank was made a defendant to answer as to its interest in such note.
+The appellee demurred to the complaint for want of facts, with memorandum that the note shows on its face that it is the note of the Indiana Coal and Clay Company; that appellee is not a joint maker, and that there is no allegation in the complaint showing that appellee signed the note as an individual.
+The demurrer was sustained, and, appellants refusing to plead further, judgment was rendered against them. The ruling' on the demurrer is assigned as error.
+It will be observed that the note reads, “We or either of us promise to pay,” and “The drawers * * * severally waive presentment.” It is joint and several in form. The name of the corporation does not appear in the body of the instrument, so there is nothing in the language of the note itself to indicate that it is, or was intended to be, the obligation of the corporation alone, and that it was not also to be the obligation of tbe appellee. This being true, we must look to the signatures attached to the note, and there we find two distinct and separate names, each of which is complete within itself. There is nothing whatever on the face of the note in controversy or in the complaint to indicate that the appellee signed it as the agent of the Coal and Clay company, nor is there anything to show who signed the name of the company.
+This court in Swarts v. Cohen (1894), 11 Ind. App. 20, 38 N. E. 536, in construing a note signed the same way as the note in question, said: “It seems to be well settled by the decisions in this State that when a note is signed by an individual maker with such a word as ‘trustee,’ ‘president’ or ‘secretary,’ immediately following the signature, such word is generally considered as merely descriptive of the person of the maker, and the note is the obligation of the person so signing it.”
+The Supreme Court in Second Nat. Bank v. Midland Steel Co. (1900), 155 Ind. 581, 58 N. E. 833, 52 L. R. A. 307, reviewed the cases in this state, and, while deprecating this doctrine as unreasonable, adhered to the rule, saying: “The court, while adhering to the rule that the words affixed to the names of the persons signing an instrument are to be treated as here descriptio personarum, deprecates the doctrine as an unreasonable one, and holds, whenever possible, that when the contract itself shows that the words were not merely descriptive of the person, they will not be so regarded.” And further on, in the same opinion (page 587), the court, in quoting from another authority, said: “ ‘Upon principle, the true question for consideration in every case is, or, at least, ought to be, whether, taking the writing as a whole, it sufficiently appears therefrom that it is intended to be binding upon the corporation rather than upon the agent who has signed it. * * * Of course, if he only describes himself as an agent or officer without indicating who his principal is, the instrument must necessarily be accepted as the obligation of the agent.”
+Where one signs as the agent of another, the prima facie presumption is that the words are merely descriptio personae, and therefore the one so signing is personally bound, yet, in an action between the- original parties, under proper pleadings, the real intention may be shown. 3 R. C. L. 1095.
+We are aware of the fact that there is a long line of cases in other states holding that a note signed lite the one in this case is the obligation of the corporation, and that the individual is not liable, but Indiana is committed to a different rule. It is not necessary to enter into a discussion of the authorities, as the cases cited are decisive of the question.
+Judgment reversed, with instructions to overrule the demurrer to the complaint.
