@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,894"
+decided: "1913-10-17"
+citations: ["55 Ind. App. 452"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tharp v. Updike et al."]
+source_url: "https://static.case.law/ind-app/55/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5191354
+cites_cases: ["102 N. E. 855", "18 Am. Dec. 377", "1912 C 927", "26 Ind. 424", "30 L. R. A. 306", "33 Am. Rep. 269", "89 Am. Dec. 471"]
+---
+
+# Tharp v. Updike
+
+## Majority (Lairy, J.)
+
+Lairy, J.
+Appellees, John Updike, Levi IT. Updike and Ollie M. Sprinkle are the children of appellee, Benjamin P. Updike and his deceased wife Nancy J. Updike. The maiden name of Nancy J. Updike was Hoover; and, prior to her marriage to Updike in 1880, she had been married to a man named Landis by whom she had two children, Mina Tharp, the appellant and a Mrs. Sours who originally joined in the complaint but afterward dismissed. In 1891, Benjamin P. Updike and his wife Nancy J. purchased a farm of eighty acres in Huntington County, taking the title thereto in their joint names. They lived on this land as their home and continued to own it until the death of the wife which occurred a short time before the commencement of this suit. Soon after her mother’s death, appellant instituted this suit by filing a complaint in two paragraphs the first of which alleged that plaintiff and the defendants were the owners of the eighty-acre tract of land as tenants in common and prayed partition. The second paragraph described the same eighty-acre tract and alleges that it was bought and paid for with money belonging to Nancy J. Updike which she secured upon the settlement of the estate of her father, John Hoover. It is further alleged in this paragraph that at the time of the purchase, it was agreed that the title should be taken in the names of Benjamin P. Updike and Nancy J. Updike and that they should hold the land in trust for Nancy J. Updike and not as tenants by the entire-ties. The prayer was for partition. There was a trial by the court and a finding and judgment for the defendants.
+The action of the trial court in overruling appellant’s motion for a new trial is assigned as error. The only question presented and argued is the sufficiency of the evidence to sustain the finding. A conveyance of land to a husband and wife creates a tenancy by entireties and the survivor takes the whole by his right of survivorship. Davis v. Clark (1866), 26 Ind. 424, 89 Am. Dec. 471. It is not claimed that the evidence shows an express trust in the real estate in controversy in favor of Nancy J. Updike, and the facts proved are not sufficient, under the statute of this State to show an implied or resulting trust. Section 4017 Burns 1908, §2974 R. S. 1881, reads as follows: “When a conveyance for a valuable consideration is made to one person, and the consideration therefor paid by another, no use or trust shall result in favor of the latter; but the title shall vest in the former, subject to the provisions of the next two sections.” The next section does not apply to the facts of this case, but §4019 Burns 1908, §2976 R. S. 1881, reads as follows: “The provisions of the section next before the last shall not extend to cases where the alienee shall have taken an absolute conveyance in his own name without the consent of the person with whose money the consideration was paid; or where such alienee, in violation of some trust, shall have purchased the land with moneys not his own; or where it shall be made to appear that, by agreement and without any fraudulent intent, the party to whom the conveyance was made, or in whom the title shall vest, was to hold the land or some interest therein in trust for the party paying the purchase-money or some part thereof. ’ ’
+There is evidence in this ease to show that some of the money received by Nancy J. Updike from her father’s estate was applied to the purchase price of this land, but the amount so applied is not shown. There is also evidence from which the court may have found that a considerable amount of money belonging to the husband was applied to the payment of the purchase price. There is no evidence that the title was placed in the joint names of Benjamin P. Updike and his wife without the consent of the wife, and there is no evidence that there was any agreement entered into at the time of the conveyance by the terms of which the title was to be held in trust for Nancy J. Updike.
+The evidence is clearly sufficient to sustain the decision of the trial court and appellant’s motion for a new trial was properly overruled. Judgment affirmed.
+Note.—Reported in 102 N. E. 855. As to tenancy by entirety, see 18 Am. Dec. 377; 33 Am. Rep. 269; 30 L. R. A. 306. As to the sufficiency of a deed to create a tenancy by entirety, see Ann. Cas. 1912 C 927. See, also, under (1) 21 Cyc. 1195, 1198; (2) 39 Cyc. 160.
