@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,269"
+decided: "1925-07-01"
+citations: ["83 Ind. App. 497"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bailey v. Humrickhouse."]
+source_url: "https://static.case.law/ind-app/83/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5306030
+---
+
+# Bailey v. Humrickhouse
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Appellee filed a claim with, the Industrial Board against appellant for compensation under the Workmen’s Compensation Act for injuries sustained by appellee on June 4, 1924, when he slipped and fell from the roof of a garage.
+The cause was first submitted to, and the evidence heard by, one member of the Industrial Board, who made a finding to the effect that the employment of appellee was casual and an award that he was not entitled to compensation. Afterward, and on the same evidence, the full board reviewed the evidence and, by a majority of its members, reversed the finding and award of the hearing member and awarded appellee compensation at the rate of $9.90 a week during total disability, not exceeding $5,000 as to amount or 500 weeks as to time. The hearing member did not concur in the finding and award of the full board. On appeal, appellant assigns that the award was contrary to law.
+It appears by the undisputed evidence that appellee went to appellant about the last of April, 1924, and asked for work. He had done some little odd jobs for appellant about two years before. He was then told by appellant that he, appellant, had a few odd jobs and a little repair work. Appellee then commenced working, and says that he worked most of the time, except when it rained, and except a week or two when appellant was away, until June 4, when he was hurt. Appellant says that he worked about three weeks in all. There is no serious contradiction .here. During this time, appellee cleaned up some vacant lots in Anderson belonging to appellant, helped dig a cellar part of a day, at appellant’s home, washed his house, white-washed the interior of his garage and painted the exterior, and went out to appellant’s farm and trimmed some hedge. When this was done, appellant paid him and told him that he did not know whether he would have any more work or not, but that he had planned to go on a trip to Ohio.' Appellee then did no more work for appellant. But when appellant returned from Ohio, appellee again went to appellant and asked him for work, when appellant told him that he had no work, but that he was helping his son-in-law build a little garage, and that appellee might go out and help them with that work, and they, could get through m a day. After being delayed for two days on account of rain, they went to the son-in-law’s farm, when appellant informed his son-in-law that he had brought a hand with him that they might get through in a day, and the son-in-law said it was all right. Appellant was working gratuitously for his son-in-law. It was while working on the garage, and about noon of the same day that they went to the son-in-law’s farm to help on the garage, and while they were putting the roof on, that appellee received the injury for which he asks compensation. Appellant having reported the employment of appellee to his son-in-law, for whom he was working gratis, and who ratified it, and the work performed being wholly for the benefit of the son-in-law, appellant contends that appellee was the employee of the son-in-law rather than of appellant, and further, that as the son-in-law was the owner of the farm on which the garage was being built, and appellee was employed as he was to help put a roof thereon, he was a farm laborer. There is force in each of these contentions, but we do not heed to determine them.
+Even if it be conceded that appellee was not a farm laborer in the performance of the work in which he was engaged when injured, and regardless of whether. he was the employee of appellant or of the son-in-law, still he was not entitled to compensation under the compensation act, for he was clearly but a casual employee. When he had finished the odd jobs that appellant had for him to do, he was paid for his services, and had been told by appellant that he did not know that he had any more work for him. Thereupon, appellant* went on a trip to Ohio. About two weeks afterward, and upon appellant’s return, appellee again made application for work, when he was given a one day’s job on the garage, and during its performance, he was injured. Certainly, it must be said that such an employment, whether by appellant' or the son-in-law, was both casual and not in the usual course of the trade, business, occupation or profession of. the employer.
+The award of the Industrial Board is reversed.
