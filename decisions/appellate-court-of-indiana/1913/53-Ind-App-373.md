@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,969"
+decided: "1913-05-07"
+citations: ["53 Ind. App. 373"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peterson v. Downey."]
+source_url: "https://static.case.law/ind-app/53/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5114799
+cites_cases: ["1 Ind. App. 28", "101 N. E. 737", "146 Ind. 287", "164 Ind. 609", "27 N. E. 438", "29 N. E. 572", "3 Ind. App. 278", "32 N. E. 590", "45 N. E. 341", "5 Ind. App. 457", "58 Am. Dec. 392", "73 N. E. 109"]
+---
+
+# Peterson v. Downey
+
+## Majority (Hottel, J.)
+
+Hottel, J.
+— This is an appeal from a decision of the Lake Circuit Court, rendered on an application to be relieved from a judgment taken by default.
+The record discloses that the original complaint in the action in which such judgment was taken was filed in said court, May 6, 1908, and on the same day appellant was served with a summons to appear and answer such complaint May 25, 1908. At the September term of such court, to wit: September 8, 1908, the appellant appeared by his attorney, L. T. Meyer, and filed a motion to make the complaint more specific. During the same term, to wit, on Sept. 23, 1908, appellant filed his affidavit for a change of venue from Lake County where said cause was then pending, and said cause was venued to the Porter Circuit Court. At the October term, 1909, of the Porter Circuit Court, to wit: on Oct. 26, 1909, said cause was certified back to the Lake Circuit Court as per stipulation of the attorneys for appellant and appellee set out in the record. At the February term, 1910, of the Lake Circuit Court, to wit: on March 11, 1910, the appellee filed an amended complaint. At the April term of said court, to wit: on April 26, 1910, the court ordered that the appellant file his answer to such complaint on or before April 29, 1910, and on May 4, following, and during such April term, such court, because of the failure of appellant to answer the appellee’s amended complaint in compliance with its'said order, found that the appellee was “entitled to judgment against appellant pro confesso as upon a default” and said cause was submitted to the court for hearing and trial and judgment rendered in appellee’s favor. On September 6, 1910, and during the September term, of said court, the appellant filed his verified petition to set aside the default, and open up and vacate the judgment, and supported it by an affidavit of one of his attorneys. To this petition counter-affidavits-were filed and the petition overruled, from which ruling this appeal is prosecuted.
+It is claimed by appellee that on account of some alleged omissions and irregularities in the appellant’s bill of exceptions, no question is presented to this court and that for this reason the judgment should be affirmed. We deem it unnecessary to consider this question for the reason that a careful examination of the record convinces us that the judgment should be affirmed on its merits. While the section of statute on which appellant’s petition is based, viz., §405 Burns 1908, §396 R. S. 1881, makes it the imperative duty of the trial court to set aside a judgment by default for the mistake, inadvertence, surprise or excusable neglect of the party against whom it was taken, “yet whether or not such mistake, inadvertence, surprise or excusable neglect has been shown is a question for the determination of the court from all the evidence given for or against the application, and where such evidence is conflicting, it will not be weighed on appeal and the judgment of the lower court will be sustained as in all other cases of conflicting evidence.”
+Nor does the fact that all of the evidence given upon such question was by affidavit, change this rule, because by the repeated holdings such affidavits are not “regarded as documentary evidence, the force and effect of which is to be construed by the court on appeal, but they are regarded in the nature of depositions and the rules for weighing parol testimony are applied.” Wells v. Bradley, Holton & Co. (1892), 3 Ind. App. 278, 280, 29 N. E. 572, and authorities there cited.
+It is open to question whether appellant by the affidavits accompanying his petition shows a sufficient excuse for the continued delay and lack of attention given to his case, evidenced by the record, but in any event, when this showing is considered in connection with the counter-affidavits, we are convinced that the decision of the trial court on such application was not only supported by some evidence, but that it was clearly right on the evidence and in accord with the decisions of the Supreme Court and this court. Wells v. Bradley, Holton & Co., supra; Parkinson v. Thompson (1905), 164 Ind. 609, 625, 73 N. E. 109, 3 Ann. Cas. 677; Hoag v. Old People’s Mut., etc., Soc. (1891), 1 Ind. App. 28, 33, 27 N. E. 438; Schofield v. Starnes (1892), 5 Ind. App. 457, 458, 32 N. E. 590; Moore v. Horner (1896), 146 Ind. 287, 45 N. E. 341, and authorities cited.
+Judgment is therefore affirmed.
+Note. — Reported in 101 N. E. 737. See, also, under (1) 3 Cyc. 366; (2) 3 Cyc. 377. As to what measure or sort of negligence or mistake by defendant in suffering judgment to be taken against him entitles him to have the judgment vacated, see 96 Am. St. 109. As to statutes authorizing vacation and setting aside of default judgments, see 58 Am. Dec. 392.
