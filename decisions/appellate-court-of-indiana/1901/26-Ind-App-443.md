@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,332"
+decided: "1901-04-02"
+citations: ["26 Ind. App. 443"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago and Southeastern Railway Company v. Adams."]
+source_url: "https://static.case.law/ind-app/26/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4873674
+cites_cases: ["113 Ind. 10", "12 Ind. App. 317", "122 Ind. 454", "19 Ind. App. 137", "2 Ind. 238", "43 Am. Rep. 61", "51 Ind. 487", "7 Blackf. 293", "7 L. R. A. 495", "83 Ind. 86"]
+---
+
+# Chicago & Southeastern Railway Co. v. Adams
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+Appellee recovered judgments before a justice of the peace for stock killed. He filed certified transcripts of these judgments in the office of the clerk of the circuit court, and in his complaint he now asks a writ against appellant’s agent to appear and answer as to moneys in his hands belonging to appellant, according to the provisions of §5317 Burns 1894. A proceeding under the statute is not an appeal, nor in the nature of an appeal, from the judgment of the justice, but is an original action under the statute. When the certified transcript is filed and recorded in the circuit court it then becomes a record of that court. Eormerly a proceeding like that at bar was regarded simply as an ancillary proceeding, requiring a notice and motion for the relief asked (Logansport, etc., R. Co. v. Patton, 51 Ind. 487), but it is now held that such a proceeding is a civil action, and that the so-called motion is a complaint which may be tested by a demurrer. Chicago, etc., R. Co. v. Summers, 113 Ind. 10, 3 Am. St. 616.
+The objection to the complaint that it does not show that the justice had jurisdiction is well taken. In the case of Chicago, etc., R. Co. v. Harris, 19 Ind. App. 137, it is held that “Courts of justices of the peace are courts of special and limited jurisdiction, and where a party to an action, in pleading, relies upon or claims a right under the judgment of a justice of the peace, there is no presumption of jurisdiction, and the facts showing jurisdiction must be shown, or, in this State, the general averment permitted by the statute must be made.”
+Section 372 Burns 1894, §369 Horner 1897, provides: “In pleading a judgment or decision of a court or officer of special jurisdiction, it shall be sufficient to allege, generally, that the judgment or decision was duly given or made. If the allegation be denied, the facts conferring jurisdiction must be proved on the trial.” The complaint in the case at bar does not aver facts showing jurisdiction, nor does it contain the general allegation provided by the above section. See Chicago, etc., R. Co. v. Adams, 12 Ind. App. 317. The demurrer to each paragraph of the complaint should have been sustained.
+Appellant answered in denial, and also filed a cross-complaint alleging that in 1898 appellee obtained a judgment against appellant in the circuit court, that appellant appealed to the Appellate Court, which reversed the judgment, “and said judgment still remains unpaid and unsatisfied.' Before said judgment was reversed, in July, 1893, this defendant by writ and order from said court directed against its agent at Lebanon, W. B. Bailey, was compelled to pay and did pay into the clerk’s office of the Boone Circuit Court said judgment, cost, and interest in the sum of $142.25; said sum was paid by said clerk to A. J. Adams, plaintiff, in 1893, before the reversal of said judgment;” that demand was made and payment refused, and that the same is due and remains unpaid. A demurrer to this cross-complaint was sustained.
+This demurrer should have been overruled. Appellant paid the money because of the judgment. It was the sole consideration for the payment. The reversal of the judgment by the Appellate Court made the judgment from that time a nullity. The consideration for the payment has failed. Appellee is entitled to no benefits from that judgment because it ought not to have been recovered. Until he does recover a judgment he is entitled to nothing, and until that time the money paid in by appellant belongs to appellant. The payment was not voluntary because it was paid upon the court’s order. If, after the reversal, appellee pursued the matter and obtained another judgment, that would properly be a defense to the cross-complaint. The suit may be pending in the circuit court, but as appellee’s right to the money depends upon his having a judgment, he is necessarily the moving party. The reversal left the parties to proceed below as if judgment had never been entered. When appellant shows that the judgment, which was the consideration for the payment, has been declared a nullity,1 the law raises an obligation against appellee, who received the benefit of the judgment, to make restitution. See Thompson v. Reasoner, 122 Ind. 454, 7 L. R. A. 495; Smith v. Zent, 83 Ind. 86, 43 Am. Rep. 61; Glover v. Foote, 7 Blackf. 293; Clark v. Pinney, 6 Cowen 297; Martin v. Woodruff, 2 Ind. 238.
+Judgment reversed, with instructions to sustain the demurrer to each paragraph of complaint.
