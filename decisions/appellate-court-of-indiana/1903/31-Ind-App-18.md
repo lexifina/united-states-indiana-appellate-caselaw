@@ -1,0 +1,23 @@
+---
+court: "Appellate Court of Indiana"
+docket: "4,314"
+decided: "1903-04-10"
+citations: ["31 Ind. App. 18"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Small v. Finch."]
+source_url: "https://static.case.law/ind-app/31/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2419448
+cites_cases: ["18 Ind. 439", "19 Ind. App. 1", "24 Ind. App. 572"]
+---
+
+# Small v. Finch
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+Appellant brought suit in replevin against appellee Finch, a constable, and one Henry Mart-ling to recover possession of certain personal property. Martling hied an answer, designated a “plea in abatement,” disclaiming any interest in the property, that it had never been in his possession or under his control, that he did not assume control of the writ or direct its execution, that the property was seized by the officer by virtue of the writ alone; and the action as to him, was, in effect, dismissed. Finch answered that on April 25, 1901, he was, and still is, a constable; that on -that day a justice of the peace delivered to him a writ of restitution, commanding him to put Martling in possession of certain premises, and to remove therefrom one W. H. Small, and to make of the goods of Small a named sum, for which Martling had judgment; that by virtue of the writ he levied on and seized as the goods of Small certain- described personal property, and made due return thereof; that on June 28, 1901, the day on which the property was seized under the writ, appellant, the wife of W. H. Small, filed her verified complaint before the justice who issued the writ of restitution, making Martling and Einch defendants, and averring that on June 28^ 1901, by virtue of an execution issued before that time by such justice to Einch as constable, in.favor of Martling and against the property of W. H. Small, the constable levied upon and seized certain described personal property (the same property described in the complaint in this action). She further averred that at the time this property was her individual property. The answer further alleges that Martling and Einch were duly summoned, and appeared to defend the action on the day it was set for trial, but that the justice, upon the affidavit of Martling, having required the plaintiff, a nonresident, to give bond for costs, she thereupon dismissed her action. The answer further alleges that that complaint was sufficient to try the right of property under the statute; that the property described therein is the same property described in the complaint in this action; that she did not prosecute such suit, but dismissed the same without any fault of this appellee. Overruling a demurrer to this answer is the only question argued.
+The only argument against this paragraph of answer is that it does not appear that the appellee ever served appellant with the notice required by §1613 Burns 1901, and the case of Patterson v. Snow, 24 Ind. App. 572, is cited. Upon this point that case simply holds that the fact that the party had actual notice of the seizure did not dispense with the required statutory notice, and the rights of the party claiming the property could not be barred, under the statute, unless he failed to respond to the statutory notice. In the case at bar, appellant not only knew of the seizure, but had instituted proceedings against the officer to try the right of property under the statute. On the day the property was seized, and under the provisions of the statute, she instituted proceedings asserting her claim to the property. She did have actual notice of the seizure, and while she could not he required to act upon such notice, yet she might do so, and she did do so, and asserted her claim to the property under the statute. She voluntarily did all she would have been required to do had the statutory notice been given, and, having instituted the proceedings, the statute (§1614 Burns 1901) provides that her failure to prosecute the same to final judgment with reasonable diligence is a bar to any action against such officer or the purchaser of such property on account of the same. The object of the notice is to call the attention of the party to the specific property seized, and, while no action is required unless the statutory notice is given, yet the officer is no less entitled to the protection the statute gives him because of the fact that the action is voluntarily begun under the statute. Wright v. Shelt, 19 Ind. App. 1; Firestone v. Mishler, 18 Ind. 439; Patterson v. Snow, supra; §§1591-1614 Burns 1901.
+Judgment affirmed.
