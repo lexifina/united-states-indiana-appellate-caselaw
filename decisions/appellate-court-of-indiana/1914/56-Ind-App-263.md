@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,295"
+decided: "1914-05-13"
+citations: ["56 Ind. App. 263"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roback v. City of Greenfield."]
+source_url: "https://static.case.law/ind-app/56/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432596
+cites_cases: ["100 N. E. 313", "101 N. E. 103", "102 N. E. 449", "105 N. E. 163", "180 Ind. 38", "45 Ind. App. 70", "48 Ind. App. 562", "50 Ind. App. 425", "52 Ind. App. 59", "54 Ind. App. 125", "90 N. E. 136", "96 N. E. 196", "96 N. E. 649", "98 N. E. 654"]
+---
+
+# Roback v. City of Greenfield
+
+## Majority (Hottel, J.)
+
+Hottel, J.
+Appellant filed a complaint in the court below in which he sought to recover damages for injuries alleged to have resulted from a fall caused by an obstruction on a sidewalk along one of appellee’s streets. This is a second appeal. The controlling averments of the complaint are set out and their sufficiency determined in the former opinion, City of Greenfield v. Roback (1909), 45 Ind. App. 70, 90 N. E. 136, and need not now be repeated.
+A trial by jury resulted in a verdict in favor of appellee. Appellant’s motion for a new trial was overruled and judgment rendered on the verdict. Prom this judgment appellant appeals and assigns as error the ruling on such motion. This motion states sixty separate reasons therefor; two predicating error on the giving of each of a number of instructions, aggregating twenty-seven in all; one based on the refusal to give one of appellant’s instructions; another based on the refusal of the court to require the jury to return to its room to answer specifically one of the interrogatories filed with the general verdict; another charges that the verdict is not sustained by the evidence; another that the verdict is contrary to law; and the remainder relate to the admission and exclusion of evidence. It would be impossible to set out these numerous rulings relied on for reversal and. discuss and dispose of each separately without extending this opinion to an unreasonable length. A careful examination of the instructions complained of, the questions presented by the admitted and excluded evidence and the answers to interrogatories convinces us that there is no necessity for our considering said several errors separately. It is not every error that is available on appeal and it is the duty of this court to search the record to affirm. Sections 407, 700 Burns 1914, §§398, 658 R. S. 1881, expressly inhibits the courts of appeal from reversing a cause for technical errors that do not affect the substantial rights of the appealing party. Many of the rulings relied on by appellant, even if conceded to be erroneous, are of this character, especially when considered in the light of the answers' to interrogatories and the more recent decisions of the Supreme Court which show a tendency to give a broader meaning to and authorize a stricter enforcement of the provisions of said sections.
+It must be conceded, however, that some of the errors relieid on are not wholly technical in character, and, but for the answers to interrogatories, especially the answer to No. 19, would probably require a reversal of the ease. This interrogatory and the answer thereto are as follows: “Were the steps in question on the public sidewalk a sufficient distance to render such sidewalk dangerous for travel? Answer, No.” In the former appeal this court held that whether the street in the condition described was reasonably safe for travel was a question about which reasonable men might differ and hence a question of fact for the jury. We have no doubt as to the correctness of the conclusion reached in that case, but whether correct or incorrect, it is the law of this case, by which this court as well as the parties to this appeal are bound. The jury has answered the question, and by its answer has indicated that appellant has no cause for complaint against appellee, or in other words, no cause of action against it. This answer indicates the ground on which the jury predicated its general verdict and prevents a reversal, unless We can say that it was induced or influenced by some one or more of the rulings which but for it would constitute reversible error. A careful examination of such erroneous rulings convinces us that they could have had no possible influence on this answer. It follows that the alleged erroneous rulings were harmless and should not work a reversal of the judgment below. Lake Shore, etc., R. Co. v. Myers (1912), 52 Ind. App. 59, 98 N. E. 654, 100 N. E. 313; Gregory v. Arms (1911), 48 Ind. App. 562, 96 N. E. 196; Chicago, etc., R. Co. v. Hamerick (1912), 50 Ind. App. 425, 96 N. E. 649; Partenheimer v. Southern R. Co. (1913), 54 Ind. App. 125, 101 N. E. 103; New York, etc., R. Co. v. Lind (1913), 180 Ind. 38, 102 N. E. 449.
+Judgment affirmed.
+Note. — Reported in 105 N. E. 163. See, also, under (1) 3 Cyc. 444; (2) 3 Cyc. 386; (3) 3 Cyc. 395; (4) 3 Cyc. 385.
