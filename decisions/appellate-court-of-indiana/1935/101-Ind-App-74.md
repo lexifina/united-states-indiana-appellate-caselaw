@@ -1,0 +1,42 @@
+---
+court: "Appellate Court of Indiana"
+docket: "15,526"
+decided: "1935-11-07"
+citations: ["101 Ind. App. 74"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hahn v. Grimm."]
+source_url: "https://static.case.law/ind-app/101/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1567980
+cites_cases: ["117 N. E. 507", "13 A. L. R. 952", "149 N. E. 922", "174 N. E. 517", "187 Pac. 926", "65 Ind. App. 408", "68 Colo. 69", "84 Ind. App. 37", "92 Ind. App. 158"]
+---
+
+# Hahn v. Grimm
+
+## Majority (Bridwell, J.)
+
+Bridwell, J.
+On the 17th day of November, 1988, appellant, while in the employ of appellee, suffered an injury by reason of an accident arising out of and in the course of his employment, resulting in the loss of more than two phalanges of the index finger of his right hand. He filed with the Industrial Board of Indiana his application for adjustment of his claim for compensation against appellee, and appellee, thereafter, filed a special answer wherein various reasons why compensation should not be awarded were alleged. Such' further proceedings were had as resulted in a hearing before the full Industrial Board on appellee’s application for review of an award made by one member of the board, and following this hearing, the award was made from which this appeal was perfected, appellant assigning as error that such award is contrary to law.
+The finding of facts and award of the Industrial Board, omitting formal parts, are as follows:
+“The full Industrial Board . . . now finds that plaintiff was in the employ of defendant on November 17, 1933, at an average weekly wage of $9.00; that on said date plaintiff suffered an accidental injury which resulted in the loss of more than two phalanges of the index finger of his right hand. And the full Industrial Board further finds by a majority of its members, that at the time of the accidental injury defendant and the plaintiff were engaged in farm labor and that the Industrial Board is without jurisdiction in the premises.
+ORDER.
+“It is therefore considered and ordered by the Industrial Board of Indiana, by a majority of its members, that plaintiff’s application for the adjustment of a claim for compensation filed January 31, 1935, should be and the same (is) hereby dismissed for lack of jurisdiction.”
+Appellant contends that the undisputed evidence in this case proves that he was not a farm or agricultural employee and that the finding of the board is not sustained by sufficient evidence, asserting that all the evidence shows that at the time of his injury he was employed by appellee to work with a corn shredder owned by appellee and used by him in the business of shredding corn for others; that he (appellant) was employed to feed such shredder while it was being operated, and to clean, oil, grease and keep such shredder in repair.
+The evidence, without conflict, shows that appellee was a farmer and that he also owned a threshing machine, á saw mill, and a corn shredder; that it was his custom each season to shred corn for others for hire, he furnishing the shredder; that in the year 1933, previous to the date of appellant’s injury, he had shredded corn for others for a period of at least twenty days (appellee says twenty days, appellant three to four weeks), moving his corn shredder from place to'place; that on the day of the injury appellee intended to shred his own corn, and that morning, before the actual work of shredding had commenced, appellant was cleaning said machine, when his finger was caught between the “rollers” of the shredder, and he sustained the injury for which he sought compensation.
+There is no evidence tending to prove that appellant had been employed by appellee as a farm hand to do general farm work upon his own farm or elsewhere for any period of time. The evidence is somewhat conflicting as to any work done by appellant for appellee before he was employed to “feed” said shredder and keep it in working condition, appellee testifying that before he started to operate said corn shredder that year appellant had been engaged in cutting and shocking corn for him, while appellant’s testimony was to the effect that his first work for appellee that year was with the shredder. With reference to the employment, we quote from appellee’s evidence, as follows:
+“Q. What did you employ Mr. Hahn to do in the beginning?
+“A. The first work that he did that year, the same year the accident happened, was cutting corn at my farm, cutting corn and putting it up in shocks.
+“Q. And how much did you pay him?
+“A. I think it was 10^ a shock, I think. I really don’t remember.
+“Q. 104 a shock?
+“A. I think it was 10^ a shock.
+“Q. Then, after that, what did he do?
+“A. Then, after that, he went along with the corn shredder.”
+The uncontradicted evidence is that appellant was to receive $2.00 per day for his services while working at shredding corn.
+It is provided by sec. 9 of our compensation act (Acts of 1929, page 537) “that this act, except section 66, shall not apply ... to farm or agricultural employees . . ., nor to the employers of such persons, unless such employers shall give notice in the manner provided in section three of their election to be so bound.”
+Under the facts above stated, was appellant, at the time of his injury, a “farm or agricultural employee" within the meaning of said provision ? In determining this question we must keep in mind the general character of the employment and the kind of work the employee was hired to do since our statute does not classify the employee in accordance with the general occupation or business of the employer. The mere fact that appellee’s chief occupation was farming, and that he intended to shred his own corn on the day appellant was injured, or that.the shredding of corn may be properly considered as the doing of agricultural labor, is not controlling. As heretofore stated, there is no evidence that appellant had, prior to his injury, been employed to perform general farm work, but to the contrary the evidence conclusively proves that he was employed as a corn-shredder hand, his employment requiring of him that he go from farm to farm during the time his employer was engaged in the corn-shredding business, and to feed and keep in working condition the machine used by his employer in the transaction of such business. The employment in which- he was engaged when injured was a definite employment for a specific purpose, at a different wage and with different duties than the only other employment he had ever had with the appellee (so far as the record discloses), that of cutting and shocking corn at ten cents a shock. One may be doing labor on a farm that has become necessary to be done because of farming operations, and yet not be “a farm or agricultural employee” within the meaning of that phrase as used in our compensation law. Makeever v. Marlin (1931), 92 Ind. App. 158, 174 N. E. 517; Dowery v. State (1925), 84 Ind. App. 37, 149 N. E. 922; In re Boyer (1917), 65 Ind. App. 408, 117 N. E. 507; Industrial Commission v. Shadowen (1920), 68 Colo. 69, 187 Pac. 926, 13 A. L. R. 952.
+In this case the Industrial Board, by a majority of its members, finds, among' other things, “that at the time of the accidental injury defendant and plaintiff were engaged in farm labor,” and that it is without jurisdiction in the premises. Its order or award dismissed appellant’s application for adjustment of his claim for compensation “for lack of jurisdiction.” We must necessarily - assume that the board intended the finding in this respect to be equivalent to a finding that appellant was a farm or agricultural employee and concluded it was without authority to award compensation to appellant because of the provision of section 9 of our compensation act, hereinbefore cited.
+We are of the opinion, and therefore hold, that the uncontradicted evidence proves beyond controversy that appellant was not “a farm or agricultural employee” within the meaning of that term as used in our compensation act, and it necessarily follows that the award should be reversed for the insufficiency of the evidence to sustain the finding of facts upon which said award is based.
+Award reversed with instructions that same be vacated, and for further proceedings consistent with this opinion.
