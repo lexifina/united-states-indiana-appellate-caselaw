@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,326"
+decided: "1920-04-02"
+citations: ["73 Ind. App. 133"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["West et al. v. Dreher et al."]
+source_url: "https://static.case.law/ind-app/73/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2534539
+cites_cases: ["101 N. E. 1039", "101 U. S. 721", "117 N. E. 509", "128 Ind. 59", "144 Ind. 614", "17 L. R. A. 599", "25 Atl. 297", "27 N. E. 423", "36 Ind. App. 408", "42 Ind. App. 278", "43 N. E. 876", "53 Ind. App. 476", "54 Ind. 72", "57 Ind. 172", "65 Ind. App. 383", "74 N. E. 51", "76 Md. 337", "78 Ind. 496", "85 N. E. 722"]
+---
+
+# West v. Dreher
+
+## Majority (Remy, P. J.)
+
+Remy, P. J.
+On November 27,1914, appellee Dreher, being the owner in fee simple of two certain contiguous lots in the town of Pleasant Lake, mortgaged the same to appellee First State Bank to secure the payment of certain promissory notes. On August 1, 1915, said appellee Dreher entered into a contract with appellants, by the terms of which contract appellants agreed to furnish certain materials and to do certain work in and about the construction of two dwelling houses which .appellee Dreher was at the time erecting on the lots. In accordance with the contract, the materials were furnished and the work done by appellants, but the agreed consideration therefor was not fully paid; and appellants, to secure the payment of the balance due them, filed a written notice of their intention to hold a mechanic’s lien on both of the lots for the amount of $250. The notice was filed within sixty days after the labor was furnished and the work done, and was recorded as required by law. Later, and within the time fixed by the statute, this suit was commenced against appellee Dreher and others interested, including the First State Bank, whose mortgage on the lots remained unsatisfied.
+By a special finding, the trial court found the above facts, and by conclusions of law found that appellants were entitled to a judgment against appellee Dreher for the amount due them; but found that appellants were not entitled to a foreclosure of their lien which the court held to be “void and invalid as upon the real estate therein described.”
+The question involved in this appeal is: Where a contractor, under a single contract, has furnished materials and performed labor in the construction of two separate dwelling houses, one house on each of two contiguous lots, the labor and materials having gone indiscriminately into the construction of both houses, is such contractor, under §8295 Burns 1914, as amended by the act of 1915 (Acts 1915 p. 106), entitled, by a single notice, to a lien on both houses and lots ? The question must be answered in the affirmative. It has many times been held, and is the law in this state, that, although mechanic’s lien statutes must be strictly construed in determining the persons entitled to such liens, nevertheless such statutes, being remedial in character, must be liberally construed in favor of those entitled to their benefits. McNamee v. Rauck (1891), 128 Ind. 59, 27 N. E. 423; Pere Marquette R. Co. v. Baertz (1905), 36 Ind. App. 408, 74 N. E. 51; Cline v. Indianapolis Mortar, etc., Co. (1917), 65 Ind. App. 383, 117 N. E. 509.
+Substantially the same question here presented was before the United States Supreme Court in an appeal from the Supreme Court of the District of Columbia. Phillips v. Gilbert (1879), 101 U. S. 721, 25 L. Ed. 833. The mechanic’s lien statute of the District of Columbia is not materially different from the Indiana statute. In that case, a contractor sought to foreclose a lien for labor performed and material furnished in the construction of a row of buildings built on contiguous lots. The court, in an opinion written by Justice Bradley, said: “The contract was one, and related to the row as an entirety, and not to the particular buildings separately. The whole row was a building, within the meaning of the law, from having been united by the parties in one contract, as one general piece of work.” So in the case at bar, under the facts found by the trial court, the two houses, within the mechanic’s-lien law of this State, are one piece of work, and appellant’s lien is valid and enforceable. Premier Steel Co. v. McElwaine-Richards Co. (1896), 144 Ind. 614, 43 N. E. 876; Windfall Nat. Gas, etc., Co. v. Roe (1908), 42 Ind. App. 278, 85 N. E. 722; Maryland Brick Co. v. Spilman (1892), 76 Md. 337, 25 Atl. 297, 17 L. R. A. 599, 35 Am. St. 431; 18 R. C. L. 951. See, also, Judah v. F. H. Cheyne Electric Co. (1913), 53 Ind. App. 476, 101 N. E. 1039.
+Appellee cites Hill v. Braden (1876), 54 Ind. 72, Witherson v. Rust (1877), 57 Ind. 172, and McGrew v. McCarty (1881), 78 Ind. 496, as holding a contrary doctrine. It will be observed that the Premier Steel Company case, supra, is a later expression of our Supreme Court. Besides, the facts in those cases are so different that they are not controlling.
+Judgment reversed, with instructions to the trial court to restate its conclusions of law, and enter a decree for appellants, all in accordance with this opinion.
