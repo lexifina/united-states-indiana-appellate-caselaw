@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,077"
+decided: "1922-01-06"
+citations: ["78 Ind. App. 140"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bunnell et al. v. Traynor."]
+source_url: "https://static.case.law/ind-app/78/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2509554
+cites_cases: ["1 Ind. App. 317", "102 Ark. 79", "103 Mich. 607", "111 N. W. 101", "143 S. W. 581", "147 Mich. 523", "159 Fed. 671", "27 N. E. 631", "57 Pa. 301", "61 N. W. 1014", "86 C. C. A. 539"]
+---
+
+# Bunnell v. Traynor
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+— Appellee averred in his complaint that appellants were engaged in the business of selling Ford automobiles in the city of Hammond, Indiana; that in October, 1917, appellee was employed by appellants as a salesman to sell automobiles on commissions to be paid according to the terms and conditions of a written contract attached to and made a part of the complaint; that appellee performed certain services under the terms of the contract for which he had not been paid, for the value of which as determined by the contract he sues in this action.
+Appellants answered in two paragraphs, the first being a general denial and the second a set-off, and the cause was submitted to a jury for trial which'returned a verdict in favor of appellee for $400, upon which verdict, after appellants’ motion for a new trial was overruled, judgment was rendered. This appeal is from said judgment.
+The only error assigned is that the court erred in overruling appellants’ motion for a new trial, for reasons presented and hereinafter discussed.
+Each litigant challenges the sufficiency of opposing counsel’s brief, but we hold that the briefs each show a good faith effort to comply with the rules of the court and the appeal will be considered on its merits.
+Appellants earnestly contend that the verdict is not supported by sufficient evidence. We have carefully examined appellants’ statement of the evidence in their brief and the supplement thereto as found in appellee’s brief, and have no hesitation in saying that the evidence is ample to sustain the verdict of the jury. Nothing can be gained by setting out or discussing such evidence in detail.
+Appellants next contend that the verdict is contrary . to law for the reason that appellee has not shown affirmatively that he has substantially complied with the terms of the contract. Appellants contend that appellee violated the contract in that he did not report on each prospect of sale each week and that he engaged in other business, that of selling sewing machines, contrary to the terms of the contract, and that therefore he cannot recover under the contract. It appears by the evidence that appellee commenced his employment with appellants in October, 1917, and that he continued in such employment until June, 1918. There was a provision in the contract for its cancellation upon three days’ notice by either party. If it be admitted as a fact that appellee was not reporting each week his prospects of sale to the company, this is a fact which appellants had to know. It appears by the evidence that appellants knew that appellee was selling some sewing machines which he seems to have had on hand at the time of entering into the contract with appellants to sell their automobiles. With knowledge of these facts, and notwithstanding their right to terminate the contract upon three days’ notice at any time, they continued to accept his services thereunder until June, 1918. They thereby waived these alleged breaches and they are not now in a position to repudiate their obligations for services performed, and to refuse to pay the contract price therefor. Cummings v. Pence (1891), 1 Ind. App. 317, 27 N. E. 631, note 115 Am. St. 257; Grayson-McLeod Lumber Co. v. Slack (1912), 102 Ark. 79, 143 S. W. 581; Robinson v. Lake Shore, etc., R. Co. (1895), 103 Mich. 607, 61 N. W. 1014; Gates v. Detroit, etc., R. Co. .(1907), 147 Mich. 523, 111 N. W. 101; Farrelly v. United States (1908), 159 Fed. 671, 86 C. C. A. 539. Appellants did hot strictly perform the contract themselves, in that they failed to make settlements for commissions on Saturdays after cars were delivered. It appears by the evidence that neither party was insisting on strict performance. The principle that governs under such circumstances,is well expressed in Hazelton Coal Co. v. Buck Mountain Coal Co. (1868), 57 Pa. 301, as follows : “If parties mutually adopt a mode of performing their contract, differing from its strict terms, * * * or if they mutually relax its terms by adopting a loose mode of executing it, neither can go back on the past and insist upon a breach because it was not fulfilled according to the letter.”
+Appellants say that the court erroneously admitted in evidence the appellee’s prospect card marked “Plaintiff’s Exhibit 10.” We find no reference in the motion for a new trial to “Plaintiff’s Exhibit 10” nor is it set out in appellants’ statement of the evidence. In the motion for a new trial the substance of a prospect card is set out and appellants’ statement of the evidence shows a prospect card introduced in evidence, but the record does not show that there was any objection to its admissibility, or that such an objection was overruled by the court, or that there was any exception to any ruling of the court on appellants’ objection to such evidence. No question is presented for our consideration.
+We find no reversible error. The judgment is affirmed.
