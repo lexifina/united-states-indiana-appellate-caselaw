@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,736"
+decided: "1930-01-30"
+citations: ["90 Ind. App. 683"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hibben, Hollweg and Company v. Western and Southern Life Insurance Company et al."]
+source_url: "https://static.case.law/ind-app/90/cases/0683-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553133
+---
+
+# Hibben, Hollweg & Co. v. Western & Southern Life Insurance
+
+## Majority (McMahan, J.)
+
+McMahan, J.
+On November 16, 1927, the Western and Southern Life Insurance Company commenced an action in the St. Joseph Superior Court against Walter E. and Theresa Patterson on certain notes dated October 15,1926, and to foreclose a real estate mortgage of same date given to secure such notes. The Pattersons appeared and filed an answer, and, on February 20, 1928, that being the first day of the February term of the court, a judgment was rendered against the Pattersons for the amount of the notes and for a foreclosure of the mortgage. An order of sale was thereafter issued to and received by the sheriff, who thereupon made the proper record in his office showing the receipt thereof. On May 4, 1928, and at the same term in which the judgment had been rendered, the plaintiff filed a motion to set aside and vacate the judgment and the decree of foreclosure. The Pattersons appeared, the motion was sustained, and, on the same day, after the judgment had been vacated, an amended complaint making appellant a party defendant was filed, it being alleged in this amended complaint that, on July 12, 1927, which was after the mortgage had been recorded and after the commencement of the suit to foreclose, a judgment had been rendered in said court in favor of Hibben, Hollweg and Company against the Pattersons, and that the real estate described in the plaintiff’s mortgage had been sold by the sheriff in October, 1927, to satisfy such judgment. Appellant filed an answer to this complaint alleging the facts as above stated and also alleging that the judgment so rendered for the insurance company, was for the correct amount, that there had been no fraud, mistake or deception of any kind in the procurement thereof, that the motion to vacate stated no reason therefor, that the notes and mortgage set out in the complaint had been merged in the judgment of February 20, 1928, and did not thereafter exist as a cause of action in the plaintiff’s favor. A demurrer to this answer was sustained, and a judgment was thereafter rendered against the Pattersons for the amount then due on the notes, and the mortgage foreclosed against all the defendants.
+From this judgment, Hibben, Hollweg and Company appealed, and contend the court erred in sustaining the demurrer to its answer. In support of this contention, appellant says the notes and mortgage were merged in the judgment rendered in February, 1928, and ceased to exist as a cause of action; that the motion to vacate stated no good cause for vacating the judgment; that the court, therefore, had no power or right to vacate the former judgment; and that the action of the court in vacating the same was a nullity.
+It is to be kept in mind that when such judgment was rendered, the Pattersons were the only defendants, and that, before the end of the term, said judgment was vacated without any objection by them. The court had jurisdiction to entertain and rule upon the motion to vacate and had jurisdiction of all the parties to the action who were affected by that judgment. Appellant not being a party was not affected by that judgment. As we view the action of the court, it is the same as if the plaintiff and the defendants had appeared in open court and had agreed that the judgment be vacated. We will not extend this opinion by reviewing the cases cited by appellant. They are not in point and are of no controlling influence.
+The parties against whom the judgment had been rendered in the instant case appeared to the motion and made no objection. They were the only persons who were in a position to object. Appellant was not a party to the action, was not interested in the matter, or in a position to object or except to the ruling of the court. If it be conceded that the motion did not state any good or sufficient reason for vacating the judgment, and that if the then defendants had objected, it would have been error to have sustained the motion, the action of the court might have been erroneous, but it certainly was not void.
+The lien of appellant’s judgment was inferior and subject to the lien of the mortgage of the insurance company. The fact that appellant was not a party to the foreclosure proceeding when the first decree of foreclosure was entered did not make its judgment superior to the mortgage. Appellant’s right of redemption would not have been cut off by that decree, but that does not mean that such right could not thereafter be cut off by a proper proceeding.
+Affirmed.
