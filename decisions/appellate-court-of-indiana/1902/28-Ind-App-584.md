@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,606"
+decided: "1902-04-03"
+citations: ["28 Ind. App. 584"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Indianapolis v. Crans."]
+source_url: "https://static.case.law/ind-app/28/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4894456
+cites_cases: ["100 Ind. 221", "108 Ind. 551", "110 Ind. 174", "112 Ind. 193", "23 Ind. App. 235", "3 Ind. App. 132", "50 Am. Rep. 783"]
+---
+
+# City of Indianapolis v. Crans
+
+## Majority (Comstock, C. J.)
+
+Comstock, C. J.
+Appellee sued appellant to recover damages on account of personal injuries occasioned by her stepping into a gutter, caused by the flow of surface water, at the intersection of the two streets named in the complaint. Upon trial of the cause she recovered a judgment for $400. The first error assigned and argued challenges the sufficiency of the complaint to state a cause of action. It is argued that the complaint contains no allegation to the effect that the place where the accident occurred was within the limits of the city of Indianapolis.
+The complaint is as follows: “Margaret E. Orans complains of the Oity of Indianapolis and says: That she was a citizen of Indianapolis, and on September 1, 1896, about half-past eight o’clock, she was walking with her husband on Orange avenue across Hamilton avenue at the intersection of said avenues; that there had been heavy rainfalls on the 7th and 23rd days of August, and also during the months of May, June, and July of said year; that the drainage and grading of said avenues were faulty and imperfect and1 insufficient properly to carry off the rainfall -on said avenues; that by reason, of said faulty, imperfect, and insufficient means of drainage, the water had caused an excavation and washout to the depth of thirteen or fourteen inches at said intersection, the north bank or side of the said washout being perpendicular and dangerous and unsafe; that the defendant had full knowledge of said washout and of the unsafe condition of said avenue, or might have had knowledge by the exercise of reasonable diligence and supervision over said avenue; that said condition had existed for some time prior to September 1, 1891, but that she could not state how long; that the only light furnished at said place was given by an electric light located on Hamilton avenue,' 3'50 feet south of said Orange avenue, and that said light was insufficient to afford any warning to said plaintiff or to others passing on said avenue; that while walking on said avenue, as aforesaid, holding the right arm of her husband, who was to the north of her, and exercising all caution, walking slowly and carefully and using her sense of sight as best she could in said darkness, she, without any faiilt on her part and without knowledge of the existence of said excavation, stepped into it and was thrown violently down causing a sprain to, and fracture of, the ankle and a fracture of some of the bones of the foot”, etc.
+Ve find no averment that the street on which the plaintiff was injured was within the corporate limits of Indianapolis. The allegation that the appellee had resided in Indianapolis twenty years last past, and at the date named was walking upon “Orange avenue across Hamilton avenue at the intersection of said streets” does not locate those streets in the city of Indianapolis.
+Municipal corporations are only required to maintain public streets in a reasonably safe condition for travelers when they are within their corporate limits, and this obligation must appear from the averments of the’ complaint. Evansville, etc., R. Co. v. Griffin, 100 Ind. 221, 50 Am. Rep. 783; Thiele v. McManus, 3 Ind. App. 132, and cases cited.
+It is insisted that the complaint does not aver that the defect was caused by the negligence of the appellant or that it was its duty to' repair. It is averred that the “drainage and grading of said Orange and Hamilton avenues were faulty and imperfect and insufficient properly to carry off: the rainfall on said avenues, as the defendant well knew”, and that by reason of said faulty and imperfect means of drainage there was the excavation or washout, ■ as set out, and the defendant had or might have had full knowledge of the dangerous condition of the avenue. The knowledge of the conditions charged would apply to. a private right of way or private walks which had never been dedicated to the public as well as to a public street. The averment of facts is wanting showing that the faulty drainage was caused by the acts of omission or commission of appellant.
+Counsel for appellee contend that the objections urged to the complaint are such as can only be taken advantage of by motion to make more specific, citing, City of Hammomd v. Meyers, 23 Ind. App. 235; Jones v. State ex rel., 112 Ind. 193; Louisville, etc., R. Co. v. Jones, 108 Ind. 551. These and numerous other cases in this State are to the effect that “when a pleading contains a statement of all the facts essential to constitute a cause of action, although such facts may be stated in general, indefinite, and ambiguous terms it is nevertheless good as against a demurrer, notwithstanding a motion to make more specific might be entertained with propriety”. All the essential facts are not averred in the complaint before us.
+A cause of action should not be left to inference. “A pleading is to be liberally construed as to matters of form, but where in its statement of facts a pleading is ambiguous or defective it will be construed most strongly against the pleader”. State ex rel. v. Casteel, 110 Ind. 174, and cases cited, at p. 187.
+The other specification of error, to wit, that the court erred in overruling appellant’s motion for judgment on the answers of the jury to interrogatories need not he considered.
+The trial court is directed to sustain appellant’s demurrer to the.complaint.
+Judgment reversed.
