@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "15,265"
+decided: "1934-11-20"
+citations: ["99 Ind. App. 411"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Haley v. Lawson."]
+source_url: "https://static.case.law/ind-app/99/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1571321
+cites_cases: ["179 N. E. 552", "183 N. E. 886", "203 Ind. 221", "95 Ind. App. 544"]
+---
+
+# Haley v. Lawson
+
+## Majority (Bridwell, C. J.)
+
+Bridwell, C. J.
+The named appellee, Frank Lawson, brought this action against appellant and the Celtic Savings & Loan Association. After the filing of the complaint and before trial of the cause said Frank Lawson died, and thereafter, upon motion of appellant (defendant below) Lillie Lawson, Executrix of the last will and testament of Frank Lawson, deceased, was substituted as party plaintiff in this cause. Such further proceedings were had as resulted in a judgment for the substituted plaintiff, the said executrix. A motion for a new trial was afterwards filed and overruled and this appeal followed, the transcript and an assignment of errors being filed with the clerk of this court on May 19, 1934.
+The assignment of errors as originally filed in this court was entitled Frank Lawson, Appellant v. Joseph W. Haley, Sr., Celtic Savings and Loan Association Number 3, appellees, and neither in the title nor in the body of said assignment does the name of Lillie Lawson, as Executrix of the last will and testament of Frank Lawson, deceased, appear as a party to this appeal, and such assignment of errors does not show that Frank Lawson, the original plaintiff had died, and that the executrix of his estate had been substituted as party plaintiff in his stead before the trial was held in the court below.
+While the case was pending on appeal the appellant filed his petition in this court alleging that by inadvertance and mistake the caption of the assignment of errors was erroneous, and that the title should be “Joseph W. Haley, Sr., Appellant, v. Frank Lawson, Appellee,” and prayed that this court direct its clerk to make the requested change on the records. This petition was granted on June 5, 1934.
+On the 14th day of September, 1934, a motion to dismiss this appeal was filed by Lillie Lawson, Executrix of the last will and testament of Frank Lawson, deceased, she appearing specially for the purpose of filing said motion. Her motion is verified and avers the death of the named appellee (Frank Lawson) and the substitution of party plaintiff as heretofore stated before trial below, and seeks a dismissal of the appeal on the ground that this court does not have jurisdiction of the party in whose favor the judgment appealed from was rendered.
+Appellant, on the 15th day of October, 1934, filed his petition, alleging therein the death of the original plaintiff, the said Frank Lawson, on August 15, 1933; that on October 16, 1933, by order of the court below, Lillie Lawson, Executrix of the last will and testament of Frank Lawson, deceased, was submitted as party plaintiff; that the transcript on appeal was filed May 19, 1934; that by inadvertance Frank Lawson was named as appellee instead of the substituted plaintiff. The prayer of the petition is “that the record heretofore filed in said appeal be amended and corrected by substituting as appellee the name of Lillie Lawson, Executrix of the last will and testament of Frank Lawson, deceased, for and in the place of Frank Lawson as the record and transcript now appears.”
+Appellant’s motion for a new trial was overruled on March 10, 1934, and at the time of the filing of his petition to make the substituted plaintiff in the court below the party appellee in this court more than 180 days had elapsed. The right to an appeal is a statutory right, and one seeking to avail himself of the right must comply with the statutory provisions granting it. Lillie Lawson, as Executrix of the last will and testament of Frank Lawson, deceased, secured the judgment which this appellant seeks to have reversed. She is not named in the assignment of errors as an appellee, and since the time for taking an appeal has expired, she can not now be made a partyappellee and jurisdiction acquired over her. An amendment to an assignment of errors, by substitution of parties, or otherwise, can not be made after the time has expired for faking an appeal. Voss v. Balz (1932), 203 Ind. 221, 179 N. E. 552; Gedney and Sons, Inc. v. Tinner (1933), 95 Ind. App. 544, 183 N. E. 886.
+An assignment of errors is one of the requisites of any appeal. It is the appellant’s complaint in this court, and this court has no jurisdiction over a party adverse to appellant in the judgment appealed from who is not named in the assignment of errors as an appellee. Where, as here,, such an adverse party is not named in the assignment of errors as an appellee the case cannot be determined ■ on its merits, because this court has no power to disturb the judgment where any person in whose favor it was rendered is not made a party to the appeal. Voss v. Balz, supra; Gedney and Sons, Inc. v. Tinner, supra.
+Under the facts disclosed by the record, we are without authority to disturb the judgment of the trial court by reason of our lack of jurisdiction over a necessary party appellee; and, for the reasons heretofore stated, we have no power to permit the amendment of the assignment of errors by substitution of the judgment creditor in place of the named appellee, and the petition to do so is denied. The motion to dismiss the appeal should be, and is sustained. Appeal dismissed.
