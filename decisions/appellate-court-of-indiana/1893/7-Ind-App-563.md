@@ -1,0 +1,37 @@
+---
+court: "Appellate Court of Indiana"
+docket: "846"
+decided: "1893-10-10"
+citations: ["7 Ind. App. 563"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Indiana Stone Company et al. v. Stewart."]
+source_url: "https://static.case.law/ind-app/7/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2392369
+cites_cases: ["101 Ind. 141", "105 Ind. 398", "107 Ind. 75", "115 Ind. 334", "120 Ind. 289", "122 Ind. 362", "126 Ind. 445", "127 Ind. 50", "132 Ind. 13", "132 Ind. 334", "17 Ind. 102", "2 Ind. 586", "33 N. E. Rep. 914", "46 Ind. 239", "66 Ind. 428", "7 Ind. App. 338", "77 Ind. 322", "99 Ind. 392", "99 Ind. 486"]
+---
+
+# Indiana Stone Co. v. Stewart
+
+## Majority (Gavin, C. J.)
+
+Gavin, C. J.
+The appellee recovered judgment for injuries received by him while working in appellant’s quarries. In his complaint, he alleges, among other things, that he was employed to scabble stone, and for no other purpose; that while engaged in this work, in a safe place, "the defendants, by their agents and employes, ordered and directed him” to leave the safe place and go to work at a place which was unsafe, as they well knew, where he was injured, without any fault upon his part and without any knowledge of the danger, but believing the place to be safe and secure. The want of safety was caused by a large box, which was insufficiently secured, and fell upon him, by reason of appellant’s negligence.
+There was no reversible error in the action of the court in overruling appellants’ motion to make the complaint more specific. The motion was directed to an allegation which was in itself unnecessary, and which made the complaint no stronger than it would have been without it. It is difficult to perceive how there could be reversible error in refusing to make more specific an unnecessary allegation. Alleman v. Wheeler, 101 Ind. 141; Elliott’s App. Proced., section 665.
+Neither is the complaint liable, on demurrer, to the objection urged against it. Its allegations plainly are that the change of place of working was made by appellant’s order. This is the general allegation in the pleading, the effect of which is not limited by the subsequent averments.
+The law is well settled that it is the duty of the master to use reasonable care to provide his employes with a safe working place and with safe appliances and machinery. Matchett v. Cincinnati, etc., R. W. Co., 132 Ind. 334; Rogers v. Leyden, 127 Ind. 50; Cincinnati, etc., R. W. Co. v. Roesch, 126 Ind. 445; Pennsylvania Co. v. Burgett, 7 Ind. App. 338, 33 N. E. Rep. 914.
+The complaint shows a clear violation of this duty.
+Numerous interrogatories were answered by the jury and returned with their general verdict. As one cause for new trial, appellants present the refusal of the court to require several of the answers to be made more specific.
+The answers to the ninth, eleventh, and fourteenth questions were fair and complete. The answers to the tenth, twelfth and thirteenth were more or less objectionable. No answers, however, which could have been given to these interrogatories ‘would have controlled the verdict when taken in connection with the answers made to the remaining interrogatories. This being true, there was mo harmful error in the court’s action. Chicago, etc., R. R. Co. v. Hedges, Admx., 105 Ind. 398; Cleveland, etc., R. W. Co. v. Asbury, 120 Ind. 289.
+Another cause for new trial arises from the giving of the sixth instruction askpd by plaintiff, which reads as follows: “Although the law is that if the defendant be shown to be guilty of negligence, the plaintiff can not recover if he himself be shown to be' guilty of contributory negligence which may have had something to do in causing the accident, yet the contributory negligence on plaintiff’s part would not and could not exonerate the defendants, and prevent the plaintiff from recovering if it be shown that the defendant, by the exercise of reasonable care and prudence, might have avoided the consequences of plaintiff’s negligence, and have prevented the injury to him, should you find he was injured.’’
+This instruction we must regard as radically erroneous. To sustain it would be to subvert the whole do.ctrine of contributory negligence as it has been asserted and enforced in our courts from an early day. The contributory negligence referred to in the latter part of this instruction is plainly that which is ordinarily understood to be intended, by the use of this term, that is negligence of the plaintiff which contributes as a proximate cause to the accident.
+That such contributory negligence defeats his right of recovery, notwithstanding the fact that the negligence of the master was also a proximate cause of the accident, is a rule firmly established by many decisions in our State. To say that if the master, by reasonable care, could have prevented the injury, he shall respond in damages, notwithstanding the contributory negligence, would be to nullify the whole doctrine, for the master would not, in any event, be liable, unless reasonable care upon his part would have prevented the injury. President, etc., v. Dusouchett, 2 Ind. 586; Terre Haute, etc., R. R. Co. v. Graham, 46 Ind. 239; Pennsylvania Co. v. Gallentine, 77 Ind. 322; Cincinnati, etc., R. W. Co. v. Hiltzhauer, 99 Ind. 486; Stevens v. Lafayette, etc., Gravel Road Co., 99 Ind. 392; City of Ft. Wayne v. Coombs, 107 Ind. 75; Evans v. Adams Expxess Co., 122 Ind. 362; Matchett v. Cincinnati, etc., R. W. Co., supra.
+In the late case of Ft. Wayne, etc., R. R. Co. v. Gruff, 132 Ind. 13, it is said: “Citation of authority is hardly necessary that in actions of this character, in this State, the complaint must show a case of unmixed negligence upon the part of the defendant.” Also, “Itis, however, essential that it be clearly shown that the injured party was free from contributory negligence.”
+There is one class of cases wherein an instruction of this character, properly limited to that case alone, might be sustained, and that is where the injury is proximately caused by the negligence of defendant committed after he had become aware of plaintiff’s danger. Buswell on Personal Injury, section 101; Evansville, etc., R. R Co. v. Hiatt, 17 Ind. 102.
+This principle is recognized in Evans v. Adams Express Co., supra, where it is said: “The ground upon which a plaintiff may recover notwithstanding his own negligence is, that the defendant, after becoming aware of the danger, * * failed to use a proper degree of care to avoid injuring'him.” ‘
+Filed Oct. 10, 1893.
+There is, in the instruction under consideration, no such qualification as would limit the principle laid down to such cases as these, but the proposition is broadly asserted, that the plaintiff may recover, notwithstanding his own contributory negligence, if the exercise of reasonable care upon the part of the defendant would have prevented the injury. Although the jury were, in other instructions, as in this, told that the rule was that without freedom from contribtory negligence there could be no recovery, still such statements did not correct the error in this one. An instruction so radically wrong could only be cured by a withdrawal. Lower v. Franks, 115 Ind. 334; Binns v. State, 66 Ind. 428.
+Some other errors have been urged, but their consideration is unnecessary.
+The judgment is reversed, with instructions to sustain the motion for new trial.
