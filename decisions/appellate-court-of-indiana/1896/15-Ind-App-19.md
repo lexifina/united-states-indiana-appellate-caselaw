@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,455"
+decided: "1896-10-17"
+citations: ["15 Ind. App. 19"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stucky et al. v. Hardy et al."]
+source_url: "https://static.case.law/ind-app/15/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2400503
+cites_cases: ["10 Ind. 199", "14 Ind. 32", "41 N. E. Rep. 448", "66 Ind. 585", "7 Ind. App. 135"]
+---
+
+# Stucky v. Hardy
+
+## Majority (Lotz, J.)
+
+Lotz, J.
+This suit was instituted by the appellants, against the appellees, to recover the agreed price for advertising done in a newspaper. It appears from the1 special finding of facts made by the court that in 1891 Neil & Stucky, a copartnership, were the owners and proprietors of a weekly newspaper called the “Western Horseman,” printed and published in the city of Indianapolis. In 1893 Neil retired from said firm and McMahon became a member under the firm name of Stucky & McMahon, the new firm succeeding to all the property-rights of the old firm. -Prior to December 25,1891, Stucky solicited Norris for an advertisement in said paper, and Norris afterward prepared and sent a draft, of an advertisement, which was afterwards printed and published in said paper for the period of six months, the agreed price for that period being f100.00. This advertisement gave the qualities and pedigrees of four stallions, together with price of service of said stallions for breeding purposes. This advertisement or notice contained this direction: “Apply to Alex. Hardy or L. D. Norrisj Logansport, Indiana.” Two of the horses advertised belonged to Norris and two to Hardy. One of Norris’ horses was kept in Hardy’s stable in Logansport, and Norris paid Hardy for his keeping, and one was kept on a farm near Logansport. Hardy’s two horses were kept in his stable in said city. Hardy had no interest in the proceeds of the Norris horses and Norris had no interest in the proceeds of the Hardy horses, and Hardy and Norris were not partners, nor was there any business relations between them other than the keeping of the Norris horse in Hardy’s stable. At the expiration of the six months’ advertisement, the appellant, Stucky, met the appellee, Norris, and requested a continuation of the advertisement for another period of six months on the same terms. Norris suggested a change in the advertisement, but none was made, and the advertisement was' continued for another period of six months. Norris prepared a draft for the advertisement and made the contract on his own motion, wholly without consultation with Hardy. It was also agreed that in addition to said advertisement there should be an editorial “write up” of the horses. The advertisement was printed and published in said paper, for two terms of six months each, and the editorial “write up” was published as agreed. Both Norris and Hardy were subscribers to said paper, and received copies of it, and knew that the advertisement was being made in the paper, and at no time requested that the advertisement should not be made, but allowed it to be published without objection. Stucky presented a bill for the amount of the advertising to Hardy, and Hardy proposed to pay his part, but desired to consult Norris as to its accuracy before he paid it. The plaintiffs also made a draft on Hardy and Norris for the amount of the bill, viz.: $200.00, through a bank at Logansport, and Hardy indicated his willingness to pay his part of the draft, but wanted Norris to pay the other half. This draft was not paid.
+The court stated as its conclusions of law that the plaintiffs should recover judgment against Norris for $200.00. But, as to the defendant Hardy, there should be no, recovery, and rendered judgment accordingly. The appellants excepted to the conclusions of law and have made such exception the basis of an assignment of error in this court.
+Filed October 17, 1896;
+petition for rehearing overruled April 3, 1896.
+We think it clear, upon this finding of facts, that if Norris is liable Hardy is also liable. , Hardy received the benefit of the advertisement, and he should pay what it was worth. The appellee, however, insists that there is a variance between the findings and the allegations of the complaint, to-wit: that the complaint and each paragraph declares upon a special contract, and that as to Hardy, if there can be any recovery at all, it must be upon a common count for services rendered.
+Whilst it is true that each paragraph of the complaint refers to the contract, still this is an action on a common count for money due. It is well settled that when a special contract has become executed and nothing remains to be done but to pay the money agreed to be paid under it, a recovery may be had upon a common count and the recovery measured by the contract price. Jenny Electric Light Co. v. Branham (Ind. Sup.), 41 N. E. Rep. 448; Brown v. Perry, 14 Ind. 32; Kerstetter v. Raymond, 10 Ind. 199; Shilling v. Templeton, 66 Ind. 585.
+The appellees have assigned cross-errors, questioning the sufficiency of each paragraph of the complaint, and ask an affirmance on these cross-errors. These cross-errors we do not consider, because the judgment would not, under the circumstances of this case, be affirmed even if well assigned. Town of Monticello v. Kennard, 7 Ind. App. 135. We think it clear that Hardy was liable for at least one-half of the claim.
+The cause is reversed, with instructions to grant the appellants a new trial if asked for in ninety days.
