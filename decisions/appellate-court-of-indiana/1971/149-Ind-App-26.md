@@ -1,0 +1,48 @@
+---
+court: "Appellate Court of Indiana"
+docket: "869A148"
+decided: "1971-05-25"
+citations: ["149 Ind. App. 26"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Family Mutual Auto Insurance Co. v. DeWayne C. Johnson."]
+source_url: "https://static.case.law/ind-app/149/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1540928
+cites_cases: ["127 Ind. App. 149", "128 Ind. App. 475", "130 Ind. App. 227", "133 Ind. App. 516", "133 N. E. 2d 900", "134 Ind. App. 614", "137 N. E. 626", "148 N. E. 2d 194", "161 N. E. 2d 381", "17 N. E. 2d 86", "180 N. E. 2d 388", "190 N. E. 2d 432", "196 N. E. 227", "208 Ind. 621", "215 Ind. 120", "269 N. E. 2d 560", "79 Ind. App. 629"]
+---
+
+# American Family Mutual Auto Insurance v. Johnson
+
+## Majority (Hoffman, C. J.)
+
+Hoffman, C. J.
+The issue presented by this appeal is: May an automobile liability insurance policy include damages for care and loss of services within the bodily injury limit of liability — thereby excluding such damages from the property damage limit — and still comply with the Indiana Motor Vehicle Safety-Responsibility and Driver Improvement Act? The answer is in the affirmative.
+Plaintiff-appellant perfected this appeal after the entry of an adverse judgment by the trial court in an action for a declaratory judgment.
+The pertinent facts, which are not in dispute, are as follows:
+In May, 1965, appellant-American Family Mutual Automobile Insurance Company (AFM) issued an automobile liability insurance policy to appellee, DeWayne C. Johnson (Johnson). In October, 1965, Johnson was involved in an automobile accident in which Gregory Lee Thompson, a minor, was injured. In August, 1967, two suits were filed — one for personal injuries sustained by Gregory Thompson, and one for loss of services and medical expenses incurred by William Thompson, the father of such minor.
+Subsequently, a judgment in the amount of $10,500 was obtained in the action for personal injuries sustained by Gregory Thompson. The other suit, with William Thompson as plaintiff, praying for loss of services and medical expenses incurred, is still pending in the Greene Circuit Court.
+The liability limits of the policy issued by AFM to Johnson are $10,000 bodily injury liability for each person; $20,000 bodily injury liability for each occurrence; and $10,000 property damage liability for each occurrence. AFM paid $10,000, plus interest, and thereafter initiated the action for declaratory judgment which resulted in this appeal.
+Johnson did not appear in the trial court or in this court. However, by proper motions Amicus Curiae defended in the trial court, filed a brief in this court, and also participated in oral argument before this court.
+AFM and Amicus Curiae submitted briefs to the trial court and the action was tried on the complaint, as amended. The policy provision placed at issue here is as follows:
+“Limits of Liability
+“Under the Liability Coverage, the limits of bodily injury liability stated in the declarations as applicable to ‘each person’ is the limit of the company’s liability for all damages, including damages for care and loss of services, arising out of bodily injury sustained by one person as the result of any one occurrence; the limit of such liability stated in the declarations as applicable to ‘each occurrence’ is, subject to the above provision respecting each person, the total limit of the company’s liability for all such damages arising out of bodily injury sustained by two or more persons as the result of any one occurrence. The limit of property damage liability stated in the declarations as applicable to ‘each occurrence’ is the total limit of the company’s liability for all damages arising out of injury to or destruction of all property of one or more persons or organizations, including the loss of use thereof, as the result of any one occurrence.” (Emphasis supplied.)
+The statute placed at issue, IC 1971, 9-2-1-15, Ind. Stat. Anno., § 47-1057, Burns’ 1965 Repl., is as follows:
+“Proof of financial responsibility defined — Injury to person or property, or death — Amount of proof required.— Proof of financial responsibility shall mean proof of ability to respond in damages for liability thereafter incurred, arising out of the ownership, maintenance or use of a motor vehicle, in the amount of ten thousand dollars [$10,000] because of bodily injury to or death of any one [1] person, and, subject to said limit respecting one [1] person, in the amount of twenty thousand dollars [$20,000] because of bodily injury to or death of two [2] or more persons in any one [1] accident, and in the amount of five thousand dollars [$5,000] because of injury to or destruction of property in any one [1] accident. Such proof in such amounts shall be furnished for each motor vehicle registered by such person.”
+The trial court found that the bodily injury portion of the “limits of liability” does not include coverage for damages for care and loss of services. Further, the trial court found that the property damage “limits of liability” of the policy does include coverage for damages for care and loss of services arising out of bodily injury to the statutory limit of $5,000.
+The trial court subsequently entered judgment declaring that AFM’s policy provides coverage for damages for care and loss of services arising out of bodily injury under the property damage limits of liability to the statutory limit of $5,000.
+AFM timely filed a motion for a new trial asserting that:
+1. The decision of the court is not sustained by sufficient evidence.
+2. The decision of the court is contrary to law.
+The sole error assigned by AFM is the overruling of its motion for a new trial.
+It is contended by Amicus Curiae, and found by the trial court, that a father’s claim for care and loss of services resulting from personal injuries to his minor child are property damages. Therefore, the policy provision which purports to include care and loss of services within the bodily injury limit of liability contravenes § 47-1057, supra, the public policy of the State of Indiana, and is unenforceable. With this contention AFM disagrees.
+IC 1971, 34-1-1-8, Ind. Stat. Anno., §2-217, Burns’ 1967 Repl., clearly provides that a father “may maintain an action for the injury or death of a child; * * Further, it is equally clear that § 2-217, supra, provides that the parent, in his own right, may bring an action for loss of services and such action is based upon a property right. Rader v. Collins (1960), 130 Ind. App. 227, 161 N. E. 2d 381 (transfer denied) ; Siebeking, et al. v. Ford, Admx., etc. (1958), 128 Ind. App. 475, 148 N. E. 2d 194 (transfer denied) ; Hahn et al. v. Moore (1956), 127 Ind. App. 149, 133 N. E. 2d 900 (transfer denied). Cf. New York Central Railroad Co. v. Sarich (1962), 133 Ind. App. 516, 180 N. E. 2d 388 (transfer denied).
+Amicus Curiae contends that because a parent’s action for loss of services is based upon a property right it is covered by the property damage limit of liability. Section 47-1057, supra, when referring to property damages states, “because of injury to or destruction of property * * To accept the theory advanced by Amicus Curiae would be tantamount to holding that a minor child is property and title is in the father, mother or guardian. Such a decision would represent unprecedented regression in the law of Indiana. Indeed, if a father’s damages for care and loss of services because of his minor child’s broken arm were the same as for a dented fender on the family car, the Legislature would not have enacted § 2-217, supra.
+Notwithstanding the above, it is clear that § 47-1057, supra, allows, indeed contemplates, the inclusion of loss of services within the bodily injury limits of liability. When referring to bodily injury limits, § 47-1057, supra, states, “because of bodily injury to or death of any one [1] person, * * Assuming that damages for loss of services are included in the coverage afforded by an automobile liability insurance policy, such damages rightly belong within the limits affording coverage “because of bodily injury” rather than “because of injury to or destruction of property.” Therefore, even if the policy was silent as to loss of services, such damages would be included within the bodily injury limits of liability.
+Inasmuch as the policy at issue is not ambiguous and is in compliance with § 47-1057, supra, the language of the contract must be afforded its ordinary, popular and usual meaning. Shedd v. Automobile Ins. Co. of Hartford, et al. (1935), 208 Ind. 621, 196 N. E. 227; Bell, et al. v. New York Life Ins. Co. (1963), 134 Ind. App. 614, 190 N. E. 2d 432; Hoosier, etc. Ins. Co. v. Lanam (1923), 79 Ind. App. 629, 137 N. E. 626.
+Such policy clearly provides that “damages for care and loss of services, arising out of bodily injury sustained by one person * * *” are included within the bodily injury limit of liability. Provisions of an insurance policy which are valid under the statutes and public policy of the State must be enforced and this court is without authority to make a new and different contract for the parties. Metropolitan Life Insurance Co. v. Winiger (1939), 215 Ind. 120, 17 N. E. 2d 86; Bell, et al. v. New York Life Ins. Co., supra.
+Judgment reversed with instructions to the trial court to enter judgment in favor of appellant.
+Sharp, Staton and White, JJ., concur.
+Note. — Reported in 269 N. E. 2d 560.
+. In 1971 our Legislature amended this section raising the limits to $15,000, $30,000 and $10,000. See: House Enrolled Act No. 1011, effective January 1,1972.
