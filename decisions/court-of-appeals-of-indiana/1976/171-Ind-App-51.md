@@ -1,0 +1,44 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "1-276A16"
+decided: "1976-09-29"
+citations: ["171 Ind. App. 51"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Ertel IV v. Radio Corporation of America, John R. Dugan and Delta Engineering Corp., Economy Finance Corporation."]
+source_url: "https://static.case.law/ind-app/171/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1488005
+cites_cases: ["122 N.E. 3", "128 Ind. App. 225", "129 Ind. App. 588", "146 N.E.2d 107", "158 Ind. App. 177", "159 N.E.2d 296", "169 Ind. App. 339", "176 N.E. 846", "181 N.E.2d 862", "203 Ind. 173", "243 Ind. 98", "261 Ind. 573", "304 N.E.2d 217", "307 N.E.2d 471", "348 N.E.2d 674", "354 N.E.2d 783", "69 Ind. App. 363"]
+---
+
+# Ertel v. Radio Corp.
+
+## Majority (Lybrook, J.)
+
+Lybrook, J.
+This appeal follows a remand by the Indiana Supreme Court to the trial court for a determination of a set-off claimed by Radio Corporation of America (RCA) against Ertel. The original appeal is reported as John C. Ertel IV, V. Radio Corporation of America, et al. (1974), 261 Ind. 573, 307 N.E.2d 471.
+The issue for our consideration is whether RCA satisfied its burden of proof that its damages under its set-off exceeded Ertel’s claim under his third party complaint against RCA. The trial court determined that RCA’s set-off was equal to. or greater than Ertel’s- third party claim.
+We affirm.
+Ertel had signed as a guarantor on an indebtedness owed by Delta Engineering Corporation (Delta) to Economy Finance Corporation (Economy). Included in this agreement were accounts receivable owing to Delta from RCA. RCA mistakenly continued paying Delta after notice of the assignment to Economy had been given to RCA. Subsequently Delta failed leaving no available funds. Economy obtained recompense from the guarantor Ertel, and therefore Ertel was sub-rogated to the position of Economy. Ertel then sought to recover from RCA' the payment which RCA had made to Delta after RCA had received notice that the payments were to go to Economy. RCA interposed as a defense against Ertel that it also had suffered at the hands of Delta, and that it iwas therefore entitled to a set-off against Ertel of those claims arising out of RCA’s contract with Delta. The Indiana Supreme Court agreed with, this contention,. and ordered the Boone' Circuit Court to determine the amount of set-off available to RCA. Ertel, supra.' The trial court found that the set-off exceeded any claim Ertel had against RCA. From this determination Ertel again appeals.
+The gravaman of the remand by the Supreme Court can be found at IC 1971, 26-1-9-318 (Burns Code Ed.) [hereinafter referred to as 9-318, and so forth]. There it states:
+“Unless an account debtor has made an enforceable agreement not to assert defenses or claims arising out of a sale ... the rights of an assignee are subject to
+(a) all the terms of the contract between the account debtor and assignor and any defense or claim arising therefrom; . . .”
+Here, RCA (the account debtor, see 9-105[a]), as found by the trial court, had as a valid “defense or claim” against the assignor (here, Ertel, subrogated to the rights of the assignee Economy) an amount equal to or greater than the sum available to Ertel. Therefore, there was no recovery. The Indiana comment to 9-318(1) (a) states that this is an enactment of prior Indiana law, citing, inter alia, Southern Surety Co. v. Merchants and Farmers Bank (1932), 203 Ind. 173, 176 N.E. 846. There it is said that an assignee can have no greater rights than the assignor, since an assignor cannot assign greater rights than it possessed. The trial court determined that the rights of RCA against Delta were greater than the rights Ertel derived via subrogation from Economy.
+In determining what amount of set-off is to be allowed the court must look to the contractual relationship of the parties. This is mandated by the language of the statute set out above, i.e., “. . . the rights of an assignee are subject to . . . any defense or claim arising [from the contract.]” Since this is a sale of “goods”, it is under the Indiana Uniform Commercial Code, (see 2-102) in the absence of a contrary agreement between the parties. (See 1-103 and 2-719). Since there are no damage provisions in the form contract, the damages sections of Article II of the Indiana Uniform Commercial Code are applicable, (2-711, et seq.) but not exclusive.
+It must be remembered that the present judgment appealed from is a general finding, and states only that the amount of set-off available to RCA was greater than the amount to which Ertel was entitled. It is well established that the judgment of a trial court will be affirmed on appeal if sustainable on any basis. Devine v. Grace Construction and Supply Co. (1962), 243 Ind. 98, 181 N.E.2d 862; Saloom v. Holder (1973), 158 Ind. App. 177, 304 N.E.2d 217. Therefore, if under any theory cognizable by the UCC or under the contract it can be established that RCA’s claim or defense against Delta exceeded $19,674.10, the judgment below should be affirmed. 2-713 states:
+“(1) Subject to the provisions of this article [chapter] with respect to proof of market price (section [26-1] 2-723), the measure of damages for nondelivery or repudiation by the seller is the difference between the market price at the time when the buyer learned of the breach and the contract price together with any incidental and consequential damages provided in this article [chapter] (section [26-1-]2-715), but less expenses saved in consequence of the seller’s breach.
+“ (2) Market price is to be determined as of the place for tender or, in cases of rejection after arrival or revocation of acceptance, as of the place of arrival. [Acts 1963, ch. 317, §2-713, p. 539.]”
+2-715 states:
+“(1) Incidental damages resulting from the seller’s breach include expenses reasonably incurred in inspection, receipt, transportation and care and custody of goods rightfully rejected, any commercially reasonable charges, expenses or commissions in connection with effecting cover and any other reasonable expenses incident to the delay or other breach.
+“(2) Consequential damages resulting from the seller’s breach include
+(a) any loss resulting from general or particular requirements and needs of which the seller at the time of contracting had reason to know and which could not reasonably be prevented by cover or otherwise; and
+(b) injury to person or property proximately resulting from any breach of warranty.”
+The stipulation of facts and testimony adduced concerning the losses to RCA reveal that RCA ordered and completely paid for six units from Delta. Prior to delivery of these units Delta ceased doing business. Eventually RCA recovered three partially completed machines and expended $19,758.95.in completing them. They were highly technical machines, the acquisition of which was not possible on the commercial market. Furthermore, time was of the essence to RCA and it was imperative that the machines be completed as soon as possible. Therefore, RCA had no option but to complete the machines. Delta had full knowledge of the complexity of the machines, being the builder, and it is eminently reasonable to conclude that 2-715 (2) (a) is satisfied in the absence of possibility of cover.
+In addition, there were three units whose only possible value was $1,500, being salable only as scrap. RCA paid $14,775 for these three units, and the net loss to RCA was therefore $13,275. This was an actual loss to RCA and therefore a part of its damages. Irving v. Ort (1958), 128 Ind. App. 225, 146 N.E.2d 107. Thus, total damages to RCA are approximately $33,000.
+In addition to the preceding compilation of damages it must be considered that what Ertel is really arguing is that the damages allowed RCA were excessive. Damages will only be considered excessive where they are so outrageous as to indicate that there is present some passion, prejudice, or partiality. Hidden Valley Lake, Inc. v. Kersey (1976), 169 Ind. App. 339, 348 N.E.2d 674. There is no evidence of such here, and the determination of the trial court should be affirmed.
+Affirmed.
+Robertson, C. J. and Lowdermilk, J., concur.
+Note — Reported at 354 N.E.2d 783.
+. It is stipulated that RCA, after notice of assignment from Economy, paid Delta $33,932.00. However, Ertel only paid $19,674.10 to Economy, and since principles of indemnity preclude a subrogated party from asserting that which was not paid by such subrogated party, Ertel can only assert against RCA the $19,674.10 that he paid to Economy. Merchants Ntl. Bk. & Tr. Co. v. Winston et al. (1959), 129 Ind. App. 588, 159 N.E.2d 296; Reserve Loan Life Ins. Co. v. Dulin (1919), 69 Ind. App. 363, 122 N.E. 3.
