@@ -1,0 +1,40 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,193"
+decided: "1897-04-30"
+citations: ["17 Ind. App. 500"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alcorn v. Bass."]
+source_url: "https://static.case.law/ind-app/17/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4800757
+cites_cases: ["1 Ind. App. 146", "101 Ind. 498", "120 Ind. 43", "17 Ind. 115", "17 Ind. 588", "18 Ind. 363", "24 Ind. 377", "27 Ind. 527", "3 Binn. 515", "30 Ind. 395", "36 Ind. 321", "4 Blackf. 469", "40 Ind. 553", "47 Ind. 580", "5 Blackf. 453", "5 Ind. 385", "53 Ind. 279", "7 Ind. 563", "71 Ind. 430", "72 Ind. 307", "74 Ind. 348", "78 Ind. 445"]
+---
+
+# Alcorn v. Bass
+
+## Majority (Black, J.)
+
+Black, J.
+The appellee, Amelia L. Bass, sued the appellant for slander. Upon trial of an issue formed by an answer in denial, a jury returned a verdict for the appellee, assessing her damages in the sum of $55.00. A motion in arrest was overruled, and judgment was rendered on the verdict.
+The alleged errors assigned are, that the- complaint does not state facts sufficient to constitute a cause of action, and that the court erred in overruling the appellant’s motion in arrest of judgment.
+The complaint alleged, “that at Gibson county, in the State of Indiana, heretofore, to-wit: on the 9th day of September, 1895, in the presence and hearing of divers persons, the defendant falsely and maliciously spoke and published of and concerning the plaintiff the following false, defamatory and malicious words, in a conversation then and there had and held by and between the plaintiff and defendant, to-wit, the plaintiff then and there said to the defendant, ‘I heard you said I stole Alice’s watch.’ And the defendant in answer thereto said to the plaintiff: ‘Well, I believe you took it.’ That the ‘Alice’ mentioned in said conversation was the daughter, then and there living, of said defendant; that the ‘watch’ mentioned in said conversation was the personal property, then and there, of said Alice; and that in the words spoken by the defendant, above mentioned, the defendant maliciously imputed to the plaintiff the crime of larceny, and charged the plaintiff that she had feloniously taken carried away and stolen the watch aforesaid of the defendant’s daughter, Alice, , which watch was then and there of the value of twenty-five dollars. Whereby the plaintiff has been injured in her good name and reputation, to her damage in the sum of one thousand dollars, for which sum she' prays judgment and all proper relief.”
+The evidence is not in the record.
+It is contended on behalf of the appellant, that the words alleged to have been spoken by him, “Well, I believe you took it,” are not slanderous per se, and that they could only be. made actionable by proper averment of extrinsic facts giving the language charged a slanderous quality.
+Our code provides, section 375, Burns’ R. S. 1894 (372, Horner’s R. S. 1896): “In an action for libel or slander it shall be sufficient to state, generally, that the defamatory matter was published or spoken of the plaintiff; and if the allegation be denied, the plaintiff must prove, on the trial, the facts, showing that the defamatory matter was published or spoken of him.”
+The code has not changed the rule as to the requirement of an inducement in the complaint, where the words are not actionable in themselves. If the words spoken derive their slanderous import from extrinsic facts, such facts must be alleged. Ward v. Colyhan, 30 Ind. 395; Hart v. Coy, 40 Ind. 553; Emig v. Daum, 1 Ind. App. 146.
+Where, as here, the sufficiency of the complaint is first questioned after verdict, the court will support the complaint by every legal intendment, if there is nothing material on record to prevent it; and where a fact must necessarily have been proved at the trial, to justify the verdict, and the complaint omits it, the defect is cured by the verdict, if the general terms of the complaint are otherwise sufficient to comprehend the proof. Shimer v. Bronnenburg, 18 Ind. 363; Harris v. Harris, 101 Ind. 498; Parker v. Clayton, 72 Ind. 307; Alford v. Baker, 53 Ind. 279.
+The thing which will be presumed to have been proved must be something which can be implied from allegations on the record, by fair and reasonable intendment. Peck v. Martin, 17 Ind. 115.
+Not only! mere defects of form are aided by a verdict; but also faults affecting substantive facts often are so aided. Parker v. Clayton, supra.
+In Westfall v. Stark, 24 Ind. 377, an averment which was a conclusion of law rather than an allegation of facts, was held after verdict sufficient to support evidence of the facts from which such a conclusion might be reached. See, also, Smock v. Harrison, 74 Ind. 348.
+Though it is usual for the inducement and colloquium to precede the statement of the words alleged to have been spoken, it is not material that they should do so; but it is sufficient if they be inserted in any portion of the paragraph of complaint; and concluding averments of the pleading may thus render words actionable. Huddleson v. Swope, 71 Ind. 430.
+In the case last mentioned, a paragraph of complaint averred that, on, etc., the defendant did falsely, wickedly and maliciously speak and publish of and concerning the plaintiff, to and in the presence of divers persons, “the following scandalous and defamatory words, that is to say.” The complaint then set out several sets of words with innuendoes, the words so set out not being actionable per se. The paragraph further averred, that the defendant “by the use of said words and by each set thereof, intended to charge that” the plaintiff “had been guilty of the crime of adultery with the said Charles Hood.” It was held that the concluding averments substantially supplied a more formal inducement and colloquium, and thereby rendered all of the sets of words so set out sufficient on demurrer.
+If the words charged, taken in connection with the circumstances under which they are alleged to have been spoken, were calculated to induce the hearers to suspect that the plaintiff was guilty of the crime of larceny, they were actionable. Drummond v. Leslie, 5 Blackf. 453.
+The words alleged to have been spoken by the appellant, “Well, I believe you took it,” were not actionable per se, but they might be so by reason of extrinsic facts including other words spoken in the same conversation. Keck v. Derickson, 7 Ind. 563; Justice v. Kirlin, 17 Ind. 588; Keesling v. McCall, 36 Ind. 321; Linvillev. Earlywine, 4 Blackf. 469; Bornman v. Boyer, 3 Binn. 515.
+While it is for the court to determine what constitutes a crime or offense the imputation of which is slanderous, it is the province of the jury to determine as matter of fact the actual meaning of the words charged in a particular case and the effective sense in which they were understood. Thompson v. Grimes, 5 Ind. 385; Blickenstaff v. Perrin, 27 Ind. 527; Waugh v. Waugh, 47 Ind. 580.
+Where the words spoken were susceptible of an innocent meaning and of a criminal meaning, the court, after verdict for the plaintiff, upon a motion in arrest of judgment, or upon an assignment of error, will adopt the latter meaning, and where the language is rendered actionable by extrinsic circumstances defectively averred, the verdict will aid them, though language not actionable per se, in the absence of extrinsic circumstances, will not be so regarded, even after verdict. McFadin v. David, 78 Ind. 445; Harrison v. Manship, 120 Ind. 43.
+The jury by their general verdict found that the words of the appellant were used and understood in the injurious sense attributed to them by the appellee, and taking the complaint as a whole, and considering all its allegations of matters of fact, we think that the facts necessary in evidence to enable the jury to reach such conclusion were, comprehended in the averments of the complaint.
+The judgment is affirmed.
+Robinson, J., took no part in this decision.
