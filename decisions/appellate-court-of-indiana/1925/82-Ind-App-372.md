@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,957"
+decided: "1925-01-14"
+citations: ["82 Ind. App. 372"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barnett v. Sinclair Refining Company."]
+source_url: "https://static.case.law/ind-app/82/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5304398
+---
+
+# Barnett v. Sinclair Refining Co.
+
+## Majority (Thompson, J.)
+
+Thompson, J.
+Thisa ppeal involves an action by appellant against appellee to recover damages for personal injuries alleged to have been caused by the negligence of appellee. The case was tried upon appellant’s amended complaint which sets forth the following alleged facts: That appellee, the Sinclair Refining Company, is a corporation and was, on the —- day of October, 1920, the exact day of which appellant does not know, engaged in the business of selling petroleum products, including gasoline and kerosene, in Knox county, Indiana, and elsewhere; that appellee, through its employee, one Paul Richardville, whose duty it was to drive a motor tank wagon and sell and deliver appellee’s products to its customers over a route in Knox county, did, on the-day of October, 1920, at Monroe City, Indiana, sell to one Joseph Barnett four gallons of kerosene; that said kerósene was, by the said Paul Richardville, negligently and carelessly placed in a red container furnished by the said purchaser of kerosene, Joseph Barnett; that the said Joseph Barnett was, on the- day of October, 1920, and still is, the husband of appellant Susan A. Barnett, and that Joseph Barnett was the owner of said red can in which said kerosene was placed when purchased; that prior to the time said kerosene was purchased and placed in said container, said container had been used as a receptacle for gasoline; that, at the time kerosene was placed in said container, it already contained gasoline, the quantity of which is unknown, and that by reason of the mixing of said kerosene and gasoline there was produced a liquid which, when heated or brought near to a fire or flame, was highly explosive and inflammable, and that said mixture was more dangerous and liable to explode than kerosene; that on the said - day of October, 1920, after purchasing said kerosene, said Joseph Barnett took the can containing said liquid to his home in Monroe City, Indiana; that thereafter, on November 9, 1920, one Elizabeth Nanny, who made her home with appellant and her said husband Joseph Barnett, placed said can containing said liquid on a box near the kitchen stove, which stove contained fire; that later on the same day, the appellant, Susan A. Barnett, discovered said can where it had been placed by Elizabeth Nanny, and attempted to remove it, the contents thereof exploding and injuring said appellant; that appellant did not know said can contained said mixture of gasoline and kerosene, or that it was more liable to explode than kerosene.
+Said appellant alleges that her injuries were directly and proximately caused by the negligence and carelessness of appellee’s said employee, Paul Richardville.
+The appellee filed a demurrer to appellant’s amended complaint on the grounds that the amended complaint did not state facts sufficient to constitute a cause of action against defendant. The lower court sustained appellee’s demurrer to appellant’s amended complaint; the appellant excepted and refused to plead further and the court rendered judgment against appellant for costs.
+The sole alleged error relied on for the reversal of this cause is the action of the trial court in sustaining the appellee’s demurrer to appellant’s amended complaint—said alleged error being based on §2702a Burns 1914, Acts 1911 p. 159, which provides : “That it shall be unlawful for any person, firm or corporation to keep for sale or for use or to sell any gasoline, benzine or naphtha in any barrel, cask, package or can, unless the same is painted red, or to keep for sale or use or to sell any kerosene in any barrel, cask, package or can if same is painted red.” It is the opinion of this court that that section of the statute cited above does not make it unlawful to deliver kerosene to a purchaser who furnishes a red can as a receptacle therefor.. If the complaint in this case shows any negligence, it is the negligence of the husband of appellant in presenting the red can to the dealer in which to receive the kerosene. The complaint does not state a cause of action under the above mentioned section of the statute. Neither does the amended complaint state a cause of action at common law, as the same nowhere alleges that the agent of the appellee had any knowledge that there was gasoline in the can at the time he sold the kerosene. The demurrer to the amended complaint was therefore properly sustained.
+Judgment affirmed.
