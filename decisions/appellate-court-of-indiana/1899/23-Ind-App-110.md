@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,906"
+decided: "1899-10-24"
+citations: ["23 Ind. App. 110"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: [".City of Alexandria v. Board of Commissioners of Madison County."]
+source_url: "https://static.case.law/ind-app/23/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5775411
+cites_cases: ["101 Ind. 53", "7 Ind. 688"]
+---
+
+# City of Alexandria v. Board of Commissioners
+
+## Majority (Henley, J.)
+
+Henley, J.
+There are two novel questioñs presented by ■the record in this cause: (1) Is a county liable to a city located in said county for the board of prisoners incarcerated in a city jail? (3) Is a county liable to a city located in said county for the expense of transporting prisoners from the city to the county jail?
+Appellant filed claims with the board of commissioners of Madison county for the board of certain prisoners incarcerated in appellant’s jail, and for the expense of transporting certain prisoners from said jail to the county jail at Anderson in said county. These claims were, by the board of commissioners of said county, disallowed and rejected. Appellant thereupon brought this action in the circuit court of said county. The complaint is in three paragraphs. The first paragraph of complaint embraces both claims; the second seeks to recover only for the board of certain prisoners;' the third only for their transportation from the city jail to the county jail. Appellee’s demurrer for want of facts was sustained to each paragraph of the complaint.. The questions as above stated are squarely presented.
+Section 8541 Burns 1894, subdivision 44, is cited by appellant’s counsel. That subdivision of the statute provides that the common council shall have the power “to erect a prison or prisons within the limits of such city. And it shall be lawful to imprison therein persons convicted of offenses against the laws of such corporation, or for offenses against the penal laws of this State, and also persons charged with offenses punishable by indictment or presentment, temporarily, until they can conveniently be removed to the county jail. So far as the same may be applicable, the laws governing county jails shall be the laws of such city prison, and in all cases where the county jail is convenient, it may be used for city purposes until a city prison shall be erected-,” Under this statute it was very early held by the Supreme Court that the city, and not the county, was liable for the expense of keeping prisoners of the city in a county jail. Board, etc., v. Chissom, 7 Ind. 688. Under the law of this State it is made the duty of the sheriff of the county to receive, care for, and board the prisoners committed to the county jail; a fixed compensation is allowed him for all such services; no person other than the sheriff is authorized to do this work, and there is no statute permitting the board of county commissioners to pay any other person for such services. In the case of Board, etc., v. Gresham, 101 Ind. 53, it was said by Mitchell, J., speaking for the court: “That an individual is elected to the office of sheriff in a particular county, and because he thereby becomes ex officio the jailer of that county, and responsible for the care and custody of the prisoners confined in the jail which is provided and maintained by the law in that county, does not imply that the municipality shall come under any other obligation to him except that provided by the very terms of the statute. The statute prescribes, specifically, the duties of the sheriff with respect to receiving and caring for prisoners confined in the county jail, and fixes the compensation which shall be paid him for receiving, discharging and boarding them, arid when the county, through its board of commissioners, has provided a suitable jail, and maintains in it suitable furniture and appliances for its proper beeping and pays the jailer the compensation specifically provided by statute, it has discharged its municipal obligation and exhausted its corporate power over the subject.”
+The obligation of allowing certain prisoners to be temporarily confined in a city jail until they can be transported to the county jail is an obligation imposed upon cities by the law making power, and the expense of caring for such prisoners must be paid by the city until they are delivered into the custody of the sheriff of the county.
+It is a part of the duty of a constable or city marshal to commit to jail, by order of court, prisoners in their custody, and, for the discharge of such duty, compensation is allowed by statute. §§3511, 3512, 8060, 8061 Bums 1894.
+In no event under the statutes of this State could the county be held liable for such services. The courts of this State have uniformly held that a board of county commissioners cannot exceed the statutory provisions in the discharge of their various duties. Appellant’s learned counsel has failed to point out to us any statute, and we believe there is none, authorizing such an allowance" as the one claimed in this action. We find no error in the record. Judgment affirmed.
