@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,659"
+decided: "1921-01-14"
+citations: ["74 Ind. App. 623"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago, Indianapolis and Louisville Railway Company v. Shedrow."]
+source_url: "https://static.case.law/ind-app/74/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2527105
+cites_cases: ["109 N. E. 213", "109 N. E. 70", "168 Ind. 390", "50 Ind. App. 425", "59 Ind. App. 212", "60 Ind. App. 332", "81 N. E. 79", "96 N. E. 649"]
+---
+
+# Chicago, Indianapolis & Louisville Railway Co. v. Shedrow
+
+## Majority (Batman, J.)
+
+Batman, J.
+This is an action by appellee against appellant to recover damages for injury to four head of cattle, resulting in their death. The complaint is in two paragraphs, the first being based on a charge of wilfullness, and the second on a charge of negligence. An answer in general denial was filed to each paragraph of the complaint, and the issues thus formed were submitted to a jury for trial, resulting in a verdict and judgment in favor of appellee. Appellant filed a motion for a new trial, which was overruled, and this action of the court is made the basis of the only error •assigned on appeal.
+Appellant’s motion for a new trial contains a number of reasons therefor, but the only ones presented for our consideration relate to the action of the court in giving instructions Nos. 6 and 7 on its own motion. There was no error in giving instruction No. 6. It merely called the attention of the jury to the theory of the second paragraph of the complaint, and made a finding of negligence on the part of appellant a condition to appellee’s right of recovery thereunder. This was in contradistinction to instruction No. 5, given by the court on its own motion, which informed the jury that the first paragraph of complaint was based on wilfulness, and that a recovery could' be had on that paragraph only in the event that it found that appellant, by its agents and servants, wilfully ran its locomotive and cars upon and against appellee’s cattle. Instruction No. 6 is not mandatory. It does not purport to state all the law involved in the theory on which said second paragraph of the complaint is based, and does not indicate what would have been necessary to constitute negligence on the part of appellant. If appellant had desired to have the jury instructed more fully in the latter respect, it was incumbent on it to have prepared and requested such an instruction, and, having failed to do so, it cannot now rightfully complain that the jury was not so instructed. Chicago, etc., R. Co. v. Hamerick (1911), 50 Ind. App. 425, 96 N. E. 649.
+Said instruction No. 7 is as follows: “I instruct you that if you find from the evidence that the cattle that were killed on the defendant’s railroad track by defendant’s train, if you find from the evidence in this case that they were so killed, were in a pasture adjoining the railroad track, and if you further find that they went through a private gate onto the railroad track, which gate was left open by a third party, and if after they were on the railroad track they were seen by the defendant’s agents and employes who were operating the train that killed them in time to stop the train,, and to avoid injuring said cattle, then I instruct you that it was the duty of the persons so operating the train to stop it and avoid the injury if possible to do so with safety to the train and passengers.”
+It will be observed that this instruction informed the jury that, under the facts stated, it was the duty of the persons operating appellant’s train to stop the same, and avoid injuring appellee’s cattle, if possible to do so with safety to the train and passengers. This statement renders said instruction erroneous, as such persons, under the facts stated, were only required to exercise ordinary care to avoid such injury, and whether such care was exercised by said persons was a question for the jury. Chicago, etc., R. Co. v. Ramsey (1907), 168 Ind. 390, 81 N. E. 79; Chicago, etc., R. Co. v. Leiter (1915), 59 Ind. App. 212, 109 N. E. 213; Vandalia R. Co. v. Duling (1915), 60 Ind. App. 332, 109 N. E. 70. A mere reading of the instruction discloses its harmful nature. Its effect was to inform the jury that, in order to find appellant guilty of actionable negligence, it was only necessary to determine that it was possible for appellant’s servants to have stopped the train with safety, and thereby avoided injuring appellee’s cattle. This is clearly not the law. On the contrary, a finding that it was possible to have stopped such train, and thereby avoided injuring the cattle, would not have established actionable negligence on the part of appellant, unless the jury had found in addition thereto that ordinarily prudent persons, exercising ordinary care under the same or similar circumstances, would have stopped the train.
+For the reason stated, the court erred in giving said instruction No. 7, and'appellant’s motion for a new trial should have been sustained.
+The judgment is reversed, with instructions to the trial court to sustain said motion, and for further proceedings.
