@@ -1,0 +1,31 @@
+---
+court: "Appellate Court of Indiana"
+docket: "18,630"
+decided: "1955-11-19"
+citations: ["126 Ind. App. 70"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thompson et al v. Dyar"]
+source_url: "https://static.case.law/ind-app/126/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1360403
+cites_cases: ["129 N. E. 315", "130 N. E. 2d 52", "164 Ind. 439", "191 Ind. 27", "38 Am. Rep. 139", "73 Ind. 278", "73 N. E. 904"]
+---
+
+# Thompson v. Dyar
+
+## Majority (Bowen, J.)
+
+Bowen, J.
+This is an appeal from a judgment in an action brought by the appellants seeking damages and a mandatory injunction to require appellee to remove a levee constructed on the land of appellee with the consent and approval of the appellee, and to perpetually enjoin appellee from obstructing a certain stream and the flow of water therein.
+Issues were joined upon the appellants’ complaint alleging- that the appellee wrongfully built and constructed a certain levee on and in the natural channel of a stream known as Lick Creek to the height of approximately five feet and extending along such stream and in the channel thereof for a distance of approximately one-fourth of a mile, and the answer of the appellee addressed thereto admitting the ownership of the land in question and the location of Lick Creek but denying the other allegations of appellants’ complaint, and asking that appellants take nothing by such action. The complaint further alleged that the construction of such levee altered the natural conditions of said stream so as to change the natural course thereof, and to cause the water thereof in increased volume to be concentrated upon and against the lands of the appellants in such a manner as to cause irreparable injury and damage.
+The cause was tried by the court upon such issues joined by appellants’ complaint and appellee’s answer thereto, and the court found for the appellee and against appellants, and entered judgment that appellants take nothing by their complaint and that the appellee recover her costs.
+Error relied upon for reversal is that the decision and finding of the trial court was contrary to law.
+The assignments of error herein call for our determination of the proposition whether, under the evidence in this record, the appellants were denied relief to which they were entitled as a matter of law. The theory of appellants’ complaint in this case is grounded upon the charge that the appellee built a levee in the natural channel of Lick Creek and thereby altered the natural conditions of the stream so as to change the natural course thereof to the damage of appellants’ land. The record shows that the bottom of the levee was some fifteen feet away from the creek bank, and it is clear that such levee was not built in the natural channel of Lick Creek. However, the appellants urge in substance and effect, that the law recognizes that a natural water course may have two natural channels, a natural low water channel and a natural high water channel, and that the allegations of the complaint were broad enough to include the interference by appellee with such high water channel and the flowage of water from Lick Creek during flood stages.
+We have been favored in this case with exhaustive briefs and able argument by counsel for both sides on the general law with reference to the rights of riparian owners to construct dikes and levees on their land. However, from an examination of the evidence in the record before us, we do not find it proper to make an application of the authorities cited by the appellants with reference to an interference with either a high water or low water channel of a natural water course. While there is evidence which would support appellants’ theory of this case on appeal, this evidence is sharply disputed and the record contains much conflicting evidence. This court cannot weigh evidence, There is evidence in the record from a witness who testified that he had seen Lick Creek at flood stages since the levee in question was built, and if the levee had any effect on the flowage of water the witness did not observe it. Other witnesses testified that no part of the levee was in the well-defined natural channel to which the water is confined, and further, that it was only when surface water would appear that any of the water would come in contact with the levee. Since there is evidence that the levee did not have any effect upon the flowage of the waters of Lick Creek, either in flood stage or in the low water channel, there is substantial evidence of probative value which supports the trial court’s finding and judgment that the appellants were not entitled to the relief demanded in the complaint.
+The law is well-settled that the owner of land is not liable for damages to lands of another occasioned by the surface water flowing therefrom as it naturally flows over the surface of the ground, and that a lower proprietor may erect levees and dams of reasonable height to prevent such surface waters from entering upon his land, and he cannot be held liable for damages because such obstruction causes such surface water to flow on the lands of another, unless it changes a natural or prescriptive water course or channel. Watts v. Evansville, etc., R. Co. (1921), 191 Ind. 27, 129 N. E. 315; Cairo etc., R. Co. v. Stevens (1881), 73 Ind. 278, 38 Am. Rep. 139; Clay v. Pittsburgh, etc., R. Co. (1905), 164 Ind. 439, 73 N. E. 904.
+Conceding, without deciding such question, that the allegations and the theory of appellants’ complaint were broad enough to cover a high water or flood channel of the stream, there is evidence that the levee in question had no effect on the flow of the water in Lick Creek even in flood stages. Therefore, it would seem that the facts in this case most favorable to appellee bring it entirely within the rule applying to surface waters.
+For the reasons given herein, the judgment of the lower court was not contrary to law, and such court did not err in overruling appellants’ motion for a new trial.
+Judgment affirmed.
+Note. — Reported in 130 N. E. 2d 52.
