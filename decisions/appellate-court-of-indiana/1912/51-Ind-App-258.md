@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,919"
+decided: "1912-10-16"
+citations: ["51 Ind. App. 258"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter A. Wood Reaping and Mowing Manufacturing Company et al. v. Angemeier et al."]
+source_url: "https://static.case.law/ind-app/51/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5098246
+cites_cases: ["12 Ind. App. 355", "148 Ind. 591", "35 Ind. App. 116", "39 N. E. 1052", "47 N. E. 1067", "47 N. E. 629", "73 N. E. 833", "99 N. E. 500"]
+---
+
+# Walter A. Wood Reaping & Mowing Manufacturing Co. v. Angemeier
+
+## Majority (Hottel, C. J.)
+
+Hottel, C. J.
+— This is a suit by the creditors of the “Evansville Implement and Farmers’ Supply Company”, a corporation, against the stockholders of such corporation, to enforce a statutory liability under §4051 Burns 1908, §3007 E. S. 1881.
+The only question attempted to be presented by the appeal, is the sufficiency of the complaint as against demur 7 rers. The assignment of error relied on to present this question is as follows: ‘ ‘ The court erred in sustaining the demurrers of the appellees to the appellant’s complaint.” It will be observed that this assignment by its language indicates that the ruling on more than one demurrer is relied on for reversal. That more than one demurrer was filed, is also disclosed by the record. At least two were filed, one by attorneys representing one group of defendants, and the other by attorneys representing another group of defendants. The form of the demurrer, or the averments of the pleading to which it was addressed, might have been of such a character as to make the ruling correct as to one of the demurrers and erroneous as to the other. Each ruling was independent of the other, and each presents to this court a separate, independent ruling, either or both of which may or may not be erroneous, depending, in each instance, on the form and grounds of the demurrer and the sufficiency of the averments of the pleading to which it is addressed, to state a cause of action against either or all of the parties to such demur-rer.
+The assignment of errors in this case in no way separates, specifies or identifies these separate independent rulings as being erroneous. This court in the case of Spitzer v. Miller (1905), 35 Ind. App. 116, 73 N. E. 833, in discussing this question, said at page 117: “The statute (§667 Burns 1901, §655 R. S. 1881) and rule four of this court require that an assignment of error shall be specific, and the rule expressly requires that each specification shall be complete in itself. Each supposed error must be specified; the specifications must be distinct. Each specification in itself alone must be sufficient to require the court on appeal to review some action of the court below, and it must not be addressed to a number of separate supposed errors(Our italics.) See, also, §696 Burns 1908, §655 R. S. 1881; Rule 4, Sup. and App. Court; Clear Creek Tp. v. Rittger (1895), 12 Ind. App. 355, 39 N. E. 1052; Baldwin v. Sutton (1897), 148 Ind. 591, 47 N. E. 629, 47 N. E. 1067; Elliott, App. Proc. §§299, 308, and authorities cited.
+For this failure in the assignment of errors properly to separate and specify the particular errors attempted to be presented, the above authorities warrant a dismissal of the appeal, but an examination of the complaint in this case, convinces us that each demurrer thereto was properly sustained. The complaint proceeds on the theory that §4051 Burns 1908, §3007 R. S. 1881, applies to the stockholders of all corporations mentioned in the provisions of the act of whieh said section is a part, even though the charter of such corporation has not expired as provided in §4050 Burns 1908, §3006 R. S. 1881, and that each individual stockholder who receives an unearned dividend from an insolvent corporation, by said §4051, supra, is made liable to each creditor and all the creditors of such corporation for the full amount of the indebtedness due them from such corporation.
+This court would hesitate to put upon the section of statute in question a construction that would make a stockholder who innocéntly receives an unearned dividend from a corporation, concerning the financial management and condition of which he generally knows little or nothing, liable for all the debts of such corporation. Such an interpretation and construction would seem so unjust and unreasonable that to justify the same such a meaning should be expressed in terms clear, certain and unambiguous in the section of.statute involved. To adopt such a construction of this section would be neither within its spirit nor letter. On the contrary, the express letter and words of §4051, supra, clearly limit its application to those corporations mentioned in the preceding section “whose charters shall expire by limitation, forfeiture, or otherwise. ’ ’
+The complaint was bad on the theory on which it was predicated, and the demurrer thereto was properly sustained, for which reason the judgment below is affirmed.
+Note. — Reported in. 99 N. E. 500. See, also, under (1) 2 Oyc. 987, 989; (2) 3 Oye. 185; (3) 10 Oye. 665. As to tlie effect of a statutory extension of the company’s existence, after the expiration of its charter life, for the maintaining and defending suits, see 134 Am. St. 312.
