@@ -1,0 +1,31 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,684"
+decided: "1895-11-21"
+citations: ["13 Ind. App. 571"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wagner et al. v. Barden et al."]
+source_url: "https://static.case.law/ind-app/13/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5776881
+cites_cases: ["115 Ind. 474", "120 Ind. 157", "13 Ind. App. 381", "81 Ind. 554", "91 Ind. 384"]
+---
+
+# Wagner v. Barden
+
+## Majority (Lotz, J.)
+
+Lotz, J.
+The appellant Ann Wagner brought suit against the appellees on a promissory note executed by them. At the same time of filing the complaint an affidavit and undertaking in attachment were also filed, and a writ of attachment was thereupon issued and placed in the hands of the sheriff, and on the same day was levied upon certain personal property of the appellee James Barden. Subsequently, the appellant, Alfred H. Robbins, filed his complaint, affidavit and undertaking, and made himself a party to the action. His claim was founded upon a promissory note executed by James Barden. The court ordered the causes to be consolidated.
+James Barden answered separately in two paragraphs. The first was a general denial. The second only answered the attachment proceedings. The cause was tried by the court, and a finding made for the appellants as to the amounts due on their notes, but as to the attachment proceedings the court found for James Barden, and rendered judgment accordingly. The only questions in controversy in this appeal relate to the attachment proceedings. The second paragraph of the answer of James Barden is not limited to the attachment proceedings, but is addressed to the whole complaint; but as no point is made against it in this respect, this defect will be deemed waived. The paragraph is badly constructed, but we think it substantially avers that on the day the writ of attachment was issued and placed in the hands of the sheriff James, Barden was a resident householder of Fulton .county, Indiana, and that he thereafter continued to be such householder up to the time of filing his answer; that on the day the writ of attachment was issued in this cause the sheriff levied the same upon certain personal property belonging to him; that this property is fully described in a schedule, or exhibit, filed with the pleading; that before and at the time of the levy and seizure he claimed the property as exempt from seizure under the writ, and offered to file his schedule showing that all his property, real and personal, money on hand, or on deposit, in or out of the State, was worth less than $600, hut that the sheriff refused to permit him to do so; that afterwards, and on the same day and while the property was in the possession of the sheriff, he made and duly verified a schedule of all of his property, as required by law; (this property was specifically described in an exhibit filed with the pleading); that the schedule contained a full, true and complete statement of all property owned by him on the day and at the time of issuing the writ; that the property is worth less than $600; that the action against Trim is founded upon a contract, and that he claimed and still claims the property as exempt from said writ; that he presented the schedule to the sheriff, and demanded that the sheriff return the property to him as exempt; that the sheriff refused to deliver the property to bim upon his request and demand.
+Appellants’ demurrer for want of facts was overruled to this answer. It is contended that the schedule filed with the pleading as an exhibit cannot be looked to in construing or determining its sufficiency. In this, appellants are correct, for the schedule is not the foundation of the defense. But the exhibit is a proper and convenient method of describing the property levied upon and sought to be exempted, and may be looked to for that purpose.
+Exemption laws should be liberally construed, but the right granted to the debtor is personal as to himself. He may waive it. If he wishes to avail himself of this privilege he must comply substantially with the requirements of the statute. When the statute which confers the right also prescribes the manner in which the right may be secured, the failure to assert the right at the time and in the manner prescribed will be deemed a waiver of the privilege. Faulkner v. Jones, 13 Ind. App. 381; Graves v. Hinkle, 120 Ind. 157; Boesker v. Pickett, 81 Ind. 554; Haas v. Shaw, 91 Ind. 384.
+The statute, section 726, R. S. 1894 (section 714, R. S. 1881), requires the debtor to make out and deliver to the officer having the writ an inventory of all his property of whatever kind and description, both within and without the State, belonging to him, or in which he had any interest at the time the writ was issued, and to make and subscribe an affidavit, that it contains a full and true account of all property had or held by him at the time the writ was issued.
+Assuming, without deciding, that the provisions of this statute are applicable in attachment proceedings, and assuming, without deciding, that.the answer is insufficient, still it does not necessarily follow thát because a demurrer has been overruled to an insufficient pleading the erroneous ruling constitutes reversible error.
+It is expressly provided by statute that “no objection taken by demurrer, and overruled, shall be sufficient to reverse the judgment, if it appear from the whole record that the merits of the cause have been fairly determined.” Section 348, R. S. 1894 (section 345, R. S. 1881).
+The undisputed evidence in this case shows that James Barden did present to the sheriff a duly verified inventory of all his property, containing all the requisites of the statute, and made the affidavit required. It was also an undisputed fact that Barden was at the time of issuing the writ a resident householder of Pulton county, Indiana, and that all of the property of every kind at that time did not exceed in value $600. This property, under these facts, was not subject to attachment Brigham v. Hubbard, 115 Ind. 474.
+Filed November 21, 1895.
+An examination of the whole record, shows that the merits of the cause have been fairly tried and determined.
+Judgment affirmed.
