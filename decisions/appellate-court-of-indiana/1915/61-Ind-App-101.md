@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,345"
+decided: "1915-10-07"
+citations: ["61 Ind. App. 101"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas v. Thomas."]
+source_url: "https://static.case.law/ind-app/61/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5163233
+cites_cases: ["104 Ind. 183", "105 Ind. 92", "110 N. E. 673", "120 Ind. 88", "168 Ind. 654", "173 Ind. 657", "178 Ind. 459", "22 N. E. 94", "3 N. E. 252", "4 N. E. 419", "80 N. E. 535", "83 Ind. 391", "91 N. E. 232", "99 N. E. 738"]
+---
+
+# Thomas v. Thomas
+
+## Majority (Felt, J.)
+
+Felt, J.
+Appellee moves to dismiss this appeal on the ground that the appeal was not perfected within 180 days from the time the judgment was rendered. The case was a suit for support, in which judgment was rendered for appellee on March 28, 1914. On the same day appellant filed her motion for a new trial and it was overruled. Thereupon, on the same day, appellant filed a motion to modify the judgment so as to provide a reasonable allowance for the support of herself and infant child. On June 28, 1915, at a subsequent term of the court, appellant filed a supplemental motion to modify the judgment to secure such allowance, and the court on that day overruled the motion to modify the judgment and the motion to modify was by order of the court made a part of the record without bill of exceptions. The transcript of the proceedings was filed in the office of the clerk of this court on July 23, 1915.
+If the appeal should have been perfected within 180 days from the time the motion for a new trial was overruled the motion to dismiss must be sustained for the transcript was not filed in this court until more than a year after that time. Appellant concedes this to be the general rule, but claims that the final judgment, within the meaning of our statute authorizing appeals, was not rendered until the motion to modify the judgment was overruled by the court. The statute (§672 Burns 1914, Acts 1913 p. 65) provides that appeals “must be taken within one hundred and eighty days from the time the judgment is rendered.” In speaking óf this statute before amendment — changing the time from-one year to 180 days — our Supreme Court in Blaemire v. Barnes (1910), 173 Ind. 657, 658, 659, 91 N. E. 232, said: “It has been held by this court, however, under said statute, that when the motion for a new trial is filed after the judgment is rendered, but within the time allowed by law, that an appeal may be taken under said section within one year from the time judgment overruling the motion for a new trial is rendered. New York, etc., R. Co. v. Doane (1886), 105 Ind. 92 [4 N. E. 419]; Colchen v. Ninde (1889), 120 Ind. 88 [22 N. E. 94]. Other motions will not have the effect of postponing the time for taking the appeal.^] Ewbank’s Manual (2d ed.) §101; Joyce v. Dickey (1885), 104 Ind. 183 [3 N. E. 252].” In 3 C. J. 1054, §1051, it is said: “In some jurisdictions the pendency of a motion to vacate and set aside or modify a judgment is held to suspend the operation of the judgment, so that it does not take final effect for the purpose of an' appeal or writ of error until the motion has been disposed of. The general rule, however, is that the pendency of a motion to vacate or modify a judgment or order does not relieve one from the statutory requirement to appeal within the prescribed time.”
+There are numerous decisions to the effect that a party appealing must bring his appeal within the provisions of the statute authorizing the appeal. There is no final judgment within the meaning of our statute until a pending motion for a new trial is overruled. If sustained it has the effect of vacating a judgment previously rendered. A motion for a new trial is not a collateral one but is one directly connected with the judgment and in this respect differs from many other motions. As to collateral motions the party desiring to appeal is charged with the responsibility of seeing that they are ruled on within the time allowed for an appeal if he desires to obtain any benefit therefrom on appeal. He may not depend on the pendency of such motions to extend the time fixed by the statute for taking an appeal. New York, etc., R. Co. v. Doane, supra; Colchen v. Ninde, supra. As supporting our conclusion that the appeal must be dismissed, see, also, 3 C. J. 1054 and eases cited in notes; 2 Cye 793-797; Flory v. Wilson (1882), 83 Ind. 391; Brown v. Brown (1907), 168 Ind. 654, 80 N. E. 535; Brady y. Garrison (1912), 178 Ind. 459, 461, 99 N. E. 738; Ewbank’s Manual (2d ed.) §101 and eases cited. The motion to dismiss the appeal is sustained. Appeal dismissed.
+Note. — Reported' in 110 N. E. 673. As to computation of time of appeal or writ of error as affected by motion for new trial or rehearing, see 3 Ann. Cas. 630.
