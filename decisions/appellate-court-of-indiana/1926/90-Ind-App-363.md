@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,158"
+decided: "1926-02-24"
+citations: ["90 Ind. App. 363"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reitemeier v. Linard et al."]
+source_url: "https://static.case.law/ind-app/90/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553110
+cites_cases: ["105 Ind. 117", "154 Ind. 630", "164 Ind. 155", "30 N. E. 1116", "33 Ind. 335", "4 Ind. App. 469", "4 N. E. 453", "45 Ind. 43", "49 Ind. 28", "5 Am. Rep. 201", "57 N. E. 519", "72 N. E. 1045", "76 Ind. 272", "79 Ind. 288", "80 Ind. 458", "89 Ind. 360", "92 Ind. 382", "96 Ind. 73", "99 Ind. 377"]
+---
+
+# Reitemeier v. Linard
+
+## Majority (Thompson, J.)
+
+Thompson, J.
+In this action, brought by appellees against appellant, the allegations of the complaint are, in substance, as follows: That on December 30, 1921, the appellees and appellant entered into a contract in writing by the terms of which the appellees sold to the appellant certain real estate situated in the city of Logansport, at an agreed price, part of such purchase price to be paid $100 a month from and after January 1, 1922; that the appellant owed, at the time of the filing of the suit, the sum of $300 in principal for three monthly payments which the appellees alleged were then due and unpaid; that appellees had performed all conditions in the contract on their part to be performed; that appellees demanded judgment in the sum of $500.
+To this complaint, appellant filed answer in four paragraphs: First, general denial; second, payment; third, that the contract declared on was executed wholly without consideration; fourth, an answer stating that the appellant admitted the signing of the contract declared on in the complaint, but that, in so doing, he was deceived and misled by the acts of the appellees in this: That one of the appellees pointed out particular boundaries of the real estate which was the subject of the transaction, and that said appellee pointed out a greater area and different boundaries from the correct area and boundaries of the real estate actually owned by appellees and included within the description given in the contract; that thereby appellant was induced to execute the contract under a mistaken belief as to the true description of the property he was about to purchase; that the property pointed,, out by appellee was of the value of $9,500 but that the property actually described in the contract was of the value of only $6,000; that appellant had paid on the contract the sum of $6,400, or $400 in excess of the value of the property described in the contract.
+There was also a counterclaim filed by appellant in two paragraphs, each paragraph based upon the allegation that appellees pointed out particular boundaries and located a fixed and definite area when offering the property to appellant, and that the contract entered into by the parties described a different and smaller tract and a less valuable tract than the one actually pointed out by the appellees. The first paragraph of the counterclaim is based upon the act of the appellees in wrongfully furnishing an erroneous and mistaken description of the real estate actually owned by the appellees, while the second paragraph is based upon fraud. Appellees filed replies to the answer and counterclaim.
+There was a trial by jury and a verdict in favor of appellees in the sum of $300, and also a verdict for appellant in the sum of $200. Thereupon, the jury, having received additional instructions, again retired and returned a verdict for the appellees in the sum of $100. Judgment was rendered upon the verdict. Appellant filed a motion for a new trial, which was overruled, and appellant excepted.
+The only valid assignment of error is that the court erred in overruling appellant’s motion for a new trial, under which is presented: (a) That the amount of the recovery is too large; (b) the verdict is not sustained by sufficient evidence, and is contrary to law; (c) there was error in the giving of certain instructions; (d) there was error in refusing certain instructions tendered by appellant; (e) the court erred in the admission of certain testimony;. (f) the court erred in excluding certain testimony offered by appellant.
+Among other instructions given, the appellant complains of instruction No. 7, which reads as follows:
+“I instruct you that admissions are a class of evidence that should be scrutinized very closely by you for the reason that the party testifying to the admissions, first, may have imperfectly understood what was said by the party making the statement; second, he may not have correctly remembered what was said; third, he may have inaccurately stated what was said.”
+This instruction is wrong. Davis v. Hardy (1881), 76 Ind. 272; Finch v. Bergins (1883), 89 Ind. 360; Newman v. Hazelrigg (1884), 96 Ind. 73; Lewis v. Christie (1884), 99 Ind. 377; Unruh v. State, ex rel. (1886), 105 Ind. 117, 4 N. E. 453; Shenkenberger v. State (1900), 154 Ind. 630, 57 N. E. 519; Indianapolis St. R. Co. v. Taylor (1905), 164 Ind. 155, 72 N. E. 1045.
+It is evident from the verdict returned in this case that the jury found for appellant on his counterclaim on the grounds of fraud, and that the testimony to which the instruction above quoted was applicable was offered in support of appellant's counterclaim, and as the jury found appellant was damaged in the sum of $200, by reducing appellees' claim of $300 to the sum of $100, it is evident that the instruction was harmless.
+Appellant complains of other instructions given, but, after considering these, we find no reversible error.
+Appellant further contends that the court erred in permitting appellee Tilman Linard to testify to the effect that there was due appellee, on August 3, 1922, on the written contract, $300 on principal and $122.50 interest. This was error, as it was the duty of the jury to determine the amount due, if any, and to whom. Bellefontaine R. Co. v. Hunter, Admr. (1870), 33 Ind. 335, 5 Am. Rep. 201; King v. Enterprise Ins. Co. (1873), 45 Ind. 43; Baker v. Dessauer (1874), 49 Ind. 28; Mays v. Hedges (1881), 79 Ind. 288; Union, etc., Co. v. Moore (1881), 80 Ind. 458; Weik v. Pugh (1884), 92 Ind. 382. This error, however, was harmless, as the verdict returned by the jury shows that the testimony was not regarded, and that appellant was not injured thereby. Pennsylvania Co. v. Frund (1892), 4 Ind. App. 469, 30 N. E. 1116.
+This court does not weigh the evidence on appeal. We have carefully considered all the errors assigned, but find no reversible error.
+Affirmed.
