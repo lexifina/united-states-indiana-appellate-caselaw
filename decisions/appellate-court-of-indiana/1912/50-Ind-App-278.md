@@ -1,0 +1,38 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,608"
+decided: "1912-04-24"
+citations: ["50 Ind. App. 278"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hughes et al. v. Chicago, Indianapolis and Louisville Railway Company."]
+source_url: "https://static.case.law/ind-app/50/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5090138
+cites_cases: ["117 Ind. 299", "138 Ind. 148", "174 Ind. 158", "20 Ind. 228", "20 N. E. 150", "21 Ind. App. 152", "22 Ind. App. 628", "23 Mo. 400", "23 N. Y. Supp. 670", "28 Ind. 142", "30 N. E. 161", "35 N. E. 569", "37 N. E. 582", "39 Ind. 369", "4 Ind. App. 1", "43 Ark. 233", "47 Am. Dec. 263", "47 N. E. 180", "51 Minn. 252", "51 N. E. 946", "53 N. W. 546", "54 Ind. 333", "54 Ind. 535", "55 Ind. 278", "63 Ind. 475", "64 Ind. 31", "66 Ind. 171", "7 Blackf. 567", "74 Mo. App. 209", "78 Ind. 579", "8 Ind. App. 344", "84 Mo. App. 249", "86 Ind. 43", "87 Ind. 45", "91 N. E. 561", "98 N. E. 317"]
+---
+
+# Hughes v. Chicago, Indianapolis & Louisville Railway Co.
+
+## Majority (Felt, C. J.)
+
+Felt, C. J.
+— Appellants brought this action against appellee to recover damages for the loss of a trunk. The cause was tried by a justice of the peace, without a jury, and from a finding and judgment against them, appellants appealed to the Carroll Circuit Court. On motion of appellee, the appeal was there dismissed, and appellants now allege error in such ruling.
+Appellee first contends that error, if any, in dismissing an appeal from a justice of the peace cannot be reviewed in the Appellate Court on an independent assignment of error, as in this ease, but that such error can only be presented as one of the grounds of a motion for a new trial. Appellee’s position is, however, not well taken, for error in sustaining a motion to dismiss an appeal from a justice is not an “error of law occurring at the trial”, and the only way to present the question of the correctness of such ruling is by an independent assignment of error. Galey v. Mason (1910), 174 Ind. 158, 161, 91 N. E. 561; Werley v. Huntington Water-Works Co. (1894), 138 Ind. 148, 153, 37 N. E. 582; Tibbetts v. O’Connell (1879), 66 Ind. 171; Vawter v. Gilliland (1876), 55 Ind. 278; Tyler v. Bowlus (1876), 54 Ind. 333.
+The substance of appellee’s motion to dismiss the appeal to the circuit court is that it does not appear from the transcript that the justice ever entered a judgment such as authorized an appeal. Appellee bases his contention on two grounds:
+(1) That what purports to be the judgment of the justice is, in fact, no more than a finding, and (2) the alleged judgment is not signed by the justice.
+It is true that the judgment in question is informal, and its phraseology open to criticism, but, when liberally and fairly construed, the language shows a trial, a finding in favor of appellee (defendant below), and a judgment that plaintiffs take nothing by their action, and: pay the costs of suit. This is a final disposition of the action, and is sufficient in form to evidence a judgment. 24 Cyc. 654; Kennard v. Carter (1878), 64 Ind. 31, 40; Britton v. State, ex rel. (1876), 54 Ind. 535, 540; Brewer v. Murray (1845), 7 Blackf. 567.
+The statutes (§§1725, 1780 Burns 1908, §§1437,1489 R. S. 1881) require the judgment of a justice of the peace to be entered of record and signed, and it has been held that until this is done there is no valid judgment. Galbraith v. Sidener (1867), 28 Ind. 142, 150; Emery v. Royal (1889), 117 Ind. 299, 303, 20 N. E. 150; State, ex rel., v. Wanee (1892), 4 Ind. App. 1, 30 N. E. 161.
+Section 1725, supra, requires a justice of the peace to keep a docket, “in which he shall record the proceedings, in full of all suits instituted before him; which record shall contain the names of the parties at full length, a copy of the cause of action, * * * and * * * be signed by such justice,” etc.
+In the case of Indianapolis, etc., R. Co. v. Smither (1863), 20 Ind. 228, a motion to dismiss, made in the circuit court on appeal from a justice’s court, because the justice had failed to copy in his record “the plaintiff’s cause of action”, was overruled. This case has been followed in later decisions. Hopper v. Lucas (1882), 86 Ind. 43, 50; Reed v. Whitton (1881), 78 Ind. 579.
+In Catterlin v. City of Frankfort (1882), 87 Ind. 45, it was held that the fact that the judgment of the circuit court was signed in vacation rendered it irregular but not void.
+In Baldwin v. Runyan (1893), 8 Ind. App. 344, 35 N. E. 569, where the jurisdiction of a justice of the peace was questioned, this court, by Reinhard, J., said: “The circuit court is not a court of error, and does not undertake to review the proceedings before the justice. It can only inquire into the jurisdiction of the justice for the purpose of deciding whether it has itself jurisdiction, and when it has so found, it proceeds to try and dispose of the case as an original action.”
+In O’Reilly v. Block (1893), 23 N. Y. Supp. 670, under a statute very similar to ours, it was held that the unsigned minutes of the justice, showing the amount of the judgment, for whom rendered, and awarding costs, was sufficient on appeal to give the court jurisdiction, provided the appeal was otherwise regular.
+It has been held in other jurisdictions that for the purposes of an appeal it is immaterial whether the judgment of a justice of the peace is valid or invalid, provided it appears that he had jurisdiction of the person and of the subject-matter. Finke v. Lukensmeyer (1892), 51 Minn. 252, 53 N. W. 546; Giett v. McGannon Mercantile Co. (1898), 74 Mo. App. 209; Stephenson v. Jones (1900), 84 Mo. App. 249, 255; Turner v. Harrison (1884), 43 Ark. 233; Matlock v. King (1856), 23 Mo. 400.
+While the question has not been squarely decided in Indiana in regard to the effect of an unsigned judgment of a justice of the peace on appeal to the circuit court, our decisions on kindred questions, and the decisions of other courts, fully warrant us in holding that the question is different from those arising where the validity of the judgment is questioned in a proceeding involving the rights of persons or property, as upon execution or the like.
+The case on appeal is to be tried de novo. It is not a question of correcting errors. In this case the justice of the peace filed with the clerk of the court his duly signed and verified transcript of the proceedings in the case before him. This was sufficient to show that he had jurisdiction of the person of the defendant and of the subject-matter, and rendered a judgment, though irregular in form. The appeal was otherwise regular under the statute, and the transcript was sufficient to give the circuit court jurisdiction, and it should have proceeded to a trial of the ease on its merits.
+The following authorities tend to support this conclusion: 24 Cyc. 723; State, ex rel., v. Miller (1878), 63 Ind. 475; Britton v. Fox (1872), 39 Ind. 369; Fitch v. Byall (1897), 22 Ind. App. 628, 631, 47 N. E. 180; Mann v. Barkley (1898), 21 Ind. App. 152, 51 N. E. 946.
+The other grounds of the motion to dismiss, if good for any purpose, present the same question as the one already discussed.
+The judgment is therefore reversed, with instructions to the lower court to overrule the motion to dismiss the appeal, and for further proceedings in accordance with this opinion.
+Note. — Reported in 98 N. E. 317. See, also, under (1) 2 Cyc. 999, 1,000; (2) 24 Cyc. 600; (3) 24 Cyc. 603; (4) 24 Cyc. 725. As to the conclusiveness of a judgment by a justice of the peace, see. 47 Am. Dec. 263.
