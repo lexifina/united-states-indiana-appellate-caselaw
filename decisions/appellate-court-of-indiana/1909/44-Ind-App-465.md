@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,537"
+decided: "1909-10-28"
+citations: ["44 Ind. App. 465"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bear v. Reese, Surveyor."]
+source_url: "https://static.case.law/ind-app/44/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5026111
+cites_cases: ["148 Ind. 692", "158 Ind. 454", "39 Ind. App. 432", "40 Ind. App. 535"]
+---
+
+# Bear v. Reese
+
+## Majority (Myers, J.)
+
+Myers, J.
+On September 25, 1905, Benjamin E. Bear filed a petition in the Laporte Circuit Court asking the court to order Joseph O. Reese, county surveyor of Laporte county, to proceed to repair a certain ditch situated in said county, which had been established and constructed under the laws of this State concerning drainage. The petition shows that said Reese was at that time the duly elected, qualified and acting county surveyor of Laporte county; that said Reese had been given ten days’ notice, in writing, of his failure to perform the work of repairing the ditch as required by law, which notice was given by said Bear, who was shown to be interested in having such repairs made; that said Reese had refused to do the work and make the requested repairs; also, showing such other facts as would make the petition sufficient, after giving five days’ notice, in writing, to require said Reese to appear before the Laporte Circuit Court, or the judge thereof in vacation, and show cause why such repairs should not be made, and in all respects in accordance with section ten of an act concerning drainage, approved March 6, 1905 (Acts 1905, p. 456, §5631 Burns 1905).
+To this petition appellee filed an answer in seven paragraphs. The first and third were withdrawn, a demurrer was sustained to the second and the seventh, and overruled to the affirmative fourth, fifth and sixth. Such proceedings were thereafter had that appellant stood on the overruling of his demurrer to the fourth, fifth and sixth paragraphs of answer, and judgment was rendered in favor of appellee. The overruling of appellant’s demurrer to each of said paragraphs of answer is here relied on for a reversal of the judgment.
+The consideration of these alleged- errors depends upon whether there was any right of appeal to a higher court from the final determination of such proceedings in the circuit court. This was a statutory proceeding required to be commenced by the filing of a petition in the office of the clerk of the court in the county in which the ditch was to be established. The statute provides that “such court or judge shall have the right to hear and determine such matter finally.” §5631, supra.
+The Supreme Court, in passing upon the right of appeal in a proceeding analogous to the one here presented, held, that while the statute authorized an appeal to the circuit or superior court by any one aggrieved, from the action of the county surveyor in making allotments, there was no right of appeal from either of such eourts to a higher court. “But, having granted this right of appeal, the legislature seemed to have been impressed with the fact that matters involved in a proceeding in respect to the mere cleaning out and keeping a public ditch in repair were not of such importance as to justify an appeal to a higher court and thus enable the litigation between the parties to be continued indefinitely. Consequently it will be seen that it is declared in positive and unmistakable language in section five of the original act [Acts 1889, p. 53], §5636 Burns 1901, that the ‘decision upon such appeal shall be final and conclusive.’ ” Pittsburgh, etc., R. Co. v. Gillespie (1902), 158 Ind. 454.
+While the statute under consideration in the case last cited used the words “final and conclusive,” they were no more positive against the right of appeal from the action of the trial court than that expressed by the word “finally,” found in the statute now being considered. The legislative intention is unmistakably expressed in plain and appropriate language — “such court or judge shall have the right to hear and determine such matter finally.” Giving to this language its plain and ordinary meaning, the conclusion must be that the controversy presented by the petition and a showing on the part of the county surveyor why such repairs should not be made, must end as determined by the court, or the judge thereof in vacation, having jurisdiction of the proceedings. The word “finally” is defined by Webster to mean ‘at the end or conclusion; ultimately; lastly.”
+In this case, while no evidence was heard, the facts averred in said several paragraphs of answer to which a demurrer was overruled and not controverted by appellant were sufficient, in the opinion of the court below, as a showing on the part of the surveyor for not making the repairs demanded in the petition, and therefore a proper basis for the court’s final action in the matter. Our attention has not been called to any statute, nor do we know of any expressly or impliedly authorizing this appeal. Without such a statute no right of appeal exists. Hughes v. Parker (1897), 148 Ind. 692; Pittsburgh, etc., R. Co. v. Gillespie, supra. See, also, City of Indianapolis v. L. C. Thompson Mfg. Co. (1907), 40 Ind. App. 535; Dinson v. Drosta (1907), 39 Ind. App. 432.
+Appeal dismissed.
