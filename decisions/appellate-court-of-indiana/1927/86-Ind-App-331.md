@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,843"
+decided: "1927-07-01"
+citations: ["86 Ind. App. 331"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dausman, J., absent."]
+parties: ["Charles M. Oberlin Company v. Woolverton."]
+source_url: "https://static.case.law/ind-app/86/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1546668
+---
+
+# Charles M. Oberlin Co. v. Woolverton
+
+## Majority (McMahan, J. —)
+
+McMahan, J. —
+Action by Charles M. Oberlin Company against Howard Woolverton to recover balance claimed to be owing the plaintiff for work done and material furnished in the alteration and repair of a hot water heating plant and for plumbing in the defendant’s residence. The defendant filed a cross-complaint for damages upon the theory of an implied warranty allege ing defects in workmanship and material. The cause was tried before a jury, and resulted in a verdict and judgment against the plaintiff on its complaint and in favor of the defendant on his cross-complaint for $400. The error assigned is that the court erred in overruling appellant’s' motion for a new trial. '
+Appellant undertook the work of furnishing the necessary material and labor in the alteration and repair of a heating plant in a residence which appellee was having remodeled and enlarged. Appellant’s compensation was -to be twenty per cent, of the cost of the material and labor. The agreement between the parties was oral. Appellee testified that he knew nothing about the installation of heating plants ,* that he so informed appellant, and told its representative that he wanted a plant that would properly heat all parts of the building and that he expected appellant to use its judgment in the selection of a boiler sufficient to do the work, and in the installation of the plant. Charles M. Oberlin, who appears to have negotiated the contract as the representative of appellant, and who superintended the work, testified that he figured the amount of the radiation from plans furnished him by appellee; that the old boiler was not of sufficient capacity and that he ordered and installed a new boiler of standard make which had been on the market for many years.
+The evidence is ample to sustain a finding that the boiler installed by appellant was not large enough; that it would not heat all of the radiators; that the pipes leading from the boiler were too small, some of them had traps or air spaces in them; that appellee made complaints to appellant; that it did not remedy the defects and that appellee employed another person to remedy the defects at a cost in excess of $800. The cost of the material and labor furnished by appellant, plus twenty per cent, amounted to $3,338.20, upon which appellee paid $3,194.32, leaving a balance of $143.88 due appellant for which it would have been entitled to judgment if it had fully performed the contract.
+Charles M. Oberlin testified as a witness for appellant and stated in detail the circumstances connected with, the making of the contract, the character of the material furnished, and the work performed. From the cross-examination of this witness, it appears that appellee’s contention was that the boiler was not of sufficient capacity, that there were defects in the method of installation and tending to show that the failure of the heating- plant to properly heat the building was due to a lack of engineering skill on the part of appellant. On redirect examination of this witness, he was asked to name some of the heating plants he had theretofore installed. Appellee objected to this question and appellant offered to prove, that, prior to the installation of the heating plant in question, he had installed heating plants in a number of other residences, public buildings and offices, for the purpose of showing the extent of the experience and skill of the “plaintiff.” This offer was refused and the witness was not permitted to answer the question. The question at issue was not a question of engineering skill. The question was, what was the contract between the parties, and did appellant install the plant in accordance with the agreement, and if not, what, if any, damages did appellee sustain? If appellant agreed to install a heating plant that would properly heat the building, and, failing to do so, appellee was compelled to employ another to increase the' heating capacity of the plant and to remedy defects in the installation, the fact that the witness was a man of great experience would be no defense. The court did not err in excluding the offered testimony. The question does not appear to have been asked for the purpose of qualifying the witness as an expert.
+Appellee, over the objection of appellant, was allowed to state that it cost $810 to have the capacity of the boiler increased and the pipes and radiators so enlarged and installed to properly heat the building. Appellant objected to this testimony for the reason that it was not the proper manner of proving damages. The party who did the work, without objection, testified that the reasonable value of the material and work required to make the plant do the work for which it was intended was $810. We are not impressed with the contention- that the action of the court in allowing appellee to- state that it cost him $810 to have the work done was reversible error.
+The evidence was sufficient to justify the jury in finding that the changes made by appellee in the plant were necessary in order to make it properly heat the building.
+Judgment affirmed.
+Dausman, J., absent.
