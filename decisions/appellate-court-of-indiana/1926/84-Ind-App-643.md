@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,444"
+decided: "1926-05-19"
+citations: ["84 Ind. App. 643"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["National Fire Insurance Company v. Crooker."]
+source_url: "https://static.case.law/ind-app/84/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2490324
+cites_cases: ["122 N. E. 667", "153 Ind. 591", "160 Ind. 392", "162 Ind. 379", "168 Ind. 690", "55 N. E. 762", "66 N. E. 1003", "70 N. E. 484", "76 Ind. App. 255", "80 N. E. 26"]
+---
+
+# National Fire Insurance v. Crooker
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+Action by appellee against appellant upon a policy of fire insurance by which appellant insured appellee's stock of merchandise at $400, her store, office furniture and fixtures for $200 and her household goods for $1,000. It is averred in the complaint that appellee's property was, on June 7, 1923, destroyed by fire, that appellee had performed all of the terms and conditions of the policy of insurance by her to be performed, and that appellant had refused to pay. There was a demand for judgment for $1,600. A trial by jury resulted in a verdict for $1,263.23 in favor of appellee. Appellant filed its motion for a new trial which, after appellee had remitted $50.81 of the verdict, was overruled. The error properly presented in this court is that the court erred in overruling the motion for a new trial. Appellant presents that by the terms of the policy appellee was required to file proofs of loss as a condition precedent to maintaining her action, and that having failed to file such proof, she cannot prevail. But it appears by the evidence that within the sixty-day period provided in the policy, within which time the proofs of loss were required to be filed, appellant denied its liability by a refusal to pay the loss. Appellant having denied liability, appellee was not required thereafter to submit proofs of loss and appellant may not now be heard to object that such proofs were not filed. Niagara Fire Ins. Co. v. Abell (1919), 76 Ind. App. 255, 122 N. E. 667, 668; Germania Fire Ins. Co. v. Pitcher (1902), 160 Ind. 392, 66 N. E. 1003 ; Providence, etc., Ins. Co. v. Wolf (1907), 168 Ind. 690, 697, 80 N. E. 26, 120 Am. St. 395.
+In National Masonic, etc., Assn. v. McBride (1904), 162 Ind. 379 , on page 381, 70 N. E. 484, the court, speaking of the question of a waiver of proofs of loss, said that: "In such cases very slight circumstances have been held sufficient evidence of the intention of the insurer not to take advantage of the breach, or to insist upon the forfeiture."
+Appellant states as a proposition of law that a condition of a policy can only be waived by an agent possessing competent authority, and that a mere local agent cannot waive such condition. Conceding, but not deciding, that the whole of appellant’s proposition is the law, it does not have application to the facts of this case as disclosed by the evidence. It appears by the evidence that the local agent who wrote the policy was a Mr. Simms, and that, under the direction of this local agent, appellee went to appellant’s office in the city of Chicago, which was appellant’s general office, and, having failed to see the adjuster, went a second time by Mr. Simm’s direction, and that appellee was sent back a third time by Mr. Simms and was instructed to see a Mr. Heald, who denied any liability, and refused to make payment, which denial and refusal were within the time that, under the terms of the policy, appellee was required to file proofs of loss. In the absence of proof to the contrary, the jury might very properly infer that Mr. Heald- in the general office, and to whom appellee was sent by appellant’s local agent, spoke with the authority of appellant.
+Appellant complains that it was error for the court to exclude evidence of an adjuster that certain property lost by the fire was household goods and certain other property fixtures. But it appears by the record that when appellant propounded its question, appellee objected thereto and the' objection was sustained. Thereafter appellant made its offer to prove, but such offer was too late. In Gunder v. Tibbits, Admr. (1899), 153 Ind. 591, 55 N. E. 762; the court, after discussing the ruling similar to the one here involved, said: “It has been repeatedly decided that the only proper practice is to propound the question to the witness on the stand, and, if objection to the question is made, to state to the court what the examiner proposes to prove by the witness’s answer to the question, and then, if the objection is sustained, to reserve an exception to the ruling on the question.”
+Appellant complains of certain instructions given by the court on its own motion, but, notwithstanding the fact that the instructions given by the court are not set out in appellant’s brief as required by Rule 22 of the Supreme and Appellate courts, we have examined the instructions complained of by appellant as they appear in its brief only in its motion for a new trial and we hold that, even if they had been properly presented for our consideration, no reversible error was committed in giving them.
+Affirmed.
