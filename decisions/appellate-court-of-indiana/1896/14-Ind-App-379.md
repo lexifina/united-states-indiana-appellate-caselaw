@@ -1,0 +1,37 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,795"
+decided: "1896-02-14"
+citations: ["14 Ind. App. 379"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Crum v. Rea."]
+source_url: "https://static.case.law/ind-app/14/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4786156
+cites_cases: ["108 Ind. 512", "119 Ind. 143", "121 Ind. 140", "140 Ind. 211", "140 Ind. 604", "26 Ind. 50", "6 Ind. App. 285", "68 Ind. 172"]
+---
+
+# Crum v. Rea
+
+## Majority (Ross, J.)
+
+Ross, J.
+The first specification of error assigned in this court questions the sufficiency of the first paragraph of the answer, which, omitting the caption, reads as follows :
+“.The defendant for answer to. complaint says: Par. 1. That on the 26th day of January, 1894, in an action then pending in the Henry Circuit Court of the State of Indiana by the plaintiff against the defendant, in which plaintiff alleged the same facts as are stated in the complaint in this action and that final judgment was rendered in said cause on the day above mentioned. ”
+It is insisted by counsel for appellant that the answer is insufficient as a plea of former adjudication. A plea of former adjudication, in order to be good, must show that the matters in controversy in the action in which the plea is interposed are the same as actually were or that might have been determined in the former action. Columbus, etc., R. R. Co. v. Watson, 26 Ind. 50; Kramer v. Matthews, 68 Ind. 172.
+Is the allegation that in another action between the same parties, the same facts were alleged that are alleged in the case at bar, equivalent to an allegation that in the former action the cause of action was the same as that alleged in the complaint to which the answer is addressed ?
+In pleading a former adjudication it is necessary to allege with reasonable certainty, (1) that an action was commenced between the same parties or their privies ; (2) that the subject-matter of that action was the same as that embraced in the action to which the plea is addressed; (3) that a final judgment was rendered in the former action ; that is, it must be a final settlement of the matter in issue between the parties.
+In Wells on Res Ad judicata, section 14, it is said: “The thing demanded must be the same, the demand must be founded upon the same cause of action, the demand must be between the same parties and found by them against each other in the same quality. ”
+In Kitts v. Willson, 140 Ind. 604, the court says: “But before the rule of former adjudication can be invoked it must appear that the thing demanded was the same ; that the demand was founded upon the same cause of action, that it was between the same parties and found for one of them against the other in' the same quality. ”
+Of course the plea is not always limited to the issues actually made and the facts proven and passed upon, but may, in certain cases, go to any and all issues or facts which might properly have been made and decided in that action. Parker v. Obenchain, 140 Ind. 211.
+In McFadden v. Ross, 108 Ind. 512, it was said: “The proposition that the judgment of a court having jurisdiction of the parties and of the subject-matter, is conclusive, has become a settled maxim of the law. This, however, means nothing more than that such judgment is conclusive upon all questions which were, or might have been litigated and determined within the issues before the court. Neither reason nor authority lends any support to the view, that because suitors have submitted certain designated matters to the consideration of a court, the tribunal is thereby authorized to determine'any other matter in which the parties may be interested, -whether it he involved in the pending litigation or not. c Persons by becoming suitors do not place themselves for all purposes under the control of the court, and it is only over those particular interests which they choose to draw in question, that a power of judicial decision arises.’” Beaver v. Irwin, 6 Ind. App. 285.
+In Jones v. Vert, 121 Ind. 140, the court says: “Ordinarily, four things must concur before the principles of res adjudicata can be invoked: (1) A suit; (2) a final judgment; (3) identity of subject-matter; (4) identity of parties.”
+To allege that the same facts were alleged in the former action as are alleged in the case at bar, does not necessarily imply that no other or additional facts were pleaded in the former action, or that the same issues were presented, or that the causes of action are the same. The same facts alleged in the complaint before us might have been alleged in the former action, and yet other and additional facts may have been pleaded which would have made an entirely different cause of action.
+Without the intervention of this plea the appellee was not entitled to prove the facts which tended to show a former adjudication (Louisville, etc., R. W. Co. v. Cauley, 119 Ind. 143), hence it cannot be said that because the court made a special finding of facts, the error in overruling the demurrer thereto was harmless.
+It appears from the facts found by the court that the appellant Susan J. Crum, as the wife of John T. Crum, was the owner of the undivided one-third of lot 2, in Wilson and Johnson’s addition to the town of.Dunreith, in Henry county, in the State of Indiana, such titlq having vested in her upon the sale of said lot on execution against her husband in the year 1881. The court also finds “That on the 9th day of January, 1894, in the circuit court of Henry county, Indiana, the plaintiff (appellant) herein filed her petition for partition against the defendant (appellee) in this action, alleging that she and the defendant were the owners in fee simple of, and tenants in common” of, said lot 2, in "Wilson and Johnson’s addition; that the same was not susceptible of division and asking that the same be sold, and the proceeds divided between them, according to their respective interests; that the appellee filed several answers to the petition, and to these answers appellant replied. That upon the issues thus formed the cause was submitted to the court for trial, and at the request of the parties the court made a special finding of the facts with its conclusions of law thereon. The court then sets forth a number of facts found by the court on that trial, none of which in any manner affect appellant’s title, but the court fails to find what conclusions of law the court drew from the facts thus found, or that any judgment was ever rendered in that cause. Unless there was a final judgment rendered in that action there was no adjudication or settlement of the rights of the parties thereto.
+Under the facts found by the court in its special finding, the appellant was the owner of the undivided one-third of the property in controversy, unless her rights had been adjudicated and settled in the former action.. The court failed to find any facts which even tended to show that her rights had already been adjudged. If no judgment was ever rendered in the former action there, was no adjudication of her rights.
+The facts found are insufficient to sustain a judgment in favor of appellee.
+Judgment reversed, with instructions to grant appellant’s motion for a new trial, and with leave to appellee to amend his first paragraph of answer if he so desires.
+Filed February 14, 1896.
