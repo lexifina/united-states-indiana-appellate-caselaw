@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,230"
+decided: "1911-03-14"
+citations: ["47 Ind. App. 263"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Everett v. Irwin et al."]
+source_url: "https://static.case.law/ind-app/47/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5068351
+cites_cases: ["163 Ind. 1", "20 Ind. App. 557", "39 Ind. App. 434", "45 Ind. App. 188", "6 Ind. App. 633", "84 Ind. 276", "86 Ind. 149", "97 Ind. 348"]
+---
+
+# Everett v. Irwin
+
+## Majority (Myers, C. J.)
+
+Myers, C. J.
+— This was an action by appellees against appellant to recover the possession of certain real estate, commenced before a justice of the peace and taken by appeal to the court below, where the cause was tried before a jury, resulting in a verdict in favor of appellees.
+Appellant’s motion in arrest of judgment and his motion for a new trial as of right were overruled. Judgment was rendered in favor of appellees, and appellant appealed to the Supreme Court, assigning error upon each of said rulings. The Supreme Court, for lack of jurisdiction, transferred the cause to this court.
+Appellant by his motion in arrest of judgment challenges the complaint on the ground that it fails to state a cause of action within the jurisdiction of a justice of the peace. The complaint showed that appellees were the owners as tenants in common of certain real estate in Tippecanoe county, Indiana ; that a certain room in the building on said real estate was occupied by appellant as an office; that appellees were entitled to the immediate possession thereof; that appellant held possession of said room without right, and for fifteen days last past unlawfully kept appellees out of possession thereof, to their damage, etc.
+Where the relation of landlord and tenant exists, justices of the peace have jurisdiction of actions for the possession of lands. §8071 Burns 1908, §5225 R. S. 1881. Appellees insist that the complaint reasonably construed shows that the relation of landlord and tenant existed. It is a well-recognized rule of pleading that where an action is commenced before a justice of the peace, a complaint sufficient, in substance, to apprise the adverse party of the nature of the demand, and to bar another action for the same thing is sufficient even as against a demurrer. Clifford v. Meyer (1893), 6 Ind. App. 633; Metropolitan Life Ins. Co. v. Bowser (1898), 20 Ind. App. 557; Lippman v. City of South Bend (1882), 84 Ind. 276; Brown v. Thompson (1910), 45 Ind. App. 188.
+While we do not commend the complaint as a precedent in such cases, yet, when all of the facts therein are considered along with the presumption of a correct determination of the matters involved, and the liberal rule relating to complaints before justices of the peace we are not prepared to say that it was not sufficient to apprise the appellant of all that was necessary under the rule hereinbefore stated to withstand an attack made after verdict. The only question is, Does the complaint show that the relation of landlord and tenant exists? In this respect the pleading shows that appellees were the owners of the building, the character of the property in question, the purposes for which it was occupied, that such occupancy was without right, and that appellees were unlawfully kept out of possession, etc. The pleader used the words “unlawfully kept” in the sense of “unlawfully 'detained,” and the words “unlawfully detained” have been construed as synonymous with the words of the statute “unlawfully hold over.” Fry v. Day (1884), 97 Ind. 348, 352.
+These facts, fairly construed, rebut any inference that the title to the building, of which the particular room was a part, was in any manner in question. And as between the owners of the building and one occupying one room thereof as an office, without right, and unlawfully detaining or holding over, they are effective as tending to show only that such possession commenced in a tenancy, and therefore within the statute conferring on a justice of the peace jurisdiction in such cases.
+Appellant earnestly relies upon the case of Burgett v. Bothwell (1882), 86 Ind. 149. In that case the pleader evidently looked to §8083 Burns 1908, §5237 R. S. 1881, and not to §8071, supra, as authorizing the justice to hear and determine that controversy. The question evidently was whether the complaint was good under the second provision of §8083, supra, and the court held that under this provision it was not enough that the possession was unlawful, but it must be forcibly held as well. The facts in that complaint were widely different from the facts shown in this case. In that case plaintiff did not claim to be the owner of the land, or that defendant was in possession thereof without right, but, on the contrary, it appears that the defendant peaceably entered into the possession of the premises, and for some reason, not stated, was holding them unlawfully. The action was one for possession of an entire tract of land, with no showing that the title was not in dispute. The facts in that case distinguish it from this case, and the court committed no error in overruling appellant’s motion in arrest of judgment.
+Having determined that this was an action by appellees against a tenant unlawfully holding over, a new trial as a matter of right is not allowable. Cambridge Lodge, etc., v. Routh (1904), 163 Ind. 1. It is only when the title to real estate is questioned in an action for possession, or in cases to quiet title to real estate, that a new trial as of right will be granted. Bonham v. Doyle (1907), 39 Ind. App. 434. It was not error to overrule appellant’s motion for a new trial as of right.
+Judgment affirmed.
