@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,122"
+decided: "1920-01-14"
+citations: ["77 Ind. App. 180"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Meyer et al. v. Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company."]
+source_url: "https://static.case.law/ind-app/77/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2511921
+cites_cases: ["113 N. E. 443", "63 Ind. App. 156"]
+---
+
+# Meyer v. Pittsburgh, Cincinnati, Chicago & St. Louis Railway Co.
+
+## Majority (Remy, P. J.)
+
+Remy, P. J.
+This is the second appeal of this cause. Meyer v. Pittsburgh, etc., R. Co. (1916), 63 Ind. App. 156, 113 N. E. 443. The original suit was brought by appellee in the Marion Circuit Court to quiet its title to certain real estate situated in Marion county, on which real estate its tracks were constructed. The question in dispute was whether the appellee railroad company was the owner in fee simple of the real estate in controversy, or was the owner of an easement therein. Upon the trial of the cause, the court at the request of one of the parties made a special finding of facts, and stated as its conclusion of law thereon: “That the plaintiff [Railroad Company] is the owner in fee simple of the following described real estate situated in the city of Indianapolis, to wit,” setting forth with precision the real estate occupied by the tracks of the company, and decreed accordingly. From the judgment and decree of the Marion Circuit’ Court, the defendants appealed to this court asserting that the trial court erred in its conclusion that appellee was the owner in fee simple of the Jands; and contending that appellee had acquired but an easement. The cause ivas reversed by this court, and, in an opinion written by Caldwell, C. J., it was adjudged that “appellee’s estate in the lands described in the decree, under the facts found, is an easement to use and occupy such lands for the purpose of maintaining and operating a road over the same,” and mandated the court “to restate its conclusions of law in harmony with this opinion and to decree accordingly.”
+Upon the return of the cause to the Marion Circuit Court, appellants filed their written motion requesting the trial court to restate its said conclusion of law so as to read: “That the plaintiff has acquired and now owns the title to an easement in the following described land * * *, which easement consists of the right of the railroad company to use, enjoy and occupy the lands above described substantially in the same manner and to the same extent as they were being used at the time of the bringing of this action,” etc.
+The trial court overruled the said motion and stated its conclusion of law as follows: “That the plaintiff has acquired and owns the title to an easement for right of way for the maintenance and operation of its railroad on and over the following described real estate situated in the City of Indianapolis, Indiana, to wit,” describing the lands.
+Thereupon in accordance with this conclusion of law and the findings of facts theretofore made, the trial court rendered judgment and entered its decree. A motion by appellants to modify the decree so that it would be in the form and language called for by their former motion as to the terms of the conclusion of law, was overruled, and this appeal followed; appellants assigning as error that the trial court erred in its conclusions of law and in overruling the motion to modify the decree. The only question presented for our consideration is whether the restatement .by the trial court of its conclusion of law fulfills the requirements of the mandate of this court in the former opinion. Appellee contends that it does meet such requirements, while appellants insist that it was the duty of the Marion Circuit Court, in restating the conclusion of law, to state the measure and extent of such easement.
+It is apparent from the record that appellee’s tracks are about to be elevated along and over the railroad right of way which constitute the real estate in controversy, and that because of such elevation appellants are demanding, or will demand, damages; hence their interest in having a decree particularly describing the extent and character of appellee’s easement. On the former appeal, the question as to the manner and extent of appellee’s future use of its easement in maintaining and operating its railroad was not presented (see the opinion Meyer v. Pittsburgh, etc., R. Co., supra, bottom page 157), and this court expressed no opinion, and decided nothing on that question. In the course of its former opinion this court discussed some phases of the law relative to title by prescription, but the only opinion actually expressed as to appellee’s title in question was that “appellee’s estate in the lands described in the decree under the facts found is an easement to use and occupy such lands for the purpose of maintaining and operating a road over the same.” The circuit court in strict compliance with the mandate of this court restated its conclusion of law, and entered its decree in harmony therewith. There is no error.
+Judgment affirmed.
