@@ -1,0 +1,22 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,745"
+decided: "1899-01-11"
+citations: ["21 Ind. App. 414"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Town of Williamsport v. Lisk."]
+source_url: "https://static.case.law/ind-app/21/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2408426
+cites_cases: ["112 Ind. 133", "124 Ind. 482", "134 Ind. 56", "137 Ind. 404", "17 Ind. App. 1", "55 Ind. 250", "57 Ind. 192"]
+---
+
+# Town of Williamsport v. Lisk
+
+## Majority (Henley, J.)
+
+Henley, J.
+This action was commenced by the appellee against the appellant to recover damages on account of an alleged injury received by her-in falling upon a sidewalk in the town of Williamsport, it being alleged that the sidewalk at the time and place the injury occurred was in a defective and dangerous condition. It is alleged in the complaint that the place where appellee fell was on the east side of Monroe street, near the corner of the brick block, which had been erected only a short time prior to the accident. In erecting the building, and in constructing concrete walks around it, it was necessary to 'cut down the grade of the old sidewalk about twenty-three inches below the surface of the old walk, in order to conform to the grade of the new walk. By doing this there was left near the end of the new walk an abrupt incline or step of some twenty-five inches in depth. This was left for a time by the appellant in that condition, except that boards were laid there, so that pedestrians could more easily pass over the sidewalk, and afterwards, on account of the town board having failed to let the contract for the permanent improvement of the street, the marshal of the town, by order of the town board, repaired the walk by cutting the grade back some nine or ten feet; making the walk an inclined plane,- the upper end of which was about twenty-five inches higher than the lower end, and five feet wide. This was the condition of the walk at the time of the alleged injury. On the 1st day of February, 189Y, at the time of the alleged accident, the streets and sidewalks, and the particular place described, in the town of Williamsport, were covered with ice and snow. The appellee, while passing over this inclined plane, fell and received the injury for which damages are claimed in this action. The appellant answered by general denial. There was a trial by jury, and a finding in favor of appellee in the sum of $150.' Appellant moved for a new trial, which whs overruled, and judgment rendered in favor of appellee for said amount. The motion for a new trial assigns two reasons why the same should have been granted: (1) Thai; the verdict of the jury is not sustained by sufficient evidence; (2) that the verdict of the jury is contrary to law. The only error assigned in this court is the overruling of appellant’s motion for a new trial. The evidence is properly before us.
+It is the settled law of this State that incorporated towns axe liable for injuries occurring from defective streets or sidewalks. Town of Kentland v. Hagan, 17 Ind. App. 1; Scudder v. Hinshaw, 134 Ind. 56; Town of Centerville v. Woods, 57 Ind. 192; Lowrey v. City of Delphi, 55 Ind. 250; Cones v. Board, etc., 137 Ind. 404. It is also well settled that a person is not necessarily precluded from recovering for injuries resulting from defective streets because he had knowledge of such defects. City of Columbus v. Strassner, 124 Ind. 482; Town of Gosport v. Evans, 112 Ind. 133. The person using a street known to be defective is o,nly bound to use care commensurate with the known danger. Whether appellant was guilty of negligence, and whether appellee was free from fault, and in fact all the questions arising upon the trial of this cause, were controverted questions, and were by the verdict of the jury settled in favor of appellee. The jury returned no findings of fact with their general verdict, and we can only look to the evidence to determine whether or not the judgment should be disturbed. From the evidence the court cannot conclude, as a matter of law, that appellant was free from negligence, nor that appellee did not use such care as an ordinarily prudent person would have used under like circumstances. The undisputed facts are not before the court. The evidence is conflicting, and in such case this court will not disturb the judgment of the lower court. Judgment affirmed.
