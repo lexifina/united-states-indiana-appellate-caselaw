@@ -1,0 +1,35 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,229"
+decided: "1909-04-27"
+citations: ["47 Ind. App. 331"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shank et al. v. Trustees of McCordsville Lodge No. 338, Independent Order of Odd Fellows."]
+source_url: "https://static.case.law/ind-app/47/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5068550
+cites_cases: ["140 Ind. 406", "144 Ind. 662", "158 Ind. 202", "166 Ind. 325", "20 Ind. App. 182", "24 Ind. App. 460", "25 Ind. App. 573", "37 Ind. App. 154", "6 Ind. App. 622"]
+---
+
+# Shank v. Trustees of McCordsville Lodge No. 338
+
+## Majority (Watson, C. J.)
+
+Watson, C. J.
+— Appellees brought this action against Lewis F. Shank as principal and George W. Heiny, William Booth and J. F. ITeinzman as his sureties on a bond and contract for the construction of a lodge building by appellant Shank as contractor.
+The complaint alleges that “said Shank did not complete the building on the 1st day of June, 1903; that on said last-mentioned date said Shank failed and refused to take any further steps toward completing said building, and that this plaintiff was compelled to complete said building, and bear and pay, and did bear and pay, the expense of completing such building; that the said Shank failed to carry out his said contract in the following particulars, to wit.”
+Appellants contend that the court erred in overruling the separate demurrers to the complaint, because it does not allege that appellees performed the terms and conditions of the contract on their part; but such an allegation is unnecessary, where it is shown that the defendant has repudiated the contract or refused to perform his part. Riley v. Walker (1893), 6 Ind. App. 622, 629.
+The assignments of error relate entirely to the pleadings, but it is unnecessary to pass on the sufficiency of the demurrers, as the special findings made and the exceptions to the conclusions of law thereon present the same question as do the demurrers, and the ultimate rights of the parties rest upon these findings and the conclusions of law thereon. Indiana Rolling Mill Co. v. Gas Supply, etc., Co. (1906), 37 Ind. App. 154; Chicago, etc., R. Co. v. Yawger (1900), 24 Ind. App. 460; Board, etc., v. Wolff (1906), 166 Ind. 325. In determining whether any error was committed in stating the conclusions of law on the special findings, we necessarily determine the sufficiency of the pleadings. The special findings could not supply any necessary or essential averments of the pleadings, but may show such a state of facts that the errors, if any, in ruling on the pleadings were harmless. Goodwine v. Cadwallader (1902), 158 Ind. 202, and cases cited.
+The special findings in this ease disclose the following material facts: On August 23, 1902, plaintiff lodge, by and through its authorized building committee and defendant Lewis P. Shank, entered into a written contract for the erection and construction of a certain building to be completed by November 28, 1902. On September 8, 1902, defendant Shank, as principal, and defendants Heinzmann, Booth and Heiny, as sureties, executed the bond to secure the performance of the contract in accordance with the plans and specifications. After the execution of said contract and bond, defendant Shank undertook the work of constructing said building, and proceeded with it until June 1, 1903, when he abandoned it, and thereafter neither he nor his codefendants did any work whatever on said building. Plaintiffs performed the work of making the excavations for said building, and by mistake of those making said excavations they were excavated in some parts thereof about four inches deeper, and in other parts about eighteen inches deeper than the plans for the building required. The parts so excavated too deep were filled in by defendant Shank with brick, plaintiffs orally agreeing with said Shank to pay him the reasonable value of the brickwork so required. The work of constructing said building and the completion thereof by said Shank was not delayed because of the extra brick work. Said Shank did not complete said building according to plans and specifications by November 28, 1902, as provided for in the contract, and had not completed said building on June 1, 1903. Delay in completing said building was caused by the failure of said Shank to employ a suitable number of workmen to complete said building within the time stipulated by the contract. Plaintiffs in no way delayed the completion of said building, nor was the delay unavoidable. Said Shank delayed the completion of said building 180 days after the time stipulated in the contract, by reason of which plaintiffs were damaged in the sum of $175. On June 10, 1903, plaintiffs served written notices on all the defendants, notifying them that if they did not proceed at the expiration of five days to complete said building, plaintiffs would take charge of said building and proceed to complete it, and after the service of the notices none of the defendants took any steps whatever to complete said building. Then follows detailed statements of a number of breaches and omissions in the building contract and specifications by defendant Shank, and a list of the credits to which defendants and plaintiffs are respectively entitled.
+The findings show a clear right of plaintiffs to recover in this action, and we find the conclusions of law thereon to be correct and in accord therewith. It appears from these facts that the right result was reached, therefore the overruling of the demurrers to the complaint is immaterial, for the appellants’ rights were not prejudiced thereby. Beasley v. Phillips (1898), 20 Ind. App. 182; Chicago, etc., R. Co. v. Yawger (1900), 24 Ind. App. 460; Vestal v. Craig (1900), 25 Ind. App. 573; Gilliland v. Jones (1896), 144 Ind. 662, 55 Am. St. 210; Woodward v. Mitchell (1895), 140 Ind. 406.
+Judgment affirmed.
+
+## Rehearing (Watson, J.)
+
+On Petition for Rehearing.
+Watson, J.
+— Appellants, in an earnest and' able brief on behalf of their petition for rehearing, insist that the trial court erred in the findings of facts as to the amount of interest due, and also the allowance for damages as rental, when in fact there was due to appellant Shank a sum of money which was withheld by appellees for nearly eleven months.
+We have examined this question, and find thaj; the trial court was in error as to interest in the sum of $45.16. In equity there should be a further allowance, by reason of said money so withheld, of $19.86, making in all the sum of $65.02.
+If appellees will file their remittitur in the Tipton Circuit Court for the sum of $65.02, as of the date of the judgment rendered herein, and cause a certified copy thereof to be filed with the clerk of this court within thirty days of this date, the petition will be in all things overruled. If not, petition for rehearing will be granted.
