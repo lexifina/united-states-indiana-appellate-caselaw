@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,080"
+decided: "1900-03-27"
+citations: ["25 Ind. App. 132"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams v. Resener, Administrator."]
+source_url: "https://static.case.law/ind-app/25/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4861314
+cites_cases: ["1 Ind. 100", "1 Ind. App. 594", "104 Ind. 154", "109 Ind. 434", "116 Ind. 511", "121 Ind. 255", "134 Ind. 269", "21 Ind. App. 227", "21 Ind. App. 42", "23 Ind. 50", "24 Ind. 352", "25 Ind. 31", "26 Ind. 207", "3 Ind. 156", "3 Ind. App. 472", "42 Ind. 574", "44 Ind. 283", "48 Ind. 65", "53 Ind. 365", "6 Ind. 60", "7 Ind. App. 280", "70 Ind. 1", "70 Ind. 396", "71 Ind. 27", "74 Ind. 305", "90 Ind. 318", "90 Ind. 372", "97 Ind. 497"]
+---
+
+# Williams v. Resener
+
+## Majority (Henley, J.)
+
+Henley, J.
+—Appellant was the plaintiff below. Her claim is for work and' labor done as a housekeeper for decedent. The relationship existing between appellant and appellee’s decedent is that of father and daughter. There were two paragraphs of appellant’s complaint, the first based upon an implied contract and the second upon an express contract to pay for the services rendered. There was a trial by jury. At the conclusion of the evidence, appellee moved the court to instruct the jury to return a verdict in his favor, which motion the court sustained, and thereupon instructed the jury to return a verdict in favor of appellee. To the action of the lower court in so instructing the jury the appellant at the time objected and excepted, and has properly assigned such ruling as a reason in her motion for a new trial. The only error assigned in this court is the overruling of appellant’s motion for a new trial. Under the assignment appellant’s counsel discuss the one question as to whether the court properly instructed the jury to return a verdiét in favor of appellee.
+It is settled law in this State that it is not only the right but the duty of a trial court to direct a verdict in cases where there is an entire failure of proof as to any material fact the establishing of which is necessary to the cause of action or defense. A judge should not submit a question to the jury where their verdict, if contrary to his views of the- evidence and its legal effect, would be set aside as against the law and the evidence. Faris v. Hoberg, 134 Ind. 269, 39 Am. St. 261; Gipe v. Cummins, 116 Ind. 511; Hall v. Durham, 109 Ind. 434; Carver v. Carver, 97 Ind. 497; Adams v. Kennedy, 90 Ind. 318; Wabash R. Co. v. Williamson, 104 Ind. 154; Hynds v. Hays, 25 Ind. 31; Dodge v. Gaylord, 53 Ind. 365; Steinmetz v. Wingate, 42 Ind. 574; American Ins. Co. v. Butler, 70 Ind. 1.
+The case of Faris v. Hoberg, supra, presents a masterly review of the authorities. The rule as herein stated is in that case reaffirmed, with the further statement'of law that the same duty devolves upon the trial court to direct a verdict where the evidence of the defendant entirely answers and overthrows that of the plaintiff not leaving him a prima facie case.
+Under the issues in this ease, it was incumbent upon appellant to produce some evidence to support a contract, express or implied, between appellant and her deceased father that she was to be paid for her services. The recognized rule in such cases is that, when a child after reaching majority resides with the parent as a member of the family, and renders services for the parent, the law does not imply an obligation to pay for such services; on the contrary, the presumption is that no compensation as wages is intended. An express contract to pay will render the parent liable, and an implied contract to pay a reasonable compensation may be inferred from facts and circumstances which tend to rebut the presumption arising from such a relation. Collins v. Williams, 21 Ind. App. 227; Hill v. Hill, 121 Ind. 255; McCormick v. McCormick, 1 Ind. App. 594; Puterbaugh v. Puterbaugh, 7 Ind. App. 280; Fuller v. Fuller, 21 Ind. App. 42; James v. Gillen, 3 Ind. App. 472; Hilbish v. Hilbish, 71 Ind. 27; Bolts v. Fultz, 70 Ind. 396; Davis v. Watts, 90 Ind. 372; Brown v. Yaryan, 74 Ind. 305; House v. House, 6 Ind. 60; Adams v. Adams, 23 Ind. 50; Smith v. Denman, 48 Ind. 65; Hays v. Steward, 24 Ind. 352; Cauble v. Ryman, 26 Ind. 207. Many cases of this kind have been reversed by the Supreme Court of this State because of the insufficiency of the evidence to establish a contract to pay for the services rendered. Brown v. Yaryan, supra; Webster v. Wadsworth, 44 Ind. 283 ; Resor v. Johnson, 1 Ind. 100; Oxford v. McFarland, 3 Ind. 156.
+In the case at bar, the evidence wholly fails to show the existence of an express contract to pay for the services rendered. The surrounding circumstances as shown by the evidence excluded any other inference than that the parties intended that the family relation should exist. No evidence was produced from which a contract, either express or implied,'could be reasonably "inferred. The lower court properly instructed the jury to return a verdict for appellee.
+Judgment affirmed.
