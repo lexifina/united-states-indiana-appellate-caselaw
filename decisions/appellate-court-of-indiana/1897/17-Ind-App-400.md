@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,051"
+decided: "1897-01-13"
+citations: ["17 Ind. App. 400"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Deering Harvester Company v. Peugh et al."]
+source_url: "https://static.case.law/ind-app/17/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4797850
+cites_cases: ["41 Ind. 476", "65 Ind. 398", "87 Ind. 560", "9 Ind. 543"]
+---
+
+# Deering Harvester Co. v. Peugh
+
+## Majority (Henley, J.)
+
+Henley, J.
+This was an action brought by the appellant in the court below, against the appellees, upon a promissory note. Andrew J. Peugh, who was the principal in the note sued on, making no appearance to the action, judgment was rendered against him by default for the amount due.
+Appellee, John A. Zaring, answered the complaint in three paragraphs, to each of which appellant filed a demurrer, which demurrer was by the court overruled to each paragraph of answer. The cause was put at issue by appellant filing a general denial to the first and second paragraphs of the separate answer of John A. Zaring. There was a trial by the court and a finding in favor of appellee, Zaring.
+The errors assigned by appellant are the overruling of the demurrers to the first and second paragraphs of the separate answer of appellee, Zaring, and that the court erred in overruling appellant’s motion for a new trial.
+The first and second paragraphs of the answer of appellee are in fact the same, they are special pleas of non est factum, and are both properly verified. The first paragraph of answer is as follows: “The defendant, John A. Zaring, for separate answer to the plaintiff’s complaint, says that he admits that he signed the note sued on, and mentioned in plaintiff’s complaint, but he says that he signed the same solely as surety for his co-defendant, Andrew J. Peugh, and under the express understanding and agreement with said Peugh that said note was not to be delivered to the plaintiff, or any one for the use of the plaintiff, until one Charles McClintock had also signed said note as co-surety with the defendant; and that said Pengh promised and agreed with this defendant that said note should not be delivered to plaintiff or to anyone for plaintiff’s use until said McClintock had signed said note as co-surety with the defendant; and that said Peugh thereupon took said note away with him for the purpose of procuring the signature of said Mc-Clintock, pursuant to said promise and agreement; but that said McClintock failed and refused to sign said note; and defendant further says that afterward the agent of plaintiff, representing and acting for plaintiff, with full power and authority from plaintiff, took said note from said Peugh, and that said agent took said note with full knowledge of the agreement and conditions under which the defendant had signed the same, and that at the time said agent so took said note, said Peugh informed him that it was not to be delivered to plaintiff, or to any one for plaintiff’s use, until said McClintock had signed it as co-surety with ■ this defendant; but, notwithstanding such information and over the objection of said Peugh, said agent took said note into his possession, all in violation of the said promise and agreement by and between this defendant and the said Peugh, and with full knowledge of the same, as defendant is informed and believes. Wherefore, defendant prays that plaintiff take nothing as to him, and judgment for costs, and all other proper relief.”
+It is settled beyond question in this State that one who signs a promissory note as surety with the express understanding that he shall also have other responsible co-sureties, which fact is known to the payee of such note at the time of accepting the same, will not be bound upon the contract unless the conditions as to additional sureties imposed upon the principal and known to the payee are fully and strictly complied with before delivery of the instrument. Allen v. Marney, 65 Ind. 398, and eases cited therein; Markland Mining, etc., Co. v. Kimmel, 87 Ind. 560.
+The first paragraph of the answer avers that ap- , pellee agreed to become surety upon said note only upon condition that one Charles McClintock would become a co-surety with him; that appellant knew of this condition imposed by him upon the principal, Peugh; and that appellant, with this knowledge, accepted the note without the signature of said Mc-Clintock; the second paragraph differs only in alleging that appellee agreed to become surety for said Peugh, if said Charles McClintock, or some other person equally as reliable, financially, would become a co-surety with him, and alleging the knowledge of appellant as in the first paragraph.
+There is no merit in appellant’s contention that the answers are bad because not sworn to in absolute terms. A statement sworn to upon the belief of the affiant is equivalent to one sworn to in absolute terms. Simpkins v. Malatt, 9 Ind. 543; Bonsell v. Bonsell, 41 Ind. 476.
+Measured by the rules of law, as above stated, we are of the opinion that both paragraphs of appellees’ answer were sufficient, and that the court below was right in overruling the demurrers. Appellant’s counsel, in their brief filed herein, argue none of the causes assigned in the motion for a new trial, except that the judgment is not sustained by sufficient evidence. We have carefully read all the evidence in this cause, and not only think that there was evidence tending to prove every material allegation of appellee’s answer, but are of the opinion that the evidence justified the finding of the lower court. It is needless to cite authorities upon the oft repeated rule of this court, that the judgment of the lower court will not be disturbed where there is any evidence to sustain it.
+Judgment affirmed.
