@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,981"
+decided: "1933-09-19"
+citations: ["97 Ind. App. 354"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brinson v. Board of Commissioners of Owen County."]
+source_url: "https://static.case.law/ind-app/97/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1574978
+cites_cases: ["129 N. E. 878", "156 N. E. 168", "33 Ga. 332", "75 Ind. App. 493", "86 Ind. App. 85"]
+---
+
+# Brinson v. Board of Commissioners
+
+## Majority (Bridwell, J.)
+
+Bridwell, J.
+— Appellant, on the 13th day of February, 1932, was a duly appointed, qualified and acting assistant county highway superintendent of Owen County, Indiana. On that day while walking along and over one of the highways under his jurisdiction he was struck by an automobile, being driven over such highway, and seriously in j ured. He thereafter filed with the Industrial Board his application for adjustment of his claim for compensation, alleging therein that his injuries were received by reason of an accident arising out of and in the course of his employment by appellee. Such further proceedings were had, that the full board, by a majority of its members, made a finding and award against him, denying compensation. This appeal followed, the error assigned being that the award is contrary to law.
+The finding of the board is as follows: “The full Industrial Board of Indiana having heard the argument of counsel and having reviewed the evidence and being thereby duly advised in the premises, a majority of the members of said board find that on February 13th, 1932, the plaintiff received a personal injury arising out of an accident, and as a result thereof the plaintiff was totally disabled.
+“The said members find from the evidence that the plaintiff, at the time of receiving said accidental injury, was a public official and was not an employee within the meaning of the Indiana Workmen’s Compensation Act; and the finding herein should be for the defendant.”
+It is apparent from the finding made, that the award in favor of appellee is based on the grounds that appellant, under the facts proven by the evidence, was not an employee within the meaning of the term as used in the compensation law of this state. There is evidence to prove that at the time of his injury appellant was acting in the line of his duty as such assistant superintendent; that he had been duly appointed to such position, and had served as such assistant superintendent during the year immediately preceding the accident; that he had given bond for the faithful performance of his duties, as required by statute, and had taken an oath that he would honestly, faithfully and impartially discharge the duties of assistant superintendent of highways; that he verified claims of himself and others for work done on the highways over which he was assistant superintendent; that has was paid at the rate of thirty cents an hour when working without his team, forty cents an hour when working with his team, and that the average weekly wage for such work during the fifty-two weeks immediately preceding his injury was $10.34.
+There is no evidence of any contract of employment between the parties, and, at the most, it can only be said that appellant, when injured, was discharging a duty imposed upon him by statute, which duty devolved upon him by reason of his appointment in accordance with the provisions of a statute.
+Sec. 8509, Burns 1926, requires that the county highway superintendent appoint assistant superintendents, and assign to each the number of miles of road, which in his judgment, such assistant superintendent could properly care for; each assistant must give bond for the faithful performance of his duties in the sum of $1,000; he may, if necessary, employ teams and men to, assist in the repair work on the roads under his charge; he must file monthly, with the county highway superintendent, an itemized statement of all work done by him and under his supervision, showing the names of parties who performed the work, the dates upon which work was done, the nature of the work, etc., which report must be verified; the report, when approved by the county highway superintendent and filed with the county auditor, is a claim against the county, and, when allowed, is paid to said assistant superintendent; he must make a careful inspection of the roads under his charge, at least once each month, noting breaks or defects, and shall immediately repair same, or report to the county highway superintendent and ask for directions ; he shall, so far as possible, keep the road bed free from ruts, chuck holes and depressions, and the ditches open so as to provide for proper drainage; he may be removed for incompetency, neglect of duty or disobedience of orders.
+Appellant’s duties as assistant superintendent of highways were prescribed by law and not by contract; there was a continuing duty to be exercised in the interest of the public. In the event of a vacancy a successor could be appointed, upon whom the law would cast the performance of the duties required of an assistant superintendent of highways. In Bradford v. Justices’ Inferior Court (1862), 33 Ga. 332, the court says: “When an individual has been appointed or elected in a manner required by law, has a designation or title given him by law, and exercises functions concerning the public assigned to him by law, he must be regarded as a ‘public officer.’ ” See also, Shelmadine v. City of Elkhart (1921), 75 Ind. App. 493, 129 N. E. 878; State of Indiana, etc. v. Nattkemper (1927), 86 Ind. App. 85, 156 N. E. 168.
+Under the facts disclosed by the record we hold that appellant was not an employee within the meaning of the term as used in our Workmen’s Compensation Law, but was a public officer.
+The award is affirmed.
