@@ -1,0 +1,45 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,920"
+decided: "1933-09-20"
+citations: ["97 Ind. App. 642"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitchell v. Ball Bros. Co."]
+source_url: "https://static.case.law/ind-app/97/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1574995
+cites_cases: ["122 N.E. 778", "132 N. E. 664", "137 N. E. 276", "141 N. E. 796", "144 N. E. 476", "147 N. E. 919", "177 N. E. 359", "70 Ind. App. 659", "76 Ind. App. 551", "79 Ind. App. 17", "80 Ind. App. 610", "82 Ind. App. 89", "83 Ind. App. 159", "95 Ind. App. 358"]
+---
+
+# Mitchell v. Ball Bros. Co.
+
+## Majority (Dudine, J.)
+
+Dudine, J.
+— John Omer Mitchell was employed by appellee as a shop foreman. He was an expert mechanic, and his work was to make repairs, changes, and installations of machinery in the various buildings, in the city of Muneie, used by appellee in the manufacture of glass fruit jars, zinc products, and paper products. These buildings were in close proximity to each other, but were not in the same city block. Mitchell had to cross Twelfth Street from time to time in the performance of his duties, in going from one building to the other.
+His usual time to get to work was about 6:30 A. M., and his usual time for quitting in the afternoon was between 5:00 and 6:00 P. M. He was authorized to get his lunch whenever he thought his work permitted, and to take as much time for lunch as he thought his work permitted. He was subject to call in any part of the plant at any time during the day. He was not required to punch a time clock or otherwise account for the time devoted to his lunch.
+Appellee operated a cafeteria on its premises. Mitchell was authorized to buy and eat his lunch there; he was authorized to bring his lunch with him and eat it in the factory; and he was authorized to procure and eat his lunch elsewhere, off the premises.
+It was his custom to eat his lunch at Dew’s Restaurant which was across said Twelfth Street from appellee’s Plant No. 2. Appellee had no connection with Dew’s Restaurant, but knew Mitchell usually ate his lunch there and that he crossed Twelfth Street in going to and from lunch.
+On August 29, 1931, Mitchell went to lunch at Dew’s Restaurant at about his usual time, stayed there for that purpose about his usual period, and as he was crossing Twelfth Street, on his way from Dew’s Restaurant toward Plant No. 2, he was hit by an automobile, which was being driven on Twelfth Street, and he died as a result of the injuries received. Appellee had no connection with said automobile.
+Appellant, decedent’s widow and sole dependent, filed application for compensation with the Industrial Board. The hearing member found for the defendant. On appeal, the full Industrial Board found “that the death of said John Omer Mitchell was not the result of an accident arising out of and in the course of the employment of said deceased by the defendant (appellee) but was due to other causes,” and ordered that appellant take nothing.
+This is an appeal from said award. One of the errors relied upon is that the award is contrary to law. Other errors are assigned, but need not be considered because an assignment of the error, above set forth, is broad enough to cover all errors of which complaint is made.
+Shortly before he went to lunch decedent had acquired some clay bushings in one of the buildings, to be used by him in another building. There is a dispute between appellant and appellee as to whether he had taken them to the place where he intended to use them, and left them there before he went to lunch, or whether he took them with him to lunch, and was on his way to the place where he wanted to use them when he was hit by the automobile. This is a question of fact, and it must be apparent that the Industrial Board found that he was not on his way to the place where he intended to use them, because a contrary finding as to said fact would have been inconsistent with the board’s finding that decedent’s death “did not arise out of and in course of his employment.” We must presume that the Industrial Board acted consistently in arriving at its findings.
+There was competent evidence to support such finding of said fact, and this court will not weigh the evidence to determine whether or not the finding as to said fact was correct.
+This appeal presents the following question: “Assuming that decedent was returning to his work in his usual manner, when he was injured, that he did not have the clay bushings with him, that he did not have any particular goal in mind, but was merely going back to work, did the accident, by virtue of the contractual relationship between decedent and appellant, arise out of and in the course of his employment?”
+There is a general rule of law that a workman does not lose his character as a workman, while eating his lunch, on his employer’s premises, at a place generally regarded to be safe, with his employer’s consent, while he does lose his character as a workman when he leaves the premises of his employer to eat his lunch. See Boyd, Compensation, p. 1060. For long list of lunch hour cases see Schneider “Workmen’s Compensation Law,” 2d Ed., Sec. 276, p. 843.
+There is another general rule of law that accidents occurring on employer’s premises, in which employees are injured while on their way to work, are covered by the Workmen’s Compensation Law (See Jeffries v. Pittman Moore Co. [1924], 83 Ind. App. 159, 147 N. E. 919), while accidents occurring of? employer’s premises are generally held not covered, although they did occur while employees were on their way to work. ( See Universal, etc., Cement Co. v. Spirakis [1922], 79 Ind. App. 17, 137 N. E. 276; Moore v. Sefton Mfg. Corp. [1924], 82 Ind. App. 89, 144 N. E. 476. Long list of cases on this point in Schneider Workmen’s Compensation Law, supra, Sec. 268.)
+In the instant case, decedent ate lunch of? his employer’s premises, and was injured on his way to work, while off his employer’s premises.
+It might be contended however that since decedent had no regular lunch hour; since he was subject to call at any time during the lunch time which he elected to take; since he was not paid on the basis of time during which he was actually at work; since it was necessary for him to eat lunch in order to properly do his work, eating his lunch was incidental to his employment, and he was in the employ of his employer from the time he came to work in the morning until he left work in the evening, .including the time devoted to going to lunch, eating lunch, and returning to work.
+Under such circumstances as the Industrial Board must have found to have existed in the instant case, decedent was injured in the course of his “lunching hour,” and not in the course of his employment.
+We do not think that there was an incidental connection between the conditions under which decedent worked, and his resulting injury, and therefore we hold there was no “causal connection” between the employee’s employment and the act resulting in his injury. Empire Health, etc., Ins. Co. v. Purcell (1921), 76 Ind. App. 551, 132 N. E. 664; Kokomo, etc., Co. v. Irick (1923), 80 Ind. App. 610, 141 N. E. 796.
+Although decedent was subject to call from the time he reported in until he reported out, he did “drop” or “leave” his work when he went to lunch, and he did not “take up” his work again until he got back to the plant, except in instances when he was called from the restaurant, or elsewhere, during the lunch hour, to go to some particular place to perform certain duties. In such instances we think he “took up” his work the moment he started to answer the call. For list of cases on this point see Rogers v. Rogers (1919), 70 Ind. App. 659, 122 N.E. 778; Schneider, Workmen’s Compensation Law, supra, Sec. 269. Likewise, if the Industrial Board had found that decedent had carried the clay bushings with him to lunch, with the intention of taking them to the particular place where they were1 needed, immediately after lunch, and then and there make the repair, and after lunch he had started to carry out this plan, and was killed in the street enroute on said mission, we think he would have “taken up” his employment the moment he left the restaurant, and his injuries would have been covered by the Workmen’s Compensation Law.
+Appellant cites many “street risk” cases in which there were clearly incidental connections between the conditions under which the employee worked, and his resulting injury. These cases do not apply here. The instant case is not of the “street risk” type of cases. It is a “lunch hour” and a “going to work” case.
+Award affirmed.
+
+## Dissent (Kime, C. J.,)
+
+Kime, C. J.,
+dissents.
+I feel compelled to dissent from the majority opinion in this case because I am firmly convinced that under the authorities cited in Livers v. Graham Glass Company (1932), 95 Ind. App. 358, 177 N. E. 359, this man was a full time employee and as such entitled to compensation. — Kime, C. J.
