@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,397"
+decided: "1898-02-04"
+citations: ["19 Ind. App. 263"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Combs v. Bays."]
+source_url: "https://static.case.law/ind-app/19/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4819283
+cites_cases: ["11 Ind. 22", "11 L. R. A. 740", "121 Ind, 366", "122 Ind. 450", "123 Ind. 429", "123 Ind. 78", "127 Ind. 250", "30 Ind. 391", "33 Am. Rep. 79", "45 Ind. 509", "53 Ind. 279", "64 Ind. 406", "67 Ind. 246", "71 Am. Dec. 341", "73 Ind. 206", "83 Ind. 429"]
+---
+
+# Combs v. Bays
+
+## Majority (Wiley, J.)
+
+Wiley, J.
+— This was an action in replevin to recover the possession of a promissory note, and was commenced before a justice of the peace. On appeal to the circuit court, a demurrer to the complaint was sustained, and the only question presented by the record is the sufficiency of the complaint. In brief, the complaint states that the appellant is the owner and entitled to the possession of a certain promissory note, for the sum of $274.25, and sufficiently describes the note so that it might be identified. It is then averred that the appellee unlawfully holds and detains from the appellant the possession thereof, and it has not been taken by virtue of any execution or other writ against appellant. It is then charged that said note has been discharged by the appellant by his giving to appellee another note for the sum of $299.00, with two persons signing the note with him as sureties, payable to the appellee “in lieu of and in place of, and to discharge the said note of $274.25 and interest in full on the same, which said note the said defendant also holds.”
+The prayer of the complaint is for the recovery of said note and five dollars damages. In the circuit court, the appellee demurred to the complaint upon two grounds: First, that it did not state facts sufficient to constitute a cause of action, and second,, that the court did not have jurisdiction of the subject-matter. This demurrer the court sustained, to which the appellant excepted, and refusing to plead over, judgment was rendered against him for costs. The ruling of the court in sustaining the demurrer, is assigned as error. There was no error in this ruling. The complaint goes upon the theory that the note for $274.25 executed December 8, 1892, had been paid and discharged by the execution and delivery of the $299.00 note at a subsequent date, and by reason thereof appellant is entitled to the possession of it. The complaint does not show that either of them is payable at a bank in this State. The complaint avers that the $299.00 note was executed in lieu and in place of the $374.25 note, and for the purpose of discharging the same, and that appellee still holds the last executed note; but there is no averment in the complaint that appellee accepted or agreed to accept said note in payment of the $274.25 note. The rule is firmly fixed, that the execution of one note will not pay and satisfy another, unless the new note is commercial paper. In such case a presumption would be raised that it was taken as payment, but the giving of a promissory note, not governed by the law merchant for a preexisting debt, does not operate as a payment thereof, unless it be so expressly stipulated between the parties. Alford v. Baker, 53 Ind. 279; Travellers’ Ins. Co. v. Chappelow, 83 Ind. 429; Jeffries v. Lamb, 73 Ind. 206; Bristol Milling, etc., Co. v. Probasco, 64 Ind. 406; Lindeman v. Rosenfield, 67 Ind. 246, 33 Am. Rep. 79; Tyner v. Stoops, 11 Ind. 22, 71 Am. Dec. 341; Stevens v. Anderson, 30 Ind. 391; Maxwell v. Day, 45 Ind. 509.
+Another rule equally as well settled is that, an obligation to pay money, can only be discharged by the payment of money, where there is no valid agreement to the contrary. Hancock v. Yaden, 121 Ind, 366, 16 Am. St. 396; Vansickle v. Furgeson, 122 Ind. 450; Born v. First Nat’l Bank, 123 Ind. 78, 18 Am. St. 312; Farmers’ Loan and Trust Co. v. Canada, etc., R. W. Co., 127 Ind. 250, 11 L. R. A. 740.
+The note of $299.00, which appellant avers was executed in payment of and to discharge the $274.25 note, was not commercial paper; hence there is no presumption of payment. There is no averment that appellee agreed to accept, such note as payment, and in this respect the complaint is fatally defective.
+But there is another reason why the complaint is bad, and that is that there is no averment of a demand. There is no averment that the note sought to be recovered was wrongfully or unlawfully taken, but only that the possession thereof was unlawfully detained from appellant. On the contrary, it does appear that appellee did at one time lawfully have possession of the note, and before an action would lie for its recovery, it was necessary that a demand be made upon him before suit. The possession was not unlawful until a demand was made. Haffner v. Barnard, 123 Ind. 429.
+It is unnecessary to multiply authorities in support of so elementary a principle. There are other questions raised and discussed by counsel, but a discussion and decision of them is wholly useless, as, for the reasons given, the judgment must be affirmed. ' Judgment affirmed.
