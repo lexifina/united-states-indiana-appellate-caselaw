@@ -1,0 +1,21 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,842"
+decided: "1899-11-22"
+citations: ["24 Ind. App. 702"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Diamond Plate Glass Company v. Clem, Administratrix, et al."]
+source_url: "https://static.case.law/ind-app/24/cases/0702-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2413573
+cites_cases: ["22 Ind. App. 346"]
+---
+
+# Diamond Plate Glass Co. v. Clem
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The questions presented in this case are decided in Diamond Plate Glass Co. v. Curless, 22 Ind. App. 346, and Diamond Plate Glass Co. v. Echelbarger, ante, 124, and, upon the authority thereof, the judgment in this case is reversed, and the cause is remanded with instruction to sustain the demurrer to the complaint.
