@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,237"
+decided: "1917-04-18"
+citations: ["64 Ind. App. 315"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Huntingburg Bank v. Morgenroth. Reutepohler v. Morgenroth."]
+source_url: "https://static.case.law/ind-app/64/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5142144
+cites_cases: ["10 N. E. 78", "110 Ind. 114", "114 N. E. 422", "115 N. E. 798", "168 Ind. 428", "63 Ind. App. 218", "79 N. E. 369"]
+---
+
+# Huntingburg Bank v. Morgenroth
+
+## Majority (Hottel, J.)
+
+Hottel, J.
+On February 19, 1914, the appellant in each of the above entitled causes filed in the Orange Circuit Court his verified complaint supplementary to execution in which it was sought to have appellee brought into court under §859 et seq. Burns 1914, §816 et seq. R. S. 1881, to answer relative to the charge made in such complaints that he, appellee, was the owner of certain personal property therein described which he unjustly refused to apply towards the payment of the respective judgments therein alleged to have been obtained against him. The record filed in this court shows proceedings had in each case respectively as follows: Notice ordered in each case for appellee directed to sheriff of said county, returnable March 2, 1914; a separate trial of each case on March 2, 1914; a general finding and judgment for appellee in each case on April 25, 1914; a motion for new trial in each case filed May 9, 1914, and overruled on October 10, 1914, with exceptions saved by the respective plaintiffs, and sixty days’ time given within which to file bill of exceptions.
+A record entry of March 9, 1915, shows the following proceedings in the cause of Huntingburg Bank v. George Mopgenroth, No. 5566, viz.: that plaintiffs filed a praecipe for transcript, etc., which is set out and bears the following caption:
+“State of Indiana \ qq. County of Orange/ '
+In the Orange Circuit Court.
+“The Huntingburg Bank. v. George Morgenroth. Daniel Reutepohler. v. George Morgenroth. No. 5566. Consolidated with No. 5567.”
+By said praecipe, the clerk is requested to prepare a' transcript of the record of all the proceedings in the above entitled causes, etc. Immediately following this praecipe, the record shows the following:
+“Be it remembered that on the 1st day of April 1915, the same being in vacation of the Orange Circuit Court the following agreement was filed with the Clerk of said Court:
+“The Huntingburg Bank. " vs. George Morgenroth. No. 5566. Daniel Reutepohler. vs. George Morgenroth. No. 5567. Consolidated.
+“Comes now the parties and file their agreement showing that the above causes were at the trial thereof by agreement duly consolidated by the court and that the same as so consolidated were so tried by the court and tried as one cause agreeing at said time that the evidence so to be taken therein should apply in like manner and force to each case and further agreeing at said time that the issues to be tried by the defendant who has filed no pleading therein, and which agreement was by the parties duly made at said time was that the defendant be permitted to submit his cause for trial upon the theory that the property called in question by plaintiff’s affidavits herein, was acquired by him and. his wife from the rents .and profits flowing from real estate held by himself and his wife by entireties, viz.
+Here follows the agreement, the caption and contents of which are in substantially the same words as the entry just quoted. Then under a caption bearing the title of each of said causes, as before indicated, the record shows the following entry:
+“* * * No. 5566 consolidated with No. 5567. “Be it remembered that afterward, to wit: on the 3rd day of April 1915 the plaintiffs in said con-, solidated causes, filed in the clerk’s office their bill of exceptions containing, the evidence in the above entitled consolidated causes, and which said bill of exceptions is in the words and figures following, to wit:”
+The reporter’s certificate at the close of the evidence and the several certificates of the clerk of the court relating to the filing of said transcript of the evidence and the bill of exceptions and its being made part of the record each bears date April 3, 1915. The judge’s certificate shows that on April S, 1915, “and within the time allowed by law for the filing of their bill of exceptions in the consolidated causes * * * plaintiffs duly presented * * * and said bill of exceptions is now this third day of April, 1915, duly signed * * *. Done this 3rd day of April, 1915, at Salem, Indiana.”
+It will be observed from this record that there was a separate trial of the above causes, and then, after the filing of a praecipe for appeal, an agreement was filed to the effect that, under a previous agreement, not before shown by the record, the cases had been consolidated for the purposes of trial. In a proper case, and in a proper way, causes may be consolidated for trial in the court below, or for the purposes of appeal to this court. Whether this record shows such consolidation for either purpose is not of controlling importance for the reasons following: The only error assigned in this court is that challenging the ruling on the motion for new trial, and the only questions presented thereunder are questions the determination of which require a consideration of the evidence. To present such a question, the bill of exceptions containing the evidence must be shown to have been presented to the trial judge within the time allowed for its filing. Joseph v. Mather (1887), 110 Ind. 114, 115, 116, 10 N. E. 78; Haehnel v. Seidentopf (1916), 63 Ind. App. 218, 114 N. E. 422, and cases there cited.
+The record above set out shows that each judgment from which this appeal is attempted to be prosecuted was rendered April 25, 1914, and each motion for new trial was overruled October 10, 1914. Sixty days’ time from the latter date was given to file the bill of exceptions containing the evidence. This time was never extended as provided in §661 Burns 1914, Acts 1911 p. 193, The bill was not filed until April 3, 1915. Th this question because there is nothing in the agreement showing or tending to show a resubmission of the cases on the evidence originally offered in each case separately, and a judgment and refiling of the motion for new trial and a ruling thereon as of the date of the filing of such agreement. On the contrary, the agreement simply shows that at the trial of the cases originally, it was understood that they, were to be tried as one case. The statement in the judge’s certificate that the bill of exceptions was filed within the time allowed by law has no controlling influence where, as in this case, the date of presentation of said bill, shown by such certificate, and the record entries of its filing, all show that it was not in fact filed in time. Malott v. Central Trust Co. (1906), 168 Ind. 428, 431, 79 N. E. 369, 11 Ann. Cas. 879; Haehnel v. Seidentopf, supra.
+It follows that the bill of exceptions was not filed in time, and that no question is presented by this appeal. Judgment below affirmed.
+Note. — Reported in 115 N. E. 798.
