@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "542"
+decided: "1893-02-03"
+citations: ["6 Ind. App. 199"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clift et al. v. The State."]
+source_url: "https://static.case.law/ind-app/6/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4716872
+---
+
+# Clift v. State
+
+## Majority (Reinhard, C. J.)
+
+Reinhard, C. J.
+The appellants were indicted, tried, and convicted for'ohstructing certain highways. The overruling of' the motion to quash the indictment, and of the motion for a new trial are assigned and relied upon as errors. The indictment charges that the appellants are directors of a certain turnpike road, and that they unlawfully obstructed certain public highways in the County of Henry, viz.: A public highway running east and west on the line between Liberty and Dudley turnpikes, and intersecting said turnpike, and a certain highway running north and south, beginning at said township line and running north, dividing sections thirty-three and thirty-four, and sections twenty-seven and twenty-eight in said Liberty township, by then and there erecting and maintaining in said highways a certain pole and post, and a certain toll-house and building, during all the time previously mentioned in the indictment.
+It is claimed that the indictment is bad for duplicity. We do not think, however, that it charges more than one offense. We are of the opinion that the act complained of, though affecting more than one' road, is but one and the same transaction. There is sufficient substance to charge a public offense, and the motion to quash was properly overruled.
+Under the remaining assignment, the question is presented whether or not the evidence authorizes a conviction. It was proved upon the trial that the appellants were directors of a turnpike upon which they maintained a tollgate at the intersection of the pike with two other public highways, as charged in the indictment; that the toll-gate was so constructed that a traveler coming from one of the mud roads, with the intention of going on to the other, would be compelled to pass under the poll of the toll-gate; that said polo was kept down a large portion of the time, compelling persons traveling upon the mud roads only to stand and wait until it could be raised.' There was also evidence tending to show that vehicles could, without inconvenience, pass around the poll and avoid it, but this was not without contradiction. At all events, there was evidence from which the jury was authorized to conclude that the free use of, and travel on, these mud roads was impeded by the toll-gate maintained by the appellants. The evidence further tends to show that one of the roads obstructed was in existence when the turnpike was built, while the other was laid out since, and that the turnpike company was awarded some damages on account of its construction.
+It is a familiar principle that the public have the right to the free and unrestricted use, with some few exceptions, of the highways of the country. Turnpike companies are given the privilege, by statute, of collecting toll over their roads, but this right to do so, while it may, in some instances, possibly, be created by prescription, usually comes by statute, and must be exercised in strict conformity thereto; and the law .governing the subject is generally construed, in doubtful cases, in favor of the public. Tollgates can only be established at places where the law permits them to be located, and turnpike companies are required to coniine the lines of their roads within the limits of their grant. Elliott on Roads and Streets, 68, 69; Angelí on Highways, section 356.
+As long as the company, or its servants, confine the keeping of the gate to the exclusive purposes of the turnpike, and close the gate only against travelers upon the same in the lawful exercise of the right to collect the toll, they are guilty of no violation of law. But whenever they throw impediments in the way of the free and unrestricted use of the other public highways which their turnpike intersects, they act in violation of the statute against obstruction of public highways, and their right to maintain a toll-gate affords them no protection. The keeping of the toll-gate at the point designated does not seem to form an obstruction in itself. It is only the acts of keeping the pole down as against travelers on the mud roads, and compelling them to wait until it can be raised before they are permitted to pass through, that renders the appellants liable. There cán be no force in the point that it is not shown that there was any criminal intent on the part of the appellants. If the act complained of is unlawful and voluntary, the intent will be presumed. Gt-illett’s Crim. Law, sections 3, 12.
+There was evidence to the effect that complaints had been made and the attention of appellants called to the obstructions, and that nothing was done by them to remedy the matter. In view of all the evidence, we can not say that there was an entire failure. W.e do not decide that the keeping of the toll-house at the place is itself an offense, and that the appellants must remove it in order to abate the obstruction. What we do hold is that the acts proved were such as authorized the jury in its inference of guilt.
+Filed February 3, 1893.
+Judgment affirmed.
