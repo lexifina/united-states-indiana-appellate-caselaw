@@ -1,0 +1,44 @@
+---
+court: "Appellate Court of Indiana"
+docket: "146"
+decided: "1891-04-30"
+citations: ["1 Ind. App. 269"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zink v. Dick et al."]
+source_url: "https://static.case.law/ind-app/1/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1970344
+cites_cases: ["114 Ind. 189", "122 Ind. 279", "85 Ind. 70", "86 Ind. 369", "91 Ind. 167"]
+---
+
+# Zink v. Dick
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+This was an action upon a note payable to bearer and in a bank, and transferred to the appellee before maturity without endorsement in writing, in good faith, for a valuable consideration.
+The appellant filed an answer in abatement in two paragraphs. A demurrer was sustained to each of these answers, and exceptions taken.
+Appellant then answered in six paragraphs. A demurrer was filed to each paragraph of the answer, was sustained to the first, second and fourth, and overruled as to the third, fifth and sixth, to which appellant excepted. On the trial of the cause the appellant withdrew the third and fifth paragraphs of the answer.
+Appellees filed a reply to the answer in these words :
+“ Come now the plaintiffs in the above entitled cause, and for reply to the answer deny that they, or either of them, had any notice or knowledge whatever relating to the consideration of the note sued on, the set-off therein, or the fraud or fraudulent practices therein mentioned, but they aver that they purchased said note sued on in the usual course of business, for a valuable consideration and in good faith, and that said note was assigned to them before maturity.”
+To the reply appellant demurred, which demurrer was overruled, and excepted to.
+The cause was tried by a jury, and under the direction of the court they returned a special verdict.
+Appellant filed a motion for a venire de novo, which was overruled, and excepted to.
+Appellant then moved for a judgment in his favor on the pleadings, which motion was overruled, and excepted to, which was followed by a motion to disregard and strike out of the special verdict the finding relating to attorney’s fees, which was overruled, and excepted to.
+Then came a motion to render judgment in favor of appellant on the special verdict of the jury, and a motion for a new trial, each of which was overruled, and excepted to.
+The first and second assignments of error call in question the ruling of the court in sustaining the demurrer to the first and second paragraphs of appellant’s answer in abatement. These answers do not essentially differ, and are an attempt to bring this action within sections 3022 and 3030, R. S. 1881.
+The note sued on was executed to one Miller in his individual capacity, who, appellant claims, was the agent of a foreign corporation, known as the Northwestern Ohio Grain and Seed Company, and as such agent defrauded the appellant in the execution of the note sued on, and that said corporation had not complied with sections 3022 and 3030, R. S. 1881, and that suit could not therefore be maintained on said note until said corporation had complied with said sections of the statute. If the suit had been commenced by or for the use of á foreign corporation, the position of the appellant would seem tenable, but the note in suit was assigned to the appellees. There is no corporation seeking to enforce a contract with it or its agents, nor is there any averment-in either answer that the assignment to appellees was merely colorable, and to avoid a statute, and that the note was not in fact assigned to the appellees. We do not think the answers aver any facts that would bring this case within the sections of the statute named.
+The next error assigned is, error of the court in sustaining the demurrer to the first, second and fourth paragraphs of the answer.
+The first paragraph of the answer pleads that the note was executed without consideration, and the second that there was a partial failure of consideration. The appellant urges the sufficiency of these answers on the ground that the complaint was bad because it did not contain any averment that the Exchange Bank of John Studebaker & Co., of Bluffton, Indiana, where the complaint alleged said note to be payable, was a bank of deposit, discount, etc., and, therefore, the answers were sufficient, but if bad, a bad answer was sufficient answer to a bad complaint. The appellant takes an incorrect view of the law. The objection to the complaint is not well taken. The complaint was clearly sufficient, and if the fact that the Exchange Bank of John Studebaker & Co., Bluffton, Indiana, “ was not a bank in this State,” within the meaning of the expression used in the statute, the fact would have constituted matter of defence of Avhich appellant might have availed himself in his pleadings and evidence. The note in suit was negotiable as an inland bill of exchange, and the appellant, as the maker thereof, Avas liable to the appellees as its endorsees for the amount due thereon. Whether it was given without consideration, or Avhether there had been a partial failure of consideration or not, the appellees being endorsees before maturity, in good faith, and without notice, took the note as against the maker freed from all equities and defences Avhich may have existed between such maker and the payee of the note. The court did not err in sustaining the demurrer to the first and second paragraphs of the answer. Coffing v. Hardy, 86 Ind. 369. The court also ruled correctly in sustaining the demurrer to' the fourth paragraph of the answer. This answer seeks to-raise the question under section 251, R. S. 1881, as to the real party in interest in the action, but the averments in the answer only raise the question that the note was drawn in the name of an agent and payable to such agent, and while thus in the agent’s possession he endorsed it to an innocent purchaser, and presents the question under the averments in the answer that the owner can not dispute the transfer.
+The title of appellees to the note in suit is in no way attacked by the answer. Wells v. Sutton, 85 Ind. 70.
+We have set out elsewhere in this opinion the reply of appellees to the answer of the appellant, and the appellant now claims that the demurrer should have been sustained to the reply.
+The answer of appellant, to which the reply was .addressed, alleged a state of facts that constituted fraud. If the appellees had notice of the facts alleged they surely could not have recovered in this action, and notice was alleged in the answer.
+The law is well settled in this State, that “ In an action by an endorsee of a note payable in a bank in this State, and proved by the maker to have been obtained by fraud, the burden of proof is upon the plaintiff to show that he is a bona fide holder by endorsement for value before its maturity, in the regular course of his business.” Mitchell v. Tomlinson, 91 Ind. 167.
+In the case of First Nat’l Bank of Huntington v. Ruhl, 122 Ind. 279, it is said that “ Our cases have, however, uniformly held that while the common law rule protecting a bona fide holder prevails, yet they also hold that in order to receive its protection it devolves upon the plaintiff to show that he became a holder before maturity, without notice, and for a valuable consideration, whenever the defendant makes it appear that the note was obtained by fraud. It seems to follow necessarily and directly, that if the answer shows that the note was obtained by fraud it states a prima facie defence, sufficient to require a reply from the plaintiff.”
+Filed April 30, 1891.
+The demurrer was correctly overruled to the reply.
+There was no error in the court in receiving the verdict of the jury over the objections of the appellant, and in overruling appellant’s motion for a venire de novo. The special verdict of the jury covered all the facts in the case, is not uncertain or ambiguous,, or so defective or uncertain upon its face that a judgment.could not be rendered upon it. “A motion for a venire de novo will not be sustained unless the verdict or finding is so defective and uncertain upon its face that no judgment can be rendered upon it.” Bartley v. Phillips, 114 Ind. 189.
+The motions of appellant for judgment on the pleadings, to strike out part of the special verdict, to wit, so much thereof as fixed the attorney’s fees at $40, and for judgment in favor of the appellant on the special verdict of the jury were correctly overruled, and appellant has assigned no reason why said motions, or either one of them, should have been sustained.
+We have passed upon all questions under the assignment of errors that have been made available in this court in the record, and find no error for which this case should be reversed, but the same should be affirmed, and is affirmed, with costs.
