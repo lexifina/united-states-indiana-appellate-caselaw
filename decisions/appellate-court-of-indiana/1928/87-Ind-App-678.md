@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,177"
+decided: "1928-03-28"
+citations: ["87 Ind. App. 678"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johnson v. Cole."]
+source_url: "https://static.case.law/ind-app/87/cases/0678-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1548385
+cites_cases: ["117 N. E. 520", "132 N- E. 661", "141 N. E. 530", "155 N. E. 520", "155 N. E. 521", "65 Ind. App. 426", "76 Ind. App. 593", "80 Ind. App. 577", "85 Ind. App. 659", "86 Ind. App. 272"]
+---
+
+# Johnson v. Cole
+
+## Majority (Remy, C. J.)
+
+Remy, C. J.
+Having received an injury to his right foot as the result of an accident which arose out of and in the course of his employment by appellee, appellant made application for compensation. The Industrial Board found that he was totally disabled, and on November 6,1925, made an award of $13.20 per week during total disability. Upon application for review on account of changed conditions, the board, on January 14, 1926, found that appellant had so far recovered that he could return to work and earn a wage of $12 per week, and ordered compensation reduced to $6.60 per week, during the period of appellant’s partial disability, not exceeding the period fixed by law. On September 30, 1927, on application of appellee for review on account of changed conditions, the Industrial Board found that appellant’s “disability had ceased,” that appellant “was able to resume work of the same character as the work in which he was engaged at the time of the accident,” and that he “had already received full compensation for the disability.” There was also a finding that appellant’s injury had resulted in a twenty-five per cent, impairment of the use of his right foot. From an award of the board denying to appellant further compensation, this appeal is prosecuted.
+If the original award had been made on the basis of twenty-five per cent, impairment of the use of the foot, then, under clauses (a), (b) and (c) of §31 of the Compensation Act (Acts 1919 p. 158, §9476 Burns 1926), appellant would have received $495, and no more; but the original award was made under clause (j) for temporary total disability, and the second award, which was made by the board upon the first review on account of changed conditions, was under clause (k) for temporary partial disability, the total compensation actually received by appellant being $587.39.
+There is competent evidence to sustain the finding of the Industrial Board, September 30, 1927, that appellant’s disability had ceased. For definitions of the words “disability” and “impairment,” as the same are used in §31 of the Compensation Act, see Edwards Iron Works v. Thompson (1923), 80 Ind. App. 577, 141 N. E. 530.
+The question for determination is: Where there has been an award for total or partial disability resulting from an accidental injury to an employee’s foot, and upon review by the Industrial Board on account of changed conditions, the board finds that the disability has ceased, but that the injury had developed into a permanent impairment of the foot, should the payment of compensation cease, if the aggregate of the payments made under the award for disability equals or exceeds the compensation fixed by §31 of the Compensation Act? If the question is answered in the affirmative, the award must stand. The question, which involves the construction of §31, supra, is not difficult, and will, there-t fore, require no extended discussion.
+Most of the provisions of the section relate to the loss of a member by amputation, to the loss of the senses of sight or hearing, or to the total or partial impairment of a member or physical sense. However, three of the clauses make provision for compensation for injuries resulting in total or partial disability; and the provision in the introductory clause, that, for the injuries scheduled, “the employee shall receive in lieu of all other compensation, on account of said injuries, a weekly compensation of fifty-five per cent, of his average weekly wages for the periods stated,” applies alike to all injuries, whether they result in disability or impairment.
+Appellant’s temporary disability developed into- a permanent impairment. For his injury, and for the full period of disability, appellant was compensated; the awards being made as for disability. As provided by the statute, this compensation was received by appellant “in lieu of all other compensation” on account of the injuries, for the period of disability. It so happens, in this case, that the period of disability was such that the compensation awarded is in excess of the amount the appellant would have received if the award had been made as for the permanent partial impairment. It might have been the reverse if appellant’s recovery had been more rapid. If the award had been for the twenty-five per cent, impairment of the leg below the knee, appellant would have received, in lieu of all other compensation on account of the injury, thirty-seven and one-half weeks’ compensation. By the awards as for disability, he has already received “on account of the injuries” a sum in excess of the sum he would have received for the permanent partial impairment, and the purpose of the statute has been accomplished. See Zeller v. Mesker (1927), 85 Ind. App. 659, 155 N. E. 520; Standard Cabinet Co. v. Landgrave (1921), 76 Ind. App. 593, 132 N- E. 661; Denasoff v. Foundation Co. (1927), 86 Ind. App. 272, 155 N. E. 521; In re Denton (1917), 65 Ind. App. 426, 117 N. E. 520.
+Affirmed.
+McMahan, J., not participating. Dausman, J., absent.
