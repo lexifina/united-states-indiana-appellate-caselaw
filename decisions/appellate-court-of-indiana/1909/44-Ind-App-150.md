@@ -1,0 +1,31 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,486"
+decided: "1909-06-11"
+citations: ["44 Ind. App. 150"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith et al. v. Pyle, Treasurer."]
+source_url: "https://static.case.law/ind-app/44/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5026429
+cites_cases: ["104 Ind. 516", "115 Ind. 360", "125 Ind. 455", "131 Ind. 150", "163 Ind. 202", "170 Ind. 105", "2 Am. Rep. 327", "31 Ind. App. 135", "32 Ind. 27", "42 Ind. App. 357"]
+---
+
+# Smith v. Pyle
+
+## Majority (Hadley, C. J.)
+
+Hadley, C. J.
+This was an action brought by appellants against appellee, as treasurer of Pulton county, to enjoin him from selling the lands of appellants for delinquent taxes, under the provisions of §10355 Burns 1908, Acts 1891, pp. 199, 269, §184. It appears from the averments of the complaint that the liens for which the lands were to be sold consisted of a ditch assessment and current taxes not due. The basis of the suit is the invalidity of the ditch assessment.
+The complaint is in one paragraph, and avers that certain proceedings were had before the commissioners of Pulton county whereby a drain was established which affected appellants’ lands; that the viewers found that said lands would be benefited to the amount of $907, and, under the provisions of the statute (Acts 1903, p. 186) a certain portion of said drain, known as allotment number fourteen, was apportioned to said real estate; that the owners of said lands failed to construct said allotment within the time fixed by the viewers’ report; that afterwards the auditor of the county advertised the letting of said allotment to the lowest bidder, said letting to take place December 12 at the auditor’s office, in the court-house of said county; that no bidder appeared at that time; that afterwards, on January 11, 1905, said auditor again advertised the letting of the contract for said allotment, said letting to be at the auditor’s office, at the court-house of said county, on February 1, 1905; that on said last-named date said auditor, over the protest of appellants, let the contract for said allotment to one Fansler, and entered into a contract with him to construct the same; that said contractor did construct said allotment, and received from the surveyor a certificate of such fact; that the cost of constructing said allotment was placed upon the duplicate by said auditor, and charged to appellants’ said real estate as other taxes; that said auditor has given notice that on February 12, 1906, appellants’ real estate will be sold to make the sum so charged for said ditch assessment, together with the current taxes for the year 1905; that, as advertised, said sale is to take place at the office of the county treasurer, in the court-house, at Rochester, said county and State, and that said treasurer threatens and intends to sell said real estate pursuant to said notice, to appellants’ great and irreparable damage.
+To this complaint appellee filed a demurrer for want of facts. This demurrer was sustained. Appellants refused to plead further, and judgment was rendered against appellants. The ruling on the demurrer is assigned as error.
+It is urged that a sale to pay the cost of construction for the allotment in question would be void, for the reason that the notice given designated the auditor’s office as the place where the letting would be made, instead of the door of the court-house, as the statute provides.
+This is a collateral attack, and for appellants to maintain their case they must show that the action of the auditor, in so letting the contract, was void. Boyce v. Tuhey (1904), 163 Ind. 202, and eases cited; Jackson v. State, ex rel. (1886), 104 Ind. 516.
+It has often been held that in cases of this character, where notice is required and where some notice is given, it will be sufficient, even though such notice may not have been in strict compliance with the statute. Daly v. Higman (1909), 42 Ind. App. 357; Daly v. Gub bins (1908), 170 Ind. 105; Barber Asphalt Pav. Co. v. Edgerton (1890), 125 Ind. 455.
+It is not averred that appellants were in any manner deceived by such defective notice; that they were in anywise injured thereby; that any persons who would have bid for such contract were thereby prevented from bidding; that there was any fraud or collusion on the part of any one, or that the contract, as let, was not reasonable. It is not even averred that the contract was let at the auditor’s office, instead of at the door of the courthouse.
+It is also urged that the assessment was void for the reason that the auditor, having advertised once and failed to find a bidder, exhausted his power, and had no authority to make a second attempt to let the contract. There is no virtue in this contention. The statute does not limit him to one attempt. Acts 1891, p. 313, §2, §5673 Burns 1901. The nature of the work requires that all the allotments shall be constructed. Failure to construct one might defeat the whole work, or cause work on other allotments to be wholly lost. The legislature never intended such results. The complaint does not show the assessment to be void.
+It is also contended that the complaint is insufficient for the reason that the advertisement for the sale of the lands for delinquent taxes designates the treasurer’s office as the place of sale instead of the court-house door, as the statute provides. Whether this is a sufficient notice and a sale thereunder would be valid, we do not decide, as this question involves principles wholly distinct from any herein necessarily considered. It is certainly inexcusable carelessness on the part of the officer responsible therefor to inject such a question into titles to real estate.
+Appellants have not paid or tendered the amount of the liens found to be due and delinquent. Until they do this, they are not entitled to injunctive relief. Board, etc., v. Els ton (1869), 32 Ind. 27, 2 Am. Rep. 327; Board, etc., v. Dailey (1888), 115 Ind. 360; Smith v. Rude Bros. Mfg. Co. (1892), 131 Ind. 150; Parkinson v. Jasper County Tel. Co. (1903, 31 Ind. App. 135.
+Judgment affirmed.
