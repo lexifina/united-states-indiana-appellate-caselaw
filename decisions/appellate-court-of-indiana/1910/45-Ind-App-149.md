@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,962"
+decided: "1910-01-06"
+citations: ["45 Ind. App. 149"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Indianapolis Traction and Terminal Company v. Ulrick."]
+source_url: "https://static.case.law/ind-app/45/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5038498
+cites_cases: ["164 Ind. 304"]
+---
+
+# Indianapolis Traction & Terminal Co. v. Ulrick
+
+## Majority (Comstock, J.)
+
+Comstock, J.
+Appellee sued appellant for personal injuries alleged to have been sustained by her, a married woman, while a passenger upon one of appellant’s cars, by the sudden starting of the car while she was in the act of alighting therefrom, after the same had been stopped for the purpose of allowing her to alight. The complaint is in one paragraph. The cause was put at issue by a general denial. A trial by jury resulted in a verdict in favor of appellee for $1,000.
+The action of the court in overruling appellant’s motion for a new trial is the only error assigned.
+The court gave to the jury ten instructions, of which the seventh is the only one attacked by appellant as erroneous. It is in the following language: “If, under the instruetions of the court and all the evidence in the cause, you find that the plaintiff is entitled to recover in this action, then it will be your duty to consider the amount of damages which the plaintiff has sustained, if any, by reason of the alleged negligent acts of the defendant. In estimating the same, you may take into consideration the nature and extent of the physical injuries, the physical pain endured and the mental suffering, if any, occasioned thereby, the loss of time, if any, and its value, if proved, occasioned by such negligent acts; and whatever pain and suffering and loss of time, if any, which the evidence shows is reasonably probable the plaintiff will sustain in the future by reason of the alleged wrongful acts of the defendant, and how far, if at all, the injury renders her less fit to pursue her calling and business, and the expense, if any, necessarily incurred on account thereof. You may consider the age of the plaintiff and the reasonable probabilities of life, her ability to earn wages before the alleged injury, and to what extent, if any, her ability to earn money has been affected by the alleged injury. The measure of such recovery should be limited to such compensation for damages as were the natural and direct consequences of the alleged negligent acts of the defendant, if any, as charged in the complaint, not to exceed the amount claimed.”
+It is urged against the instruction that it contains two allegations for which plaintiff is not entitled to recover. (1) Loss of time in past and in future. This is not confined to loss of time in performance of duties incident only to plaintiff’s separate business. It includes loss of time in and about the duties of the household, time belonging to the husband and household, and for which a married woman is not entitled to recover. (2) Expense necessarily incurred on account of the injury. The evidence shows continued attendance of physicians and the use of medicine. As a married woman, plaintiff was not entitled to recover such expense of medical attendance, that right being in her husband. As to the first objection there is no evidence in the record showing any value of plaintiff’s services to her husband as housekeeper. It appears from the evidence that the housework, cooking and washing were done by relatives of appellee as a matter of kindness. There is no evidence of any value of any medical services rendered. The question of expense was not before the jury, and there was no evidence upon which to calculate expense. There are no allegations in appellee’s complaint of expense incurred because of said injury, either for medical treatment or assistance in doing the housework. It will not be presumed that the jury passed upon an item upon which there was no evidence. An instruction covering a question upon which there is no evidence is harmless. City of Indianapolis v. Cauley (1905), 164 Ind. 304.
+It is further urged against said instruction that it is doubly erroneous, for the reason that it assumed as proved that plaintiff was engaged in’ a separate business on her own account, and entitled to the proceeds thereof, and instructs the jury that she was entitled to said proceeds as a matter of law. It is claimed that this is an invasion of the province of the jury, which had the right to determine for itself what the evidence showed. The only ground upon which a reversal is asked is the giving of this instruction. The instruction is not free from criticism, but, considered in connection with the other instructions given and with the evidence, we conclude that it did not mislead the jury and did not prejudice the rights of appellant.
+Appellee — a woman and a mother twenty-seven years of age — by the negligence of appellant, was made to suffer from nervousness and intense pain, was depressed with melancholy and fear of insanity and her hearing and sight were at times impaired. It would appear that the amount awarded her was not excessive for bodily injuries alone which she suffered, without reference to any expense, medical or otherwise, that she might have sustained.
+Judgment affirmed.
