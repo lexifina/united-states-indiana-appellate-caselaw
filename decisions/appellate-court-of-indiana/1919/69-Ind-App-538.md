@@ -1,0 +1,42 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,588"
+decided: "1919-03-07"
+citations: ["69 Ind. App. 538"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Steel Foundries v. Sech."]
+source_url: "https://static.case.law/ind-app/69/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2551823
+cites_cases: ["1 Misc. Rep. 158", "103 N. E. 869", "109 S. W. 874", "124 Iowa 177", "151 Ind. 642", "174 Ind. 670", "178 Ind. 546", "49 Ind. App. 475", "50 N. E. 877", "52 N. E. 399", "57 Ind. App. 15", "93 N. E. 9", "94 Ill. App. 68", "97 N. E. 429", "97 N. E. 580", "99 N. W. 693"]
+---
+
+# American Steel Foundries v. Sech
+
+## Majority (Dausman, C. J.)
+
+Dausman, C. J.
+The following specific contentions are urged:
+(1) That the answers to eleven of the interrogatories are not sustained by sufficient evidence; and that said eleven interrogatories are answered “in such a way as to show bias, prejudice and improper motives.”
+The answers to the particular interrogatories designated are in harmony with the verdict; and appellant is not contending in this court that the verdict is not sustained by sufficient evidence. Therefore, this contention really presents nothing for our consideration. Sievers v. Peters, etc., Lumber Co. (1898), 151 Ind. 642, 50 N. E. 877, 52 N. E. 399; Vandalia Coal Co. v. Price (1912), 178 Ind. 546, 97 N. E. 429; Abelman v. Haehnel (1914), 57 Ind. App. 15, 103 N. E. 869. However, we have examined the evidence, and if does not sustain appellant’s contention.
+(2) That the court erred in permitting the witness Duffy to state on cross-examination the condition of the rosin, oil and dirt, which accumulated from time to time in the oil hole.
+On direct examination Duffy had given his opinion as an expert on the question whether the instrument used by appellee for cleaning out the oil hole was a proper one for that purpose. On cross-examination Duffy was permitted to say that “the rosin and dirt would be gummy, quite stiff and hard, and would have to be kind of picked out. ’ ’ This cross-examination clearly related to the subject-matter of the direct examination. It was eminently proper to admit this testimony on cross-examination for the purpose of testing the value of the opinion given on the direct examination. Taylor v. Taylor (1910), 174 Ind. 670, 679, 93 N. E. 9; 40 Cyc 2480.
+(3) That instruction No. 6 “is unintelligible, involved, and therefore misleading to the jury.”
+The instruction is not subject to that criticism. On the contrary, it is an accurate and clear statement of the law.
+(4) That instruction' No. 33 permits compensation for future pain and suffering, and that there is no evidence to justify this instruction.
+Appellee’s hand was cut off near the wrist. He testified that continuously since receiving the injury he has suffered, aud was then suffering, pain by reason of the injury. The injury, of course, is permanent. Under such circumstances, the. jury could pass on the question of future suffering without the aid of expert testimony; and the evidence presented on this feature justifies the instruction. Jordan v. City R. Co. (1904), 124 Iowa 177, 99 N. W. 693.
+(5) That instruction No. 12 requested by appellant should have been given.
+This instruction was designed to inform the jury that if the cogs were sufficiently guarded by reason of their location, relative to other parts of the machine, then no additional device for guarding was required. That feature is thoroughly covered by the instructions given.
+(6) That instruction No. 21 requested by appellant should have been given.
+This instruction is in the following language: “If you find that plaintiff’s injury was caused by reason of his using á hook, bent at both ends, or by reason of his wearing, a canvass glove on his hand while attempting to do the work, and that in either respect plaintiff did not use ordinary care for his own safety, then the proximate cause of his injury lay in his • choice and use of the hook, or glove, and defendant is not liable.”
+This instruction- was properly refused. In view of the evidence, it confuses proximate cause with contributory negligence. If in choosing an unsuitable instrument with which to do the work, or by wearing a glove while doing the work, the workman did not exercise reasonable care for his safety, his conduct in that’ respect would go to the question of contributory negligence. This feature of tbe case is fully covered in accurate and comprehensive language by the instructions given. However, the answers to the interrogatories disclose that the proximate cause of the injury was not in the use of the instrument or the glove, but in the failure to guard the cogs. Furthermore, the proffered instruction is bad because of the assumption that the workman had a “choice” of instruments—an assumption not warranted by the evidence.
+(7) That the court erred in admitting certain testimony given by appellee in rebuttal.
+It appears that one Henry C. Millies, called as a witness on behalf of appellant, testified: “I am the shop superintendent of appellant’s manufact'uring plant. Sech came back to the plant several times after he was injured. On one of those occasions when Sech came to the plant I told him that I would give him a job as watchman. I cannot just say what Sech said. He never came back after that. I cannot say how long that was after the accident'. I do not remember whether his hand was still bandaged or not. I did not say anything to Sech one way or another about his releasing the company from liability. I did not have anything like that in mind in discussing this matter with him. I just wanted to give him the job.”
+Millies also testified concerning other matters which went directly to the merits of the case and which were antagonistic to appellee’s cause of action. A proper foundation was laid for impeachment, and on rebuttal appellee testified: “On the occasion that Millies offered me a job he said, ‘We will give you $900.00 and a job, and you sign a release.’ ”
+If appellee had attempted to introduce in evidence, as original matter, at any stage of the trial, the fact that appellant offered him a job as watchman, for the purpose of showing an admission of liability, it is clear that' such evidence would have been inadmissible. But appellant introduced that evidence for purposes of its own. It is .apparent that this testimony was ■ introduced on the theory that it would tend to keep down the amount of damages. It was followed by evidence showing the rate of wages paid to watchmen, and appellant is now claiming the benefit Of it on that theory. When appellant voluntarily presented that fact to the jury, appellee thereby became entitled, as a matter of right and fairness, to-put before the jury the entire conversation. Having presented for its own benefit part of a conversation, appellant cannot be permitted to exclude the other part on the ground that it is a privileged communication, being a proposal for a compromise settlement. By presenting part of it, appellant waived the privilege as to all of it.
+However, it appears that appellee’s testimony as to this matter was permitted to go to the jury for the sole purpose of impeachment; that is to say, for whatever it might be worth as tending to show bias or prejudice on the part of Millies, or his interest' in behalf of the company, or as affecting his credibility. By its instruction No. 31 the court directed the jury to consider appellee’s said testimony only for the purpose of impeachment, and not as an admission of negligence or liability on the part of appellant. Under these circumstances there is no error in the admission of appellee’s testimony. Butler Ballast Co. v. Hoshaw (1900), 94 Ill. App. 68; Louisville, etc. v. Williams (1908), (Ky.) 109 S. W. 874; Cambeis v. Third Ave. R. Co. (1892), 1 Misc. Rep. 158, 20 N. Y. Sup. 633.
+(8) That the damages are excessive.
+The evidence discloses that at the timé of the injury appellee was an able-bodied, vigorous man, thirty-two years of age; that his life expectancy is thirty-four years; that he had considerable experience as a worker at and about machinery; and that he-was earning about $3.50 per day. The amount stated in the verdict does not impress us as being excessive. See Southern Indiana Gas Co. A. Tyner (1912), 49 Ind. App. 475, 97 N. E. 580.
+Judgment affirmed.
