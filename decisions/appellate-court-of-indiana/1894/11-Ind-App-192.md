@@ -1,0 +1,64 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,185"
+decided: "1894-06-07"
+citations: ["11 Ind. App. 192"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The New York, Chicago and St. Louis Railroad Company v. Mushrush."]
+source_url: "https://static.case.law/ind-app/11/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4754967
+cites_cases: ["10 Ind. App. 200", "10 Ind. App. 278", "115 Ind. 62", "119 Ind. 583", "123 Ind. 415", "127 Ind. 545", "133 Ind. 39", "137 Ind. 257", "142 Mass. 251", "18 Ill. 349", "21 Wis. 377", "37 Kan. 1", "38 N. Y. 445", "51 Mich. 601", "57 Tex. 293", "59 Mo. 27", "6 Ind. App. 295", "64 Tex. 251", "66 Mich. 261", "74 Mich. 20", "75 Ill. 468", "75 Mo. 653", "83 Ill. 204", "88 Ky. 222", "9 Ind. App. 422", "9 Ind. App. 63", "92 N. Y. 219", "94 Mo. 286"]
+---
+
+# New York, Chicago & St. Louis Railroad v. Mushrush
+
+## Majority (Gavin, J.)
+
+Gavin, J.
+The appellee sued to recover damages for the death of his minor son, who went to the depot to meet his sister who was expected to arrive on a train due at Hammond about seven o’clock in the evening. As the train was starting, the boy, while walking along the platform, stumbled and fell over some blocks and other obstructions upon the platform which he could not and did not see, and was thrown under the wheels of the car .and killed. It is alleged that all this happened without .any fault or negligence upon the part of the appellee or his son, and by reason of the negligence of the appellant in carelessly and negligently permitting said obstructions to be upon said platform, and failing to have the platform properly and sufficiently lighted.
+The learned counsel for appellant urge the insufficiency of the complaint, which was tested by demurrer. They claim, with apparent earnestness, that because the boy is shown by the complaint to have been only twelve years old he must, in the absence of any specific averment upon that subject, be deemed to have lacked sufficient judgment and discretion to go upon this mission, •and that therefore the appellee was negligent in sending him, notwithstanding the general allegation that he was without fault. This court certainly can not say, as a matter of law, that a boy twelve years old is incapable of taking care of himself at a depot. It was at the most for the jury to determine. Terre Haute, etc., R. W. Co. v. Tappenbeck, 9 Ind. App. 422.
+It is also urged that in other particulars the specific facts set forth fail to show the exercise of due care upon the part of both father and son.
+The rule is now well settled that the general allegation of want of negligence is sufficient unless the facts set forth affirmatively show negligence. It is not enough to overthrow the general averment that such specific facts fail to show want of negligence. Board, etc. v. Leviston, 133 Ind. 39; Evansville, etc., R. W. Co. v. Athon, 6 Ind. App. 295.
+We do not think there can be any doubt as to the sufficiency of the complaint.
+Error is also assigned in this court upon the overruling of the motion for a new trial.
+The evidence in the case is in some respects confused and unsatisfactory and in its material features absolutely in conflict. There is testimony to .show that the platform was 150 or 200 feet long; that it was only lighted by the light shining from the car windows; that this left it so dark that objects on the platform near the cars could not be seen. There is also testimony that they could be plainly seen. There is evidence that blocks and chips and other stuff, left over from building the platform, were upon it at the point where the boy fell, both at that time and also about one hour and twenty minutes afterwards. There is evidence -on the other hand that the platform was entirely free from any obstructions.
+Some witnesses testify that the boy was walking slowly along on the platform near the car and toward his home when he stumbled and fell; one says he was going in just the opposite direction; others testify that he was jumping on and off the car steps and missed his hold and fell.
+It was peculiarly the province of the jury, under.' the supervision of the trial court, to determine which of these conflicting accounts of the occurrence was the true one. An examination of the evidence convinces us that the conclusion reached by the jury was not unsustained by the evidence. We can not, therefore, disturb it. Marion Street R. R. Co. v. Carr, 10 Ind. App. 200, and cases cited.
+We can not regard as tenable the position taken, that it was necessarily negligence for the boy to walk slowly along the station platform within a foot and a half of the train moving at the rate of two miles an hour. The case of Chicago, etc., R. W. Co. v. Fisher, 55 Am. and Eng. R. R. Cases 223, does not sustain the position. Nor can we regard him as necessarily a trespasser because he failed to leave the platform and take the shortest route home. Keefe v. Boston, etc., R. R. Co., 142 Mass. 251.
+It was the duty of the appellant to keep its station and station platform in a reasonably safe condition and to have them reasonably well lighted. For a negligent failure to do this it was answerable to its passengers. Louisville, etc., R. W. Co. v. Lucas, 119 Ind. 583; Pennsylvania Co. v. Marion, 123 Ind. 415.
+Nor is this duty limited to actual passengers only, but it includes those who come to meet friends or see them safely off, or, as aptly expressed, “to welcome the coming or speed the parting guest.” 2 Woods R. W. Law, section 310, pp. 1334 and 1335 and notes; Pierce on Railroads 275; Hamilton v. Texas, etc., R. W. Co., 64 Tex. 251; Louisville, etc., R. R. Co. v. Berry, 88 Ky. 222; McKone v. Michigan Cent. R. R. Co., 51 Mich. 601; Doss v. Missouri, etc., R. R. Co., 59 Mo. 27.
+The verdict of the jury allowed $1,000 damages. It is insisted that this is excessive because there was no proof touching the value, present and prospective, of the boy’s services. It was shown by the evidence that the deceased was nearly twelve years old, a healthy boy, ordinarily bright and intelligent, who had gone to school, learned to read, write and cipher, was a good boy to work and helped do chores about the house, run errands and feed the stock. These facts, under the authorities, furnished sufficient data to enable the jury, by the aid of thejordinary, every-day knowledge presumably common to every man, to assess not only nominal but reasonable substantial damages for the loss of his services until twenty-one.
+The only authority cited by appellant’s counsel to sustain their position upon this point is Houston, etc., R. W. Co. v. Cowser, 57 Tex. 293. The rule laid down in that case is with reference to the necessity of proving the wages earned by an adult who was at the time working for wages. The court expressly distinguishes that case from one where the subject of consideration was the value of the future services of a minor of tender years, not engaged in service for hire, which they leave undetermined.
+Potter v. Chicago, etc., R. W. Co., 21 Wis. 377, is precisely in point. In that case the child was eleven years and eight months old, strong and healthy, bright and intelligent, had been to school and Sunday-school, was, a good child to work and accustomed to help her mother. In response to a claim similar to that made here, the court said, after reciting the above facts: "This is all, and it is sufficient on which to base a verdict for any reasonable sum for loss of the services of the deceased during her minority.”
+To the same effect is O’Mara v. Hudson River R. R. Co., 38 N. Y. 445.
+Other cases also sustain the principle on which our holding is based. City of Chicago v. Major, 18 Ill. 349; Houghkirk v. President, etc., 92 N. Y. 219; City of Chicago v. Scholten, 75 Ill. 468; City of Chicago v. Hesing, 83 Ill. 204; Cooper v. Lake Shore, etc., R. W. Co., 66 Mich. 261; Union Pacific R. W. Co. v. Dunden, 37 Kan. 1; Nagel v. Missouri Pacific R. W. Co., 75 Mo. 653; Parsons v. Missouri Pacific R. W. Co., 94 Mo. 286.
+In some of these cases evidence of the actual ability of the child was held admissible to enhance the amount of recovery.
+In Rajnowski v. Detroit, etc., R. R. Co., 74 Mich. 20, evidence of the value of the boy’s services until his majority was held admissible not to control, but to aid the jury in arriving at a just conclusion.
+There was no error in excluding the testimony of the attending physician concerning statements made by the deceased as to the manner in which the accident occurred, the statement being made in answer to his question, after the boy had been removed to his home. The knowledge acquired by a physician from his patient, while treating the patient, is confidential, and the law forbids that he should reveal it unless the privilege be waived. Pennsylvania Co. v. Marion, supra; Heuston v. Simpson, 115 Ind. 62.
+The fact that the physician was employed and paid by the railroad company does not prevent the privilege from attaching when the relation of physician and patient actually exists. Under the cases of Louisville, etc., R. R. Co. v. Berry, 9 Ind. App. 63, and Citizens’ Street R. R. Co. etc., v. Stoddard, 10 Ind. App. 278, the evidence would seem to have been improper in itself.
+The evidence of witnesses as to the presence of obstructions on the platform near the place of the accident, an hour and twenty or thirty minutes after the accident, was admissible. It certainly tended to corroborate upon this point the witness Zwizzig, who testified to the presence of these obstructions at the time of the accident.
+The instructions given upon the measure of damages are identical with those approved by our Supreme Court in Louisville, etc., R. W. Co. v. Rush, 127 Ind. 545.
+Filed June 7, 1894.
+Counsel urge that the case should be overruled. We do not, however, feel justified in so recommending.
+Neither was there any error in overruling appellant’s motion for judgment on the answers to interrogatories, notwithstanding the general verdict. There are between the general verdict and these answers no such inconsistencies as would enable the special answers to control the general verdict.
+We have now considered all the questions argued by counsel, and have found no cause which would justify a reversal. The record is in peculiar shape, being in much the same condition as was that in Gray v. Singer, 137 Ind. 257.
+Judgment affirmed.
+Ross, J., absent.
+
+## Rehearing (Gavin, J.)
+
+On Petition for a Rehearing.
+Gavin, J.
+Counsel for appellant earnestly seek a rehearing. Their first insistence is that there is an entire failure of evidence. The learned counsel are too familiar with the decisions of this court and the Supreme Court not to know that the question thus presented to us is simply whether there is any evidence fairly sustaining the verdict. If there is, the marshaling of a large amount of evidence to. the contrary will not in this court overthrow it.
+Counsel argue that there was no obstruction on the platform. It is true several witnesses testify that they saw none, and some that there absolutely was none. Yet Zwizzig testifies that both he and his partner stumbled over them just before the accident, and when asked: “Q,. What was on the platform?” answered, “A. What I can feel by me feet, they got some nails and pieces of plank.”
+This fits into the evidence of Steel and others who say the obstructions were there a short time after the accident. We would have no right to disregard this evidence and take as true that quoted by counsel, which says there was no obstruction on the platform. It is needless to argue the preponderance of the evidence, because this court does not deal with that question.
+Counsel further insist that the deceased was guilty of contributory negligence because he was running alongside a moving train. Zwizzig, however, says he was walking. We have read his evidence over several times in a vain effort to find any statement by him that the boy was running, as claimed by counsel. Furthermore, John Timberlake says that when the boy fell he was “about fifteen feet (away) walking north towards me * * * slow speed.”
+This contention of counsel must, therefore, necessarily fail.
+Further complaint is made that we did not pass explicitly upon the correctness of instruction No. 15, asked by appellant.
+It is well settled that an instruction must correctly state the law or there is no error in refusing it. That this instruction did not correctly state the basis upon which the damages were to be estimated was necessarily involved in the determination that the instruction given was the law.
+This fact seemed to be recognized by counsel in arguing together both the refusal to give the one and the giving of the other.
+The petition is overruled.
+Filed Nov. 23, 1894.
