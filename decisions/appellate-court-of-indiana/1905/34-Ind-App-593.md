@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "5,073"
+decided: "1905-02-16"
+citations: ["34 Ind. App. 593"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Engle v. Johnson et al."]
+source_url: "https://static.case.law/ind-app/34/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2424428
+---
+
+# Engle v. Johnson
+
+## Majority (Black, J.)
+
+Black, J.
+The appellant by his complaint sought to recover an amount as commission for service rendered to the appellee Elizabeth C. Johnson by the appellant and the other appellees, as real estate agents, under a written contract or order signed by said Elizabeth and addressed to the appellant, representing himself and said other appellees, who, it was alleged, had assigned their interests to the appellant. The other appellees filed an answer, alleging their assignment of their interest in the commission to the appellant, and disclaiming any interest in the contract in suit. The appellee Elizabeth C. Johnson answered in denial, and the cause was tried by jury.
+The overruling of the appellant’s motion for a new trial is assigned as error. The written contract on which the action was based was as follows: “J. A. Engle, real estate, loans and insurance agent, Erancisville, Indiana. Rote: Upon the consummation of a sale, immediate notice to the owner (or party leaving the property with us for sale) is given. Owners or agents leaving property with us for sale must give instructions in writing, subject to withdrawal upon giving us-days notice in writing. Property left in our hands will be liberally advertised. Our commission for selling property is due when a sale is consummated and the agreement signed. I hereby authorize you to sell the following described property, to wit: The north half of the northwest quarter of section thirty-five, township thirty, range five; eighty acres more or less. Price and terms of sale: The land must bring $35 per acre, and if sold, not less than $300 down, to bind the contract, and the balance, all cash, March 1, 1902, or before, if purchaser so desires to pay. Abstract of title to pass with deed, showing good title. Commission of $1 per acre to be paid by Elizabeth C. Johnson. Remarks: If said land is not sold by the 15th day of June, 1901, said contract is to be null and void. Elizabeth C. Johnson. Erancisville, Indiana, May 27, 1901. Owner’s-name -.”
+Through the procurement of the appellant, one Charles Brown signed the following instrument: “Erancisville, Indiana, June 3, 1901. Articles of agreement made this day and date by and between Elizabeth C. Johnson, of Jasper county, Indiana, party of the first part, and Charles Brown, of Erancisville, Indiana, party of th'e second part. Said Elizabeth C. Johnson has this day'and date contracted and sold, through J. A. Engle, as agent, to said Charles Brown, the following described land, to wit: The north half of the northwest quarter of section thirty-five, township thirty, range five, in Jasper county, Indiana; eighty acres more or less. Said Brown is to pay for said land the sum of $35 per acre, or $2,800, and pays this day the sum of $300, to bind the contract, and assumes a mortgage of $500 to the Aetna Life Insurance Company, and agrees to pay the remaining $2,000 on or before March 1, 1902, at which time he is to receive from Mrs. Johnson a good and sufficient warranty deed, with abstract of title showing the land to be clear of all encumbrances except the $500 mortgage which said Brown assumes and agrees to pay. Charles Brown. [Seal.]”
+Leaving out of consideration other matters, as to some of which there was conflict in the testimony, it appears that the instrument signed by Mr. Brown, upon the procurement of which by the appellant his claim for compensation is based, was not substantially in accord with the contract signed by Mrs. Johnson. Mr. Brown engaged to assume and to pay a mortgage of $500 to an insurance company named, and to pay $2,000 on or before March 1, 1902, he then to receive a warranty deed with abstract of title showing the land to be clear of all encumbrances except the $500 mortgage. There was testimony to the effect that there was a mortgage on the land, executed by the owner and her husband to one White, due in January, 1902, and there was no evidence of the existence of any other mortgage. The want of substantial agreement between the terms to which the landowner limited her broker and the terms by which the proposed purchaser engaged to be bound is apparent. It being thus manifest upon uncontradicted evidence that the appellant was not entitled to recover, it is not needed that we should go further into matters of dispute between counsel.
+Judgment affirmed.
