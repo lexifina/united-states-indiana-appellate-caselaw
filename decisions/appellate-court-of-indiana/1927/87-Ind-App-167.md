@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,739"
+decided: "1927-06-17"
+citations: ["87 Ind. App. 167"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shortal v. Standerford et al."]
+source_url: "https://static.case.law/ind-app/87/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1548458
+cites_cases: ["101 Ind. 249", "113 Ind. 98", "119 Ind. 72", "14 N. E. 889", "21 N. E. 464"]
+---
+
+# Shortal v. Standerford
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Action upon a promissory note for $1,400, dated December 15, 1920, against appellee Boes, as the maker, and appellee Standerford, as payee and indorser thereof. Before the note was due, appellee Standerford indorsed it to appellant herein.
+There was an answer in three paragraphs. The first was a general denial. Both the second and third paragraphs allege that said note was secured by a chattel mortgage, and after setting out the mortgage, and its assignment to appellant by appellee Standerford, the second paragraph avers that the property, goods and chattels described in said chattel mortgage were in the possession of appellee Boes at the time of such assignment and transfer; that said property was being used in the operation of a broom factory in the city of Tipton, in the name and style of “Tipton Broom Company”; that afterwards appellant and appellee Boes became partners in said Tipton Broom Company, and through possession of said property, they continued to operate and conduct said Tipton Broom Company until about September 1, 1922; that during the time of such operation, appellant took possession of, and had control and management of the finances of said broom company; that said company and appellant sold of the goods mentioned in said chattel mortgage 150 dozen brooms of the value of $900, and that he used and sold supplies, broom handles, broom cane, labels, wire and twine of the value of $1,000; that he sold a one-ton Ford truck of the value of $500, and that he has appropriated and converted the proceeds thereof to his own use, contrary to the terms and conditions of said chattel mortgage. That, according to the terms of said mortgage, said mortgagor agreed to keep the machinery set out and described in said mortgage in as good condition as it was at the time the mortgage was executed, but that, on account of his • action, in this, that he refused to permit said Boes properly to take care of and look after said machinery, the same has depreciated in value in the sum of $500.
+It is further averred that appellant has in his possession on account thereof more than sufficient funds and property with which to pay the notes sued on, Appellee asks that appellant be required to account for so much of said property set out in said mortgage as he has converted to his own use, and that the remaining personal property and machinery set out and described therein be sold and applied on said note. The third paragraph of answer is similar in effect to the second.
+Reply in general denial. The case was tried by a jury, which returned a verdict for appellee. Appellee Boes, as defendant, was defaulted and did not appear at the trial. Appellee Standerford appeared and was the only one appearing as defendant. The jury found for the defendant in the singular. A motion for new trial and a motion for venire de novo were each overruled, and judgment was rendered for the defendant in the singular number.
+The errors relied upon for reversal are the court’s action in overruling appellant’s motion for venire de novo, and in overruling appellant’s motion for a new trial. Appellant has waived the first error assigned.
+■ There is much discussion in the briefs filed as to whether the title to the note sued on passed to appellant by delivery, or by indorsement by appellee on the back thereof, and as to the character of such indorsement, if any, as to whether it was with or without recourse. But, as we view this case, we have little reason to be concerned about this question. There is ample evidence to sustain the averments of the second and third paragraphs of answer.. Such being the case, we have then a case where a holder of a note has taken the property described in a chattel mortgage securing the note into his own possession, used the machinery described in such mortgage for months in the operation of a broom factory, and eventually appropriating and converting the same to his own use. There- is evidence that the value of the property so converted was much more than the amount of the note. We know of no principle of law or equity that would permit a holder of a note and mortgage to appropriate the property described in the mortgage, and which, in an action against an indorser or surety constitutes the primary fund out of which the debt may be made, to appropriate and convert such property to his own use, and then to sue on the note without in any way accounting for the value of the property. The rule seems to be that when a mortgagee takes and obtains possession of mortgaged chattels without a foreclosure of his mortgage and a sale under the decree, converting the same to his own use, such action on his part constitutes a payment of the mortgage debt, at least to the full value of the property so converted. Lardon v. White (1885), 101 Ind. 249, 252; Lee v. Fox (1888), 113 Ind. 98, 14 N. E. 889; Hartman v. Ringgenberg (1889), 119 Ind. 72, 21 N. E. 464; 11 C. J. 686; Jones, Chattel Mortgages §§711, 773. This principle controls in this case, and the court's instructions involving the question are in harmony with the principle.
+We do not need to consider other questions.
+Judgment affirmed.
