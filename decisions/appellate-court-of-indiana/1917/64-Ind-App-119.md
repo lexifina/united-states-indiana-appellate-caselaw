@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,756"
+decided: "1917-03-15"
+citations: ["64 Ind. App. 119"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robinsons v. Smith."]
+source_url: "https://static.case.law/ind-app/64/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5143445
+cites_cases: ["115 N. E. 336", "13 Ind. App. 294", "139 Ind. 474", "143 Ind. 363", "145 Ind. 324", "156 Ind. 583", "156 Ind. 592", "159 Ind. 490", "16 Ind. App. 410", "163 Ind. 301", "171 Ind. 294", "175 Ind. 665", "21 Ind. App. 397", "21 Ind. App. 617", "26 Ind. App. 487", "39 N. E. 45", "41 N. E. 74", "41 N. E. 825", "42 N. E. 749", "43 N. E. 967", "44 N. E. 302", "52 N. E. 1000", "52 N. E. 623", "60 N. E. 10", "60 N. E. 353", "60 N. E. 451", "65 N. E. 529", "71 N. E. 889", "86 N. E. 72", "95 N. E. 113"]
+---
+
+# Robinsons v. Smith
+
+## Majority (Batman, J.)
+
+Batman, J.
+In this case appellee has filed her motion to dismiss the appeal. She grounds her motion, among other things, on the absence of the evidence from the record. An examination of the record discloses that the only error properly assigned is based on the overruling of appellant’s motion for a new trial. The other errors attempted to be assigned seek to raise questions that could only be presented in a motion for a new trial, and are therefore not proper assignments of error. An examination of the motion for a new trial discloses that all of the reasons on which it is based depend on the evidence. It therefore follows that if the evidence is not in the record, as claimed by appellee, the appeal must be dismissed.
+There are two certificates of the clerk of the Lake Circuit Court appended to the transcript, one precedes what purports to be a bill of exceptions containing the evidence, and bears date of July 25, 1916, and the other follows said purported bill of exceptions and bears date of September 25, 1916. The first is a general certificate, attesting what the transcript contains and, its correctness, while the latter merely certifies “that the above longhand transcript of the evidence in the foregoing cause was filed in my office on the 25th day of September, 1916.” This latter certificate. was wholly unnecessary, and in no way aids in perfecting the record. City of Decatur v. Stoops (1898), 21 Ind. App. 397, 52 N. E. 623; Blair Co. v. Rose (1900), 26 Ind. App. 487, 60 N. E. 10; Diezi v. Hammond Co. (1900), 156 Ind. 583, 60 N. E. 353. Such certificate must therefore be disregarded, as it is only material to know that the bill of exceptions containing the evidence was filed in the clerk’s office, and it is wholly immaterial whether the longhand transcript of the evidence, as such, was ever so filed.
+It therefore follows that the transcript contains only one certificate that can be considered in determining the sufficiency of the record and that is the one bearing date of July 25, 1916. As we have before stated, the purported bill of exceptions containing the evidence follows this certificate instead of preceding it as the law requires. It is merely attached to the transcript instead of being embraced in it and thereby made a part of the same. It has been repeatedly held by the decisions of this and the Supreme Court that, in order to make a bill of exceptions a part of the record, it must precede the clerk’s certificate and be thereby, in fact incorporated therein. Huber Mfg. Co. v. Busey (1896), 16 Ind. App. 410, 43 N. E. 967; McCormick Harvesting Co. v. Smith (1898), 21 Ind. App. 617, 52 N. E. 1000; DeHart v. Board, etc. (1896), 143 Ind. 363, 41 N. E. 825; Johnson, Admr., v. Johnson (1900), 156 Ind. 592, 60 N. E. 451; Butt v. Lake Shore, etc., R. Co. (1902), 159 Ind. 490, 65 N. E. 529; Black v. State (1908), 171 Ind. 294, 86 N. E. 72.
+There is still another reason why such purported bill of exceptions cannot be considered a part of the record, and that lies in the fact that such clerk’s certificate bears date of July 25, 1916, while such purported bill of exceptions was not signed by the trial judge until sixty days thereafter, to wit, on September 25, 1916. It has been uniformly held by this and the Supreme Court for many years that the certificate of the clerk certifies only to the correctness of all the papers filed, proceedings had and entries made prior to the date of said certificate and cannot authenticate papers filed, proceedings had or entries made subsequently to that time. The cases of Painter v. State (1911), 175 Ind. 665, 95 N. E. 113, and Nurrenbern v. Daniels (1904), 163 Ind. 301, 71 N. E. 889, are among the latest expressions of the Supreme Court on this question. Among the earlier decisions are the following: Hughes v. Hughes (1894), 139 Ind. 474, 39 N. E. 45; Humbarger v. Carey (1896), 145 Ind. 324, 42 N. E. 749, 44 N. E. 302; Jamison v. State (1895), 13 Ind. App. 294, 41 N. E. 74.
+For the reasons given based on the authorities cited, we are compelled to hold that the evidence is not in the record, and, since the only error presented on this appeal requires the presence of the evidence for its determination, there is nothing for our consideration; and the appeal, therefore, must be dismissed. It appears that appellee has filed her application for an oral argument, but a dismissal of the appeal will render such argument unnecessary.
+Appellee’s motion is therefore sustained, and the appeal is dismissed.
+Note. — Reported in 115 N. E. 336.
