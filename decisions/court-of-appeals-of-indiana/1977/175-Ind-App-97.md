@@ -1,0 +1,51 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "2-477A152"
+decided: "1977-12-12"
+citations: ["175 Ind. App. 97"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Ray Pedigo v. William R. Miller et al."]
+source_url: "https://static.case.law/ind-app/175/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1498235
+cites_cases: ["108 Ind.App. 463", "145 Ind. App. 103", "192 N.E. 111", "220 Ind. 649", "248 N.E.2d 560", "29 N.E.2d 797", "369 N.E.2d 1100", "397 U.S. 254", "46 N.E.2d 219", "99 Ind. App. 203"]
+---
+
+# Pedigo v. Miller
+
+## Majority (STATON, P.J. —)
+
+STATON, P.J. —
+Charles Ray Pedigo was injured during the course of his employment on February 24, 1970. He filed his Form 9 application for benefits on March 1, 1972. After several continuances and delays, the Industrial Board ordered Pedigo, on May 19, 1976, to make himself available for physical examination within four months. Pedigo died of independent causes (drowning) on August 22, 1976. Upon motion of the defendant, the Industrial Board dismissed Pedigo’s claim because Pedigo “failed to comply with said order [for physical examination]” and because Pedigo failed “to properly prosecute his claim.” We are asked to consider in this appeal whether Pedigo’s claim was subject to such dismissal. We conclude that the Industrial Board was without authority to dismiss Pedigo’s claim and that such dismissal was contrary to law; therefore we reverse the Industrial Board’s dismissal of Pedigo’s application.
+I.
+Statutory Authority
+The Industrial Board has been vested with the power to make rules for carrying out the provisions of the Workmen’s Compensation Act. IC 1971, 22-3-4-2, Ind.Ann.Stat. § 40-1506 (Burns Code Ed.). Processes and procedure under the act shall be as summary and simple as reasonably may be. IC 1971, 22-3-4-2, Ind.Ann.Stat. § 40-1506 (Burns Code Ed.).
+IC 1971, 22-3-4-6, Ind.Ann.Stat. § 40-1510 (Burns Code Ed.) provides that “The board by any or all of its members shall hear the parties at issue, their representatives and witnesses, and shall determine the dispute in a summary manner____” The statutes do not, however, provide for dismissal of claims for failure to prosecute.
+The chronology of the progress of Pedigo’s claim reveals that on July 3, 1975, Pedigo was ordered by the review board to submit to an oral and physical examination:
+“It is further ordered that plaintiff shall make himself available for oral examination by the defendants and for a physical examination by a doctor of defendants’ choice, the time and place to be agreed upon by the parties, the situs for which shall be no farther than Louisville, Kentucky, and that, both, oral and physical examinations shall be on the same date and in the same city; that failure of the plaintiff to comply shall constitute failure to prosecute his cause of action.”
+Pedigo did travel from Florida to Louisville, Kentucky, during the early part of November, 1975, in order to submit himself to oral and physical examination. A deposition was taken, but no physical examination was arranged by the defendants. Pedigo himself arranged two separate physical examinations during his visit to Louisville (and one doctor did a follow-up exam), but the record does not disclose any reason why an examination by a physician of the defendants’ choice was not or could not have been scheduled. The Single Hearing Member gave no explanation of the facts upon which his May 19, 1976, statement that “it was not possible for the parties to obtain a physical examination of plaintiff at the time plaintiff made himself available for a deposition taken by the defendant” was based. It was within the same May 19, 1976, order that the Industrial Board gave Pedigo four months to “make himself available for physical examination so that this cause can proceed to a hearing without further delay.”
+It is clear that the legislature intended to provide an avenue for the employer to discover the true physical condition of a claiming employee. IC 1971, 22-3-3-6, Ind.Ann.Stat. § 40-1227 (Burns Code Ed.) provides in pertinent part:
+“After an injury and during the period of claimed resulting disability or impairment, the employee, if so requested by his employer or ordered by the industrial board, shall submit himself to an examination at reasonable times and places by a duly qualified physician or surgeon designated and paid by the employer or by order of the industrial board. ... If the employee refuses to submit himself to or in any way obstructs such examinations his right to compensation and his right to take or prosecute any proceedings under this act shall be suspended until such refusal or obstruction ceases, and no compensation shall at any time be payable for the period of suspension unless in the opinion of the industrial board the circumstances justified the refusal or obstruction.”
+However, we refuse to construe this statutory language in such a manner as to justify dismissing Pedigo’s claim because he died before another physical examination could be made. The most the statute allows is a suspension of benefits until the reasons for the refusal or obstruction of medical discovery are brought forward.
+IC 1971, 22-3-3-16, Ind.Ann.Stat. § 40-1401 (Burns Code Ed.) allows payment of benefits to a claimant’s dependents if the claimant dies. This right to benefits transfers to the dependents even if the claim is merely pending at the time of the claimant’s death. Weber Milk Co. v. Dunn (1940), 108 Ind.App. 463, 29 N.E.2d 797. In fact, the claim need not have even been filed before the employee’s death; an action for compensation could be instituted independently by the eligible dependent. Snyder Construction Co. v. Thompson (1969), 145 Ind. App. 103, 248 N.E.2d 560. If the injured employee would have been eligible for compensation, his death should not extinguish his claim.
+II.
+Failure to Prosecute — Policy Considerations Within the appellee brief is the allegation that:
+“The basic purpose of the Industrial Board is to efficiently and expenditiously resolve employee compensation claims. As a quasi-judicial body, the Industrial Board must be held to have authority to dismiss actions when an employee consistently fails to properly prosecute his claim and consistently fails to comply with established procedures and express orders of the Board.”
+No authority for this proposition is cited for there is no such authority. While we would agree that claims should be processed efficiently, we cannot legislate new powers for the Industrial Board.
+Additionally, we would note that in Pedigo’s case, the dismissal was based entirely upon written documents: affidavits, forms, and pleadings. It is uncontroverted that Pedigo timely filed his claim. There are indications that the processing of the claim was hampered by numerous continuances, but we will not presume that such continuances were frivolous, purposefully obstructive, or avoidable. In fact, the record clearly indicates that the employer failed to comply with an Industrial Board order to schedule the deposition and physical examination on the same day and in the same city.
+We hold that under the statutes providing workmen’s compensation, as those statutes are currently written, the Industrial Board must provide a dismissal hearing at which time any claimant may present evidence of his elibigility. There are two important policy reasons for such a hearing. First, without a hearing, it is doubtful whether the claimant has been afforded due process of law. See Goldberg v. Kelly (1970), 397 U.S. 254. Second, proceedings before the Industrial Board are not grounded in formality; and the Industrial Board is not bound by the rules of civil procedure. Russell v. Johnson (1943), 220 Ind. 649, 46 N.E.2d 219; Trustees of Indiana University v. Rush (1934), 99 Ind. App. 203, 192 N.E. 111. Therefore, a dismissal based upon procedural deficiencies is antithetical to the Industrial Board’s inherent fact-finding, thus substantive, purpose. The dismissal of Pedigo’s claim did not even attempt to address the evidentiary basis of his claim.
+We reverse.
+Robertson, C.J., (by designation), concurs;
+Hoffman, J., concurs in result with opinion.
+HOFFMAN, J. — I concur in the result for the following reasons.
+The Industrial Board of Indiana by order entered May 19,1976, gave appellant four months (until September 19, 1976) to submit to a physical examination. The appellant died on August 22,1976, thus making it impossible to comply with the order of the Board. Such circumstances justified the non-compliance with the Board’s order. Appellant’s death did not extinguish his claim. It was transferred to his dependents. The dependent should be permitted to pursue the claim.
+I do not agree with the dicta set out in Point II of the majority opinion.
+NOTE — Reported at 369 N.E.2d 1100.
+. Pedigo had also failed a Form 12 Agreement As To Compensation on February 20,1972, for the purpose of tolling the two-year statute of limitations.
+. Ind. Rules of Procedure, Trial Rule 41(E) provides that, in civil cases, the trial court may dismiss an action if there has been no action taken to prosecute the claim for a period of sixty days. However, that rule also provides that a hearing on the motion to dismiss for failure to prosecute must be ordered.
+. Even if we were to apply the rules of civil procedure, a dismissal without a hearing would be improper. See note 2.
+In addition, Ind. Admin. Rules and Regs. (22-3-4-6)-! provides:
+“Technicalities to be disregarded. — The industrial board will not be bound by the usual common law or statutory rules of pleading and evidence, or by any technical rules of practice in conducting hearings, but will conduct such hearings and make such investigations in reference to the questions at issue in such manner as in its judgment are best adapted to ascertain and determine expeditiously and accurately the substantial rights of the parties and to carry out justly the spirit of “The Indiana Workmen’s Compensation Act. . . .” (Our emphasis)
+The dismissal of Pedigo’s claim did not ascertain substantial rights, and we do not believe it justly carried out the spirit of the Act.
