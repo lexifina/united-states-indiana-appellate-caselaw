@@ -1,0 +1,57 @@
+---
+court: "Appellate Court of Indiana"
+docket: "19,982"
+decided: "1965-03-24"
+citations: ["137 Ind. App. 96"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bierly, P. J., and Smith, J., concur.", "Mote, J„ dissents with opinion."]
+parties: ["Ellet v. Ellet."]
+source_url: "https://static.case.law/ind-app/137/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1605529
+cites_cases: ["105 N. E. 2d 912", "106 N. E. 2d 709", "110 N. E. 666", "111 N. E. 2d 90", "112 Ind. App. 522", "122 Ind. App. 581", "123 Ind. App. 454", "125 Ind. App. 395", "125 Ind. App. 692", "125 N. E. 2d 37", "125 N. E. 2d 443", "145 N. E. 885", "163 Ind. 582", "171 N. E. 378", "173 N. E. 268", "184 Ind. 351", "19 N. E. 2d 1015", "195 Ind. 569", "202 Ind. 254", "205 N. E. 2d 555", "215 Ind. 417", "225 Ind. 146", "35 Ind. App. 138", "38 N. E. 2d 596", "45 N. E. 2d 347", "68 Ohio App. 39", "72 N. E. 1137", "72 N.E. 588", "73 N. E. 2d 343"]
+---
+
+# Ellet v. Ellet
+
+## Majority (Hunter, J.)
+
+Hunter, J.
+This is an appeal from the Circuit Court of Huntington County in an action brought by appellant against the appellee for separation from bed and board. Appellee has not filed a brief in support of the judgment of the trial court. It is well settled by decisions of this court and the Supreme Court that the failure of an appellee to file a brief controverting the errors complained of by an appellant may be taken or deemed to be a confession of such errors and the judgment may accordingly be reversed, and the cause remanded without prejudice to either party, and as stated in the decision of Miller v. Julian (1904), 163 Ind. 582 at p. 584, 72 N.E. 588:
+“This rule was not declared in the interest of an appellant, but for the protection of the court, in order to relieve it of the burden of controverting the arguments and contentions advanced for reversal, which duty properly rests upon counsel for the appellee.”
+Also as stated in Meadows v. Hickman (1947), 225 Ind. 146, 73 N. E. 2d 343:
+“The rule herein announced is not for. the benefit of the appellants but for the protection of the court and .whether it shall be invoked is diseretionary with the court.
+The. rule will not be invoked unless the appellants’ brief makes an apparent or prima facie showing Of reversible error, (citing Pittsburg, etc., R. Co. v. Linder (1925), 195 Ind. 569, 145 N. E. 885; Bryant v. School Town of Oakland City (1930), 202 Ind. 254, 171 N. E. 378, 173 N. E. 268; Reed, Admr. v. Brown (1939), 215 Ind. 417, 19 N. E. 2d 1015.” (Our emphasis)
+We understand “prima facie” to mean:
+“At first sight; on the first appearance; on the face of it; so far as can be judged from the first disclosure; presumably; a fact presumed to be true unless disproved by some evidence to the contrary. State ex rel. Herbert v. Whims, 68 Ohio App. 39, 38 N. E. 2d 596, 599.” Black’s Law Dictionary, Fourth Edition, p. 1353.
+In the instant case, in our opinion, appellant’s brief makes a prima facie showing of an abuse of discretion by the trial judge in.awarding all of the real property and substantially all of the personal property jointly owned and acquired by both parties,.to the appellee.
+The condensed recital of the evidence as found in the appellant’s brief which indicates a prima facie case of this abuse of discretion is as follows:
+In this case the only property that the appellee had at the. time of marriage was a vacant lot, for which he had paid §100.00. The appellant was. employed in factory work from the time of her marriage and was still employed at the time of the trial as a factory employee in the City of Huntington. They lived in Andrews, and she drove six miles to her employment in Huntington, working from 3:80 P.M. to 12:30 A.M. Her earnings were shown to be approximately $3000.00 per year. Following the marriage of the parties, the appellant mixed mortar and carried brick and assisted the'appellee in the building of a residence on a vacant lot. It was built by their joint efforts. It was appraised at the time of- the trial for $8000.00 rental houses were thereafter built on lots acquired from tax sale, or purchase, none of which cost more than $125.00, upon which a small house was located. Title to all of the real estate -was held in the names of the parties as tenants by the -entireties. All of the rents were collected by the appellee and never at any time collected by the appellant. The rents were deposited in a joint account by the appellee from which the taxes, repairs, insurance and other expenditures on these rental- properties was paid. The appellant never drew one penny from the joint account. The appellee testified that the rental properties were built and improved and the costs paid for out of the rents received from the properties. The 1960 pickup and 1961 Ford automobile were purchased with cash obtained by placing a- mortgage loan upon the residence property for the purchase price of the truck and automobile. The mortgage loans were being paid out of the joint account from rentals received from the properties.
+In the instant case there was no evidence of adultery.
+It is the contention of the appellant that the court’s awarding to appellant the few items of household goods, dishes, antique dishes, cooking utensils, silverware, Electrolux sweeper, .throw rugs, two end tables, table lamps, hair dryer, etc., and her choice of certain household goods enough to furnish one room, and the awarding to the appellee of all of the real estate of the appraised value of $31,000.00, the pickup truck, Ford automobile, all plumbing and supplies, carpenter tools, electric appliances, all other household goods, dishes and personal effects, all life insurance policies except on the life of appellant, one of which had a cash surrender value of $510.00, and there, being no proof as to the cash surrender value of the other , insurance policies, the bank account with a balance of $309.00, was an abuse of discretion.
+In the instant case, since we have no appellee’s brief, there is no rebuttal or contradiction of the above-mentioned evidence.
+Under the circumstances shown by the record in this case which is not a case involving great public interest, the court in its discretion may order the appellee to file a brief or it may reverse the judgment without considering the appeal on its merits and remand the cause without prejudice for further, proceedings. 2 I.L.E., §395, p. 277; City of Connersville v. Adams (1952), 122 Ind. App. 581, 105 N. E. 2d 912; Brown, Admr. etc. v. Montgomery (1955), 125 Ind. App. 395, 125 N. E. 2d 37; Veit v. Windhorst (1915), 184 Ind. 351, 110 N. E. 666; Meadows v. Hickman, supra; Hanrahan v. Knickerbocker (1905), 35 Ind. App. 138, 72 N. E. 1137.
+By reason of the above and foregoing well established discretionary rule of the Supreme and. Appellate Courts of this state as applied to' the circum-. stances shown by the record as set forth herein, the judgment of the lower court is hereby reversed, and ithe trial court is directed to vacate the same without prejudice to either party and the cause is . remanded for further proceedings.
+Judgment reversed.
+Bierly, P. J., and Smith, J., concur.
+Mote, J„ dissents with opinion.
+
+## Dissent (Mote, J.)
+
+Dissent.
+Mote, J.
+Having carefully studied appellant’s brief filed in this'appeal, and having reached the conclusion that prima fade error has not-been, established, I cannot lend my approval to a reversal of this case.
+It is' a well established law that the responsibility for weighing the evidence is within the exclusive province of the trial court and not the reviewing court. The evidence in the case, as reported by appellant’s Concise Statement of the Record, is replete with' facts and legitimate inferences Which support the finding and judgment of the trial court, despite the fact that we aré considering only appellant’s version of the same.
+In finding the allegations of the defendant to be true and awarding him an absolute divorce, the trial court obviously drew legitimate inferences as to the immoral conduct of the appellant in violation of her marital vows, which could include adultery, notwithstanding the statement in the majority opinion that appellant was not guilty of such, and displayed no abuse of discretion in doing so.
+Having established the miscreant behavior of, the-appellant,-we must consider the real question at issue: Does appellant’s brief present a prima fade case that the' trial court abused its discretionary power by awarding to the appellee nearly all the property accumulated by the said- parties during their seventeen years of married life?
+In the case of Gray v. Miller (1952), 122 Ind. App. 581, 106 N. E. 2d 709, this Court, after, a thorough review of the decisions of the Supreme Court and this Court on the subject, construing the provisions of Chapter 120 of the Acts of 1949, §3-1218, Burns’ 1946 Replacement (1951 Supp.), stated:
+“While the foregoing statute is primarily, an alimony statute, the legislative intent is apparent to adopt the policy.of recognizing the case law which grants broad powers to a divorce court to fully adjudicate the rights of the parties and order the transfer of real estate between the parties in proper cases.”
+A somewhat analogous award to the one found in the case at bar in that of Proctor v. Proctor (1955), 125 Ind. App. 692, 125 N. E. 2d 443, in which the judgment granted to appellee an absolute divorce, the care and custody of the minor children of the parties, and all the property, both real and personal, of the parties, including the home which was owned by the parties as tenants by the entireties.
+In another appeal before this Court, Wallace v. Wallace (1953), 123 Ind. App. 454, 111 N. E. 2d 90, in which cross actions for divorce were involved, the trial court found, in favor of the appellee-husband and the reviewing court held that the trial court had authority and properly exercised it in directing transfer of property held as tenants by the entireties to the husband. In this case the reviewing court also stated:
+. . While it is well recognized that- a court which grants a husband a divorce for misconduct-of the wife may grant .her alimony, it is not bound to do so. . . See also Proctor v. Proctor, supra.
+•If appellant's brief is to make an apparent or prima facie showing of reversible error, it is necessary for ■appellant to demonstrate to this' Court sufficient evidence to establish the facts, which she relies upon for reversible error until contradicted or overcome by other evidence. In view of --the broad discretionary power afforded the trial court and the evidence presented in appellant’s brief, it is my opinion that the trial court did not abuse its discretion, ánd the appellant has failed to establish a -prima facie showing of reversible error.
+It should also be noted that in the case of Sheldmyer v. Bias (1942), 112 Ind. App. 522, 45 N. E. 2d 347, this .Court declared that where the record is simple and uncomplicated, and the claimed errors are of such a nature that the court can safely pass upon them without the aid of a brief from appellee, the-Appellate Court owes a duty to the trial court to consider the merits of the appeal.
+The judgment of the trial court should be affirmed.
+Nora — Reported in 205 N. E. 2d 555.
