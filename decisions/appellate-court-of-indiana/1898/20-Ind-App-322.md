@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,531"
+decided: "1898-05-25"
+citations: ["20 Ind. App. 322"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clark School Township v. Grossius et al."]
+source_url: "https://static.case.law/ind-app/20/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4833424
+cites_cases: ["101 Ind. 510", "123 Ind. 1"]
+---
+
+# Clark School Township v. Grossius
+
+## Majority (Comstock, J.)
+
+Comstock, J.
+Appellees, plaintiffs below, brought this suit against the appellant on two warrants issued by the trustee of the township, payable to appellees, one for ffrO.OO and the other for $33.00, for five coal stoves for use in the schoolhouses in the district. The complaint alleges that such stoves were suitable and necessary for the use of the schools in the township; that they were delivered, ordered and retained by the township, and were worth the price, and have been in continual use since November 18, 1893, the date of the sale.
+Appellant answered in two paragraphs. The first being a general denial. The second alleged, in substance, that at the time of the purchase of the stoves, the fund on which said orders were drawn and the said school township were in debt beyond the amount of money on hand, and that to be derived from the tax levy for the current year; that the township trustee did not post any notices in his township setting forth that he would apply to the board of commissioners of said county, asking permission to incur said debt; that he never asked the said board for permission, nor did he ever get any permission from said board to make said debt, and that said debt was incurred in violation of the law of the State. Tío this paragraph of answer, appellee demurred for want of sufficient facts. The court sustained the demurrer, to which ruling appellant excepted. A trial resulted in a judgment in favor of the appellees.
+The only error assigned is the action of the court in sustaining appellee’s demurrer to the second paragraph of answer. This paragraph sets out,- as a defense to the action, the violation of sections 8081, 8082, Burns’ R. S. 1894 (6006, 6007, Horner’s R. S. 1897).
+We do not deem it necessary to review the numerous decisions of this and the Supreme Court upon the authority of a township trustee. It is the settled law of this State that a township trustee has no power to bind his township by contracting a debt in excess of the fund on hand to which the debt is chargeable and of the fund to be derived from the tax assessed against his township for the year for which such debt is to be incurred, without first obtaining an order from the board of county commissioners as provided in said sections 6006 and 6007.
+Boyd v. Black School Tp., 123 Ind. 1, was an action in which the township trustee, in behalf of the township, had executed a promissory note, whereby the school township promised to pay to the plaintiffs a specified amount for school furniture therein described. The evidence disclosed that the township trustee "contracted the debt mentioned in the cbmplaint in Adolation of sections 6006 and 6007. Mitchell, J., speaking for the court, said: “In a case like the present, where it fairly appears that the contract was invalid for want of a compliance with the statute, the right to recover does not rest upon the contract but upon the fact that the township received and enjoyed the benefit of the property suitable and necessary for the use of schools.” In Miller, Admr., v. White River School Tp., 101 Ind. 510, the precise question before us was passed upon. The township trustee had issued the certificate of indebtedness upon which the action was brought for tellurians for the use of the township, and the court held that such certificate or note was not invalid because of the trustee’s failure to comply with the provisions of said sections 6006 and 6007. of the statute.
+The fourth paragraph of answer set up the same defense pleaded in the paragraph of answer under consideration. The court, speaking by Howk, J., used the following language: “We are of the opinion, however, that the fourth paragraph of answer stated no' defense whatever to the appellants’ action. It is manifest that the paragraph was prepared upon the supposition of the pleader that the contract for the tellurians, mentioned in the complaint, was void because the appellee’s trustee had not complied with the provisions of sections 6006 and 6007, R. S. 1881, before making such contract. We think, however, that these sections of the statute can have no application to the ordinary debts incurred by the trustee for furniture, apparatus and other supplies for the schools of his township, such as the debt in suit for the tellurians.” This case is cited in numerous decisions and upon this point is not criticised or overruled. Stoves are necessary articles of furniture of a school room.
+We think that it was not the purpose of the legislature to require the township trustee when one is needed, to petition and procure an order from the board of county commisioners, authorizing him to contract the debt, and to give the twenty days’ notice of his application for such authority to said board. The debt in controversy was an ordinary one incident and necessary to the conduct of the schools to which as was said by Howk, J., supra, said sections 6006 and 6007 do not apply. Judgment affirmed.
