@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,899"
+decided: "1930-04-11"
+citations: ["91 Ind. App. 263"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Glenn v. Johnson."]
+source_url: "https://static.case.law/ind-app/91/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1554793
+cites_cases: ["111 N. E. 645", "112 N. E. 115", "121 N. E. 443", "125 N. E. 786", "133 N. E. 834", "138 N. E. 262", "166 N. E. 611", "188 Ind. 139", "191 Ind. 529", "22 A. L. R. 1392", "61 Ind. App. 164", "61 Ind. App. 479", "72 Ind. App. 139", "79 Ind. App. 321", "89 Ind. App. 429"]
+---
+
+# Glenn v. Johnson
+
+## Majority (Lockyear, J.)
+
+Lockyear, J.
+This action was for damages for personal injuries suffered by appellee from a collision with an automobile truck owned by appellant, but driven at the time of the collision by one Raymond Weiss, who, it is alleged in the complaint, was at said time.in the employ of appellant and was engaged in the discharge of his duties as appellant’s servant and employee.
+Appellant filed an answer in general denial to the complaint. There was a trial by a jury and a verdict in favor of appellee for $500. Judgment for said amount was rendered on the verdict.
+A motion for a new trial was filed on the grounds that the verdict of the jury is not sustained by sufficient evidence and is contrary to law. The court overruled the motion for a hew trial, to which ruling of the court appellant excepted, and assigns as error the action of the court in overruling said motion.
+Appellant says that the undisputed evidence shows that, at the time of the accident complained of, the said Raymond Weiss was not in the employ of appellant and engaged.in the discharge of any duty for or on behalf of appellant.
+James H. Glenn, a witness for appellee, testified: That Raymond Weiss was in his employ on November 4, 1926 as bookkeeper and stockman; that Weiss’ hours of work were from eight to six in the daytime; that Weiss worked overtime, sometimes, in the evening, for which he received extra pay; that Weiss did. use appellant’s truck in the conduct of his business; that the truck was kept in Glenn’s shop in the nighttime; that he never learned a thing about the accident until the next day; that he never authorized Weiss to drive the truck at the time of the accident; that Weiss had no authority to drive the truck to his home for his meals except by special permission; that he (appellant) never gave Weiss any authority or permission to drive the truck home to his meals on. the night of the accident; that he, appellant, left the shop at five minutes after 6 o ’clock, p. m. and that Weiss was there when appellant left; that he never instructed Weiss to come back and do any work that evening; that appellant had no knowledge that Weiss had possession of appellant’s truck that evening; that Weiss had appellant’s consent to use the truck during business hours.
+Raymond Weiss testified on behalf of appellant as follows: Mr. Glenn left the shop about 6 p. m.; that he had no conversation with Glenn about the use of the truck that evening; that he had no conversation with Glenn about his driving the truck to his (Weiss’) home for his (Weiss’) supper that evening; that he had no conversation with Glenn about working that evening; that he took the car from Glenn’s place of business after Glenn had left for the day, so that he (Weiss) drove the car to his own home for his own supper; that he never reported the accident to Glenn until the next day; that he was returning to the shop intending to do some work; that it was Glenn’s truck; that it was used in the conduct of the business; that he never took, the truck without Glenn’s consent; that he got paid for overtime; that he took the truck so he could get back quicker; that he never took the truck unless he asked for permission to use it; that he did not ask for permission to use it on the night in question; that the truck was kept in the shop during the nighttime; that Glenn, the employer, was not there when he took the truck; that he did not call Glenn over the phone and ask for permission to use the truck; that Glenn never learned that he had used the truck until the next morning after the accident.
+The testimony of appellant and of said witness, Raymond Weiss, contains all the evidence upon the point as to whether the said employee, Weiss, was using the truck with appellant’s permission on the evening of the accident complained of, and was engaged in his employer’s business at the time of such accident; and no other evidence was given on the trial of the cause which related thereto.
+The negligent act of an agent when operating an automobile of his employer for his own use cannot be attributed to his principal when the use of the automobile is without the knowledge or consent of the owner, unless it is being used in the business of the owner. Uhrig v. Hinkle Motor Car Co. (1929), 89 Ind. App. 429, 166 N. E. 611; Fisher v. Fletcher (1922), 191 Ind. 529, 133 N. E. 834, 22 A. L. R. 1392; Martin v. Lilly (1919), 188 Ind. 139, 121 N. E. 443; Swanson, etc., Mfg. Co. v. Johnson (1923), 79 Ind. App. 321, 138 N. E. 262; Premier Motor Mfg. Co. v. Tilford (1916), 61 Ind. App. 164, 111 N. E. 645; Decker v. Hall (1920), 72 Ind. App. 139, 125 N. E. 786; West v. National Casualty Co. (1916), 61 Ind. App. 479, 112 N. E. 115.
+We are of the opinion that the contention of appellant is correct. Appellant did not direct how the employee should go home or come back to work. His way of going and his coming was of his own choosing. He was not on his master’s business during said time. If the employee had been directed to take the truck and had been given directions to hurry home and hurry back to work, we would have a different case, but permission to use the truck was not given. The servant took the truck without the employer’s permission, much less by the employer’s direction.
+Judgment reversed.
