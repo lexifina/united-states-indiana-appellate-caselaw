@@ -1,0 +1,41 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "3-974A156"
+decided: "1976-10-07"
+citations: ["171 Ind. App. 95"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Individual Members of the Mishawaka Fire Department v. City of Mishawaka, Indiana."]
+source_url: "https://static.case.law/ind-app/171/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1488060
+cites_cases: ["150 Ind. App. 479", "158 Ind. App. 445", "164 Ind. App. 422", "166 Ind. App. 541", "167 Ind. 602", "168 Ind. App. 262", "225 Ind. 398", "226 Ind. 260", "251 N.E.2d 15", "252 Ind. 558", "252 Ind. 581", "254 N.E.2d 329", "277 N.E.2d 176", "303 N.E.2d 50", "329 N.E.2d 654", "337 N.E.2d 503", "342 N.E.2d 865", "355 N.E.2d 447", "366 F.2d 326", "399 U.S. 928", "419 U.S. 836", "75 N.E.2d 660", "78 N.E. 845", "79 N.E.2d 409"]
+---
+
+# Individual Members of Mishawaka Fire Department v. City of Mishawaka
+
+## Majority (Garrard, J.)
+
+Garrard, J.
+On August 17, 1974, the members of the Mishawaka Fire Department went on strike. On August 19, the city commenced suit, and a temporary restraining order was granted. On September 24, a temporary injunction was entered prohibiting the firemen from striking and picketing. This is an interlocutory appeal challenging that ruling.
+We limit our discussion to the claims specified in the assignment of errors filed persuant to Indiana Rules of Procedure, Appellate Rule 7.2(A) (1) (b). Additional claims of error presented for the first time in appellant’s brief are not properly before the court. Slinkard v. Extruded Alloys (1971), 150 Ind. App. 479, 277 N.E.2d 176. The assigned errors assert:
+1. The court erred in granting a temporary injunction when there was no evidence that the strike was still in progress.
+2. The court erred in granting a temporary injunction because the city was estopped from seeking such relief.
+3. The court erred in denying the firemen’s motion for change of venue.
+I. Basis for Injunctive Relief
+The evidence disclosed that representatives for the firemen and for the city council had been engaged in negotiations regarding the terms for employment of firemen. Negotiations broke down on August 17 and the firemen commenced a general strike. Efforts resumed to reach an agreement, and on August 19 the mayor told representatives for the firemen that if the firemen returned to work, the city would not seek to dismiss, suspend or reduce them in rank. A meeting had been tentatively scheduled for 7:00 p.m. that evening to recommence formal negotiations. A representative of the firemen had heard rumors that an injunction might be sought and asked the mayor about this. She replied that if the firemen returned to work by 7:00 p.m., they would be obeying her order and there would be no injunction. The firemen returned to work at approximately 7:00 p.m. During the negotiations that followed, the parties’ representatives reached a tentative agreement. The proposed agreement was submitted to the full city council later that evening. The vote to approve it was four to four with one abstention. When the firemen learned of this deadlock, they again walked off the job. Shortly thereafter they returned. The council accepted the tentative agreement upon receiving a promise that there would be no future strikes and that the new contract would contain a no-strike clause. When the hearing on the temporary injunction was held, the firemen had not engaged in any further strike activity. Also, as of that date, no final agreement had been executed.
+■ Appellants’ first argument asserts that it was error to grant the temporary injunction because at the time the hearing was conducted, the firemen were no longer threatening or engaging in unlawful activity. We disagree with appellants’ interpretation of the law.
+The case is not one disputing the right of a party to act or the legal consequences of his actions. Concededly, the firemen had engaged in an unlawful strike. Anderson Federation of Teachers, Local 519 v. School City of Anderson (1969), 252 Ind. 558, 251 N.E.2d 15, reh. den. 252 Ind. 581, 254 N.E.2d 329, cert. den. 399 U.S. 928. The firemen’s actions were a matter of substantial public interest due to the potential harm that would result from having fire alarms go unanswered. While no strike was in progress or expressly threatened when the temporary injunction was granted, the firemen had already demonstrated the reality of their willingness to strike. The injunction granted was prohibitory in nature. It was granted under the broad power of the court to determine temporary relief pending a final disposition on the merits. Considering these factors in combination, clearly it was not error for the court to act as it did. Elder v. City of Jeffersonville (1975), 164 Ind. App. 422, 329 N.E.2d 654.
+The firemen next claim the city was estopped from securing an injunction by virtue of the mayor’s representations that there would be no reprisals and that if the firemen returned to work, “. . . there would be no restraining order issued, that there would be no serving of any papers. . . .”
+We find it unnecessary in this case to consider whether .and upon what showing a defense of equitable estoppel may be asserted at the phase of the proceedings where only temporary relief is in issue. See, however, Angel v. Behnke (1975), 166 Ind. App. 541, 337 N.E.2d 503, for a discussion of the discretion invested in the trial court.
+One of the elements necessary to such an estoppel is that the party asserting it will be prejudiced unless his reliance is given equitable recognition. To establish prejudice it must be shown that there is a loss or potential loss of something to which one is legally entitled. Kaufman v. Mellon Nat. Bank & Trust Co. (1966), 366 F.2d 326. The very purpose of estoppel would be contradicted if it could be applied to protect those whose only claim of prejudice was interference with their ability to commit an illegal act. Accord, Whitesell v. Strickler (1906), 167 Ind. 602, 78 N.E. 845. Here, the only arguable prejudice that the firemen suffered was to end the strike and return to work. The strike was illegal. Anderson Federation of Teachers, supra; Elder, supra. Therefore, the court did not err in failing to find, an estoppel.
+II. Change of Venue
+Finally, it is urged that the court erred in failing to grant the firemen’s request for a change of venue from the county.
+No attempt was made to certify the court’s ruling on this motion pursuant to AP. 4(B) (5) and the ruling is not otherwise cognizable under AP. 4(B). Therefore, we do not reach the question of whether appellants were entitled to a change of venue. Our consideration is limited to whether the ruling on that motion made it erroneous to grant the temporary injunction. We conclude that it did not.
+Even though a .timely and proper motion for change of venue has been filed, the trial court in which the action has been pending retains jurisdiction to enter emergency interlocutory orders until the court to which venue is changed acquires jurisdiction. Indianapolis Dairymen’s Co-op, Inc. v. Bottema (1948), 226 Ind. 260, 79 N.E.2d 409; City of Ft. Wayne v. Hoagland (1976), 168 Ind. App. 262, 342 N.E.2d 865; Smith v. Indiana State Bd. of Health (1973), 158 Ind. App. 445, 303 N.E.2d 50, cert. den. 419 U.S. 836; TR. 78. It does not appear that the trial court can use this authority to substantially prejudice an applicant’s right to the requested change since the court’s ministerial duty to grant a change is subject to mandate. See, e.g., State ex rel. Lindsey v. Beavers (1947), 225 Ind. 398, 75 N.E.2d 660. Thus, the applicant can compel a change to which he is entitled so that the venue court may promptly reach the merits of the case, or reconsider any interlocutory orders it may deem necessary.
+The failure of the court to grant the requested change, if error, did not make entry of the temporary injunction erroneous.
+Affirmed.
+Hoffman, J., concurs; Staton, P.J., concurs in result.
+Note. — Reported at 355 N.E.2d 447.
+. The trial court may wish to consider our recent decision in City of Ft. Wayne v. Hoagland (1976), 168 Ind. App. 262, 342 N.E.2d 865, before proceeding to trial on the permanent injunction.
