@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,610"
+decided: "1929-04-03"
+citations: ["89 Ind. App. 91"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edmenster v. State of Indiana."]
+source_url: "https://static.case.law/ind-app/89/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1551297
+cites_cases: ["142 N. E. 407", "143 N. E. 513", "146 N. E. 849", "147 N. E. 918", "155 N. E. 817", "194 Ind. 554", "196 Ind. 254", "200 Ind. 69"]
+---
+
+# Edmenster v. State
+
+## Majority (Neal, J.)
+
+Neal, J.
+Appellant was prosecuted by an affidavit in four counts which charged him with several violations of the liquor law as follows: Unlawful possession, transportation and sale of intoxicating liquor and the maintaining of a common nuisance, to wit, a room, house, building and place where intoxicating liquors were then and there manufactured, sold, bartered and given away. The first three counts are predicated on §4, ch. 48, Acts 1925, and the fourth count on §24 of the same act. It is not charged in either of the first three counts that appellant had been convicted of the same offense prior to the filing of the affidavit. Appellant was found guilty by the court, fined in the sum of $100, and sentenced to jail for a period of thirty days.
+Errors'relied upon for the reversal aré predicated on the overruling of appellant’s motion to quash the affidavit and each count thereof and the overruling of his motion for a new trial. Appellant does not attempt to point out error, if any, on the overruling of the motion to quash, consequently any question arising on such motion will not be considered on appeal.
+The court found the defendant guilty and did not designate the particular count or counts upon which it based its decision. In the instant case, it will be observed that the minimum and maximum punishment provided by the law for the violation of each count is the same. If there be evidence to sustain a finding of guilty upon one of said counts, the judgment cannot be reversed, even though there is a want of evidence to sustain a conviction upon the other counts. Speybroeck v. State (1927), 200 Ind. 69, 155 N. E. 817; Asher v. State (1924), 194 Ind. 554, 142 N. E. 407, 143 N. E. 513.
+The officers gave evidence to the effect that, pursuant to a search warrant issued by the judge of the city court of Muncie, they searched a one-story frame builcfing on the right of way of the Pennsylvania Railroad Company; that, prior to entering the building, they read the search warrant to appellant; that they found in said building a pint bottle half-full of whisky and a jug containing two or three quarts of “white mule”; that appellant said the whisky belonged to him and that it was for his own personal use. Appellant was a witness in his own behalf and, in substance, said: That he never bought, drank or made “white-mule” whisky in his life; that he was a hostler for the Pennsylvania Railroad Company; that the building searched was a box car with two windows in each room; that the employees of said company used the building to change clothes and as a loafing place; that “he had no control over or connection with it”; that he did notremember what he said to the officers nor what the officers said to him; that he was scared to death because he had found a jug of whisky in the car about three minutes before the officers came and, when the officers arrived, his senses left him. We are of the opinion that the evidence is sufficient to sustain a conviction of unlawful possession of intoxicating liquor.
+Appellant contends that the court erred in admitting in evidence over his objection the search warrant and the affidavit for the search warrant; also the court erred in not sustaining his objection to the evidence given by the State’s witness as to what was done and found on the premises searched in the presence of the appellant. Both objections were directed to the insufficiency of the search warrant. Appellant asserts that the search warrant was defective for the reason that the description contained therein did not specifically describe the place to be searched so as to leave no discretion to the officers. We are not called upon to decide the validity of the search warrant. Appellant admits that he did not own or have control of the box car where the liquor was found by the officers; also, on the trial, he denied ownership or possession of the liquor seized at the time of the search. In the case of Snedegar v. State (1925), 196 Ind. 254, 146 N. E. 849, 147 N. E. 918, the court said: “The constitutional ‘right to be secure in their persons, houses, papers and effects, against unreasonable search and seizure’ (Art. 1, §11, Constitution, §63 Burns 1926, §56 Burns 1914) is a personal right of the individual whose person, house, papers or effects are searched and seized, and á mere stranger having no interest therein cannot successfully complain of the defects in the search warrant under the authority of which a search was made.”
+Appellant contends that the court erred in refusing to permit witnesses to answer certain questions propounded by his counsel; also that-the court erred in the admission of evidence over his objection. We have carefully examined each alleged error, and do not believe the appellant was harmed by the rulings of the court.
+Judgment affirmed.
