@@ -1,0 +1,37 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,498"
+decided: "1933-04-28"
+citations: ["96 Ind. App. 620"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dunn v. Dunn et al."]
+source_url: "https://static.case.law/ind-app/96/cases/0620-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1576682
+cites_cases: ["103 N. E. 506", "153 Ind. 80", "172 Ind. 196", "53 N. E. 385", "55 Ind. App. 239", "87 N. E. 140"]
+---
+
+# Dunn v. Dunn
+
+## Majority (Curtis, C. J.)
+
+Curtis, C. J.
+This was an action brought by the appellant as a taxpayer for himself and all other taxpayers similarly situated (without naming them) against the appellees, Harry Dunn, as Auditor of Marion County, Indiana, and Clyde E. Robinson, as Treasurer of Marion County, Indiana, to enjoin Dunn from delivering to Robinson the tax duplicates of the Town of Lawrence, Indiana, and to enjoin Robinson from collecting said taxes. None of the town officials of the Town of Lawrence were made parties except the said County Auditor and Treasurer who, by virtue of their respective offices, perform certain duties in connection with the taxes of the town.
+The salient facts which are set out in the complaint, chronologically stated, are as follows:
+' August 29, 1930, the Board of Trustees of the Town of Lawrence enacted an ordinance fixing the municipal tax levy and rate herein involved.
+September 2, 1930, said tax levy was certified to the County Auditor.
+September 15, 1930, thirty taxpayers of Lawrence filed with the County Auditor a petition wherein it was claimed said levy was excessive.
+September 16, 1930, said County Auditor certified said proceedings to the State Board of Tax' Commissioners.
+September 30, 1930, said State Board held a hearing and approved said levy.
+November 7, 1930, said State Board certified said proceedings back to said County Auditor.
+December 31, 1930, said County Auditor certified and delivered the tax duplicate of said tax levy to the County Treasurer for collection.
+Before the delivery of said tax duplicates to said Treasurer appellant made a demand on said Auditor not to deliver said tax duplicates, which demand was refused.
+Said County Auditor and Treasurer are made defendants in said complaint, and it is alleged that said Treasurer is threatening to enforce payment of said taxes and will enforce payment of said taxes unless enjoined.
+It is also set out that ten days’ notice by publication of a public hearing on said tax levy was not given as required by law; that no newspaper was published in Lawrence, but two newspapers of opposite political faith were published in Marion County and had a general circulation in the Town of Lawrence. To the complaint the appellees filed their separate and several plea in abatement, a demurrer to which was sustained. The ruling on the said demurrer is not questioned in this appeal.
+Following the ruling on the demurrer the appellees filed their separate and several answer to the complaint, setting forth therein the history of the proceedings before the Board of Town Trustees of the town, in which proceedings the tax levy in question was made, and setting forth the proceedings before the auditor wherein certain taxpayers including the appellant claimed that said levies were excessive and setting forth the proceedings before the State Board of Tax Commissioners upon the complaint of said taxpayers in which proceedings the said tax levies were approved. It was also alleged in the answer that the Town of Lawrence was incorporated on or about the first day of November, 1929, and that unless said town can collect the taxes in question it will have no money with which to operate and that it has no borrowing power to obtain money with which to operate. The evident theory of the answer was that the appellants were estopped to question the validity of the said tax levies.
+Upon the issues thus presented the cause was tried before the court. There was a general finding for the appellees and a judgment in accordance therewith denying the relief sought. A motion for a new trial was seasonably filed and overruled and this appeal prayed and perfected. There are three causes in the said motion, to-wit: (1) The decision of the court is not sustained by sufficient evidence; (2) The decision of the court is contrary to law; (3) Error in admitting each of two items of evidence consisting of two exhibits over the objection of the appellant.
+The error relied upon for reversal is the alleged error of the court in overruling the motion for a new trial.
+There is a preliminary question for our determination which is decisive of this appeal. The appellees have filed a motion to dismiss the appeal, alleging therein that the questions involved in this appeal are now moot. The motion is lengthy and contains much of the same matter that is contained in the answer heretofore abstracted. In addition, the jnotion alleges that the appellee, Dunn, as such Auditor, “computed and extended the said tax rates and levies and prepared and made out a tax duplicate for said Town of Lawrence, and on or about the 31st day of December, 1930, delivered said tax duplicates to the appellee, Robinson, as Treasurer of Marion County, and all acts by said Auditor to be done relative to said taxes and assessments have been fully performed. . . . That no temporary restraining order or injunction was at any time, by any court, issued against these appellees, or either of them, relative to said matter. That . . . appellee, Clyde E. Robinson, proceeded to collect the said taxes so levied and assessed and among others, the taxes assessed and levied against the property of appellant have by him been voluntarily paid in full.” The above quoted allegations of the motion are not denied by the verified motion of the appellant in opposition thereto. The appellant, in said motion in opposition to the motion to dismiss the appeal, says in effect that the said Robinson refused to make statements and to receive payment of said taxes unless said taxpayers paid all of said taxes including said municipal taxes and “that said taxes which were paid by said taxpayers were paid in order to prevent the assessment and collection of penalties for the non-payment of said state, county, township and municipal taxes.” There is also the allegation that part of said taxes are unpaid, but clearly this statement refers to taxes of persons other than the appellant, as it is undisputed that he paid his taxes. The showing is there-' fore clear that the Auditor has fully performed all the duties of his that were sought to be enjoined; that the Treasurer has likewise performed all of his duties that were sought to be enjoined insofar as they relate to the appellant and that the appellant has paid his taxes in full. In our opinion the questions involved in this appeal are now moot and the appeal should be dismissed unless there is some question of general public interest involved. See Modlin v. Board, etc. (1913), 55 Ind. App. 239, 103 N. E. 506; State ex rel. v. Boyd (1909), 172 Ind. 196, 87 N. E. 140; Manlove v. State (1899), 153 Ind. 80, 53 N. E. 385. We have examined the record and it discloses that there is no question of general public interest involved in the instant case.
+The motion to dismiss the appeal is sustained and the appeal is dismissed.
