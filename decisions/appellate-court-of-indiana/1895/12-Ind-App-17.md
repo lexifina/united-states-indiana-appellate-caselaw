@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,443"
+decided: "1895-02-23"
+citations: ["12 Ind. App. 17"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Western Union Telegraph Co. v. Bierhaus et al."]
+source_url: "https://static.case.law/ind-app/12/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5776558
+cites_cases: ["8 Ind. App. 246"]
+---
+
+# Western Union Telegraph Co. v. Bierhaus
+
+## Majority (Reinhard, J. —)
+
+Reinhard, J. —
+This case is here for the second time. Bierhaus v. Western Union Telegraph Co., 8 Ind. App. 246. After the reversal of the former judgment the •cause was sent back to the court below for a new trial, the issues were reformed and the cause was tried a second time resulting in a verdict in favor of the appellees. The appellant filed a motion for a new trial and among the causes assigned are the giving and refusal of certain instructions by the court. The overruling of the motion for a new trial is assigned as error.
+One of the instructions requested by the appellant and refused by the court is as follows: “The plaintiff’s complaint in this case does not charge and does not proceed on the theory that the defendant was guilty of negligence in failing to notify F. M. Hoskinson (referred to in plaintiff’s complaint as the agent and attorney of the plaintiffs), at the time he delivered to the defendant for transmission to the plaintiffs, the message read to you, that on account of the prevailing storm or atmospheric disturbances which prevented the use of the defendant’s wires, that it could not promptly transmit said message so filed by said Hoskinson with the defendant. And though the jury may find from the evidence in this case that the defendant was guilty of negligence in so failing to notify said Hoskinson at said time you can not return a verdict for the plaintiffs under issues in this case on that account alone.”
+We fully recognize the doctrine that a complaint must proceed upon some definite theory and that upon such theory alone can the plaintiff recover. But we do not think this doctrine has ever been carried to the extent claimed for it by the appellant here.
+In the present case the complaint doubtless proceeds upon the theory of appellant’s negligence in transmitting and delivering the messages referred to in the complaint. The contract entered into between the parties, and for a breach of which this action is prosecuted, required the appellant, after it undertook to do so, to make a prompt and correct transmission of the messages. The appellant attempted to excuse its failure to send one of the messages as it had agreed to do by the second paragraph of its answer, in which it alleged that at the time of the delivery of the message to the appellant for transmission and for several hours previous thereto a severe storm was raging along the route over which the wires extended, which continued with great violence for three hours after the reception of such message for transmission, and that by reason of such storm it was impossible to send the message, but that as soon as it abated and the wires were put in order the message was at once transmitted. It was held on the former appeal that this portion of the answer was insufficient as a defense for the want of an averment or showing that the senders of the message had been informed or knew of the company’s inability to transmit the same because of the storm.
+In the second part of this answer an excuse was attempted to be set up for the failure to deliver the second message. It was held, on the former appeal, that this part of the answer was sufficient, but that as the pleading attempted to answer the whole complaint, the demurrer should have been sustained. When the cause came back to the trial court the defendant amended its answer, to which the demurrer was ordered sustained, so as to conform to the ruling of this court holding that notice to the plaintiff should have been averred of the defendant’s inability to send the message. A reply in denial was then filed to this answer, which closed the issues.
+Under these issues, we think when the appellees proved the delivery of the message for transmission and the failure to transmit and deliver the same to the sendee, within the time required, the appellees had made a prima facie case against appellant.
+If the latter could avoid liability, under the issues, it must be because of something averred by way of defense in the answer. Had the appellant proved that it was prevented from transmitting the message on account of the storm, this would not be a complete defense, according to the previous holding in this case. The appellant would also be required to show that the appellees had notice of the fact that the appellant was thus prevented and left the message for transmission with knowledge of the disturbing atmospheric conditions. All this is by way of defense and is part and parcel of the same. If the appellant failed to prove these things, the appellees were entitled to recover upon the prima facie case made by them. Nothing that appellees are required to prove as part of their case has any connection with the question of the favorable or unfavorable electrical condition of the wires, or other facilities for transmission. All these matters can arise upon the defense only.
+Filed Feb. 23, 1895.
+If the appellees must fail, it is because the appellant has proved its affirmative defense. If the appellees succeed, it is not because they have disproved the appellant’s defense, but because they have established the case made by their complaint, viz.: the delivery by them of the message to the appellant for transmission and the failure of the latter to transmit. Hence, in any phase of the case, there could be no variance between the complaint and the proof, and the instruction requested by the appellant’s counsel, and refused by the court, was inapplicable and was, therefore, properly denied. For the same reason the instruction given by the court upon the same subject was correct, and there was no error in giving it.
+We have also examined the other instructions given by the court, and to which exceptions were taken by the appellant, and find them in accord with our view of the law.
+There is no error in the record.
+Judgment affirmed.
