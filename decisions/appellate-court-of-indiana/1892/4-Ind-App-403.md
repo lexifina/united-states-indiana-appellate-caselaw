@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "470"
+decided: "1892-04-13"
+citations: ["4 Ind. App. 403"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sumner v. The State."]
+source_url: "https://static.case.law/ind-app/4/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4704485
+cites_cases: ["138 Ind. 110", "143 Mass. 95", "17 Hun, 591", "37 Me. 517", "45 Ark. 351", "47 Ark. 555", "68 Mich. 487", "74 Ind. 203", "74 Ind. 368", "76 Ind. 333", "88 Ind. 145", "97 N. C. 492"]
+---
+
+# Sumner v. State
+
+## Majority (Crumpacker, J.)
+
+Crumpacker, J.
+This appeal is from a judgment convicting the appellant of an unlawful sale of intoxicating liquor to a minor.
+But one question is presented by the record, and that relates to the sufficiency of the evidence to support the verdict.
+James H. Barnett testified on behalf of the State that appellant was a saloon-keeper in Greenfield, Hancock county, Indiana, and the witness was in his saloon in 1890 with one Walter Stewart, who was a minor; that Stewart invited the witness to drink at the bar, which he consented to do, and they each called for and received and drank a glass of beer; that appellant served the beer, and Stewart paid him two pool checks for it; that such cheeks were given to pool-players, and were good for five cents each, “ in trade,” at the bar.
+Stewart testified that he was seventeen years old, and he remembered meeting Barnett in appellant’s saloon and drinking with him at the bar; that witness invited Barnett to drink with him on that occasion'; that witness called for and received a glass of soda or pop, and Barnett received a glass of beer, which they respectively drank; that witness paid appellant ten cents in cash for such drinks; that he had no pool checks because appellant refused to permit him to play pool in the saloon.
+If the testimony of Barnett was true there should have been no conviction, because the charge is an unlawful sale of the liquor to Stewart, and the testimony of this witness shows an exchange for something besides money, which, under our statute, would constitute a barter. This variance would be fatal. Massey v. State, 74 Ind. 368; Gillan v. State, 47 Ark. 555.
+"Where one invites another to drink with him at a saloon, and each calls for and receives what he chooses to drink, he who does the inviting is the purchaser, if he pays for or becomes responsible for the liquor, and each drink is a separate and independent sale. Part may be delivered to the other upon the order, express or implied, of the one who gave the invitation, but it is none the less his purchase. Topper v. State, 138 Ind. 110; Klein v.State, 76 Ind. 333; Ward v. State, 45 Ark. 351.
+If, upon the other hand, the testimony of Stewart be accepted as true, the liquor furnished Barnett was a sale to the former under the rule above announced. Section 2094, R. S. 1881, declares that whoever directly or indirectly shall sell, barter or give away any intoxicating liquor to any person under the age of twenty-one years, shall be fined, etc. While it is admitted by appellant’s counsel that Stewart’s testimony proved a sale within the letter of this statute, it is insisted that because the liquor was delivered to and drank by Barnett, and was sold for that purpose, no offence was committed within the spirit and intent of the law. The case of Payne v. State, 74 Ind. 203, is relied upon as holding a sale of liquor to a minor is not interdicted by the statute unless the liquor was drunk by the minor as a beverage. That case declares that it is not an offence to sell liquor to a minor for sacramental, mechanical, medicinal or business purposes, but it goes no further.' The sale in question was made for none of those purposes. If it had been, the purpose of the Legislature to have prohibited the sale of intoxicants to a minor only when he purchased them for his own use as a beverage, such purpose would unquestionably have been expressed. Courts should not modify clear and positive statutory declarations by judicial construction unless the sense and purpose of the enactment imperatively demand it.
+It seems to have been the intention of the Legislature to protect those of nonage from the temptation to imbibe intoxicants by making it unlawful to put liquor in their possession or control either by sale, barter or gift. If it were necessary to prove the minor actually drank the liquor or bought it for the purpose-of drinking it, before a conviction would be authorized the salutary influence of the restriction would be greatly reduced. We are not inclined to emasculate the enactment by giving it any such construction. The rule was correctly stated by Mokse, J., for the Supreme Court of Michigan, in the case of People v. Garrett, 68 Mich. 487, as follows: “ It makes no difference, in my opinion, under the law, whether-the liquor thus purchased is to be used by the adults or the children. It is within the statute which prohibits the sale, giving or furnishing of liquor to minors. Any other holding must subject children to the temptations that surround and abound in the saloons, without remedy.”
+Filed April 13, 1892.
+The same doctrine has received the unqualified sanction of the courts in many other cases. Holmes v. State, 88 Ind. 145; State v. Fairfield, 37 Me. 517; Ross v. People, 17 Hun, 591; State v. Lawrence, 97 N. C. 492; Commonwealth v. O’Leary, 143 Mass. 95.
+In the case in judgment the evidence tended to prove that apellant sold the liquor to Stewart, a minor. It was sold to be drunk as a beverage, and the instant it was set upon the bar the title vested in the purchaser, and it was constructively in his possession and under his control. He gave it to his companion, but before the latter actually took possession of it, according to fundamental principles, it belonged to the minor, and it was within his power to'revoke the gift and drink the liquor himself. This was clearly a violation of the law both in letter and spirit. The case of Payne v. State, supra, was decided under the liquor law of 1875, but it will not be necessary to compare the provisions of that act with those of the act of 1881, because the sale in question was for none of the purposes enumerated in that case for which a sale would be lawful.
+The judgment is affirmed.
