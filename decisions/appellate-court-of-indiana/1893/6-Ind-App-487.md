@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "607"
+decided: "1893-04-12"
+citations: ["6 Ind. App. 487"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex Parte Hodge, Administrator."]
+source_url: "https://static.case.law/ind-app/6/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4717433
+---
+
+# Ex parte Hodge
+
+## Majority (Ross, J.)
+
+Ross, J.
+The appellant John Hodge was appointed and •qualified as administrator of the estate of Samuel W. Niles, deceased, on the 22d day of November, 1881. Current reports were made by him September 3, 1883, January 16, 1886, and January 23,1888, all of which were approved by the court. On the 6th day of August, 1889, in vacation, he filed another report, in which he asked to be discharged from further acting as such administrator, and making a charge for services rendered as such administrator in the sum of two hundred and fifty dollars, which he asked the court to allow him. This report was not acted upon by the court, but afterwards, to wit, on the 7th day of the June term, 1891, and pending the consideration of the report by the court, certain creditors of the estate filed their petition, duly verified, setting forth the fact that they were creditors of tlie estate, and that said Hodge, administrator,, was a nonresident of tlie State of Indiana, having removed from the State since his appointment, and that he was at that time a resident of the State of Illinois, and they asked that he be removed from said position as administrator. This petition was granted by the court, the administrator discharged, and his said-report approved, except as to the charge made for services in administering the estate, the court allowing him for his services the sum of thirty dollars, and ordering him to pay into court, or to-his successor, the sum of two hundred and twenty dollars, that being the balance in his hands, less the amount allowed him for his services, as shown by his said report. Ho objection was made or exception saved to the ruling of the-court.
+On the 32d day of the same term, a motion was filed by said Hodge, supported by affidavit, denominated a motion to modify the order of the court removing him from ‘said trust, and to increase the allowance made him for services as such administrator. By this motion, the appellant sought to have the order for the allowance set aside, and to permit him to make proof of matters not apparent on the face -of the record, and to support with evidence his claim for two hundred and fifty dollars for services. The court, it is presumed, when the record does not show to the contrary, heard evidence from which it reached the conclusion that the sex-vices rendered by the appellant were worth but thirty dollars. Whether or not the amount allowed was such axx amoxxxxt as he was entitled to receive caxx xxot be raised by a xnotioxx to modify. A motioxx for a new trial was filed, contaixxiixg the statutory causes, but ixxasxnxxch as the evidexxce is not ixx the record no questiorx is x-aised by the ovex-x-uling of that motion. Ox-dixxarily the allowance to an adnxinistrator for sex-vices rexxdered, is to be made by the court in which the trust is pending, upoxx such evidexxce as nxáy be introduced to show the value thereof, but such evidence is not always conclusive as to the amount to be allowed. The statute, section 2396, R. S. 1881, provides that the court may make allowance to an administrator for his services, such as the court may think just and reasonable. The question as to the amount ■of such allowance is left to the discretion of the court, .and this court will not question the same, unless the allowance appears wholly insufficient. In making the allowance the court below has a right to take into consideration, not only the labor performed, but the faithfulness, care, and promptness exercised by the administrator in administering the estate. The record in this case does not disclose upon what the allowance made by the court to the appellant for his services was based, but it must be presumed that ho allowed such a sum as he thought just and reasonable, and this court can not disturb such allowance unless the record, in some manner known to the practice, discloses that a just and reasonable allowance has not been made.
+Filed April 12, 1893.
+Counsel, in their brief, insist that no evidence was introduced as a basis upon which the court made said allowance. The record does not show that evidence was not heard upon that question, nor does it show that appellant offered to make any proof to sustain his claim, although the court ■did not pass upon his report for nearly two years after it was filed. It was his duty to make such proof as would assist the court in making him such allowance as was just and reasonable. As disclosed by this record, if'the court had refused to make the appellant any allowance whatever, we think he could not complain.
+We find nothing in the record in this case to warrant a reversal of the order of the court below.
+Judgment affirmed.
