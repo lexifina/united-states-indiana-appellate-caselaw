@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,887"
+decided: "1933-06-29"
+citations: ["97 Ind. App. 296"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sindlinger v. Mitchell et al."]
+source_url: "https://static.case.law/ind-app/97/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1575037
+cites_cases: ["108 N. E. 147", "140 Ind. 38", "167 Ind. 73", "39 N. E. 237", "42 Ind. App. 54", "50 N. E. 38", "58 Ind. App. 259", "78 N. E. 321", "84 N. E. 517"]
+---
+
+# Sindlinger v. Mitchell
+
+## Majority (Bridwell, J.)
+
+Bridwell, J.
+This is an attempted appeal from an award made byithe Full. Industrial Board of Indiana to one Steward C. Mitchell, for injuries received by him while working for appellant, by reason of an accident arising out of and in the course of his employment.
+The record discloses that the award was made on December. 19th, 1932. On January 7th, 1933, the record with an assignment of errors was filed in this court. The caption of the assignment of errors names Steward C. Mitchell (deceased), Indiana Mallissa Mitchell (widow of Steward C. .Mitchell), and Indiana M. Mitchell, as administratrix of the estate of Steward C. Mitchell, deceased, as appellees. Notices of appeal were served below upqn the Secretary of the Industrial Board, and upon Indiana' Mallissa Mitchell, “Administratrix of the estate of Steward C. Mitchell, deceased, and as widow of decedent,” and upon one Walter C. Reece, as attorney for plaintiff, and, an additional notice upon said Reece, as attorney for the widow and as attorney for the administratrix, prior to the filing of the record here.
+.From the caption of the assignment of errors, and. from the title of the cause as set forth in the briefs filed, we might infer that the claimant, before the Industrial Board, to whom compensation was awarded, died prior to the appeal from the award in his favor.
+A careful examination of the transcript of the proceedings before the Industrial Board shows that the only parties to the record there, were the appellant and said Stewart C. Mitchell. 'No suggestion of. the death of said Mitchell appears., and no attempt was made to have the proper party substituted for him, if in fact, he be dead, in order that appeal could be perfected. The assignment of errors, does not allege any; facts'relative to.the death of Steward C. .Mitchell and the.appointment of. an administratrix of his .estate... If it were to be conceded that one party to a judgment who desired to appeal from the same after the death of an adverse party, might do so by serving notice on the successor in interest of the deceased person and taking all other steps necessary to consummate an appeal, at least the assignment of errors should set forth the facts necessary to show the reason for the substitution of parties. Waldrip v. McConnell, Admr. (1908), 42 Ind. App. 54, 84 N. E. 517.
+Section 61 of The Indiana Workmen’s Compensation Act of 1929 (Acts 1929, p. 537; Burns Supp. 1929, Sec. 9506) provides that either party may within 30 days from the date of an award, appeal to this court “under the same terms and conditions as govern appeals in ordinary civil actions.” Our statutes concerning appeals in ordinary civil actions contain the following provisions : “In case of the death of any or all the parties to a judgment before an appeal is taken, an appeal may be taken by, and notice of an appeal served upon, the persons in whose favor and against whom the action might have been revived if death had occurred before judgment.” (Sec. 709, Burns R. S. 1926.) “The death of any or all the parties shall not cause the proceedings to abate; but the names of the proper persons being substituted, upon consent or upon notice, the cause may proceed.” (Sec. 710, Burns R. S. 1926.) “If the death of any or all the parties occurs after the submission of a cause, judgment shall be rendered as at the term at which the submission was made, without any change of parties.” (Sec. 729, Burns R. S. 1926.)
+Assuming as a fact that Steward C. Mitchell died after the award was made in his favor, we, in view of the foregoing statutory provisions concerning appeals, are of the opinion that appellant, before attempting appeal, should have had substitution made in the tribunal which rendered the award, and presented such order as a part of the transcript on appeal. Having failed to do this, and the assignment of errors, which constitutes the complaint in this court, entirely failing to show any reason for substitution of parties, we are of the opinion that this court has no jurisdiction of the cause. For cases discussing this subject and supporting the conclusion reached, see: Waldrip v. McConnell, supra; Helms v. Cook (1915), 58 Ind. App. 259, 108 N. E. 147; Doble v. Brown (1898), 20.Ind. App. 12, 50 N. E. 38; Moore v. Slack (1894), 140 Ind. 38, 39 N. E. 237; LaPorte Land Co. v. Morrison (1906), 167 Ind. 73, 78 N. E. 321.
+The right to an appeal is a statutory right and one seeking to avail himself of the right must comply with the statutory provisions granting it. If a necessary party to an appeal from a judgment rendered, dies prior to the taking of an appeal, or after an appeal has been perfected and prior to the submission of the cause to the court to which appeal is taken, then his personal representative, or his heirs, as the case may be, should be substituted in his place and stead by the tribunal having jurisdiction, as courts will not render judgments in favor of or against deceased persons, and are without authority to bind persons who are not parties to the record, by a judgment.
+The appeal is dismissed.
