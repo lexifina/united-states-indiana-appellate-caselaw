@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,466"
+decided: "1923-01-24"
+citations: ["79 Ind. App. 232"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rocap, Executor, v. Blackwell et al."]
+source_url: "https://static.case.law/ind-app/79/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2506435
+cites_cases: ["120 Ga. 606", "141 S. W. 409", "146 Ky. 7", "17 Ind. App. 673", "172 Ind. 447", "2 N. W. 917", "25 Am. Rep. 598", "32 Am. Rep. 169", "37 L. R. A. (N. S.) 754", "41 Mich. 590", "47 N. E. 389", "48 S. E. 124", "53 Ala. 89", "87 N. E. 832"]
+---
+
+# Rocap v. Blackwell
+
+## Majority (Dausman, J.)
+
+Dausman, J.
+(after stating the facts as above).
+It will be observed that the only averment of fact in the answer is that the decedent left a surviving husband. The other averments are pure propositions of law. Since the executor did not stand on the ruling on the demurrer, we will treat it as we are required to treat all such rulings after trial — in the light of the evidence. The one material fact averred in the answer was adduced in evidence and the executor has had the full benefit of that fact. Therefore, the ruling on the demurrer cannot be reversible error.
+The common law imposes upon the husband the duty to support his wife, and, upon her death, to provide for her body a decent burial. That duty arises out of the marital relation and is referable to considerations of natural justice and public policy. It originates at the time of the marriage. It is a continuing duty and cannot be fulfilled until the last act of piety has been performed. Any attempt to treat the duty of a husband to support his wife as being a duty separate and distinct from the duty to bury her lifeless body in a manner suitable to his estate and station in life, serves only to confuse. Ketterer v. Nelson (1911), 146 Ky. 7, 141 S. W. 409, 37 L. R. A. (N. S.) 754; Sears v. Giddey (1879), 41 Mich. 590, 2 N. W. 917, 32 Am. Rep. 169; Kenyon v. Brightwell (1903), 120 Ga. 606, 48 S. E. 124, 1 Ann. Cas. 169; Smyley v. Reese (1875), 53 Ala. 89, 25 Am. Rep. 598.
+It does not necessarily follow, however, that a third person who furnishes the means of support for a marriéd woman must in every case recover his compensation from the husband or be turned empty-handed away. By her own contract the wife may bind herself and her separate estate for the payment of the purchase price of merchandise which she procures for herself, even though the articles be necessary for her support. Indeed, a third person may furnish the necessaries of life for a married woman tinder various other circumstances which will give him a right to recover from someone other than the husband. Likewise, it does not necessarily follow in every case that an undertaker who renders the services and furnishes the supplies necessary for the proper burial of the lifeless body of a married woman, must recover from the surviving husband or forever go unrequited. We are not aware of any principle of law which prohibits a married woman from making, by the terms of her will, the expenses of her funeral and burial a charge upon her separate estate.
+The, statute provides that where the estate is solvent the debts and liabilities of a decedent shall be paid in the following order: (1) the expenses of administration, (2) the expenses of the funeral of the decedent, (3) the expenses of his last sickness, etc. §2901 Burns 1914, §2378 R. S. 1881. Counsel for the appellees contend that where a deceased wife leaves a separate estate the effect of the statute is to relieve the surviving husband from his common-law liability for the payment of the expenses of her funeral. The contention cannot be sustained. The statute was enacted for a different purpose. For obvious reasons every lifeless human body should have proper care and respectful disposal with reasonable promptitude. That is a matter which cannot be delayed to give relatives an opportunity to settle their disputes as to who shall pay the expenses. Sears v. Giddey, supra. The purpose is to insure, insofar as practicable, a reasonably prompt burial; and to that end, the funeral expenses are imposed primarily upon the estate of a decedent as a liability arising out of equity and public policy. Hildebrand v. Kinney (1909), 172 Ind. 447, 87 N. E. 832. Our statute recognizes that liability and gives it second place in the order of payment. Nevertheless, the husband’s common-law liability has not been abrogated. Scott v. Carothers (1897), 17 Ind. App. 673, 47 N. E. 389. But where the wife leaves an estate the husband’s liability becomes sécondary.
+In the case at bar it clearly appears from the entire will that the first item thereof is, in reality, a provision in favor of the surviving husband. If he should pay the expenses of the funeral and burial of the decedent, then, if the estate be solvent, the amount thus paid would eventually be returned to him under the residuary clause. Hence, it would be folly to require him to pay the claim at this time just for the sake of increasing to that extent the portion he is ultimately to receive from the estate. It is obvious that the probate court did not err in denying a new trial.
+It should be understood that we are not deciding that the effect of the will is to absolutely release the husband from his common-law liability; nor are we deciding that a situation might not arise which would require the application of principles of equity and the enforcement of his common-law liability as between him and creditors, or as between him and other legatees. That feature is not presented by the record.
+Judgment affirmed.
