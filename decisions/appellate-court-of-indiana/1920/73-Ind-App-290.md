@@ -1,0 +1,31 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,407"
+decided: "1920-05-12"
+citations: ["73 Ind. App. 290"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Akers v. Louisville and Southern Indiana Traction Company."]
+source_url: "https://static.case.law/ind-app/73/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2534047
+cites_cases: ["111 N. E. 648", "122 N. E. 588", "123 N. E. 808", "49 Ind. App. 643", "61 Ind. App. 183", "69 Ind. App. 666", "97 N. E. 1014"]
+---
+
+# Akers v. Louisville & Southern Indiana Traction Co.
+
+## Majority (Enloe, J.)
+
+Enloe, J.
+This was an action by appellant against the a,ppellee to recover damages for one mule alleged to have been killed by one of defendant’s cars. There was a trial by a jury, resulting in a verdict in appellant’s favor, and his damages were assessed at $136. With their verdict the jury also returned their answers to certain interrogatories submitted to them by the court. The appellee thereupon filed its motion for judgment in its favor upon said answers, notwithstanding the general verdict, which motion was by the court sustained, and judgment rendered accordingly.
+Appellant’s motion for a new trial having been overruled, he prosecutes this appeal, and has assigned as error the action of the court: (1) In overruling his motion for a new trial; (2) in sustaining appellee’s motion for judgment in its favor.
+Appellee has moved to dismiss this appeal on the alleged ground that the same was not taken within the time provided by- statute. It appears that the court rendered its judgment on October 20, 1917, and that thereafter, on November 16, 1917, in vacation, the appellant filed his motion for a new trial, which remained upon the docket of said court undisposed of until February 25, 1918, when it was overruled, an appeal prayed, and the appellant was given thirty days in which to file his appeal bond, and sixty days in which to file his bill of exceptions. The bill of exceptions was duly filed, and this appeal then, prosecuted as a vacation appeal, due notice having been served below, and. the transcript filed in the office of the clerk of this court on August 21, 1918, which was within the time allowed therefor.
+Appellee insists that, "as the motion for a new trial did not state any statutory reason therefor, it was a nullity, and that the time for taking this appeal began to run October 20, 1917, and bases its contention upon the case of Schneidt v. Schneidt (1919), 69 Ind. App. 666, 122 N. E. 588.
+In the Schneidt case, supra, a demurrer had been sustained to the complaint, and, the plaintiff declining to plead further, the usual judgment was rendered against him. He thereafter filed his motion for a new trial. In passing upon the question involved, this court said: “The cause never having been tried, of course there could be no new trial. The pretended motion for a new trial was an absolute nullity, and presented nothing to the trial court for its consideration. The time for taking an appeal cannot be extended in such a manner.” In the Schneidt case, in the condition of the record therein, a motion for a new trial was not a proper motion to be filed, and a motion to strike out the same would have been properly sustained. Not being, in that case, a proper motion, it could have no effect upon the time within which the appeal must be taken.
+In the instant case there had been a trial; a motion for a new trial was a proper motion to be filed; and whether the reasons stated therein were sufficient to entitle the party to a new trial was a matter for the consideration of the court. The motion to dismiss must be denied.
+The only error we are called upon to consider in this appeal relates to the action of the court in sustaining appellee’s motion for a judgment in its favor upon the answers to interrogatories, returned by the jury with the general verdict.
+The action was based upon the alleged xiegligence of appellee in not fencing its right of way at the place in question, whereby appellant’s said mule entered upon the right of way axid track of appellee, and was there killed by one of appellee’s cars. The question that first arises upon this record is, Was there any duty resting upon appellee to fence its right of way at the place in question? That part of.§5707 Burns 1914, Acts 1903 p. 426, which is applicable to this case, is as follows: “Provided, That such corporation, lessee or assignee or receiver or other person operating the same shall not be required to fence such railroad track through unimproved and unenclosed lands and the provisions of this act shall not apply to such parts of any such railroad which runs through unimproved and unenclosed lands.”
+It appears from the answers returned by the jury to the interrogatories submitted to them that, at the place where said mule entered upon the right of way of appellee, said track and right of way, for a distance of more than 200 feet, was across a portion of “uninclosed and unimproved land”; that appellant had a private fence along the north line of such “uninclosed and unimproved land”; that appellant’s said mule escaped from appellant’s inclosed land, where a fence post was broken down, and crossed over said “uninclosed and unimproved land” onto the right of way and track of appellee at the place where it was killed by one of appellee’s cars.
+At common law there was no duty resting upon a railroad company to fence its track. Leary v. Cleveland, etc., R. Co. (1920), 74 Ind. App. -, 123 N. E. 808, and, unless such duty is imposed by statute, a railroad company is not guilty of negligence in failing to erect and maintain fences along its right of way. Union Traction Co. v. Thompson (1916), 61 Ind. App. 183, 111 N. E. 648. It conclusively appears from the answers to interrogatories that the place in question was not one which our statute required to be fenced. The case of Terre Haute, etc., Traction Co. v. Phillips (1912), 49 Ind. App. 643, 97 N. E. 1014, upon which appellee seems to rely, is not in point. In that case the mules were killed at a point required to be fenced.
+We find no error in this record, and the judgment is therefore affirmed.
