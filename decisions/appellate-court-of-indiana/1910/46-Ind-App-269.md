@@ -1,0 +1,35 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,625"
+decided: "1910-03-11"
+citations: ["46 Ind. App. 269"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bicknese v. Brandl."]
+source_url: "https://static.case.law/ind-app/46/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5052083
+cites_cases: ["161 Ind. 80", "167 Ind. 262", "173 Ind. 207", "34 Ind. App. 601"]
+---
+
+# Bicknese v. Brandl
+
+## Majority (Watson, J.)
+
+Watson, J.
+Appellee brought this action for damages against appellant, who was in the saloon business in the city of Fort Wayne, on account of an alleged assault committed upon him by appellant on June 3, 1906. The complaint was in two paragraphs, in the first of which it is alleged, in substance, that defendant on said day did then and there unlawfully beat and strike plaintiff with his fists, and broke his jawbone, damaging appellee. In the second paragraph it is alleged, in addition to the averments of the first, that, on the day aforesaid, defendant, with force of arms, made an assault on the plaintiff, whereby the bones in plaintiff’s jaw and face were broken, so that he was compelled to employ a surgeon, who charged $200 for his services and $25 for medicine; that, by reason of said wounds and injuries, plaintiff was rendered sick, helpless and incapable of following his usual vocation, by which he earned $25 a week; and that said assault was committed without any provocation or fault on the part of plaintiff.
+The cause was put at issue, trial had, and verdict returned for $482, on which judgment was rendered. Motion for a new trial was made and overruled.
+The only error assigned and relied on is the overruli|ig of the motion for a new trial.
+The facts in this case are substantially as follows: Appellant lived with his family on the' second floor of the building in which was located his saloon. He was the owner of a large eat, which he kept about his place of business and home' for the purpose of protecting his property and as a pet for his wife and children. Appellant was the owner of a saloon in which, on Sunday, June 3, 1906, he was engaged in selling intoxicating liquors. On the day aforesaid, appellee, a resident of the city of Fort "Wayne, went to appellant’s saloon, accompanied by his dog. Upon entering the room, the dog saw the cat lying on a chair or table, and attacked it, driving it under a railing which was around the bar. Appellant thereupon warned appellee to keep his dog from attacking the cat. It was claimed by appellant that the appellee did not heed the warning, but kicked the cat out into the room, so that the dog could have a better chance to injure or kill it, but appellee contended that he did not kick the cat. Appellant, with his fist, struck appellee in the face, breaking his jaw, so that he was compelled to receive a surgeon’s care.
+It is contended by appellant that the court erred in compelling him, over objections, to answer as to whether there had been fights at other times in his saloon, and whether he had taken a hand in these difficulties, for the reason that it tended to inflame the minds of the jurors, “and convey the impression that defendant had a disreputable place.” The verdict clearly shows that the minds of the jurors were not inflamed. Whether they were impressed that it was a disreputable place, is of no consequence. The fact remains that it was a place run in violation of the law.
+Appellant complains of the giving of instructions three and four, tendered by appellee, which are as follows:
+“(3) If you believe from the evidence that defendant struck plaintiff, as alleged in the complaint, and that defendant so doing fancied without reason that plaintiff was going to do himself or his property substantial harm, but that, in fact, plaintiff was not doing defendant or his property any harm, and was not making any such threats to injure defendant or his property as would justify defendant in making the assault complained of upon plaintiff, then your verdict should be for plaintiff.
+“(4) If you find from the evidence that plaintiff was endeavoring to rid himself of defendant’s cat, and that in so doing he was using only such reasonable force as, under all the circumstances, he was justified in using, and that plaintiff was not threatening to do any harm to defendant or his property, and that defendant struck plaintiff and broke the bones of his jaw, you will be justified in finding a verdict for plaintiff. ’ ’
+These objections are urged upon the ground that a man who acts upon appearances of actual and. immediate danger, and sincerely believes that he is in danger of suffering great bodily harm, and, while so believing, acts, cannot be held liable for his acts in the reasonable defense of his person or property.
+The third instruction, tendered by appellant and given by the court, is as follows: “Under the law a man has a perfect right to defend his property, while in possession thereof, by any degree of force short of taking life, if from appearances he reasonably believes or it is actually necessary to make his defense effectual, and if the aggressor be injured by the owner of said property in his effort to protect it from injury no damages can be recovered by the aggressor for the injury thus inflicted, because the law gives to every citizen a perfect right to defend not only his own person but also his property. ’ ’ A number of other instructions given by the court are of the same purport. Appellee tendered nine instructions, of which eight were given. Appellant tendered fifteen, of which fourteen were given.
+From all the instructions given by the court, taken as a whole, it cannot be said that the jury was misled. The rule in this State is that instructions must be considered as a whole, and no judgment will be reversed because a certain instruction may be erroneous, unless the court is satisfied, before reversing a case on an erroneous instruction, that the jury was misled thereby. Citizens St. R. Co. v. Jolly (1903), 161 Ind. 80; Wabash River Traction Co. v. Baker (1906), 167 Ind. 262; Nickey v. Dougan (1905), 34 Ind. App. 601; Warren Construction Co. v. Powell (1909), 173 Ind. 207.
+What we have said as to instructions three and four is applicable to the objections urged against instructions five and eight.
+The recovery in this case — $482—shows very clearly that the jury waS not misled by any instructions or by the evidence admitted over appellant’s objections. Nor does it show any prejudice against appellant, for it must be borne in mind that the damages ■ assessed in this ease were for a broken jawbone, inflicted by appellant upon appellee on the Sabbath day, when the appellant was running his saloon in violation of the law; and when these facts are considered, it cannot be said that the verdict was reached because of any passion or prejudice.
+The right result was reached, and no error intervened which warrants us in disturbing the judgment.
+Judgment affirmed.
