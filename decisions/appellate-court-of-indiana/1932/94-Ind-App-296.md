@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,369"
+decided: "1932-04-19"
+citations: ["94 Ind. App. 296"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heerdink v. Kohmescher."]
+source_url: "https://static.case.law/ind-app/94/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1559797
+cites_cases: ["110 N. E. 672", "111 N. E. 419", "125 N. E. 403", "168 Ind. 518", "172 N. E. 783", "178 N. E. 440", "184 Ind. 415", "184 Ind. 473", "190 Ind. 173", "72 N, E. 571", "92 Ind. App. 494"]
+---
+
+# Heerdink v. Kohmescher
+
+## Majority (KlME, J.)
+
+KlME, J.
+This was an action for damages for the death of appellee’s minor son, who was killed in a road intersection collision of the appellant’s car with one in which appellee’s son was riding as a guest.
+The complaint was in one paragraph, which was answered by a general denial. Trial by jury resulted in a verdict for appellee. A motion for a new trial being overruled, judgment was rendered on'the verdict. The error assigned is the overruling of the motion for a new trial. The specifications of the motion which are properly presented are: (1) The verdict of the jury is not sustained by sufficient evidence; (2) the verdict of the jury is contrary to law; (3) error in giving Nos. 1, 2, 4 and 7 of appellee’s instructions; (4) error in refusing to give appellant’s instruction No. 4.
+From the evidence, it appears that the car in which appellee’s decedent was riding was going south on Boeke Road and had proceeded into the southwest quarter of the intersection of this road with Walnut Street when that car and a car being driven west on Walnut Street by the appellant collided. There is evidence of unreasonable speed on the part of both drivers, and evidence from which the inference could be drawn that the occupants of both cars were negligent. The appellant’s decedent was 19 years old and assisted his father on a peony farm, and evidence that the damages to the father equaled the amount of the judgment, which was $1,200.
+That portion of the complaint charging negligence is as follows: “That the defendant and said Clarence Memmer drove their cars toward said intersection, as aforesaid, and at approximately the same time; that said Clarence Memmer reached said intersection prior to the time the same was reached by the defendant; that at such time the defendant was driving at a great and unreasonable rate of speed; that said Clarence Memmer drove his car across said intersection, and when the same was approximately three-fourths of the way across said intersection, the defendant negligently failed to give said Clarence Memmer the right of way and negligently drove his automobile into said car driven by said Memmer with great force and violence, so that the car driven by Memmer was turned over and the plaintiff’s son, said Carl Kohmescher, was thereby injured, of which injuries he subsequently died.”
+As to the error assigned that there is not sufficient evidence to sustain the verdict we will say that there is evidence, or evidence from which a legitimate inference can be drawn, to sustain each and every negligent act charged.
+As to the error assigned that the verdict is contrary to law, the paragraph last above also applies; and further, may we say, that preponderance does not mean the greater number of witnesses as the appellant’s brief implies. Preponderance is fully defined in Indianapolis St. R. Co. v. Johnson (1904), 168 Ind. 518, 72 N, E. 571; Davis, Exr., v. Babb (1919), 190 Ind. 173, 125 N. E. 403; Barnes v. Phillips (1916), 184 Ind. 415, 111 N. E. 419; Vivian Collieries Co. v. Cahall (1915), 184 Ind. 473, 110 N. E. 672. There is ample evidence to sustain the verdict; it is not contrary to law. The appellant, on the two points above, relies on the case of Elliott v. Kraus (1930), 92 Ind. App. 494, 172 N. E. 783, and particularly this quotation: “It is not enough to show that the appellant’s negligence was adequate and sufficient to cause the death of the child, it must show that it did cause it.” These cases are easily distinguishable on the facts as a superficial reading will disclose.
+As to the alleged error in giving all of appellee’s instructions, we find that these are all applicable to the facts proved, and state the law fairly and correctly. The appellant complains particularly of No. 4, which told the jury that, when the negligence of two persons contributed to the injury, the injured party could sue either or both, and, in an action against either, the negligence of the other would be no defense. This is a correct statement of the law and applicable to the facts. The appellant in argument says that the driver of appellee’s car died, and hence the statement is not applicable to the facts. This does not appear in the condensed recital of the evidence and we will not search the record to reverse. The case seems to have been fairly tried and the correct result reached. The omission of this evidence, which was called to the attention of appellant and not corrected, would not change matters materially as, even if it could be said to be error, it was harmless in this instance.
+The appellant complains emphatically of the refusal of the court to give his tendered instruction No. 4 on-the measure of damages, and of appellee’s instruction No. 7 covering the same subject. He apparently overlooks the fact that the court gave his instruction No. 1 concerning the same subject. All three of these instructions stated generally the correct law on the measure of damages. A correct definition may be found in Thompson v. Town of Fort Branch (decided Nov. 20, 1931, Ind.), 178 N. E. 440, with which those instructions given here compare favorably. The jury was well instructed on this.
+Finding no reversible error, the judgment is affirmed, and it is so ordered.
