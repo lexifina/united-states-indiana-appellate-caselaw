@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,990"
+decided: "1910-11-15"
+citations: ["52 Ind. App. 704"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Cleveland, Cincinnati, Chicago and St. Louis Railway Company v. Wheeler."]
+source_url: "https://static.case.law/ind-app/52/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5106484
+cites_cases: ["150 Ind. 536", "154 Ind. 17", "50 N. E. 741", "55 N. E. 953"]
+---
+
+# Cleveland, Cincinnati, Chicago & St. Louis Railway Co.v. Wheeler
+
+## Majority (Roby, J.)
+
+Roby, J.
+Action by appellee for damages on account of the occu-
+pation by appellant, with fills, tracks and other railroad structures, of a strip of land alleged to be a highway on which appellant’s real estate abuts. In the first paragraph of complaint it is averred that such strip of land was a public highway, and in the second that appellee had a right of way over the same. Appellee had judgment for $900. The assignments of error are that the court erred in overruling the demurrer to each paragraph of the complaint and in overruling the motion for a new trial. There is, as stated by appellant’s counsel, practically no dispute as to the facts. They contend that the case of the Baltimore, etc., R. Co. v. City of Seymour (1900), 154 Ind. 17, 55 N. E. 953, is “on all fours with” and decisive of the case at bar. For appellee it is stated that the parallelism between this case and the case of Pittsburgh, etc., R. Co. v. Town of Croton Point (1898), 150 Ind. 536, 50 N. E. 741, is so marked and the cases are so similar that nothing short of the reversal of the law as therein declared would be possible in event that the judgment herein is not affirmed.
+In Baltimore, etc., R. Co. v. City of Seymour, supra, it was shown that the railroad right of way extended forty feet each side of the center of the track, that a side-track had been constructed fifteen feet from the main track, and that during many years persons who had freight to send or receive had come with teams upon the right of -way to load and unload freight cars placed upon the siding, and that persons not having business with the company also drove over that part of the right of way. On these facts it was held that a mere permissive use was shown, concurrent with that of the owner and not indicative of a prescriptive right. The facts considered in Pittsburgh, etc., R. Co. v. Town of Crown Point, supra, were that the town was proposing to pave a strip of land over which persons approaching the company’s depot had passed for many years. Such strip formed a continuation of and connected two streets in said town. The right of way was fifty feet each side o-f the track, except for the distance of 1,125 feet, where it broadened to 150 feet on- each side, the depot being there located. The strip in dispute was within the extra 100 feet, and furnished a way to the depot. Emphasis was laid in the opinion on the marked character of the route, on the fact that the public authorities had improved it, that it was traveled by the public as well as by the company’s employes and those having business at the depot, that the way was necessary as an outlet to residences and business houses built on the streets thereby connected, and that a livery stable was for many years maintained having its outlet on the way in dispute, and that no objection had been made to the public use of the same.
+The two causes were differentiated in Baltimore, etc., R. Co. v. City of Seymour, supra, as follows: “The facts in this case differ essentially from those in Pittsburgh, etc., R. Co. v. Town of Crown Point [1898], 150 Ind. 536 [50 N. E. 741], There, it was found that-a portion of the station grounds, on the opposite side of the depot from the tracks, of the width of thirty feet, had been marked out, ditched, graded and worked by the town authorities for thirty years, and throughout that time the public’s possession of the ground as a street had been open, notorious, continuous, adverse and exclusive.
+The determination of this appeal depends on whether the facts exhibited bring it within the one authority or the other. The facts briefly stated are that on May 7, 1869, appellant acquired a right of way ninety-nine feet wide by condemnation. On October 29, 1870, it purchased a strip south of the right of way, seventy-five feet wide and 1,000 feet long, and a strip of equal length twenty-five feet wide on the north side thereof. The deed therefor reserved the right to put in a crossing at the west end of said strip. On December 8, 1894, appellee platted “Wheelers addition”, lying north of the west end of said twenty-five-foot strip. The plat shows a twenty-five-foot strip between tlie lots and the strip, which it is now claimed is itself a street. The west end of said strip extends to the quarter section line north and south, along which there is a highway.
+It was shown that the railroad depot was constructed east of the quarter line and was also used as a country store; that there was a crossing made over the railroad track east of the depot and the strip was used as other highways since 1870. Houses were built with reference to it and work done on it by public authority. This is an incomplete summary of facts, but is sufficient to show that the case comes within the authority of Pittsburgh, etc., R. Co. v. Town of Crown Point, supra, and kindred cases cited.
+Various minor questions are mooted, but the judgment is in accord with the proof, and is not therefore subject to reversal. ■
+The judgment is affirmed.
