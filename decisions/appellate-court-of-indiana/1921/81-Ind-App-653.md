@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10,814"
+decided: "1921-06-21"
+citations: ["81 Ind. App. 653"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McFerran, Administratrix, v. Merchants Heat and Light Company."]
+source_url: "https://static.case.law/ind-app/81/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2495461
+cites_cases: ["128 Mich. 653", "166 Fed. 651", "20 L. R. A. (N. S.) 816", "21 R. I. 575", "27 L. R. A. (N. S.) 893", "43 Atl. 542", "55 L. R. A. 318", "59 Ind. App. 345", "67 S. E. 788", "67 W. Va. 335", "70 Ind. App. 313", "87 N. W. 888", "92 C. C. A. 345"]
+---
+
+# McFerran v. Merchants Heat & Light Co.
+
+## Majority (Dausman, J.)
+
+Dausman, J.
+This action was instituted by the administratrix of the estate of John C. Purdy, deceased, against August Elbrecht and the Merchants Heat and Light Company to recover damages on the theory that Purdy’s death resulted from negligence on the part of the defendants. Subsequently Elbrecht died and the action was thereafter prosecuted against the Merchants Heat and Light Company as sole defendant.
+From the undisputed evidence, it appears that one August Elbrecht was the owner of a large building in the'city of Indianapolis, which was equipped for the use of electricity. Prior to the year 1910, the owner produced his own electricity by his own dynamo located in the building, and maintained his own switchboard and distribution system. In that year, he entered into a written contract with the Merchants Heat and Light Company, by which the company agreed to furnish electricity to be used in the building for the operation of lamps, motors and other electrical devices. Pursuant to the terms of the contract, the company connected its wires with, and delivered its current to, said switchboard. The switch was located in the furnace room in the basement, was of the kind commonly known as a “knife switch”, and was without any covering or guard to prevent persons from coming in contact therewith. Appellant’s decedent was employed by Elbrecht as fireman; and in May, 1916, while sitting in the furnace room on a cot which stood along the wall where the switchboard was located, and under the switchboard, the back of his head came in contact with the metallic points or knobs projecting therefrom. He received the current into his body, and some two weeks thereafter died from the effect thereof.
+The plaintiff’s evidence having been introduced, the defendant moved the court for a peremptory instruction. Thereupon, the trial judge announced that he was not prepared to rule on the motion instantly but that he desired first to look into the law. Some witnesses for the defendant who were present would have been inconvenienced if required to remain while the judge investigated the law. It was therefore agreed by the parties that the testimony of those witnesses might be taken and that the court might rule on the motion when ready so to do, uninfluenced by the testimony of defendant’s witnesses. Accordingly, those witnesses were heard, and allowed to return to their homes in Marion County. The court then adjourned until nine o’clock next morning. When the court had reconvened, the plaintiff insisted that the testimony of defendant’s said witnesses — particularly the testimony of one Clem Parrish — should be considered by the court in passing upon said motion, notwithstanding said agreement. The court instructed the jury to return a verdict for the defendant, and, in so doing, excluded all the testimony of the defendant’s said witnesses. Judgment was rendered on the verdict.
+Whether or not the court considered the testimony of defendant’s witnesses is immaterial. Their testimony was of no benefit whatever to the plaintiff. On the evidence adduced by the plaintiff, if considered alone, there could be no recovery. On the evidence adduced by both the plaintiff and the defendant there could be no recovery. The switchboard was owned and maintained by the owner of the building, and the defendant had no supervision or control over it. Therefore, the defendant is not liable. If the death of Purdy resulted from the negligent manner in which the switchboard was maintained, the negligence was the negligence of Elbrecht who had exclusive control thereof. Princeton Light, etc., Co. v. Ballard (1915), 59 Ind. App. 345; Caldwell v. Alley (1919), 70 Ind. App. 313; Minneapolis Gen. Elec. Co. v. Cronon (1908), 166 Fed. 651, 92 C. C. A. 345, 20 L. R. A. (N. S.) 816; Fickeisen v. Wheeling Electrical Co. (1910), 67 W. Va. 335, 67 S. E. 788, 27 L. R. A. (N. S.) 893; Griffin v. Jackson Light & Power Co. (1901), 128 Mich. 653, 87 N. W. 888, 55 L. R. A. 318, 92 Am. St. 496; Keefe v. Narragansett Electric Lighting Co. (1898), 21 R. I. 575, 43 Atl. 542.
+Judgment affirmed.
+
+## Rehearing (Dausman, J.)
+
+On Petition for Rehearing.
+Dausman, J.
+Counsel urge that we have erred in holding that there is no evidence tending to show that appellee had control of the electrical equipment within the» building. They contend that certain statements printed on the back of the sheet of paper on the face of which the contract was written constitute some evidence from which the jurors might have concluded that the appellee had such control. In that contention, counsel are clearly mistaken. It is evident that, in the preparation of the contract, a printed form was used, which form was kept in stock for general purposes. The contract recites that the company agree to furnish electricity to the consumer “subject to the rules and regulations printed on the back of this contract.” In the rules and regulations to which reference is thus made, something is said about applianees “installed in the premises by the company at its expense” and which are to remain the property of the company. There is not the least spark of evidence that any appliances were installed by the company. On the contrary, it is conceded by appellant that the company did nothing more than connect its wire with Elbrecht’s switchboard and deliver current thereto. That is all the company contracted to do. Consequently, the rules relating to appliances, printed on the back of the paper, are not germane to the subject-matter of the contract itself and cannot be regarded legitimately as having any bearing whatsoever upon the controversy involved in this action.
+Rehearing denied.
