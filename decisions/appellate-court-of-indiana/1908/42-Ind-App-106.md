@@ -1,0 +1,34 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,140"
+decided: "1908-06-11"
+citations: ["42 Ind. App. 106"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brelsford v. Aldridge et al."]
+source_url: "https://static.case.law/ind-app/42/cases/0106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4945230
+cites_cases: ["105 Ind. 456", "120 Ind. 207", "123 Ind. 337", "134 Ind. 447", "142 Ind. 55", "150 Ind. 679", "166 Ind. 25", "31 Ind. App. 360", "31 Ind. App. 422"]
+---
+
+# Brelsford v. Aldridge
+
+## Majority (Watson, J.)
+
+Watson, J.
+This was an action by appellant, o'nly child of decedent, Robert P. Wilfley, to have declared void a will alleged to have been executed by decedent.
+The allegations of the complaint were, in substance: (1) The will was unduly executed; (2) it was obtained by the undue influence of Mary E. Aldridge, then Mary E. Oler; (3) it was procured by the undue influence of Amos L. Cray; (4) it was obtained by the undue influence of Mary E. Aldridge and Amos L. Cray; (5) at the time of executing said pretended will, and for ten years theretofore, decedent was a person of unsound mind; (6) though said will devised and bequeathed all real and personal property to decedent’s “beloved wife, Mary E. Wilfley,” who is appellee Mary E. Aldridge, at the time of executing said will said beneficiary was not his wife, nor did she become so until nine days after súch pretended execution, but that for more than six months theretofore she had cohabited illicitly with decedent, she being at the time the wife of one Martin Oler, from whom she procured a divorce June 9, 1902; that she married decedent June 24, 1902, but the will purported to have been executed Juné 15, 1902; (7) after setting out practically the same allegations as were contained in the sixth specification, it was alleged, in addition, that at the time Mary E. Aldridge became acquainted with decedent there was on file a divorce proceeding by her then husband, Martin Oler, but that a decree was not entered; that nevertheless decedent took her to his home and kept her there until his death, marrying her in the meantime as before' averred. The complaint prayed that a receiver for decedent’s estate be appointed, and that the will be vacated and set aside.
+On motion of appellee Mary E. Aldridge the court struck out the seventh specification of the complaint, to which action an exception was duly taken. Appellee Cray separately demurred to the complaint for want of facts, but the demurrer was overruled. Appellee Mary E. Aldridge then answered in two paragraphs: (1) General denial; (2) admitting the will, and that it purported to have been executed June 15, 1902, but averring that in fact it was executed after the marriage of said appellee with decedent; that the date aforesaid was an error by the scrivener, and was not the correct date of the will; and denying all other averments in the complaint. Appellant filed a reply in general denial to the answer,' and the cause being at issue, it was submitted to a jury, which returned a verdict for appellees. Judgment was rendered on the verdict.
+The errors assigned for consideration in this court are:
+(1) Striking out the seventh specification of the complaint;
+(2) overruling the motion for a new trial.
+The first assignment is not discussed in the briefs, therefore it is deemed to be waived. Payne v. Moore (1903), 31 Ind. App. 360; Robinson & Co. v. Hathaway (1898), 150 Ind. 679.
+The reason first discussed by appellant for granting a new trial is that the court erred in refusing to allow her to testify to the friendly relations between herself and decedent. The objection was based on the statute (§522 Burns 1908, §499 R. S. 1881), wherein it is provided: “In all suits by or against heirs or devisees, founded on a contract with or a demand against the ancestor, to obtain title to or possession of property, real or personal, of, or in right of, such ancestor, or to- affect the same in any manner, neither party to such suit shall be a competent witness as to any matter which occurred prior to the death of the ancestor.” The construction to be placed on this statute was enunciated in the case of Lamb v. Lamb (1886), 105 Ind. 456. The question was whether in an action to contest a will heirs of the testator were competent to testify as to his mental soundness. The court said: “The purpose of the statute was to prevent undue advantage as against those whose interests would be unjustly prejudiced by permitting parties to testify as to matters which they assume were known only to them and the deceased, or as to matters which, from their nature, could only have been known to them and the dead. It was not intended to exclude parties from testifying in eases where the subject is one of which the knowledge the parties profess to have is not hidden from all other living persons. There is nothing in the spirit of the statute, and certainly nothing in the letter, which excludes parties from testifying respecting matters open to the observation of all the friends and acquaintances of the deceased.” This rule has often been approved. Supreme Lodge, etc., v. Andrews (1903), 31 Ind. App. 422; Staser v. Hogan (1889), 120 Ind. 207, 214; Burkhart v. Gladish (1890), 123 Ind. 337, 345; Wallis v. Luhring (1893), 134 Ind. 447; McDonald v. McDonald (1895), 142 Ind. 55, 87.
+In the case of Swygart v. Willard (1906), 166 Ind. 25, the court held that an heir was competent to testify as to the pleasant relations existing between him and his father, as tending to show the latter’s sanity.
+Appellant having been called as a witness, was questioned as follows: “You may state what the relations were between you and your father, as to being friendly or otherwise.” Appellees objected on the ground that the witness was incompetent, whereupon appellant offered to testify “that the relations between her and her father were friendly in character as between parent and child, and that she never knew of any occasion that he would have to feel unkindly towards her.” The court sustained the objection and appellant duly excepted.
+There being objections made to the competency of the witness under the statute, and none made to the form of the question, under the authorities heretofore cited this witness was competent to testify to such facts and the testimony should have been admitted as tending to show the sanity of the testator. We are not at liberty to speculate as to the probable effect of the evidence upon the jury. The only question for our consideration is as to its admissibility.
+Since the other alleged errors may not arise upon another trial of this cause, it is not necessary to consider them here.
+Judgment reversed and cause remanded, with instructions to the trial court to sustain the motion for a new trial.
+Roby, J., absent.
