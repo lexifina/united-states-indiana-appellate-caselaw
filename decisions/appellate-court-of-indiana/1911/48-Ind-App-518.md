@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,199"
+decided: "1911-04-28"
+citations: ["48 Ind. App. 518"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mesker v. Fitzpatrick."]
+source_url: "https://static.case.law/ind-app/48/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2426915
+cites_cases: ["149 Ind. 274", "151 Ind. 356", "151 Ind. 529", "27 Ind. 11", "44 Am. Rep. 343", "7 Ind. App. 655", "86 Ind. 538", "95 Ind. 128"]
+---
+
+# Mesker v. Fitzpatrick
+
+## Majority (Lairy, P. J.)
+
+Lairy, P. J.
+This action was commenced by appellee in the Superior Court of Vanderburgh County. A change of venue was taken to the Warrick Circuit Court, and a transcript of the proceedings in said superior court was filed with the clerk of the Warrick Circuit Court on July 15, 1908, which transcript is the first paper copied into the transcript before us. The transcript on change of venue shows that two amended complaints were filed in the Superior Court of Vanderburgh County, to one of which a demurrer had been sustained, and to the other of which a demurrer was pending at the time of the change. These amended complaints were not copied into the transcript on change of venue, but were filed with the transcript in the office of the clerk of the Warrick Circuit Court, as was also the original complaint. Upon the filing of the transcript in the Warrick Circuit Court, the clerk made entries, showing the filing of the transcript, the original complaint, and the two amended complaints. In preparing the transcript for appeal, the clerk of the Warrick Circuit Court copied the original complaint into the transcript, following the entry made by him on July 15, 1908, showing its filing in his office, and also copied the two amended complaints, one following each of the entries made on said date showing their filing in his office. There is nothing in either entry in reference to the filing of the amended complaints, indicating the date on which either was filed in the Superior Court of Vanderburgh County, and nothing to show which amended complaint was filed on May 18, 1908. The subsequent proceedings show that the issues were formed and the trial had on the amended complaint filed on May 18, 1908, but there is no way of identifying this amended complaint.
+The point is urged by appellee that this court has no means of identifying the complaint upon which the trial was had and the judgment rendered, and that therefore no question is presented for decision, because of this imperfection of the record. We are asked by appellant to indulge the presumption that the clerk of the Warrick Circuit Court copied these complaints into the transcript, in the same order in which they were filed in said superior court. The clerk does not certify that he copied the complaints into the transcript in this order, and, in the absence of an affirmative showing, no presumption of this kind can arise. It is settled by the decisions of the Supreme Court of this State, that when two amended complaints are copied into the record, and where it is impossible to determine from the record upon which of said amended complaints' the trial was had, no question is presented for decision. It is also helcl that such an imperfection of the record is not cured by any presumption arising from the presence in the record of the unidentified complaint. Marsh v. Bower (1898), 151 Ind. 356; Geisen v. Reder (1898), 151 Ind. 529.
+In the case of Marsh v. Bower, supra, the Supreme Court says: “There is abundant authority for the proposition that upon the appellant rests the duty of presenting a record disclosing manifest error. Elliott, App. Proc. §186. It is well settled, also, that, in the absence of the complaint, no question is presented for decision. Collins v. United States Express Co. [1866], 27 Ind. 11; McCardle v. McGinley [1882], 86 Ind. 538, 44 Am. Rep. 343; Fellenzer v. Van Valzah [1884], 95 Ind. 128; Reid v. Reid [1898], 149 Ind. 274; Evansville, etc., R. Co. v. Lavender [1893], 7 Ind. App. 655; Geisen v. Reder [1898], 151 Ind. 529. In the last case cited, upon a record much like the present, the court held that such an imperfection could not be cured by any presumption arising from the presence, in the transcript, of the pleading unidentified as that upon which the trial was had The sufficiency of pleadings, the correctness of conclusions of law, and questions upon the motion for a new trial all relate back to the complaint, and, in its absence from the record are not properly presented.”
+On the authority of the cases cited, we are constrained to hold that the record in. this case presents no question for our decision. The judgment is therefore affirmed.
