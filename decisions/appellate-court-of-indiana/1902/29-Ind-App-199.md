@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,548"
+decided: "1902-05-27"
+citations: ["29 Ind. App. 199"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilt v. The Town of Redkey."]
+source_url: "https://static.case.law/ind-app/29/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4906546
+cites_cases: ["1 Ind. 281", "1 Ind. App. 25", "1 So. 318", "116 Ind. 15", "116 Ind. 502", "17 Ind. 628", "17 N. Y. 242", "2 Wall. 70", "22 Ind. 207", "23 Fla. 50", "3 S. W. 527", "36 Ind. 361", "46 Pa. St. 452", "48 Am. Dec. 361", "48 Ark. 487", "54 Ind. 306", "85 Ind. 10", "96 Ind. 111"]
+---
+
+# Wilt v. Town of Redkey
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+Suit by appellee to recover a balance received upon the sale of bonds. On the 6th day of October, 1898, appellee passed an ordinance funding $5,000 of its indebtedness and ordering a sale of bonds for that purpose. Appellant, as appellee’s agent, sold the bonds for $4,900, and paid over to appellee the sum of $4,500. This suit was brought to recover the balance of $400, and upon a special finding of facts a conclusion of law was stated in appellee’s favor.
+It is unnecessary to set out the evidence at any length. There is evidence that appellant did not tape the bonds as purchaser and resell them, but that in the sale of the bonds he was acting as the agent of appellee The complaint proceeds upon the theory of agency, and there is evidence to sustain the court’s finding to that effect. The employment of an agent to perform service for the municipality need not necessarily be by a formal ordinance, by-law, or resolution; nor is it essential that such a contract be in writing. Ross v. City of Madison, 1 Ind. 281, 48 Am. Dec. 361; City of Indianapolis v. Skeen, 17 Ind. 628; City of Logansport v. Dykeman, 116 Ind. 15; Reed v. Town of Orleans, 1 Ind. App. 25.
+In Ross v. City of Madison, supra, it is held that “the contracts of corporations rest upon the same footing as those of natural persons, and are valid, without seal, whether expressly made by the corporation, or arising by implication from the general relations of the agent toward the corporation, or from the ratification of acts done on behalf of the corporation by parties assuming to act as agents although without sufficient authority.”
+Appellant’s counsel have discussed at some length the evidence upon the question of agency. We can not weigh the evidence to determine the preponderance. Erom a consideration of all the evidence given, we can but conclude that there is evidence to sustain the trial court’s conclusion.
+It is argued that it is not shown that the bonds were issued for the purposes authorized by the statute, and that as it appears that the sale of the bonds was for less than par, the sale was illegal and there can be no recovery. The statute expressly provides that bonds issued by a city or town for the purpose of refunding indebtedness may be negotiated at not less than par. §4202a Bums 1901.
+While the purpose for which the bonds were issued, and the legality of their sale, might be inquired into as between the holder of the bonds and the municipality; yet these questions can not be raised by appellant in this suit. Appellant was acting as the agent of the municipality, and, having received money belonging to his principal, he is estopped to deny his principal’s right to it. As between him and his principal, the money belongs to the principal, and he can not escape an accounting on the ground that the principal had no authority to engage in the transaction which yielded the money. He received the money of the municipality as its agent. He can not be heard to question the authority of the municipality to receive the money, but the duty required of him is to render an account to his principal when called upon. Having received the money as agent it is not for him to dispute the authority of the municipality to receive it. Having been entrusted by his'principal with its money, he can not defeat an accounting by denying the right of the principal to entrust him with it. Even if the sale of the bonds was illegal, the agent’s contract to pay the money to the principal is not immediately connected with that illegal transaction, but his obligation arises out of the. receipt of the money for his principal’s use. City of Indianapolis v. Skeen, 17 Ind. 628; Wilson v. Town of Monticello, 85 Ind. 10; Nixon v. State, ex rel., 96 Ind. 111; Daniels v. Barney, 22 Ind. 207; Reed v. Dougan, 54 Ind. 306; United States Ex. Co. v. Lucas, 36 Ind. 361; O’Bryan v. Fitzgerald, 48 Ark. 487, 3 S. W. 527; Crescent Ins. Co. v. Bear, 23 Fla. 50, 1 So. 318, 11 Am. St. 331; Brooks v. Martin, 2 Wall. 70, 17 L. Ed. 732; Pape v. Wright, 116 Ind. 502; Supervisors, etc., v. Bates, 17 N. Y. 242; Boehmer v. Schuylkill County, 46 Pa. St. 452.
+“It is a familiar doctrine,” said the court in Wilson v. Town of Monticello, supra, “that an agent who receives money on account of his principal can not escape an accounting upon the ground that his principal had no right to engage in the transaction which yielded the money. There are many cases extending this rule to sureties, upon the ground that when the principal is bound so also is the surety.”
+In City of Indianapolis v. Skeen, 17 Ind. 628, Skeen was appointed the city’s agent to negotiate its bonds, and executed a bond for the faithful performance of his trust. Having pledged' the bonds and refused to account for the proceeds, it was held in a suit upon his bond that neither he nor his sureties could be heard to say that the municipality had exceeded its power in issuing the bonds placed in the agent’s hands.
+There is no error for which the judgment should be reversed. Judgment affirmed.
