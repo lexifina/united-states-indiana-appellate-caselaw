@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,840"
+decided: "1909-10-06"
+citations: ["44 Ind. App. 318"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Terre Haute Water-Works Company v. Highsmith."]
+source_url: "https://static.case.law/ind-app/44/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5027153
+cites_cases: ["123 N. Y. 1", "156 Ind. 172", "157 Mass. 277", "164 Mass. 206", "178 Mass. 242", "25 N. E. 206", "31 N. E. 1075", "40 Ind. App. 257", "41 N. E. 238", "59 N. E. 804"]
+---
+
+# Terre Haute Water-Works Co. v. Highsmith
+
+## Majority (Comstock, J.)
+
+Comstock, J.
+Appellee recovered judgment against the appellant for $200 damages for injuries received while in the employ of the appellant through the alleged negligence of appellant in digging a certain trench and throwing the dirt near the bank of the same, and in negligently failing to brace the sides of said trench wherein appellee was required to work, whereby the earth caved in upon appellee, to his damage.
+The overruling of appellant’s motion for a new trial is the only error assigned, and of the grounds therefor only two are discussed: (1) That the verdict is not sustained by sufficient evidence; (2) that the verdict is contrary to law.
+It is argued in behalf of appellant that “plaintiff’s complaint is based upon the common-law right of the servant to recover against the master because of the failure of the master to furnish him with a safe working place, resulting in injury to the servant; that, to support the allegations of the complaint, the evidence must establish: (a) That the working place was one that it was the master’s duty to provide ; (b) that it was unsafe, of which fact the master had knowledge, or could have had knowledge by the exercise of ordinary and reasonable care upon its part for the protection of the servant; that the unsafe place caused plaintiff’s injury. * * * (c) That his injuries were not the result of any dangers that were open and obvious, or dangers of which he had knowledge or might have had knowledge by the exercise of ordinary care upon his part, nor the result of any danger of which he had a like opportunity with the master to see and observe. ’ ’
+Appellee received his injuries on June 11, 1906, while in the employ of appellant. While in such employ he did “whatever came up to be done, generally, in the way of general work of repairing meters, turning on and off water, repairing broken mains, laying mains — anything that came up in the way of common labor.” He had been in the employ of appellant for several years prior to the accident. Immediately previous to the accident he was working at Fourteenth and Buckeye streets in Terre Haute, putting in connection with new water main. He was taken from his work at that point, and, with others likewise employed, was put to work at Fourteenth street and Fifth avenue in said city, the place where he received his injuries, to repair a broken main. Three other employes were working with appellee. Appellee’s father was the foreman in charge of these men, and they were under his directions. When appellee arrived at said Fourteenth street and Fifth avenue the ditch was near completion, and the water was running into it, so that the workmen could not dig out the rest of the dirt until the water was pumped out. Appellee procured a pump, and assisted in pumping out the water. The digging of the ditch was then finished. Appellee did not take part in the digging. Afterwards the appellee, with the assistance of another employe, and under the direction of appellant’s foreman, got into the ditch to repair the broken main, and while they were putting in a new piece the ditch caved in and threw the dirt against appellee’s leg, causing the injuries for which he sues. The dirt that had been thrown out was soft. It had been thrown a part of the way around the hole, and was piled up to the edge of the trench, which was about three feet wide and five feet deep. The earth thrown out after appellee was present was thrown wherever it was handiest. The sides of the trench were not shored.
+The judgment must, we think, be affirmed upon the authority of City of Fort Wayne v. Christie (1901), 156 Ind. 172, and City of Columbus v. Allen (1907), 40 Ind. App. 257. The assumption of risk by the employe; the condition of the place, as to safety, provided by the employer for his servants; the character of the risk, whether visible, palpable or discernible by the servants by the exercise of ordinary care; whether the defect was apparent to plaintiff; whether precaution should have been exercised against the falling of the dirt — are all held to be questions of fact for the jury. A distinction is made between eases in which the negligence of the workman cooperates in making his working place ■ dangerous and those in which the place is made dangerous by others. See, also, Bartolomeo v. McKnight (1901), 178 Mass. 242, 59 N. E. 804; Coan v. City of Marlborough (1895), 164 Mass. 206, 41 N. E. 238; Breen v. Field (1892), 157 Mass. 277, 31 N. E. 1075.
+The employes who opened the trench were performing the master’s duty in preparing a suitable place and opportunity for the labor of appellee in performing his duty. Kranz v. Long Island R. Co. (1890), 123 N. Y. 1, 25 N. E. 206, 20 Am. St. 716, and cases cited.
+Judgment affirmed.
