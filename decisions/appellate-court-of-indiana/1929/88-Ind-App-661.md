@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,324"
+decided: "1929-03-08"
+citations: ["88 Ind. App. 661"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York Central Railroad Company v. Newton County State Bank of Kentland, Indiana, Administrator."]
+source_url: "https://static.case.law/ind-app/88/cases/0661-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1550076
+cites_cases: ["233 U. S. 492", "241 U. S. 229", "254 U. S. 43"]
+---
+
+# New York Central Railroad v. Newton County State Bank of Kentland
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Action against appellant by appellee as administrator of the estate of Walter Legg, deceased, to recover damages on account of his death, commenced under the federal Employers’ Liability Act, and resulting in a judgment against appellant for $4,000, from which this appeal. Appellant assigns as error the action of the court in overruling its motion for a new trial.
+It appears by the evidence that appellant railroad company was, on October 7, 1926, engaged in carrying on interstate commerce between the states of Indiana and Illinois. At a point known as Gibson, Indiana, the tracks of appellant crossed the tracks of the Michigan Central Railroad. On the morning of October 7, appellee’s decedent, and five other employees of appellant, known as “the carpenter gang,” met at. the carpenters’ office in Gibson, Indiana, and received instructions for their day’s work. At about 7:15 a. m., they boarded their gasoline motorcar and started for Indiana Harbor. Appellee’s decedent was operating the motorcar and was in charge of the men. Upon their arrival there, they proceeded to repair the board walk which extended clear across the tracks. At 11:10 a. m., they again boarded their motorcar and started back to Gibson to eat their noonday meal. They had often done this before. It was their custom to go back to the “cook car" at Gibson to eat. The track which they were on was the west one, as it was the south-bound track. When they got to Michigan avenue yards, there was a freight train ahead of them and it had stopped. The men on the motorcar were in a hurry to get to the cook car, and they lifted their car over to the east track, being the northbound track, and proceeded south past the freight. They proceeded southerly .until they came to a derail. The derail was set against them, as it was about time for a Michigan Central passenger train. The tracks had been lined up for the Michigan Central. The men on the car lifted the motorcar over the derail and .proceeded to the crossing, 500 feet away. As they entered the diamond, the fast Michigan Central train struck the motorcar, as a result of which accident appellee’s decedent lost his life.
+Appellee’s decedent had been working as a carpenter for appellant for more than two years, and was, at the time of the accident, in charge of the motorcar ’ involved in the accident, and of the men working in the carpenters’ crew. By this time, he was substantially acquainted with the dangers of his occupation; he knew of the presence of the Michigan Central railroad, and of the fact that it was daily operating trains over its tracks which crossed appellant’s tracks, and that, to prevent such accidents as the one here involved,.collisions at the intersection, there had been installed a system of interlocking with a derail, and that a tower had been built from which signals were operated by a towerman who was constantly kept in it. Decedent knew that all of this had been done by appellant in conjunction with the Michigan Central Railroad Company, for the purpose of avoiding collisions at the crossing, and thereby safeguarding both life and property. He knew that the derail was, if heeded, an absolute safety device, and that if he stayed behind it when it was set against him, he was absolutely safe, as far as a collision at the crossing was concerned, and yet, with this knowledge, he approached the crossing with a crew of men under his control, and when he* found the derail set against him, he proceeded to lift his motorcar over the derail, and to run into a train for which the derail had been set asa warning to him, without making any investigation as to the passenger train which he had reason to expect. With this warning and with knowledge of the danger of an approaching train, we must hold that he assumed the risk. Nor can his administrator be heard to say that a custom of lifting cars over the derail had grown up, for such a custom, if there was one, followed by running over the crossing without investigation as to the approach of trains, was dangerous, and appellee’s decedent was bound to know that it was dangerous, and so knowing, if he continued in the employment of the railroad company and followed such dangerous custom, he assumed the risk. Prior v. Williams (1920), 254 U. S. 43, 41 Sup. Ct. 36, 65 L. Ed. 120; Jacobs v. Southern R. Co. (1916), 241 U. S. 229, 36 Sup. Ct. 588, 60 L. Ed: 970; Seaboard, etc., Co. v. Horton (1914), 233 U. S. 492, 34 Sup. Ct. 635, 58 L. Ed. 1062, L. R. A. 1915C 1.
+Having reached this conclusion, we do not need to consider alleged errors in instructions.
+Reversed.
+Remy, J., dissents.
