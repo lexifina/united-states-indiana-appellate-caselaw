@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,444"
+decided: "1923-06-21"
+citations: ["80 Ind. App. 222"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Union Traction Company v. Buell."]
+source_url: "https://static.case.law/ind-app/80/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2502683
+cites_cases: ["110 N. E. 65", "113 N. E. 1027", "122 N. E. 772", "171 Ind. 444", "184 Ind. 291", "63 Ind. App. 30", "71 Ind. App. 10", "86 N. E. 641"]
+---
+
+# Union Traction Co. v. Buell
+
+## Majority (Batman, J.)
+
+Batman, J.
+This is an action by appellee against appellant, based on alleged negligence, to recover damages for personal injuries, received at the intersection of Martindale avenue and Seventeenth street in the city of Indianapolis, in a collision between appellee’s automobile and one of appellant’s cars. After issues were joined, the cause was submitted to a jury for trial, resulting in a verdict and judgment in favor of appellee. Appellant filed a motion for a new trial, which was overruled and this appeal followed.
+The only error presented relates to the action of the court in giving instructions numbered 5, 6, 7 and 9. Appellant makes one contention, which is applicable to each of said instructions, viz.: that they are not relevant to the issues, or pertinent to the evidence. One of the issues involved in the trial of the case was appellee’s negligence, and each of said instructions are clearly relevant to such issue. Appellant’s contention that said instructions are not pertinent to the evidence is based on the fact that each of them relates to the duty resting upon a traveler oñ a street .or highway, approaching a street car crossing, to use care to discover danger arising from the approach of cars over the same, instead of the duty of a traveler to exercise care to avoid danger from collision, when he knows of the approach of a car, as the undisputed evidence shows the fact to be in the instant case. We need not determine whether any such error exists, as it suffices to say, assuming that it does exist, that it was clearly invited by appellant, as appears from certain instructions given at its request. In support of this conclusion we cite those numbered 6, 8, 11, 12 and 13. Said instruction No. 6, after referring to appellee’s duty to exercise reasonable care for his own protection in approaching the crossing in question, concludes as follows: “And if in the exercise of reasonable care he could have seen said interurban car approaching in time to have avoided going onto said tracks iii front of said car, but he failed to discover the approach of said car on account of his failure to exercise reasonable care as he approached said crossing, under these circumstances he would be guilty of contributory negligence and you should find for the defendant no matter how negligent you might find the defendant to have been in the operation of its car.” Said instructions Nos. 8, 11, 12 and 13 are, in a measure, of similar import. We therefore conclude that appellant has no right to complain of either of the instructions challenged because of the presence in each of them of the particular matter mentioned above. Duncan v. State (1908), 171 Ind. 444, 86 N. E. 641; Marion Trust Co. v. Robinson (1915), 184 Ind. 291, 110 N. E. 65; Indianapolis, etc., Traction Co. v. Senour, Admx. (1919), 71 Ind. App. 10, 122 N. E. 772.
+It is contended that said instruction No. 5 is erroneous for the further reason, that it ignores the rule that, a traveler on a highway is presumed to have seen what, by looking, he could have seen and to have heard what, by listening, he could have heard, and the law will assume that he actually saw what he could have seen if he had looked, and heard what he could have heard, if he had listened. While this instruction contains a statement, which, standing alone, may be said to lend support to appellant’s contention, the instruction, taken as a whole, is not subject to the objection made. But, even if it were, there is no evidence in dispute in the instant case which renders such rule applicable, as it has been held that the presumption embodied therein, is only indulged in cases where one fails to look or listen, and in cases where the physical surroundings and conditions are such as to force a conviction that one did see or hear, notwithstanding a statement or finding that he did not. Chicago, etc., R. Co. v. Biddinger (1916), 63 Ind. App. 30, 113 N. E. 1027, and cases there cited. This being true, and it not appearing that appellant could have been harmed by an absence of a recognition of such rule in said instruction, no reversible error is shown..
+No reversible error in overruling appellant’s motion for a new trial being shown, the judgment is affirmed.
