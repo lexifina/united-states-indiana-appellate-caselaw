@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,748"
+decided: "1899-03-10"
+citations: ["22 Ind. App. 76"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pittenger v. Upland Land Company."]
+source_url: "https://static.case.law/ind-app/22/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 430206
+cites_cases: ["134 Ind. 681"]
+---
+
+# Pittenger v. Upland Land Co.
+
+## Majority (Wiley, J.)
+
+Wiley, J.
+— Appellant- sued appellee to recover a commission for negotiating the sale of real estate. Appellee is a corporation organized under the laws of Indiana. It owned considerable real estate, partly farm lands, and partly town lots. It became largely indebted, and the record shows that it was insolvent. Appellant was one of the original incorporators, owned thirty-one shares of its stock, at the face value of $100 per share, and was secretary of the company at the time of his alleged services in negotiating such sales.
+On December 21, 1894, at a regular meeting of the board of directors of appellee company, there was entered upon the records the following: “On motion of J. ~W. Pittenger it was ordered that any person selling lots for the company a commission of five per cent., to be paid out of the first payment on the lot or lots.” It is upon this record that appellant bases his action. It is unnecessary for us to state in detail the averments of the complaint. It is sufficient to say that it avers that appellant negotiated certain sales of appellee’s real estate, aggregating in value $52,000, and that the commission thereon was $2,600, and that it was due and unpaid. Appellee answered in four paragraphs: (1) General denial; (2) that there was no consideration for the contract relied upon; (3) that appellant was a stockholder in said company; that he was its secretary; that the object of said company was to purchase and sell real estate, etc.; that appellant, as secretary, was drawing a salary of $50 per month, and that the services he rendered in negotiating sales of real estate for appellee were in the discharge of his duties as snch officer, and not otherwise; (4) a plea of payment. Appellant replied by general denial. Trial by jury, resulting in a verdict and judgment for appellee. Appellant moved for a new trial upon statutory grounds alone, which motion was overruled. The overruling of the motion for a new trial is the only error assigned, and the only question discussed is that the verdict is contrary to, and not supported by, the evidence. A careful reading and analysis of the evidence has convinced us that the verdict and judgment are right.
+At the time appellant charges that he made the sale to Johnson and to the bank, he was drawing a salary of $50 per month, as secretary, and there is evidence in the record from which the jury- could, and doubtless did, find that one of the sales was negotiated by the president of the board of directors and appellant jointly. Again, long after these sales were made, it is shown that appellant sold his stock in appellee corporation, and had a full and complete settlement with it. At subsequent meetings of the board of directors, which he attended while a member of the board, and secretary, he never made any claim for a commission for making such sales, and never made mention of the fact that he intended to charge a commission. Again there is evidence in the record from which the jury could have found that appellant, had been fully paid for any and all services of whatsoever kind he had rendered appellee.
+Where the sufficiency of the evidence to support the verdict or finding is brought in question on appeal in an appellate tribunal, the question presented is very much like and very nearly the same as that presented by a demurrer to the evidence in the trial court. As. was said in Cleveland, etc., R. Co. v. Wynant, 134 Ind. 681: “The only difference in the two cases is, on a demurrer to the evidence the demurring party, by his demurrer, admits the evidence and logical inferences deducidle therefrom to be true, in favor of the opposite party; while on appeal the appellant does not admit the evidence and logical inferences therefrom to be true, but this court considers them to be true.” Continuing, the court said: “So, too, on an appeal here, the evidence must more than merely tend to support the verdict; it must be such that if every fact proved were admitted to be true, and every fact which could be logically and reasonably deduced therefrom were also admitted to be true, and that these facts embraced every fact essential to the existence and truth of the verdict, then, and not till then, is the evidence sufficient to support the verdict; no matter how great the contradiction to that evidence, if it comes up to the requirement above specified, it is sufficient to support the verdict in this court on appeal.”
+In the case before us the evidence fully sustains the verdict and judgment, and hence we cannot disturb the result reached by the trial court. Judgment affirmed.
