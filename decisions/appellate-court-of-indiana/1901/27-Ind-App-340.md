@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,916"
+decided: "1901-10-03"
+citations: ["27 Ind. App. 340"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kuhn, Guardian, v. Boehne."]
+source_url: "https://static.case.law/ind-app/27/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4879968
+cites_cases: ["104 Ind. 438", "105 Ind. 44", "74 Ind. 327"]
+---
+
+# Kuhn v. Boehne
+
+## Majority (Wiley, R. J.)
+
+Wiley, R. J.
+Action by appellant to recover money alleged to be due his ward, under the provisions of a deed made by one Melcher to appellee. As a part of the consideration for such deed, it was provided that the grantee, after the death of the grantor, should “pay out to the legal heirs of the grantor (she, the grantee, being included as heir), pro rata, the above sum of $1,800 of purchase money without interest.” The complaint avers that appellant’s ward was one of the eight heirs of the decedent and as such was entitled to receive one-eighth of said sum, and that the same had not been paid to her, etc.
+Appellee answered in three paragraphs, viz.: (1) General denial; (2) payment; (3) that after the death of Melcher, it was agreed between appellee and the parties entitled to receive the sum of money directed to be paid by said deed, that said sum of $1,800 should be paid by appellee to the administrator of the decedent’s estate and by him distributed to the heirs; that in pursuance of such agreement, appellee paid said sum to said administrator, and that upon final settlement of said estate the administrator paid the respective heirs the sums adjudged to be due them, except appellant’s ward, who was not then in this State; and that by order of the court the sum due her was by such administrator paid to the clerk of the court for her benefit, and that before the bringing of this suit, appellant, as such guardian, had withdrawn said sum from the clerk, having receipted for the same, with a full knowledge on his part that the sum so received by him was the distributive share of said ward in the money referred to in the complaint. Appellant replied to the second and third paragraphs of answer by a general denial. The case was tried by the court, resulting in a general finding and judgment for appellee. The only error assigned is the overruling of the motion for a new trial, and the entire argument of counsel for appellant is directed to the proposition that the finding of the court is not supported by the evidence.
+The evidence discloses the fact that Melcher left surviving him four children and four grandchildren, and it is argued that under the’ terms of the deed appellant’s ward was entitled to receive one-eighth of said $1,800, and that she received only one-twentieth. We are asked by counsel to construe the provision of the deed above set out, and to hold that under it appellant’s ward is entitled to receive one-eighth of said sum. Under the facts disclosed by the record, we do not think appellant is in a position to ask a construction of that clause of the deed. The evidence shows without material contradiction that after the death of Melcher there was a meeting of his heirs at his late residence to talk over the settlement of his estate. At that meeting appellant was present, and an agreement was entered into' that one John Boehne should be appointed administrator, and that the $1,800 due from appellant under the deed should be paid to and distributed by him to the heirs. In pursuance to that agreement appellee paid to the administrator said sum of $1,800; that he included it in his inventory, and it was appraised as-a part of the estate. Also, that he paid it out to the heirs, and that the sum found due appellant’s ward was paid to the clerk, and that appellant received and receipted for the same. The court in which Melcher’s estate was settled approved the final report of the administrator and found specifically the amount due appellant’s ward, and directed that it be paid into court, which was done. Thereupon appellant receipted for said sum with a full knowledge of all the facts above recited.
+As long as the judgment of the court approving the administrator’s final account and decreeing the amount due said ward stands, appellant is not in a position to ask the relief here demanded. The final settlement of an estate by the order of the court is an adjudication of all matters therein involved, and such settlement can not be collaterally attacked, but must be set aside by a direct proceeding. Peacock v. Leffler, 74 Ind. 327; Carver v. Lewis, 104 Ind. 438. The approval of a final settlement report is an adjudication that the administrator or executor has properly accounted for all the assets of the estate. Carver v. Lewis, 105 Ind. 44.
+This proceeding, in a sense at least, is an attack upon the-, final 'settlement of the Melcher estate, and that too in the face of the fact that appellant received and still retains the money which the court found to be due to his ward. All the equities are with the appellee, and the trial court reached a correct conclusion under the facts.
+Judgment affirmed.
