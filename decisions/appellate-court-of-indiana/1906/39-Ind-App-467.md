@@ -1,0 +1,40 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,206"
+decided: "1906-11-13"
+citations: ["39 Ind. App. 467"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Roby, P. J., Watson and Rabb, JJ., concur. Myers, C. J., and Comstock, J., absent."]
+parties: ["Hurst et al. v. Hawkins, Guardian."]
+source_url: "https://static.case.law/ind-app/39/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2421333
+cites_cases: ["11 Atl. 13", "129 Ind. 124", "140 Ind. 38", "147 Mass. 465", "18 N. E. 225", "20 Ind. App. 12", "27 Ind. App. 218", "42 N. J. Eq. 290", "52 Ind. 588", "53 Ind. 441", "58 Ind. 472"]
+---
+
+# Hurst v. Hawkins
+
+## Majority (Black, J.)
+
+Black, J.
+Flora Hawkins, as guardian of the person and estate of Oliver M. Griffin, a person of unsound mind, brought suit against John M. Hurst, upon whose death the appellants, by order of the court below, pending the proceedings therein, were substituted as defendants. Such proceedings were had that thereafter judgment was rendered March 80, 1905, whereby it was adjudged and decreed that the plaintiff’s ward — said Griffin — was the owner in fee simple of a certain undivided part of certain described real estate in Kosciusko county, and that certain sheriff’s sales were invalid as to said portion of the real estate and should be set aside, i. Erom this judgment the defendants therein brought this "pretended appeal making “Flora Hawkins, as guardian of the person and estate of Oliver M. Griffin,” the sole appellee. The transcript of-the record on appeal was filed March 5, 1906. The appellee, June 15, 1906, filed her verified petition and motion to strike the appeal from the docket, showing that July 12, 1905, after the rendition of said judgment in favor of her ward, he died at Boone county, Indiana, and left surviving him as his only heir at law his sister, said Elora Hawkins, who as such heir sueeeeded to all the right, title, and interest of her deceased ward, in and to the subject-matter of the action, and that no notice of the appeal had been served upon her herein, other than in her capacity as guardian of said Griffin. Thereupon, Tune 25, 1906, the appellants asked leave to amend their assignment of errors by adding thereto the name of Elora Hawkins, in her personal capacity.
+While it was not necessary to make the ward a party with his guardian, the judgment affecting the ward’s title to real estate was properly rendered in favor of the ward.
+The statute provides that in case of the death of any or all the parties to a judgment before an appeal is taken, an appeal may he taken by, and notice of an appeal served upon, the persons in whose favor and against whom the action might have been revived if death had occurred before judgment. §648 Burns 1901, §636 R. S. 1881.
+The guardianship, by the express terms of the statute, terminated on the death of the ward. §2722 Burns 1901, §2552 R. S. 1881. It then became the duty of the guardian to account for and pay over to the proper person all of the estate of her ward remaining in her hands, and, if the ward’s personal estate did not exceed $500, to.report the death and the amount and condition of the ward’s estate to the proper court, and to proceed to settle such estate without letters of administration. §2685, cl. 4, §2687 Burns 1901, §§2521, 2523 R. S. 1881; Stumph v. Pfeiffer (1877), 58 Ind. 472.
+The successor to the interest of the ward involved in this action was his heir at law. If the ward had died pending the suit in the court below, it would have been proper to substitute his heir as plaintiff, instead of the guardian, who thereafter had no interest in the ward’s real estate except to subject it to the payment of debts if needed therefor, in case the settlement of such decedent’s estate without letters of administration should devolve upon the guardian, as above stated.
+When the appeal-was brought naming the guardian of the person in whose favor the judgment was rendered as appellee, there was no such guardian, and the heir should have been made appellee at the institution of the appeal. The pretended appeal, therefore, without any appellee, was a nullity.
+Now, after more than a year from the rendition of the judgment, and after the expiration of the time within which an appeal might be brought against the heir, it is sought, not in terms to.substitute the heir as appellee, but to amend the assignment of errors by adding the name of the heir to that of a person as guardian who no longer exists in the capacity of guardian, for the purposes of this cause; that is, in a pretended appeal, which is in truth a mere nullity, being without an appellee, to make the heir an appellee, which, if permissible in any case, would amount here to the commencement of an appeal after the time limited therefor by statute. See Taylor v. Elliott (1876), 52 Ind. 588; Taylor v. Elliott (1876), 53 Ind. 441; Moore v. Slack (1894), 140 Ind. 38; Doble v. Brown (1898), 20 Ind. App. 12; Hewitt v. Mills (1901), 27 Ind. App. 218.
+The motion of the appellants to amend the assignment of errors is overruled, and the appeal is dismissed
+
+## Rehearing (Hadley, J.)
+
+On Petition for Rehearing.
+Hadley, J.
+Appellants have filed a petition for a rehearing in the above cause, and earnestly insist that the opinion heretofore given is erroneous. They base their contention upon the premise that since the summons or notice of appeal was directed to and served upon Flora Hawkins, as guardian of the person and estate of Oliver M. Griffin, this brought Flora Hawkins in her own person before the court and within its jurisdiction. This is a false premise; and appellants, in fact, concede this when they petition this court to permit them to amend the assignment of errors and make her a party thereto. If she is already within the jurisdiction of the court, the insertion of her name in the assignment of errors would make little difference. El ora Hawkins, as guardian of the person and estate of Oliver M. Griffin, in legal contemplation, is an entirely different person from Flora Hawkins in her personal capacity. In re Batchelder (1888), 147 Mass. 465, 18 N. E. 225; Johnson v. Graves (1891), 129 Ind. 124; Lomerson v. Vroom (1886), 42 N. J. Eq. 290, 11 Atl. 13. If this were an original proceeding instituted against Elora Hawkins, as guardian of the person and estate of Oliver M. Griffin, and summons had been served on her as such guardian only, surely no one would contend that judgment might be rendered in such proceeding against her personally.
+When this appeal was taken the appellee named herein had ceased to exist. Notice of this appeal was pretended to be served on this non-existent person. Such an appeal is a fiction, a nullity, as is well established by the authorities cited in the -original opinion.
+Whether this court has the inherent power to relieve against actual fraud and concealment by extending the statutory time for taking an appeal — and this is what is virtually asked for here — we do not decide. Such a power, if ever exercised, should only be invoked in the clearest cases and where the party seeking its aid is wholly without fault. This is not the case here.
+The only claim of concealment or deception is of a negative sort. Appellee was under no obligation whatever to inform appellants of the death of her ward. Appellants made no effort to ascertain the condition of the guardianship during the period from the rendition of the judgment to the taking of the appeal. And, while they did hot live in the same vicinity, yet, with the modern means of communication, this is no valid excuse. Moreover, appellants took their appeal only twenty-five days before the expiration of the year for the taking'of the same. Had they been diligent in that behalf they would not now be asking for an extension of the statutory period.
+Rehearing denied.
+Roby, P. J., Watson and Rabb, JJ., concur. Myers, C. J., and Comstock, J., absent.
