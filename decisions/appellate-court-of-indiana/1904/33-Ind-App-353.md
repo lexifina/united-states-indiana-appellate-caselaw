@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "4,861"
+decided: "1904-06-22"
+citations: ["33 Ind. App. 353"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Judy et al. v. Gifford."]
+source_url: "https://static.case.law/ind-app/33/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5017755
+cites_cases: ["103 Ind. 238", "11 Ind. 45", "149 Ind. 131", "19 Am. Rep. 677", "26 Ind. 451", "49 Ind. 156", "95 Ind. 596"]
+---
+
+# Judy v. Gifford
+
+## Majority (Henley, J.)
+
+Henley, J.
+This is an action for malicious prosecution. Appellee filed his complaint, in two paragraphs, against all of appellants, in which he averred, in substance, that appellants Judy and Wood were partners, doing business under the firm name and style of “ Judy & Wood,” and that appellant Hunter is an employe of said firm, and acting as their agent, and under their direction; and that on the 27th day of December, 1900, the appellants, maliciously intending to injure appellee, and to harrass and oppress him, falsely and maliciously, and without probable cause, made and caused to be made an affidavit before a justice of the peace in Marion township, Jasper county, Indiana, and caused the affidavit to be filed against appellee, alleging therein that on the 28th day of December, 1900, at said county and State, this appellee then and there did feloniously steal, take, and carry away sixty bushels of potatoes, the personal goods and chattels of John E. Judy, then and there being of the value of $18; that said affidavit was falsely and maliciously made, and without any reasonable or probable cause; that said appellants caused a warrant to.be issued to a duly qualified and acting constable of Jasper county, upon which warrant appellee was arrested on the 29th day of December, 1900, and held until 5 o’clock on said day; that on account of such arrest appellee has been forced to undergo great troubles and labor, both in mind and body, and expend divers sums of money, to the amount of $50, in defending himself, and bas been hindered from transacting his necessary and lawful affairs for said length of time, and has been injured in his good name and character by reason of said false and malicious action on the part of appellants, and he demands judgment for the sum of $5,000. Appellants answered by general denial. The cause was submitted to a jury and there was a verdict against all of appellants in the sum of $300. Appellants each filed a separate motion for a new trial, which motions were overruled, and a judgment rendered in favor of appellee. With the general verdict the jury found certain facts by way of answers to interrogatories, and appellants have each moved for judgment in his favor upon the facts so found. These motions were overruled by the trial court, and the action of the trial court in so doing is one of the questions presented by this appeal.
+The jury found that the appellant Judy did not maliciously institute the prosecution against appellee, and that the appellant Wood did not have any malice against appellee in the institution of the prosecution, but that the appellant Hunter had “malice against the plaintiff Harry Gifford at the time the affidavit in question was filed.”
+In the case of Helwig v. Beckner, 149 Ind. 131, the court said: “Malice, however, is a question of fact to be submitted to and found by the jury, and without proof of malice the action can not be maintained; nor does the law infer malice from the want of probable cause. * * * It is clear that in an action for malicious prosecution, malice is a question of fact. It must be alleged in the complaint, and established by the evidence, and when a special verdict is returned it must be found as a fact by the jury; and, where there is no finding of malice, such verdict will not support a judgment for the plaintiff in such action. Even though the facts found in a special verdict show the want of probable cause, yet neither this nor the trial court can infer malice therefrom, as that inference can only be drawn by the triors of the facts.” See, also, Wilkinson v. Arnold, 11 Ind. 45; Ammerman v. Crosby, 26 Ind. 451; Strickler v. Greer, 95 Ind. 596.
+It was essential to appellee’s cause of action that he allege and prove that appellants acted maliciously. The burden of proof as to the allegation of malice was upon appellee. Helwig v. Beckner, supra; Uppinghouse v. Mundel, 103 Ind. 238; Galloway v. Stewart, 49 Ind. 156, 19 Am. Rep. 677. The jury having found that as to appellants, Judy and Wood, there was no malice, appellee’s action against them necessarily fails.
+Many other questions are discussed by counsel for appellants which arise under the different motions for a new trial, but the conclusion to which we have arrived makes it unnecessary to consider -them.
+No error is presented which would justify a reversal of the judgment as to appellant Hunter. The judgment of the trial court is therefore affirmed as to appellant Hunter, and reversed as to appellants Judy and Wood, with instructions to the trial court to sustain each of the separate motions of appellants Judy and Wood for judgment in their favor upon the answers to interrogatories.
