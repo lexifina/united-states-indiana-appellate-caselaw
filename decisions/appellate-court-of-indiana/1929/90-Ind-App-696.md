@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,530"
+decided: "1929-11-14"
+citations: ["90 Ind. App. 696"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Brock v. Harper."]
+source_url: "https://static.case.law/ind-app/90/cases/0696-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553146
+---
+
+# Brock v. Harper
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Action by appellee against appellant and. others charging them with extortion and conspiracy to extort money from appellee and members of her family.
+It is averred in the complaint that a short time prior to October 27, 1921, defendant John Faries and one Robert Harper were each driving an automobile on a public highway in this state, which said automobiles came into collision; that, as a result thereof, the automobile being driven by Faries was slightly damaged; that appellant was, at said time, and still is, a deputy prosecuting attorney, and Miley was, at said- time, and still is, and claimed to be, a member of the Horse Thief Detective Association, and a constable; that, after said collision, the defendants unlawfully entered into a conspiracy to extort money from Harper and the members of his family, and appellee, by falsely charging said Harper with a criminal offense in connection with said collision, and threatening his arrest therefor; that, in pursuance of said conspiracy, said defendants procured an affidavit to be filed against Harper before a justice of the peace, charging him with an offense under the Motor Vehicle Act of Indiana, and procured a warrant to be issued for his arrest thereon; that thereafter, the defendants, in furtherance of said conspiracy, demanded money from various members of the family of Harper, and threatened his arrest on said warrant, and prosecution unless they met said demands; that appellee is a sister of Harper; that, on October 27, 1927, the defendants Brock and Miley, using their positions as deputy prosecuting attorney and member of a horse thief detective association respectively, in furtherance of said conspiracy, called upon appellee at a church in Sommerville, where she was engaged in teaching school, and told her that, unless she paid them $50 on said day, her brother, the said Harper, would be at once arrested on the said warrant, and tried on said charge, and represented to her that they then had in their possession a warrant for his arrest; that appellee, by reason of such threats and demands, and because of fear of a criminal prosecution of her brother, and of disgrace and embarrassment to herself and her family, was induced to pay, and did pay, to defendants, by check payable to the defendant Miley, $50; that thereafter, the defendants caused to be entered on the dockets of the justice of the peace, before whom said cause was pending, a dismissal thereof for lack of evidence; that appellee is informed, and, therefore, alleges that the defendant Faries received and accepted $10 of said money, and that the balance thereof, namely $40, was equally divided between the defendants Brock and Miley; that neither the defendant Faries, nor anyone else, has paid the account for the repairs for the damaged automobile, but that demand is being made upon appellee and her family for the payment of said account by the person who made such repairs; that, by reason of the facts aforesaid, appellee has been rendered sick and nervous, and caused great worry and anxiety; and that she has been damaged in the sum of $500.
+A trial by jury resulted in a verdict for appellee against all defendants for $150, on which, after appellant’s motion for a new trial was overruled, judgment was rendered, from which this appeal, appellant assigning as error the court’s action in overruling his motion for a new trial.
+Appellant contends that there was no evidence that he was in any way connected with the alleged conspiracy to extort money from appellee. But it appears by the evidence that appellant, using his car, made trips with the defendant Miley when he interviewed appellee at a church in Sommerville, and when he interviewed appellee’s father, and sat in the machine while Miley conducted the interview. After appellee had agreed to pay the $50 to prevent the prosecution of her brother, appellant was so informed, and, knowing that Faries was paid but $10.50 for damages to his automobile, he prepared a receipt in the sum of $50 for Faries to sign when that amount of money was paid. Faries signed this receipt in appellant’s presence. He knew that appellee had promised to send to Miley $50. The next day, after the money was paid, he dismissed the affidavit against appellee’s brother charging him with reckless driving.
+We hold that the jury might infer from this evidence that appellant was a member of the conspiracy with which the defendants were charged, and, the jury having so found, we will not disturb the verdict.
+Appellant undertakes to present questions as to the admissibility of certain evidence, but no objection is found anywhere in the statement of the record, and any error with respect thereto is therefore waived. We find no reversible error in the instructions.
+Judgment affirmed.
