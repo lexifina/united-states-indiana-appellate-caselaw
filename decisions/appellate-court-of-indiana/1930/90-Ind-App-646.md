@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,797"
+decided: "1930-01-28"
+citations: ["90 Ind. App. 646"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carr v. Avery."]
+source_url: "https://static.case.law/ind-app/90/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553011
+---
+
+# Carr v. Avery
+
+## Majority (McMahan, J.)
+
+McMahan, J.
+Action by Beatrice Carr agáinst Dora E. Avery to recover an alleged balance due on a contract for the sale of certain real estate. Answer of denial and payment. Trial by the court, and judgment for defendant. Plaintiff’s motion for a new trial, challenging the sufficiency of the evidence, was overruled, hence this appeal.
+On October 20, 1925, appellant and appellee entered into a written contract whereby appellant agreed to sell and convey to appellee a certain lot in Noblesville for $2,100, which appellee therein agreed to pay. Two hundred dollars was paid at the time the contract was executed. The balance of $1,900 was to be paid on or before December 1, 1925. Morrison and Axline, realtors, acted as appellant’s agents in such sale. The contract was prepared by them and executed by the parties in their presence. The $200 was paid to Morrison and Axline, with the knowledge and acquiesence of appellant. On November 18, 1925, appellee gave Morrison and Axline two checks, which were by them delivered to and cashed by appellant. One of these checks was for $600 and the other for $400. On November 19, appellant entered into a contract to purchase certain property in Sheridan, on which she paid $200, a part of which was taken out of the $200 appellee had paid to Morrison and Axline and which had been retained by them. On November 19, appellant vacated the property she had agreed to convey to appellee, and, on November 23, appellee moved in, and ever since has been in possession of the property. Appellee had been the owner of a farm, which she, on October 13, in writing, had agreed to sell, and on which the purchaser gave his check for $1,000, payable to the order of Morrison and Axline, who were in that transaction acting as agents for appellee, and who were to hold said check or the money thereby represented until the deal for the farm was closed. This transaction was finally closed December 1, on which day appellee was paid the balance due her on the farm, and her deed therefor was delivered to the purchaser. Axline came to appellee’s house and said he had to take money to appellant and wanted to take the $1,000 which the purchaser of the farm had put up to bind that sale, and said he would get the deed December 3. Appellee consented to this.
+Appellee testified that, on December 3, she settled with Axline for the property purchased from appellant, and, on that day, Axline delivered to her a deed from appellant for the property, which deed she accepted and had recorded. Appellant denied having either signed or. acknowledged this deed. The evidence, however, is ample to sustain a finding that she did sign this deed and acknowledged its execution, and left the same with Morrison and Axline, and that Axline, on December 3, after having been given authority by appellee to pay the $1,000 so held by him to appellant, delivered such deed to appellee. We thus have evidence to show that, when the contract between appellant and appellee was entered into, appellee, with the knowledge and consent of appellant, paid Morrison and Axline $200; that, about a month later, when said agents represented to appellee that appellant had to have more money, she gave these agents of appellant the $600 and $400 checks which were, by them, delivered to appellant; that appellant had signed and acknowledged a deed conveying the property to appellee, leaving the same in the possession and control of her agents, who thereafter delivered such deed to appellee.
+We hold the evidence was sufficient to sustain a finding that Morrison and Axline were authorized to collect the balance of the purchase money from appellee; and that, when appellee released her claim to the $1,000 and directed the same to be used in paying the balance due appellant, it amounted to a payment to appellant. The failure of Morrison and Axline to pay the money to appellant does not change the situation. This transaction should be viewed the same as if appellee had paid $1,000 in money to Morrison and Axline, and had received from them the deed which had been entrusted to them for the evident purpose of being delivered upon payment to them of the balance of the purchase money. Appellee was justified in believing, and the court in finding, that Morrison and Axline had authority to collect and receive the money from appellee.
+Judgment affirmed.
