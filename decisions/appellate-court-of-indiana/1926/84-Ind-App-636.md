@@ -1,0 +1,41 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,135"
+decided: "1926-01-28"
+citations: ["84 Ind. App. 636"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sheehan Construction Company v. Hurst."]
+source_url: "https://static.case.law/ind-app/84/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2488270
+cites_cases: ["112 Ind. 59", "12 N. E. 132", "139 Ind. 325", "26 Ind. App. 659", "38 N. E. 796", "55 N. W. 1008", "60 N. E. 456", "97 Mich. 5", "99 Ind. 143"]
+---
+
+# Sheehan Construction Co. v. Hurst
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+Action by appellee to recover from appellant one-third of the profits realized from the construction of a certain road. The cause was submitted upon a request for special findings of facts and conclusions of law, which, in substance, were as follows:
+Appellant, prior to July 25,1918, had been engaged in building sewers and its officers had never been engaged in building roads and streets; that appellee for over ten years prior to that date had been engaged in building roads and streets.
+That sometime during April, 1918, appellant desired to bid on road work and engaged appellee to assist in preparing estimates upon which bids were to be based.
+That in June or July, 1918, the Marion county commissioners advertised for bids on the J. B. Howard road, commonly called the “Speedway Road,” and thereupon' and about July 25, 1918, appellant solicited appellee to assist it in making an estimate of the cost of building said road for the purpose of furnishing a basis upon which appellant could submit its bid, and to assist in the building of the road if- appellant was successful in procuring the contract; that immediately thereafter, appellee went to appellant’s office and met Eugene Sheehan, then and now its president and general manager, and then and there they agreed that if appellant was the successful bidder and procured the contract for the building of said road, appellee was to assist in procuring contracts for materials and in hiring labor, and was to take charge as superintendent of the building of said road, and, as compensation for his services, was to receive one-third of the net profits derived therefrom, and appellant was to finance and furnish the equipment for the building of said road.
+That thereafter and before June 25, 1918, appellee and one Schmidt made such an estimate and fixed it at the sum of $146,357, which estimate was used by appellant in preparing a bid to be filed with said commissioners, and that on July 25,- 1918, appellant filed its said bid in the sum of $173,537, which bid was duly accepted and appellant was on said date awarded the contract; that appellee was not a party to such contract.
+That thereafter, appellant entered into the work, and that, pursuant to the agreement between appellee and appellant, appellee immediately procured contract for material and employed labor and commenced the construction of said road; appellee procured certain of his own equipment owned in partnership with another and placed the same on the work and started excavating and grading under said contract; that he assisted appellant in purchasing necessary road construction equipment.
+That, under and pursuant to their agreement, appellee was paid by appellant $500 between September, 1918, and January 4, 1919; that early in January, 1919, the parties agreed that appellee should receive as an advancement under their agreement thirty-five dollars per week, and thereafter appellee received such payment of thirty-five dollars per week straight time during the time that he worked on said job for appellant, which work ceased May 15, 1920, and that, during said period, appellee was so paid $1,275; that, at the time of said agreement aforesaid, appellee and appellant agreed that the moneys paid thereunder to appellee would be applied pro tanto to satisfy appellee’s share of whatever, if any, profits were netted under such contract.
+That appellant completed the road on or about May 15, 1920, and said road was thereafter approved and accepted by., the county commissioners; that the time actually consumed in the building of said road was sixty weeks; that appellant received $172,534.50 for the building of said road, that appellant was paid eighty per cent, of the contract price on estimates as the work proceeded and the final payment on -May 25, 1920.
+That appellant expended in the execution of said contract $154,494.79.
+That there was a net profit derived from said contract of $18,039.71; that appellant is entitled to one-third thereof, $6,013.24, less the sum of $1,775.00 theretofore paid to him, leaving a principal balance due him of $4,238.24.
+That appellee and appellant did not at any time have a partnership relation, but did have a joint agreement as aforesaid as to the net profits arising from said contract.
+That no other contract existed between the parties as to the Howard or Speedway road contract, and that appellee did not breach such contract.
+That appellant is indebted to appellee under his complaint in the sum of $4,238.24, with interest thereon at six per cent, per annum, amounting to $974.90, making a total .of $5,213.14.
+On these findings, the court stated conclusions in favor of appellee that there was due him from appellant $5,213.14. Appellant’s motion for a new trial was overruled on condition that appellee would remit $1,052.97, which was done, and judgment was rendered in favor of appellee for the balance.
+The errors assigned challenge the conclusions of law and the court’s action in overruling the motion for a new trial.
+There is no material variance between the complaint and the special findings of the court. The fact that it is found that the drawing account agreement was subsequently entered into by which appellee was to receive thirty-five dollars per week, while there is no averment of this subsequent agreement in the complaint, constitutes no substantial variation. Whether this arrangement was a part of the original agreement or was subsequently made, the substantial fact still remains that advancements to appellee were to be deducted from his one-third of the net profits. The variance was immaterial, and is, therefore, not ground for reversal. Hedrick v. D. M. Osborne Co. (1884), 99 Ind. 143 ; Louisville, etc., R. Co. v. Phillips (1887), 112 Ind. 59, 12 N. E. 132, 2 Am. St. 155; Angell v. Loomis (1893), 97 Mich. 5, 55 N. W. 1008.
+It is expressly provided by §400 Burns 1914, being §418 Burns 1926 that no variance between the allegations in a pleading and the proof is to be deemed material, unless it has actually misled the adverse party to his prejudice, in maintaining his action or defense upon the merits. Appellant has not shown, as provided in the section cited, that they were so misled.
+Appellant complains that by finding eight, the court has found a total of cost of construction to be $154,-494.79, while a correct addition shows the amount to be but $121,382.56. But appellant omitted cost items for granite of $7,671, for brick of $24,541.92, and erred in the statement of the salaries by stating the amount to be $1,000 less than it was. While we do not further check appellant’s statement with the record, we shall assume that other errors corrected will confirm the court’s footing. The findings generally are a very clear statement of ultimate facts, and there is evidence to sustain them, and we see no reason for disturbing them.
+Appellant complains of the remittitur required by the court as a condition to overruling appellant’s motion for a new trial. But we see no reason why it should be heard to complain of the remittitur, for it enured to its benefit. This action of the court amounted, in effect, to an amendment of its findings, which, under the later holdings of the Supreme Court and this court, may be done during the term, and before final judgment. Thompson v. Connecticut Mut. Life Ins. Co. (1894), 139 Ind. 325, 38 N. E. 796; Apple, Assignee, v. Smith, Trustee (1901), 26 Ind. App. 659, 60 N. E. 456.
+We find no reversible error.
+Judgment affirmed.
