@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,660"
+decided: "1901-10-30"
+citations: ["27 Ind. App. 507"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephens v. Smith et al."]
+source_url: "https://static.case.law/ind-app/27/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4883381
+---
+
+# Stephens v. Smith
+
+## Majority (Henley, J.)
+
+Henley, J.
+— Counsel for ap-p-ellees have not favored the court with a brief in this case. As is shown by the record, appellant commenced his action in the trial court by a complaint in one paragraph in which he sought, to recover a judgment against appellees upon a promissory note. Appellees answered jointly in four paragraphs, and Anna B. Smith filed her separate answer in four paragraphs. Appellant demurred to the separate answer of appellee Anna B. Smith, which demurrer was overruled. Appellant replied by general denial to the affirmative answers filed by both appellees, and the cause was submitted to a jury, who- returned a verdict in favor of appellees, and there was judgment accordingly.
+Counsel for appellant have assigned error as follows: “Appellant says that there is manifest error in the proceedings and judgment in said cause in this, to wit: (1) The court erred in overruling the demurrer of appellant to the second, third, and fourth paragraphs of Anna B. Smith’s, one of the appellees herein, separate answer to appellant’s complaint. (2) The second, third, and fourth paragraphs of the appellee Anna B. Smith’s separate answer to appellant’s complaint does not state facts sufficient to- constitute a good defense to appellant’s cause of action. (3) The fourth paragraph of appellee Anna B. Smith’s answer is not a good answer of non est factum. (4) The court erred in permitting and allowing the appellees, over the objections of appellant, to introduce in evidence a contract and proposition which was made by appellees herein and accepted by one George W. Eber, the said Eber not being a party to this action, said contract and proposition being marked exhibit D in transcript and bill of exceptions. (5) Tbe court erred in permitting and allowing the appellee, Anna B. Smith, over the objections of the appellant, to answer the questions propounded to her as found upon page seventy-eight at numbers twenty-one, twenty-two, twenty-three, and twenty-four, inclusive, of the bill of exceptions. (6) The court erred in overruling appellant’s motion to strike out the question and answer of the appellee, Anna B. Smith, as found on page seventy-nine at numbers seven, eight, nine, ten, eleven, twelve, thirteen, and fourteen inclusive of tbe bill of exceptions. (Y) The court erred in overruling appellant’s motion for a new trial.” We will dispose of the different specifications of the assignment of errors in the order in which they are assigned.
+Counsel for appellant in this cause have been singularly unfortunate, it seems to us, in failing in nearly every instance properly to present the questions intended by him, to be presented by this appeal. The first specification of the assignment of errors is a joint assignment as to all the paragraphs of the answer, and if either paragraph is good, the error in overruling the demurrer as to any of the paragraphs of answer is not available. The fourth paragraph of answer assailed, is a simple non est factum properly sworn to and unobjectionable in any way whatever. This makes it unnecessary for us to pass upon the question as to whether or not appellant’s demurrer in the form in which it was written presented any question to the trial court. Appellants demurrer to the separate answer of Anna B. Smith was in the following words: “Gomes now the plaintiff and demurs to the second, third, and fourth paragraphs of the defendant Anna B. Smith’s separate answer for the following reasons, to wit: That said paragraphs do not state a good defense to the plaintiff’s cause of action.”
+As to the second and third specifications of the assignment of errors, it is sufficient to say that there is no statute or rule of law which permits a party to test the sufficiency of an answer in the first instance, upon appeal, by a direct assignment of error for that purpose.
+As to the fourth, fifth, and sixth specifications of the assignment of errors, it is sufficient to say that they present proper reasons assignable in a motion for a new trial, but present no question when independently assigned as error in this court. Under the seventh'specification of the assignment of errors counsel for appellant has discussed the one question as to the sufficiency of the evidence to sustain the verdict. There was evidence, in the opinion of the court, justifying the jury in returning the verdict for appellees in this cause. Every rule of law stated by the court in the disposition of this cause is too well established to need the citation of authority to sustain it.
+Judgment affirmed.
