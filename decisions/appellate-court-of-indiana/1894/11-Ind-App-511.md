@@ -1,0 +1,48 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,359"
+decided: "1894-11-27"
+citations: ["11 Ind. App. 511"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cosand v. Lee, by Next Friend."]
+source_url: "https://static.case.law/ind-app/11/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4753930
+cites_cases: ["104 Ind. 486", "107 Ind. 246", "115 Ind. 174", "120 Ind. 43", "123 Ind. 264", "47 Ind. 580", "81 Ind. 527"]
+---
+
+# Cosand v. Lee
+
+## Majority (Reinhakd, J.)
+
+Reinhakd, J.
+This is an action of slander. The first error assigned is the overruling of the appellant’s demurrer to the appellee’s complaint. The first objection urged to the complaint is that it does not show the plaintiff to be a female.
+The complaint begins thus: “The plaintiff, Flora E. Lee, suing by her next friend,” etc.
+The feminine gender is employed throughout the complaint in the use of the pronoun referring to the plaintiff. We think it sufficiently designates the plaintiff as a female.
+It is next objected that the words charged to have been spoken of the appellee are not actionable per se. It is averred in the complaint that the appellant, maliciously intending to injure the good name of the appellee, and to cause it to be believed that she had been guilty of the crime of having had illicit intercourse with men, on the 12th day of October, 1893, in a certain discourse, at Boone county, Indiana, which the appellant then had of and concerning the appellee, and in the presence and hearing of divers good people, falsely and maliciously spoke of and concerning the appellee the following false, scandalous and malicious words, to wit: “Ah, Flora (meaning the plaintiff), you want to come home and lose another young one like you did last summer;” intending thereby to and charging the appellee with having been guilty of having had illicit sexual intercourse with men, and of having become pregnant, and of having given birth to an illegitimate child.
+“Ah, Flora (plaintiff meaning), you want to come home and have another young one like you did last summer, ’ ’—intending thereby to charge the appellee with having been guilty of having had illicit sexual intercourse with a man, and of having become pregnant, and having given birth to an illegitimate child.
+It is also alleged that the appellee is, and always has been, unmarried, and is under the age of twenty-one years.
+A demurrer was addressed separately to each set of words.
+The appellant’s counsel contend that the words in neither set are actionable, because they do not charge a crime. This is not necessary.
+‘ ‘Every charge of incest, fornication, adultery, or whoredom, falsely made by any person against a female * * * shall be actionable in the same manner as in the case of slanderous words charging a crime, the commission of which would subject the offender to death or other degrading penalties.” R. S. 1894, section 286.
+If the words are sufficient to charge the appellee with incest, fornication, adultery or whoredom, they are actionable, whether they charge a crime or not.
+It was not necessary to aver that the words had a provincial or local meaning. The inducement and innuendo laid in the complaint show that the words were spoken of and concerning the plaintiff, and in the presence and hearing of divers good people, and with the intention and to cause it to be believed that she had been guilty of having had illicit sexual intercourse with a man, or with men, and of having become pregnant and given birth to an illegitimate child.
+This is a sufficient averment that the words were spoken in a slanderous sense, and if they were so intended, and can be given that construction, and were so understood, it matters not whether they were actionable per se or not, they will be sufficient. When the words alleged to have been spoken are capable of two constructions, one of which would be innocent, it is for the jury ‘to determine whether they were used and understood in that sense or otherwise. Waugh v. Waugh, 47 Ind. 580.
+In Branstetter v. Dorrough, 81 Ind. 527, it was said: "We need not determine whether the words are or are not slanderous per se, for the inducement and innuendo clearly show that they were uttered slanderously, and are actionable.”
+In the same case the following quotation from Fortescue, J., in Button v. Hayward, 8 Mod. 24, was apw proved by the court: "It was the rule of Holt, C. J., to make words actionable whenever they sound to the dis-reputation of the person of whom they were spoken; and this was also Hale’s and Twisden’s rule; and I think it a very good rule.”
+The court then continues to say: "Charges of unchaste conduct are seldom made in plain words; they are almost always made by indirection and insinuation, but, however made, the words are slanderous when they are intended to convey, and do convey, to the minds of the hearers, the meaning that the unmarried woman, of whom they are spoken, was guilty of fornication.” See, also, Buscher v. Scully, 107 Ind. 246; Binford v. Young, 115 Ind. 174; Freeman v. Sanderson, 123 Ind. 264.
+It is further contended, however, that as neither set of words is actionable per se, the complaint is clearly insufficient for not averring that the words were understood, by those in whose presence they were spoken, as intending to charge the. appellee with fornication, or at least with unchaste conduct. It is not alleged that the words were understood in that sense or had a local or provisional meaning. As we have said, there was a separate' demurrer to each group of words. The first set of words is: "Ah, Flora, you want to come home and lose another young one, like you did last summer.” These words are not actionable per se. We can not say that charging an unmarried female with losing a young one necessarily means, and must be understood to mean, that she has given birth to a child. It may mean that, but it may also mean a thousand other things. To make the words actionable, there must be an innuendo showing two things:
+First. That they were spoken in a slanderous sense, which, as has been said, is sufficiently shown in the complaint.
+Second. That they were understood in the same slanderous sense by those in whose hearing they were spoken.
+The latter averment is wholly absent from the complaint. The rule is correctly stated by Lord Ellenborough, in Woolnoth v. Meadows, 5 East 463, 469, where he says:
+“The plaintiff must have gone into other proofs than of the mere speaking of the words, and he must not only have shown that the defendant’s meaning wás to impute a crime of that nature * but that the words were so understood by the hearers.”
+While we have been referred to no case in this State, and have found none directly holding that such an averment is essential, there are many cases where the point is decided by the clearest inference.
+In Harrison v. Manship, 120 Ind. 43, the complaint alleged that the defendant spoke of and concerning the plaintiff, that he “took and drove off his (meaning defendant’s) ducks and sold them; '* * and that if he (meaning plaintiff) was so mean as to drive his (meaning defendant’s) ducks off and sell them, that he could have them,” which charges were false and slanderous. The court said: “There is no colloquium or innuendo laid in this complaint. We have simply the words 'he drove off my ducks and sold them,’ without any averment as to the circumstances under which the words were spoken, or as to the sense in which they were used, or as to how they were understood.” The complaint was held fatally defective for the want of these averments, even after verdict.
+In Freeman v. Sanderson, supra, Elliott, J., speaking for the court, said: "When slanderous words are used, which, by proper inducement, and innuendo, may be shown to have been used with the intent to charge, and were understood by the persons who heard them to charge, a female with incest, fornication, adultery, or whoredom, they are actionable the same as if the person speaking the words had charged such female, in specific words, with being guilty of fornication or adultery.”
+In Berry v. Massey, 104 Ind. 486, the court, speaking through the same learned judge, ruled that where the hearers of the slanderous charge know the particular transaction referred to, and know that the transaction was not such as constituted a crime, no action for slander can be maintained.
+In Patch v. Tribune Assn., 38 Hun (N. Y.) 368, it was decided that if the words are capable of the meaning ascribed to them, however improbable it may appear that such was the meaning conveyed, it must be left to the jury to say that they were in fact so understood.
+Of course where the words are actionable per se, no colloquium or innuendo is necessary. And where the words are incapable of ascribing to them the meaning claimed for them in the complaint, their meaning can not be extended or enlarged by extrinsic averments in the way of a colloquium or innuendo. Where, however, the alleged slanderous words are capable of conveying the meaning claimed for them, and also equally capable of conveying some other and innocent meaning, we think the proper rule is that the innuendo should show not only that the words were spoken in the slanderous sense, but were also understood in that sense. The words not being actionable per se can not be presumed to have been understood in a slanderous sense. For the reasons stated, we think the court should have sustained the -demurrer to that portion of the complaint alleging the speaking of the group of words first set forth.
+Filed Nov. 27, 1894.
+Judgment reversed.
