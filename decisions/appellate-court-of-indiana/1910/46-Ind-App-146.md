@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,801"
+decided: "1910-03-31"
+citations: ["46 Ind. App. 146"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Federal Life Insurance Company v. Risinger et al."]
+source_url: "https://static.case.law/ind-app/46/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5049804
+cites_cases: ["157 Ill. 108", "173 Ind. 613", "28 Neb. 495", "32 N. Y. 187", "38 Am. Rep. 478", "41 N. E. 760", "42 Mo. App. 485", "44 N. W. 658", "49 L. R. A. 353", "7 L. R. A. 325", "84 N. Y. 28"]
+---
+
+# Federal Life Insurance v. Risinger
+
+## Majority (Rabb, J.)
+
+Rabb, J.
+This action was brought by appellee Risinger against appellant and the Model Life Insurance Company, to recover upon a contract of life insurance, made between the Model Life Insurance Company and Charles L. Risinger,, for the benefit of appellee, and whose risks were alleged to have been reinsured by appellant.
+The questions .presented by the record are identical with those decided in the cases of Federal Life Ins. Co. v. Kerr (1910), 173 Ind. 613, and Federal Life Ins. Co. v. Arnold (1910), ante, 114, except that ip this case, as well as in the case of Federal Life Ins. Co. v. Arnold, supra, the action was' founded on a contract of insurance, stipulating for extended insurance, provided no indebtedness existed against the policy.
+It is insisted by appellant that it appears from the uneontradieted evidence that an indebtedness did exist against the policy sued on, and hence the conditions upon which the liability of the appellant, for. the extended insurance is based do not prevail.
+The facts disclosed by the evidence, upon -which this claim is based, are that the contract entered into between the Model Life Insurance Company and appellant, by which appellant took over to itself all of the assets of' the Model Life Insurance Company, and reinsured its risks, contains one clause purporting to authorize appellant to charge up against each policy issued by the Model Life Insurance Company and reinsured by the Federal Life Insurance Company a sum sufficient to make up a certain reserve fund, nothing being said in the contract concerning the giving of notice to the insured of such assessment or charge, and that, acting under this provision of the contract between the two companies, and without notice to the insured or knowledge upon his part, appellant entered upon its books a charge of $42.45 against the policy sued on, for the purpose of creating the reserve fund referred to, and that this charge thus entered constituted an indebtedness against the policy within the meaning of the terms of the policy, and that it remained unpaid, and thereby destroyed the efficacy of those stipulations in the policy providing for extended insurance. We know of no principle of justice or of law upon which this contention can be sustained.
+When appellant took over to itself the assets of the Model Life Insurance Company, and reinsured its risks, the statute authorizing the transaction between the two companies (§4753 Burns 1908, Acts 1897 p. 318, §15) entered into and became a part of their contract, and imposed the same obligations upon appellant and vested the insured with the same rights against it as existed under the original contract of insurance in favor of the insured and his beneficiary against the Model Life Insurance Company. Federal Life Ins. Co. v. Kerr, supra.
+And conceding, without deciding, that, under the original contract of insurance, the Model Life Insurance Company possessed the power to levy additional assessments upon the assured, for the purpose of creating a reserve fund from which mortuary claims arising out of its contract for extended insurance should be paid, said company could not transfer, by its contract with appellant, any different right in this respect than it possessed, and clearly it could have created no debt against the insured by the levy of an additional assessment for the purpose of creating a reserve fund, or for any other purpose, without giving notice to the insured of its action.
+The justice of the common law abhors the destruction of any civil or property right by any authority, without notice to the party whose right is to be affected, and- an opportunity afforded such party to defend or protect such right. 4 Blackstone ’s Comm. *272; State v. Bryce (1836), 7 Ohio *82; Jones v. State (1890), 28 Neb. 495, 44 N. W. 658, 7 L. R. A. 325.
+Thus, it is well settled that where the charter of -an association gives it the power to expel a member for a certain cause, when the member becomes vested with privileges or property rights in such association, the association cannot exercise its power of expulsion, and thus destroy the member’s right of property or privilege' therein, without notice and an opportunity to be heard, to defend or protect his right. Commonwealth v. Pennsylvania, etc., Inst. (1815), 2 S. & R. 141; Wachtel v. Noah Widows’ and Orphans’ Soc. (1881), 84 N. Y. 28, 38 Am. Rep. 478; People, ex rel., v. Medical Soc., etc. (1865), 32 N. Y. 187; State, ex rel., v. Temperance Benev. Assn. (1890), 42 Mo. App. 485; Ryan v. Cudahy (1895), 157 Ill. 108, 41 N. E. 760, 48 Am. St. 305, 49 L. R. A. 353, and note, page 363, and cases cited.
+This principle applies with equal force where an insurance company is given'the right to levy assessments, and where no definite time is fixed for their payment. Such levy does not becoifie binding on the assured, creates no liability against him, and affects no right' which he possesses under the policy until notice has been given of the assessment, which it is claimed creates the liability or destroys the right. Such has been held to be the law as applied to beneficial societies. 3 Am. and Eng. Ency. Law (2d ed.) 1096, and cases cited.
+The facts of this case bring it clearly within the reason of the rule announced by the authorities referred to.
+To hold that an insurance company, by a secret entry upon its books of a charge or assessment against its policyholders, could destroy their rights under the policy, would be obnoxious to elementary principles of law.
+We'hold that no binding assessment could be made by appellant, or its predecessor, the Model Life Insurance Company, against the policy-holders, without giving notice to the policy-holders of the assessment made, thus affording them an opportunity to pay it, and to protect whatever rights they had under the policies that would be affected by such assessment and their failure to pay it.
+Judgment of the court below affirmed.
