@@ -1,0 +1,43 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,610"
+decided: "1934-06-01"
+citations: ["100 Ind. App. 59"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Aggregates Corporation v. Wente."]
+source_url: "https://static.case.law/ind-app/100/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1569905
+cites_cases: ["109 Ind. 31", "138 N. E. 512", "171 N. E. 323", "85 Ind. App. 109", "9 N. E. 707", "91 Ind. App. 635"]
+---
+
+# American Aggregates Corp. v. Wente
+
+## Majority (Dudine, J.)
+
+Dudine, J.
+Appellant corporation was a wholesale dealer in motor trucks. Its headquarters was in Greenville, Ohio.
+Robert E. Huffard and others formed the Huffard Ruggles Company in the summer of 1928. Said firm was the Indianapolis distributor for appellant’s trucks until about March, 1929, when the name of the firm was changed to “Huffard Motor Truck Company.” Said Huffard Motor Truck Company continued to act as appellant’s distributor until December, 1929, when R. B. Huffard, Inc., was formed and took over said agency and held it until March 18, 1930. Said Robert E. Huffard was the actual head of all said distributing firms, and handled most of the business himself.
+Appellant delivered a certain truck to Huffard Motor Truck Company-while said company was such distributor, and delivered another truck to R. B. Huffard, Inc., while it was such distributor. Said Robert E. Huffard, representing said distributing agencies respectively, sold both of said trucks to appellee Otto E. Wente.
+Huffard, as a representative of one or the other of said distributing firms, sold appellee four other trucks.
+Appellant corporation filed suit against appellee to replevy all of said trucks, the complaint being in the usual form of complaint for replevin. Appellant obtained possession of the trucks by filing replevin bonds. Appellee filed an answer in general denial, and the cause was submitted to the court for trial on the issues formed by said pleadings.
+The court found for appellant as to said four trucks, and for appellee as to said two trucks, and rendered judgment accordingly, by which judgment appellant was ordered to return said two trucks to appellee or pay appellee $6,000.00. Appellant seasonably filed a motion for new trial, which was overruled, whereupon appellant perfected this appeal, assigning said ruling on its motion for new trial as its sole error relied upon for reversal.
+Appellee filed a motion to dismiss this appeal. It will serve no good purpose to set forth the grounds of said motion. The court having considered said motion to dismiss this appeal, now overrules the same.
+The causes for new trial assigned in the motion therefor, and discussed in appellant’s brief are: (1) the decision is not sustained by sufficient evidence; (2) the decision is contrary to law; (3) the court erred in excluding appellant’s Exhibit XI from the evidence.
+The evidence was conflicting as to whether the two trucks were sent by appellant to its distributor on consignment or on open account. Evidence introduced by appellant tended to show that the distributor had no right to sell the trucks without an approval of the sale by appellant, that the sale by the distributor to appellee was made without appellant’s approval, that appellant had retained the title to the trucks, hence appellee had acquired no title to them. Evidence introduced by appellee tended to show that there was no agreement between appellant and its distributor that appellant retained title to the trucks, that the transaction between them was not a sale on consignment, but was a sale on open account, and therefore appellee acquired title through the distributor.
+That this court will not reverse a judgment for insufficiency of the evidence to sustain the decision, where the evidence on the material question or questions of fact, is conflicting, is so elementary that citation of authorities to support the proposition is not necessary. We have read the evidence and find not only that there is a conflict in the evidence on the question of whether or not the transaction between appellant and its distributor was a consignment or a sale on open account, but that the evidence as a whole strongly indicates that the transaction was a sale on open account.
+Exhibit XI was a written instrument which the distributor’s truck driver signed when he got one of said trucks from appellant’s factory. It was entitled “Purchaser’s Proposal,” and covered the truck by description. It contained a provision that title to the truck remained in the manufacturer until the purchase price would be fully paid.
+The evidence clearly shows, and it is hot disputed, that Huifard had a telephone conversation with Mr. Hole, an officer of appellant corporation, concerning the truck transaction on the day before the trucks were received by the distributor, that through that telephone conversation it was understood that the distributor would send two drivers to get the trucks the next day, that the secretary-treasurer of the distributor gave one of the drivers a letter addressed to appellant corporation, the pertinent part of which was as follows:
+“As per Mr. Huffard’s telephone conversation with Mr. Hole . . . you will please deliver to bearer the following Omort Dump Trucks . . . (Description of trucks).”
+and said secretary-treasurer testified that he told said driver to give appellant “a receipt” for the trucks “if it was necessary;” that the driver delivered that letter to appellant corporation, and signed said Exhibit XI. The secretary-treasurer testified that he told the driver he could sign a receipt for the truck but he did not tell the driver anything that might be construed as authority to sign a retention of title contract. There was no evidence showing broader authority in said driver.
+Signing a title retention contract was not within the “apparent scope” of the driver’s authority to sign a receipt for the truck, and the driver could not, under the circumstances, bind the distributor to such a contract.
+Appellant contends however that the exhibit was admissible as res gestae to show appellant’s intention to retain title. Such contention is not sustain-able, because appellee, who was not a party to said transaction, is not bound by appellant’s intention to retain title.
+The evidence clearly shows, and it is not disputed, that the distributor was engaged in the selling of motor trucks to the public, that said two trucks were placed in the distributor’s show room to be shown and sold to the public, and that appellant knew of this practice of the distributor, and made no objection thereto.
+There is evidence which tends to show that appellee purchased said trucks from the distributor, without any knowledge that appellant claimed an interest in them. Apparently the trial court found from the evidence that appellee was an “innocent purchaser,” insofar as appellant’s claims in the truck were concerned. There being evidence which supports such finding, the finding will not be disturbed; on the contrary, for the purpose of this appeal, we are bound to assume that appellee was such an innocent purchaser.
+In Indiana, etc., Securities Co. v. Whisman (1926), 85 Ind. App. 109, 138 N. E. 512, this court held that where an automobile is sold to a dealer with knowledge that he intended to place the same in his stock for sale, and a mortgage thereon for part of the purchase price is duly recorded, the mortgage is void as against a purchaser of said automobile, who purchased it without actual notice of the mortgage, but in the ordinary course of business.
+This court said in that case, that a conditional vendor’s retained title would be void as against an innocent purchaser, under similar circumstances. This court so decided that proposition in LaPorte Discount Corporation v. Bessinger (1930), 91 Ind. App. 635, 171 N. E. 323. On authority of that case we hold that even though appellant intended to retain title to the trucks, when it delivered them to its distributor, it is estopped from claiming such title as against appellee. See Winchester Wagon Works v. Carman (1887), 109 Ind. 31, 9 N. E. 707. The appellant being estopped from claiming title to said trucks, exclusion of evidence of appellant’s intention to retain title, could not be reversible error.
+We hold that the evidence is sufficient to sustain the decision of the court, that the decision is not contrary to law, and that the trial court did not err in excluding said Exhibit XI from the evidence.
+No error being shown, the judgment is affirmed.
+Smith, J., dissents.
