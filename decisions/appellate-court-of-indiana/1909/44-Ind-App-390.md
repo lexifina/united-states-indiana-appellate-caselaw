@@ -1,0 +1,24 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,083"
+decided: "1909-10-15"
+citations: ["44 Ind. App. 390"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bedford Coal and Coke Company v. Parke County Coal Company."]
+source_url: "https://static.case.law/ind-app/44/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5023324
+cites_cases: ["104 Ind. 562", "20 L. R. A. 207", "36 N. J. Eq. 174", "36 Neb. 869", "55 N. W. 279"]
+---
+
+# Bedford Coal & Coke Co. v. Parke County Coal Co.
+
+## Majority (Roby, P. J.)
+
+Roby, P. J.
+Appellee owns and operates coal mines in this State. On October 23, 1905, when the contract in suit was executed, Joseph Martin was, and had been since 1885, its general manager, and as such fixed the prices of coal, made contracts for its sale, and distributed shipments to appellee’s customers to fill contracts made by him. None of such contracts was made by order of the board of directors, nor was any reported to the board. On January 1, 1905, one share of stock was put in Martin’s name, in order to make him eligible, and he was elected president and director of said corporation, which positions he held, in addition to that of general manager, at the time of the execution of said contract. In January, 1905, Martin formed a partnership at Chicago, Illinois, with W. H. Howe, for the purpose of buying and selling coal as jobbers. The firm name adopted was Bedford Coal and Coke Company. In January, February and March, following, said Martin, as appellee’s general manager, made sales of large amounts of coal to said Bedford Coal and Coke Company. On March 6, said co-partnership was converted into a corporation, the stock of which is held in equal shares by said Martin and Howe. On October 20, Howe prepared a written proposition for the sale of coal by the appellee to the Bedford Coal and Coke Company. He mailed this to Martin, who signed the same for appellee and returned it to Howe, who indorsed it as accepted by the Bedford Coal and Coke Company. The facts connected with this transaction and Martin’s connection with the Chicago firm first came to the notice of appellee’s directors in December, whereupon they demanded and received Martin’s resignation, and repudiated the contract. This action is brought to recover damages for nonshipment of the coal covered by said contract, and if there is a recovery the amount will be $10,983.89. Upon the facts found the court stated conclusions of law for the defendant, and the accuracy of such conclusions is the question for decision.
+The relation of principal and agent existed between appellee and Martin. Martin was its agent to sell its coal, and his authority was unrestricted. The relation was one of trust and confidence. The principle which rules this case has been stated as follows in Mechem, Agency, §§454, 455: “Loyalty to his trust is the first duty which the agent owes to his principal. Without it, the perfect relation cannot exist. Reliance upon the agent’s integrity, fidelity and capacity is the moving consideration in the creation of all agencies; in some it is so much the inspiring spirit, that the law looks with jealous eyes upon the manner of their execution, and condemns, not only as invalid as to the principal, but as repugnant to the public policy, everything which tends to destroy that reliance. It follows as a necessary conclusion from the principle last stated, that the agent must not put himself into such relations that his interests become antagonistic to those of his principal. Indeed, this rule is but a restatement of the previous one, and is based upon the same fundamental principles. The agent will not be permitted to serve two masters, without the intelligent consent of both.” An agent to sell cannot sell to himself. Sturdevant v. Pike (1848), 1 Ind. *277; Porter v. Woodruff (1882), 36 N. J. Eq. 174; Jansen v. Williams (1893), 36 Neb. 869, 55 N. W. 279, 20 L. R. A. 207; Story, Agency (9th ed.), §210; 1 Am. and Eng. Ency. Law, 1075.
+Had the contract been made by Martin, agent, with Martin, individually, there could be no room to question the applicability of the foregoing doctrine. The law looks to substance and not to form, and therefore a contract with a firm of which Martin was a partner could make no change in the applicability of the doctrine. Neither does the substitution of a corporate contract, the result of which is to the advantage of the agent, exactly as a partnership contract would be, make any difference. The transaction was fraudulent upon its face as matter of law, and the conclusion of the trial court was correct. Cases similar to Rochester v. Levering (1886), 104 Ind. 562, in which contracts between principal and agent relative to the subject of the agency have been upheld, are not relevant to the facts of this case.
+Judgment affirmed.
