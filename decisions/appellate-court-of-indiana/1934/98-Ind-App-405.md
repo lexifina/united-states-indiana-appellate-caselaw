@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,798"
+decided: "1934-03-30"
+citations: ["98 Ind. App. 405"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith v. Cudney."]
+source_url: "https://static.case.law/ind-app/98/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1572987
+---
+
+# Smith v. Cudney
+
+## Majority (Curtis, J.)
+
+Curtis, J.
+This was an action brought in the Marshall Circuit Court by appellant, Vern Smith, against appellee, Ida M. Cudney, to quiet title to a lot located- in the town of Teegarden, Indiana, which appellant claimed as sole heir of Matilda Smith, deceased, and. which appellee claimed under a warranty deed executed by said decedent five years prior to her death.
+The issues were made by an amended complaint iri five paragraphs, to each of which a general denial was filed; and by a cross-complaint. The issues presented by the first paragraph of complaint were the usual ones raised by a suit to quiet title, asserting title in plaintiff and denying title in defendant.
+The second paragraph challenged defendant’s title as resting upon a pretended deed executed; it was alleged, without consideration, by Matilda Smith, a person of unsound mind.
+The third paragraph alleged fraud and undue influence practiced upon decedent to induce her to execute to defendant a deed for the property in question, defendant at the time sustaining, it was alleged, a fiduciary and confidential relation to decedent.
+The fourth paragraph presented substantially the same issues as the third.
+The fifth paragraph demanded possession of the premises and $200.00 damages for their detention.
+Defendant’s cross-complaint claimed reimbursement for improvements made and taxes paid on the property by defendant as an occupying claimant, in the event the issue of title was found against the defendant.
+The case was tried by a jury, which returned a verdict' in favor of appellee upon all the issues. Thereupon the court rendered judgment for the appellee upon each paragraph of thé amended complaint and also rendered the following judgment upon the cross-complaint: “It is therefore considered, ordered and adjudged by the court that the defendant take nothing on defendant’s cross-complaint.” ' ;■ •
+The appellant seasonably filed a motion for a new trial which was overruled and an exception reserved and this appeal prayed and perfected, assigning as the only error that the court erred in its ruling on said motion. The causes or grounds of said motion are that the verdict of the jury is not sustained by sufficient evidence and is contrary to law and error in giving each of instructions numbered 8, 9, 10, 11, 12, 13, 14, and 15 tendered by the appellee and error in refusing to give each of instructions numbered 2, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, and 28 tendered by the appellant. The errors relied upon for reversal follow the motion as to the first two causes above mentioned but with respect to the instructions reliance is placed alone upon alleged error in the giving of each of instructions numbered 8, 12, 13, 14, and 15 tendered by the appellee and the refusal to give each of instructions 13, 14, 15, 16, 18, 24, and 25 tendered by the appellant. Alleged errors as to instructions pointed out in the motion but which are not carried forward into the errors relied upon for reversal and discussed under propositions, points, and authorities are waived under the well known rule in that respect.
+We have examined the pleadings carefully and read the evidence. It is our opinion that there was competent evidence under the issues from which the jury could reasonably find that the appellant’s mother, Matilda Smith, in about the year 1923, received some pension money and back pay as the widow of her husband who was a civil war veteran and who died in the year 1916 and that with a part of that money to wit: about nine hundred dollars, she purchased in the year 1923 the real estate in controversy taking title in herself ; that her sole heir at law is the appellant; that before receiving the money hereinbefore referred to she was neglected to a large extent by the appellant and had to be supported by charity although her said son was able-bodied ánd a single man; that the appellee was her niece and went to live with her and care for her in 1924 and cared for her continuously thereafter until her death in 1930 and that the services rendered her which consisted of caring for her, cooking her meals, cleaning her house and bathing her were reasonably worth $10.00 per week; that appellee was under no legal obligation to perform such services gratuitously; that on March 23, 1925, the decedent executed and delivered to the appellee a warranty deed to the real estate in question for the consideration of the appellee performing the said services; that there was no question but that the appellee fully and well performed said services for the period of over 5 years and up until the death of the decedent; that the decedent told her neighbors that she deeded her property to the appellee to care for her during the rest of her life; that such services constituted a fair and adequate consideration for said deed to the appellee and that said consideration was wholly executed; that the said decedent was not of unsound mind when said deed was made although there was much evidence on both sides of that question, including evidence of the setting aside of the will of the decedent on the ground of unsoundness of mind. (The will was executed November 7, 1924, and the deed on March 23, 1925) ; that there was no element of fraud or overreaching on the part of the appellee with respect to said deed.
+The evidence fully sustains the verdict and the verdict is not contrary to law unless it may be said, as contended for by the appellant, that it was improperly affected by errors of law resulting from the giving of erroneous instructions or in the refusal to give proper instructions.
+We have carefully studied the instructions given and refused about which complaint is made as well as the instructions given that are not challenged and in view of the issues and the evidence it is our opinion that the jury was fully and fairly instructed and that a correct result was reached.
+We find no reversible error, The judgment is affirmed, •
