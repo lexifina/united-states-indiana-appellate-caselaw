@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,174"
+decided: "1911-03-28"
+citations: ["47 Ind. App. 318"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sargeant et al. v. Leach."]
+source_url: "https://static.case.law/ind-app/47/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5065848
+cites_cases: ["24 Ind. App. 521", "57 Ind. 316"]
+---
+
+# Sargeant v. Leach
+
+## Majority (Ibach, J.)
+
+Ibach, J.
+— This action was brought by appellee against appellants to recover royalties alleged to be due under the terms of a coal mining lease, originally executed by O. P. Sargeant to one Robertson. Said lessor has since died, and appellee is one of his heirs. The lease was subsequently assigned by said Robertson to appellants. The cause was tried by the court, and resulted in a finding and judgment in favor of appellee in the sum of $415.
+The complaint originally was in three paragraphs. The first and second paragraphs w’ere dismissed, and the third charges, in substance, that O. P. Sargeant, the father of these appellants and this appellee, in his lifetime, executed a coal lease to one Robertson, the provisions of which lease, so far as they are pertinent to this action, are as follows:
+“That Robertson is to have a shaft sunk, and ready for operation twelve months from the date of the lease, and then to dig and mine coal and pay the party of the first part for all salable coal at the rate of forty cents per hundred bushels of eighty pounds per bushel; payment to be made monthly for all coal dug and mined during the succeeding years. Said party of the second part [Robertson] reserves the right to all slack for fuel for engine.”
+It is averred in the complaint “that afterwards the contract was orally modified by an agreement that the royalty should be twenty-five cents per hundred bushels, instead of forty cents per hundred bushels, as provided in the lease, and under said agreement said Robertson operated the mine, and paid the royalty therefor to said O. P. Sargeant; that after the death of said Sargeant said Robertson continued to pay the royalty at the rate of twenty-five cents per hundred bushels, until 1897, when Robertson assigned said lease to appellants, who now, and for ten years last past, have operated the mine; that the plaintiff is the owner of two-fifths interest in the coal covered by the lease, having purchased a sister’s one-fifth interest; that there is due to plaintiff $2,000 for royalties unpaid,” for which she asks judgment.
+To the complaint, appellants filed an answer, (1) in general denial, and (2) special matter, in which it is averred that plaintiff is entitled to only one-fifth of the royalties, said royalties to be computed upon a basis of twenty-five cents per hundred bushels, instead of forty cents per hundred bushels, and that defendants are entitled to all the pea and slack coal, by reason of a Construction which had been placed upon the lease by the conduct of the original parties thereto; that no royalty had ever been paid for pea and slack coal, and it was therefore understood between such original parties that no royalty was to be paid for coal of that character, and that they should not now be required to pay royalty therefor to this plaintiff.
+The questions represented by the assignment of errors are (1) Was appellee entitled to her share of the royalties upon the basis of forty cents per hundred bushels? (2) Were appellants entitled to a reduction for the pea and slack coal ? (3) Did the court err in excluding evidence offered by appellants to show that, by long-established practice and usage, a construction had been placed upon the lease by the original parties, in that the pea and slack coal should not be taken into account in figuring royalty?
+It appears from the allegations of the complaint that appellee is asking for the recovery of royalty at the rate of twenty-five cents per hundred bushels, and the amount of the judgment indicates that the trial court calculated the amount of royalty due under the lease at twenty-five cents per hundred bushels. This accords with the contention on the part of appellants as to the amount of royalty to be charged, and there is no reason, therefore, for complaint npon their part as to this question.
+The real controversy presented by this appeal is whether royalty should be paid on coal other than lump and nut coal. This question must be determined from the lease itself. So much of said lease as relates to this question, is as follows:
+“And pay said party of the first part for all salable coal at the rate of forty cents per hundred bushels of eighty pounds per bushel; payment to be made monthly for all coal dug and mined during the succeeding years. Said party of the second part reserves the right to all slack for fuel for engine.”
+There can be no doubt as to the meaning of this portion of the lease before us. It is plain, and is free from any ambiguity. There is no provision in it that is susceptible of any doubt, or is in any respect indefinite. Because other persons, formerly interested in the lease, may have made no claim for royalty for coal other than the lump and nut coal, does not aid appellants. It is evidenced by the language of the lease that if any concession of this kind was made, as alleged in appellant’s answer, it must have been for some reason other than that there was any doubt as to its terms, or that it was in any manner ambiguous, and therefore depended upon the action of the parties themselves for a construction.
+It is well established by numerous cases that a plain, unambiguous contract must be construed by the court according to its express terms. Gardner v. Caylor (1900), 24 Ind. App. 521; Morris v. Thomas (1877), 57 Ind. 316.
+What we have said in disposing of the second question applies with equal force to the third. The court did not err in excluding the evidence tendered. The court found there was due to appellee the sum of $415. This amount was obtained by taking into consideration all the salable coal mined during the period in controversy, including lump, nut, pea and slack coal that was actually Sold by appellants, and by charging appellants at the rate of twenty-five cents per hundred bushels, and allowing appellee the sum of $57.30 as interest. The amount of recovery is fully supported by the evidence. It is also evident, from the amount found to be due to appellee, that the court found that she was not entitled to more than one-fifth of the royalty upon the salable coal produced in such mine.
+We find no available error, and the judgment is affirmed.
