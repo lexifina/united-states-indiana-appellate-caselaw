@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,779"
+decided: "1927-11-02"
+citations: ["87 Ind. App. 79"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tichenor et al. v. Witherspoon."]
+source_url: "https://static.case.law/ind-app/87/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1548414
+cites_cases: ["110 N. E. 998", "164 N. Y. 303", "165 Pa. St. 267", "177 Ind. 292", "43 Ind. App. 661", "48 Ind. App. 238", "51 L. R. A. 687", "60 Ind. App. 412", "88 N. E. 354", "91 N. E. 825", "98 N. E. 60"]
+---
+
+# Tichenor v. Witherspoon
+
+## Majority (McMahan, J.)
+
+McMahan, J.
+Action by appellee against appellants for damages to certain real estate owned by appellee, and alleged to have been caused by the wrongful discharge of mineral and salt water, from an oil well of appellants, into a natural watercourse which runs through the lands of appellee.
+The complaint alleges that appellee owns certain real estate; that appellants were and for some time had been operating an oil and gas. well on certain real estate near that owned by appellee; that, in the operation of such well, there is a large flow and discharge of salt water which is pumped by appellants into a natural watercourse which flows over appellee’s land; that such salt water contains such mineral substances that in flowing down such watercourse it pollutes the water of such watercourse and renders the same unfit for the use of stock, kills all vegetation, and makes the land over which it flows untillable and unproductive; that such water, when drunk by stock, in injurious; and that at times of heavy rains, the banks of . such watercourse are overflowed and the salt water so discharged flows over appellee’s land, thus killing all vegetation and rendering such land untillable, to appellee’s damage. A demurrer for want of facts being overruled, appellants filed an answer of general denial. A trial by the court resulted in a finding and judgment for appellee in the sum of $200.
+The errors assigned relate to the overruling of the demurrer to the complaint and in overruling a motion for a new trial, the specifications of which are that the finding of the court is not sustained by sufficient evidence, that it is contrary to law, error in the amount of recovery, and the exclusion of certain evidence.
+Appellants insist they had the right to use and enjoy their property and to make reasonable use of the watercourse in carrying on their business of producing oil, and that if, without negligence or malice, they, in so using their property, caused loss to appellee, it was a wrong for which there is no liability. The complaint charges the maintenance of a nuisance. Niagara Oil Co. v. Ogle (1912), 177 Ind. 292, 98 N. E. 60; Ohio Oil Co. v. Westfall (1909), 43 Ind. App. 661, 88 N. E. 354; Niagara Oil Co. v. Jackson (1910), 48 Ind. App. 238, 91 N. E. 825; King-Crowther Corp. v. Ashcraft (1916), 60 Ind. App. 412, 110 N. E. 998. The complaint in the instant case is, in substance, the same as the complaint in each of the cases just cited, where the same objections were urged against each complaint that is being urged by appellants against the complaint in this case, and, on the authority of those cases, we hold there was no error in overruling the demurrer to the complaint.
+Appellants by pumping increased the aggregate quantity of water discharged, concentrated it at an artificial point of flow, and changed its character from fresh to salt, whereby it became more injurious to appellee’s land. Prima facie, therefore, they were liable in this action, and the burden of proof was on them to show some reason why the general rule should not apply to them, the general rule being that the right of an upper landowner to discharge water on the lower land of his neighbor is a right of flowage only in the natural ways and natural quantities. If an upper landowner alters the natural conditions so as to change the course of the water, or concentrates it at a particular point, or by artificial means increases its volume, he becomes liable for any injury caused thereby. Pfeiffer v. Brown (1895), 165 Pa. St. 267, 44 Am. St. 660. For a discussion of the right of a riparian owner to pollute the water in a watercourse to the injury of another see Stroble v. Kerr Salt Co. (1900), 164 N. Y. 303, 51 L. R. A. 687.
+Appellants insist they had the right to make a reasonable use of their land in the operation of oil wells and that so long as they used ordinary and prudent care and operated their wells in the usual and approved method, there was no liability for any injury inflicted on appellee’s land. In order to support this contention, appellants undertook to prove by several witnesses that they were operating the oil well in a careful manner and in the only practical way which it could be operated and that they used the approved' methods in its operation. Complaint is made of the action of the court in sustaining objections to the introduction of the offered evidence. This question is not before us under the issues. The theory upon which appellants sought to introduce this evidence was confession and avoidance. The only answer filed by appellants was the general denial. If appellants had answered that the things charged in the complaint were necessary to the enjoyment of appellants in their property; that the maintenance of the oil well was not actuated by malice, and that appellants had used due care in the operation of the well to avoid injury to appellee, the question urged by appellants would probably be so presented as to call for a decision. Under the issues, however, as formed, the court did not err in excluding the offered evidence.
+There is no merit in the contention that the amount of the recovery is too large.
+Judgment affirmed.
+Dausman, J., absent.
