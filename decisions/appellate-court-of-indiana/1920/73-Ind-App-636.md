@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "10309"
+decided: "1920-04-22"
+citations: ["73 Ind. App. 636"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Goldenson v. Lieberman et al."]
+source_url: "https://static.case.law/ind-app/73/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2532424
+cites_cases: ["113 Ind. 373", "14 N. E. 586", "147 Ind. 308", "30 Ind. App. 677", "45 N. E. 94", "59 Ind. 521", "66 N. E. 917", "95 Ind. 521"]
+---
+
+# Goldenson v. Lieberman
+
+## Majority (Nichols, C. J.)
+
+Nichols, C. J.
+Action by appellant against appellees to foreclose a mortgage on real estate situate in Starke county, Indiana, which mortgage had been assigned to appellant by successive assignments from the original mortgagee, appellee Nellie V. Peters. Appellees Lieberman were made parties to answer as to their interests, were notified by publication, and did not appear. Appellees Nellie V. and Robert D. Peters were made parties because of their indorsements of the, notes and mortgage involved. Appellees Gardner were made parties because they appear to be the owners of the real estate mortgaged. The prior rights of appellee Aetna Life Insurance Company are conceded.
+After issues by affirmative answers of appellees Gardner and Peters, which we do not need to set out, there was a trial resulting in special findings of fact and conclusions of law in favor of appellees, except appellee Robert D. Peters, with judgment accordingly, from which, after motion for a new trial was overruled,- this appeal.
+It appears by the special findings of fact, so far as necessary to this decision, that: For a consideration, appellee Nellie V. Peters indorsed without recourse, to William G. Bosworth, three certain notes held by her and executed by appellee Emma Lieberman, the payment of said notes being at the time guaranteed by appellee Robert D. Peters. She also assigned, by separate written assignment, the mortgage involved, and which was executed by appellees Lieberman, to secure said notes. Such assignment was dated January 8, 1915, but was not recorded until March 29, 1916. November 12, 1915, said Bosworth assigned said notes and mortgage by separate written assignment, executed in Cook county, Illinois, to appellant, but such assignment was not recorded until March 29, 1916. December 7, 1914, appellee Emma Lieberman, her husband joining, conveyed by warranty deed the undivided one-half of the real estate mortgaged to appellee Myra Gardner, subject to said mortgage, and subject to a mortgage to Aetna Life Insurance Company, which mortgage is not in controversy. July 21, 1915, said appellee Emma Lieberman, her husband joining, conveyed by warranty deed the undivided half of said real estate, to appellee Samuel Gardner, subject to said two mortgages, which two deeds 'were duly recorded. Appellees Gardner, without any knowledge whatever, actual or constructive, that appellee Nellie V. Peters had assigned her mortgage to said Bosworth, or that' he had assigned it to appellant, executed two mortgages, their wives joining, the one to Aetna Life Insurance Company, for $1,600, and the other to appellee Nellie V. Peters, in satisfaction of the mortgage involved, the new mortgage being in the sum of $474.40, the balance of the $600 mortgage being paid in cash. Before Aetna Life Insurance Company would make a new mortgage, in lieu of one outstanding, it required the release of the mortgage involved, which mortgage was released of record by appellee Nellie V. Peters. As conclusions of law, the court stated that appellant take nothing by his complaint, except as against appellee Robert D. Peters; that he recover of said appellee R'obert D. Peters upon his indorsements on the notes $450; and that appellant take nothing by his mortgage, and that he be denied the foreclosure thereof.
+Appellant contends that an entry of satisfaction of a mortgage by the mortgagee, after the debt secured thereby has been assigned, is void, citing Reeves v. Hayes (1884), 95 Ind. 521. But this authority -was prior to the recording act of 1877. See §§1148, 1149, Burns 1914, Acts 1899 p. 191, §§3, 4, since which time it has been held that unrecorded assignments are void as against subsequent innocent purchasers. Connecticut, etc., Ins. Co. v. Talbot (1888), 113 Ind. 373, 376, 14 N. E. 586, 3 Am. St. 655; Baugher v. Woollen (1897), 147 Ind. 308, 311, 45 N. E. 94; Artz v. Yeager (1903), 30 Ind. App. 677, 680, 66 N. E. 917.
+Appellant next contends that the satisfaction of the mortgage by appellee Nellie V. Peters, without her husband joining, is void. We do not need to consider this contention, for by the same reasoning the assignment to appellant’s assignor would be void.
+Appellant says that appellee Nellie V. Peters should be compelled to satisfy the mortgage made to her by appellees Gardner, and to pay back the $474.40 secured thereby to appellant. No issue of this kind is presented and no such relief sought. We do not pass on ’ the question.
+Appellant complains that the trial court gave no attorney’s fees, or interest on the note, in the recovery allowed against appellee Robert D. Peters. ' The evidence is not in the record, and we are therefore unable to say that there should have been any amount included in the judgment for these items. We find no error. The judgment is affirmed.
