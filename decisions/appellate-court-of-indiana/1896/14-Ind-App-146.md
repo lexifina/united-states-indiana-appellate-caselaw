@@ -1,0 +1,38 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,717"
+decided: "1896-01-10"
+citations: ["14 Ind. App. 146"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holman et al. v. Stannard."]
+source_url: "https://static.case.law/ind-app/14/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4785513
+cites_cases: ["108 Ind. 232", "110 Ind. 299", "111 Ind. 56", "70 Ind. 314"]
+---
+
+# Holman v. Stannard
+
+## Majority (Reinhard, J.)
+
+Reinhard, J.
+The appellants, Andrew J. Holman and Samuel P. Lewman, sued the appellee on' a written agreement by which the appellants agreed to furnish all necessary bonds that might be required by the court in a proposed suit or proceeding on the part of certain of the heirs of Elizabeth Wathem, deceased, against the •devisees named in her alleged will, the object of the suit being to contest said alleged will, and further agreeing to pay all costs that might be adjudged against the contestants, and to aid said Stannard, who was an attorney in said suit, in procuring testimony in said cause, the said Stannard agreeing, on his part, that of the amount received by him under his contract of employment as attorney in said suit (which was in writing and dated March 19, 1888), he would pay over immediately one-half thereof to the appellants, with certain limitations, and that he has failed to do so. They demand judgment for $3,000.
+Upon issues joined, the cause was submitted for trial to the court, resulting in a finding and judgment in favor of appellants for $12. YO. A motion for a new trial filed by appellants having been overruled, and the appellants feeling aggrieved on account of the alleged inadequacy of the amount of the recovery, bring this case here on appeal.
+The assignment of errors is:
+1. That the court erred in overruling appellants’ demurrer to the fourth paragraph of the answer.
+2. That the court erred in overruling the motion for a new trial.
+To this assignment the appellee files a special answer in two paragraphs, the second of which alleges,that after the recovery of said $12. Y0 by the appellants, the appellee paid into the hands of the clerk of the Clark Circuit Court the full amount of said judgment, to-wit: the sum of $12.Y0, for the purpose of discharging and satisfying said judgment in full, which amount was afterwards received by the appellants and receipted for by them.
+The appellee has also filed a motion for a certiorari and to dismiss this appeal, which motion is supported by the affidavit of appellee, showing that after the rendition of said judgment, the appellee paid into the hands of the clerk of the Clark Circuit Court the said $12.70 in full payment of said judgment, and that afterwards, on the 27th day of July, 1895, the appellants, having been notified of the receipt of said sum. of $12.70, so paid to said clerk for their use, received the same and executed 'a receipt therefor on the margin of the record in which said judgment is recorded, wherein and whereby they acknowledged the full satisfaction of said judgment; that the receipt so executed by them on the margin of said record is wholly omitted from said transcript, etc.
+Wherefore appellee prays that an order be issued to the clerk of said court requiring him to make and certify to this court the receipt so made on said record and that this appeal be dismissed.
+The appellants file their counter-affidavits to the following effect:
+Appellant Lewman says that he did not receive any of the money paid by the appellee to said clerk on said judgment, nor did he know of the payment of the same nor authorize his co-appellant, or any other person, to receive it, nor has he consented to or ratified the receipt thereof by his co-appellant or any other person, and that if received by this co-appellant it was done without affiant’s knowledge or consent, and that affiant had no knowledge of said money having been paid into court or having been receipted for until about ten days before the making of the affidavit, which was dated December 16, 1895.
+Holman says in his affidavit that he was informed by said clerk that a certain amount of cost was due by him and his co-appellant, and that he went to the clerk’s office to pay the same, taking with him a sufficient amount to pay the part of his co-appellant, which he had received from the latter; “that in the settlement with said clerk he was informed by the clerk that there was $12.70 due, as appeared from the records of said ■court, and said sum had been paid in for his use; that without any knowledge that he would in any manner, and without intending to, prejudice his appeal herein, hut fully believing that he had a right to the possession of said money, he receipted for the same as directed by the clerk, and then paid the said clerk out of the money so received from his co-appellant the balance of such cost demanded by said clerk; that he received no sum at the time, or at any other time, from said clerk; that he is informed, and believes, that the cost so demanded by said clerk was not due or collectible, but should have abided the appeal in this case; that the bond given upon such appeal had suspended the operation and effect of the judgment for cost; that there was no money due said clerk, and that the said $12.70 paid into the clerk’s office, as set out in appellee’s petition, is still in the hands of said clerk.”
+From the facts disclosed by the affidavits, we think it sufficiently appears that the appellants, or at least one ■of the appellants, who was a joint judgment plaintiff with his co-appellant, have received the full amount of ■said judgment which was paid by the appellee to the clerk. That it was applied to the payment of cost can make no difference as to the result.
+It is provided by statute that “The party obtaining judgment shall not take an appeal after receiving any money, paid or collected thereon.” R. S. 1881, section 632.
+Under this section of the statute, it has been uniformly held by the Supreme Court that where the appellant has received the whole or any part of the judgment from which he appeals, the appeal must be dismissed, as there is nothing more in controversy between the parties. State, ex rel., v. Kamp, 111 Ind. 56; Monnett v. Hemphill, 110 Ind. 299. And so, in a suit to foreclose a mortgage covering different tracts of land, a decree declaring the mortgage invalid as to one of such tracts, but a valid lien on the other, cannot be appealed from if the plaintiff procures a sale to be made under such decree and buys in the tracts. Sterne v. Vert, 108 Ind. 232. See, also, State, ex rel., v. Hebel, 70 Ind. 314.
+Filed January 10, 1896.
+It is not denied that the money was received by one of the joint co-plaintiffs, and a receipt entered in satisfaction thereof. This was binding on his co-appellant.. It needs no argument to demonstrate the unsoundness of the position that the appellant who receipted for the same did not know the legal effect of such an act on his part.
+We do not think a certiorari is necessary. The-return to the writ could make the case no stronger for appellee than it is. The affidavits establish the fact that the appellants have received the money paid in satisfaction of the judgment, and when this has been shown the appeal will be dismissed. In the case of State, ex rel., v. Kamp, supra, it is substantially decided that the relief here asked for may be granted when the facts upon which the motion is made are practically admitted.
+Appeal dismissed.
