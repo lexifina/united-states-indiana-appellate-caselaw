@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,264"
+decided: "1922-05-12"
+citations: ["79 Ind. App. 532"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Red Cross Manufacturing Company v. Stroop."]
+source_url: "https://static.case.law/ind-app/79/cases/0532-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2507553
+---
+
+# Red Cross Manufacturing Co. v. Stroop
+
+## Majority (McMahan, J.)
+
+McMahan, J.
+Complaint by appellee alleging that he and appellant entered into a contract by the terms of which appellant agreed to employ appellee in its manufacturing plant at Bluffton and to pay him monthly at the rate of $1,300 per year, no deductions to be made because of time lost, that he' should be paid for “straight time,” that either party desiring to terminate the contract of employment should give the other sixty days notice, and alleging a breach of the contract by appellant, in that it discharged appellee without any previous notice.
+There was an answer of general denial, and trial by jury, which resulted in a verdict and judgment for appellee.
+The only error assigned is that the court erred in overruling the motion for a new trial, the specifications of which are that the verdict is not sustained by sufficient evidence and is contrary to law. Fourteen of the twenty-four “points or propositions” made by appellant relate to the contention that there is a variance between the allegations of the complaint and' the evidence. The remaining ten points relate to the contention of appellant that an employe is not entitled to recover pay when by reason of sickness he is not able to perform the work orlabor which he was employed to do.
+In support of the first contention appellant says that the theory of the complaint is that appellee, under the agreement, was entitled to a sixty days notice of his discharge; that he was discharged without such notice; that he worked up to the time of his discharge, and was ready, able, and willing to continue to work if permitted to do so, and that by reason of being discharged without notice he was not able to get work during that time, to his damage; that the evidence is that appellee became sick in November before he was discharged and was not able to and did not work during a large part of the time; that on February 11, he again became seriously ill and did only four days work between that date and April 14, the time of his discharge; that he was not working at the time of his discharge, and was not able to do any work for two or three months thereafter.
+The agreement between the parties was verbal. The evidence is not explicit as to what was actually said by the parties at the time the agreement was made. There is evidence sufficient to support the contention of appellee that he was to be allowed pay for “straight time,” that no deductions were to be made on account of time lost, and that he was to be given sixty days notice before the agreement could be terminated. The meaning of “straight time” is ambiguous. There is no evidence that the parties or either of them at the time of making the agreement, explained or used any language indicating what was meant by “straight time,” other than above stated. The evidence is sufficient, however, to justify us in saying that the parties placed their own construction upon the meaning of this expression and as to what they understood it to mean. During the six months prior to appellee’s discharge he had been ill and unable for several months to perform any labor. Between February 11 and April 14, the date of his discharge, he had worked but four days. He received pay for full time, no deductions being made for time lost by reason of sickness. The inference might be drawn that appellant understood that no deductions were to be made on account of time lost by reason of sickness. It was competent for the parties to enter into an agreement as claimed by appellee. Such an agreement is not unlawful. If appellant agreed to give appellee sixty days notice before discharging him, and to pay him for full or straight time without any deductions for lost time, and discharged him without giving the agreed notice, it would be liable to appellee for damages occasioned by reason of such breach. The jury found that such an agreement had been made and that appellee had been discharged in violation of such agreement. The evidence is sufficient to sustain such verdict.
+The general rule, as contended by appellant, is that the inability of an employe by reason of sickness to perform his part of the contract absolves both parties from liability to continue performance. But if the parties have contracted with reference to the possibility of the employe becoming sick- and agree that in case he becomes ill, he shall be allowed pay for full time, the rule contended for by appellant would not control. The rule applies in case there is no agreement to the contrary. But courts can neither make, modify, change, nor add to contracts made between parties, in the absence of fraud or mistake. Their duty is to interpret and enforce them as the parties themselves have made them.
+Judgment affirmed.
