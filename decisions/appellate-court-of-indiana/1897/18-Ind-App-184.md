@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,152"
+decided: "1897-06-03"
+citations: ["18 Ind. App. 184"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Loomis, Receiver, v. Stevens."]
+source_url: "https://static.case.law/ind-app/18/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4809294
+cites_cases: ["12 Ind. App. 410", "143 Ind. 493"]
+---
+
+# Loomis v. Stevens
+
+## Majority (Comstock, J. —)
+
+Comstock, J. —
+The Elwood Iron Works, manufacturers of steam radiators at Elwood, Indiana, by Jacob Loomis, receiver, brought this action to recover on an account for steam radiators furnished to Stevens & Bedwards, a firm composed of Andrew W. Stevens and William Bedwards; pending suit in the circuit court, and before trial, Bedwards died. Andrew W. Stevens and William Bedwards were plumbers, located at Logansport; they entered into a contract with A. 0. Barnett to do all the plumbing and steam' fitting in his new hotel, which he was erecting at Logansport, Indiana. Stevens & Bedwards purchased their steam radiators for said hotel of the Elwood Iron Works, to be delivered on board the cars at Elwood, Indiana. Stevens & Bedwards had a contract with Barnett that the plumbing and steam fitting were to be completed by a certain day, and in default thereof they were to pay $10.00 a day as liquidated damages for every day of delay thereafter.
+It is alleged in the answer and counterclaim of appellee that the Elwood Iron Works had notice of this contract, and that they were buying the steam radiators for the purpose of filling it. Stevens & Bed-wards refused to pay, claiming that the radiators were not according to contract; that they had been put to large expense repairing and adjusting them for use; . that they had been delayed beyond the time fixed in the contract a long time by reason of the failure of the Elwood Iron Works to furnish the two circular radiators, whereby they had been compelled to pay Barnett $10.00 a day. They asked that the damages thus sustained might be set off against the balance claimed, and they recover judgment for the balance.
+The death of William Bedwards having been suggested of record, the case, by order of the court, proceeded against Andrew W. Stevens as surviving partner. On the trial of the cause appellee admitted the contract of purchase, the contract price, that the goods had been delivered, and that the claim was unpaid. The issues of fact were presented in the answers and counterclaim of appellee. A trial resulted in a verdict and judgment for defendant upon his set-off and counterclaim.
+The error assigned is the overruling of the motion of appellant for a new trial. Appellant relies upon the third, fourth, and fifth reasons. The third reason is, error of court in admitting in evidence, over the objections of appellant, the following statément, signed by A. C. Barnett, made out of court in the absence of plaintiff, to-wit:
+“A. W. Stevens. William Bedwards. Office of Stevens & Bedwards, plumbers, steam and gas fitters, and machinists, 423 Market street. Logansport, Indiana, December 29, 1894.
+“This is to certify that the steam radiators manufactured by the Elwood Iron Works, of Elwood, Indiana, and placed in my hotel property in this city by Stevens & Bedwards, have proved unsatisfactory on account of leaking and not being tight; that the circular radiators which were ordered for the office did not arrive upon the date that the completion of the hotel was called for, and that said delay was charged up to the said Stevens & Bedwards at the rate of $10.00 per day for thirty-five days, or $350.00 in all, and allowed and paid by Stevens & Bedwards in settlement with me this day. (Signed) A. O. Barnett.”
+The fourth and fifth reasons are the same as the third, presented in different phraseology. On the trial of the cause the court permitted appellee, after having proved the signature of A. O. Barnett, over the objection of appellant, to read in evidence the statement, supra, set out in the third cause for a new trial; to which ruling of the court and introduction of said statement appellants at the proper time objected and excepted.
+The statement was made out of court by one not a party to the suit, in the absence of the appellant. We think this evidence was improperly admitted. It was not a question as to the competency of the fact to be proved, but as to the method of making the proof. Under the issues, it was competent to prove the settlement between the appellee and Barnett, and what then occurred. Barnett was present in court at the trial, and could have been called as a witness for that purpose.
+It appears from the record that there was a settlement between Barnett and appellee, but that this paper was not signed at the time of the settlement, but some hours afterwards. It could not, therefore, have been admissible as res gestae. Briefly stated, it was simply the written declaration of one not a party to the record, made out of court, in the absence of appellant.
+Appellee contends that, if the admission of this evidence was error, it was' harmless for the reason that the facts sought to be proved are abundantly shown by other evidence. To this proposition we cannot assent. It is true that the witness Johnson testified that a settlement had been talked about in his presence by and between Barnett and Bedwards; that the terms of the settlement were not discussed in his presence, and that he did not know the basis of the settlement. He knew that there was complaint of some ol the radiators leaking, and that Bedwards promised that if Barnett would pay him the balance agreed upon he would repack and make them all right, and that upon this promise Bedwards was paid the balance due. That $350.00 was deducted from the bal-, anee, but that he did not know whether it was upon the contract price, nor upon what account it was deducted. This does not prove what the written statement was offered to prove, namely, the allowance of $350.00 for delay in furnishing the radiators. This evidence was upon a material point ,in issue in the cause. It will be presumed to be prejudicial, unless the record shows the contrary. Elliott’s App. Proced., section 632, note 3; 2 Elliott’s Gen. Prac., section 956; Louisville, etc., R. W. Co. v. Sparks, 12 Ind. App. 410; Johnson v. Anderson, 143 Ind. 493; Pape v. Lathrop, post 633.
+The court erred in overruling the motion for a new trial.
+Judgment reversed, with instructions to sustain ap pellant’s motion for a new trial.
+Wiley, C. J., took no part.
