@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,722"
+decided: "1923-11-02"
+citations: ["80 Ind. App. 455"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anderson et al. v. Hite et al."]
+source_url: "https://static.case.law/ind-app/80/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2500513
+cites_cases: ["121 N. E. 449", "161 Ind. 512", "69 Ind. App. 162", "69 N. E. 253"]
+---
+
+# Anderson v. Hite
+
+## Majority (Remy, J.)
+
+Remy, J.
+On May 20, 1917, appellant Emery H. Anderson, husband of appellant Elizabeth Anderson, was the owner of certain real estate on which was a bona fide mortgage of $3,000; and on that day appellants made and constituted one Charles J. Anderson their attorney in fact to sell and convey the real estate. Pursuant to his authority the attorney in fact thereafter listed the land for sale with Falvey and Sweitzer, real estate agents, who later found that it would facilitate the sale of the land if the mortgage indebtedness thereon was increased to $5,000. Thereupon on July 25, 1917, they caused the attorney in fact to execute a deed conveying the land to appellees with the understanding all around that appellees would, without consideration, and for the purpose of aiding in the sale, execute notes for $2,000, together with a mortgage on the. real estate to secure the same, and would later convey the land to the purchaser who would be obtained by the agents. On September 14, 1917, the agents sold the land to William H. and Mae L. Smith, and on that day and in accordance with the understanding when the land was conveyed to them, appellees, without consideration, conveyed the land to the Smiths, and, concurrently with the execution of the deed, as they had agreed to do, executed two promissory notes each calling for $1,000 payable to appellants one and three years after date, respectively; also the mortgage. The deed to the Smiths contained a provision that the conveyance was subject to a mortgage indebtedness of $5,000. The notes were executed without any consideration, and were made at the request of the agents, and with knowledge of the attorney in fact, for the sole purpose of creating the additional mortgage lien of $2,000, and thereby aiding the agents and attorney in fact in consummating the sale. The deed to appellees was never delivered to them, but was held by the agents until the sale and transfer of the real estate to the Smiths, when it was placed of record. Appellees at no time asserted title to the real estate.
+This action is by appellants against appellees to enforce payment of the promissory notes. The complaint is in the usual form. Appellees’ answer is in three paragraphs: (1) Denial; (2) want of consideration; (3) admits the execution of the notes, and sets forth in detail the foregoing facts. Issues being joined by reply in denial, trial resulted in a verdict for appellees. With the general verdict, the jury returned answers to interrogatories as follows: “(1) Were certain lands in Washington township, Starke county, Indiana, owned by the plaintiff Emery H. Anderson, conveyed to Thomas C. Hite? Answer. Yes. (2) Did the defendants execute the notes described in plaintiffs’ complaint? Answer. Yes. (3) Do the notes described in plaintiffs’ complaint represent part of the purchase price for certain lands in Washington township, Starke county, Indiana, formerly owned by Emery H. Anderson? Answer. Yes. (4) Did the defendants sign the notes described in plaintiffs’ complaint as a favor to one Mark D. Falvey, to be used in a real estate deal? Answer. Yes. (5) If you answer interrogatory No. 4 ‘Yes,’ then, were the notes left with .Mark D. Falvey? Answer. Yes. (6) If your answer to interrogatory No. 4 is ‘Yes,’ did said Mark D. Falvey receive any consideration thereby? Answer. No.”
+The only question we are called upon to determine is: Are the answers to interrogatories in irreconcilable conflict with the general verdict? The only issue tendered by appellees being that the notes in controversy were executed without consideration, it is contended by appellants that the jury’s answer to interrogatory No. 3 is in irreconcilable conflict with the general verdict.
+In determining the sufficiency of the jury’s answers to overcome the general verdict, only the general verdict, the interrogatories and answers, and the pleadings, will be considered. Marshall v. Wymond (1919), 69 Ind. App. 162, 121 N. E. 449. In support of the general verdict it will be presumed that adverse facts specially found were overcome by other proved facts, if such other facts might properly have been proved under the issues. Chicago, etc., R. Co. v. Leachman (1903), 161 Ind. 512, 517, 69 N. E. 253.
+Under the issues as tendered by the third paragraph of answer, it was proper to submit testimony as to the various transactions set forth in the pleading, in-eluding the purchase of the land by the Smiths, and that as a part of the purchase price the Smiths assume the $2,000 mortgage to secure the notes in suit. If this was the view taken by the members of the jury when they answered the third interrogatory, the answer is entirely consistent with the general verdict. It will be observed that the jury did not find that the notes were given as a part of the purchase price for the conveyance to appellees by appellants.
+The answers to interrogatories are not in irreconcilable conflict with the general verdict.
+Affirmed.
