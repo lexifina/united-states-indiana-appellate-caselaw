@@ -1,0 +1,32 @@
+---
+court: "Appellate Court of Indiana"
+docket: "12,870"
+decided: "1928-04-27"
+citations: ["87 Ind. App. 414"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Deutsch et al. v. Schmidt."]
+source_url: "https://static.case.law/ind-app/87/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1548397
+cites_cases: ["141 N. E. 85", "143 N. E. 712", "80 Ind. App. 388", "82 Ind. App. 41"]
+---
+
+# Deutsch v. Schmidt
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+Appellants had a contract with the school city of Gary, to build three school- buildings in said city, to be known as the Horace Mann, Roosevelt and Pulaski schools. The specifications for the three buildings were the same and were to be of brick and reinforced concrete construction. The contract for furnishing the material for and doing the concrete work was by appellants sublet to appellee.
+This action is by appellee to recover of appellants a balance alleged to be due on the subcontract on the theory that it had been fully performed by appellee, and also to recover for alleged extra work performed by appellee during the progress of the work, at the special instance and request of appellants, the amount of the demand being $2,990.44. The school city of Gary and the individual members of the school board were made parties defendant for the purpose of procuring an order for the payment of the judgment obtained out of funds due appellants from said school city.
+Appellants answered in general denial, a plea of payment, and, by a third paragraph, alleged a statement of facts showing overpayment to appellee. Reply in general denial.
+The school city filed answer admitting there were funds in its hands belonging to appellants.
+There was a trial by the court, which resulted in a finding that there was due appellee from appellants $2,473.95, and that the school city had in its hands more than sufficient funds to pay said sum due appellants, on which there was judgment that appellee recover of appellants $2,473.95, and that the school city pay said sum to appellee and the balance to appellants.
+The error relied upon for reversal is the action of the court in overruling appellants’ motion for new trial, under which appellants present that the decision of the court is not sustained by sufficient evidence, that it is contrary to law and that the amount of recovery is too large.
+Appellee has filed his motion to dismiss the appeal for the reason that the school city of Gary should be, but is not, made a party to the appeal. But, in this contention, appellee cannot prevail. This is a term-time appeal and the statute, §706 Burns 1926, provides that: “Whenever a part of any number of co-párties against whom a judgment has been taken shall appeal from such judgment to the Supreme or Appellate Court under the provisions of Sec. 638 of the Revised Statutes of 1881, providing for term-time appeals, it shall not be necessary to make such co-parties not appealing parties to the appeal,- and-it shall not be necessary to name them as appellees or appellants in the assignment of errors, but they shall be bound by the judgment on appeal to the same extent as if they had been made parties.” The motion to dismiss- is overruled.
+• Appellants failed to demur to the complaint, but, in this court, for the first time, undertake to challenge the judgment based thereon for the reason that the complaint does not state facts sufficient upon which to base a judgment. It is well settled, of course, that a complaint cannot first be challenged for insufficiency of facts in this court, and, as to the judgment, it is expressly provided inter alia, §725 Burns 1926, that judgments shall not be reversed in whole or in part for any defect in form, variance or imperfection contained in the pleadings which might have been amended in the court below, but that such defects shall be deemed to be amended in the Supreme Court, or, as in this case, the Appellate Court. In Chicago, etc., R. Co. v. Collins (1924), 82 Ind. App. 41, 143 N. E. 712, it was held that, in every case of variance, the trial court should require the plaintiff to file an amended complaint before rendering judgment in his favor. But, if that important duty should be neglected, the appellate tribunal will treat the complaint as having been amended. To the same effect, see Horwitz Bros. v. Dedloff (1923), 80 Ind. App. 388, 141 N. E. 85.
+Appellant contends that there can be no recovery for extras for the reason that the contract between appellants and the school city of Gary forbade their claiming anything for extras except upon a written contract therefor, that this provision of the contract is binding as well upon appellee as a subcontractor, and that there were no such written orders. But this contention cannot prevail. Appellants admit the greater part of the extras for which appellee sues, and such a provision in the original contract, though binding upon appellants, is not found in the contract between appellee, the subcontractor, and appellants, and is without force as between them.
+As appears by appellants’ brief, there was.a general finding against appellants in favor of appellee in the sum of $2,473.95 upon which judgment was rendered, but appellant, in his points and authorities, undertakes to show by items the basis upon which the court made its finding, and then to challenge the process of reasoning by which the court reached its conclusion. But the record does not disclose the process by which the court reached the amount of its general finding, and we are unable to ascertain from the record just what items are included in the amount of the court’s finding. It is apparent, however, from an examination of the record, not only that appellee demanded a much larger amount than the court gave him by its finding and judgment, but that there were items for which appellee claims compensation, and to sustain which there is some evidence, in excess of the amount of the court’s finding and judgment in favor of appellee. Such evidence is sufficient to sustain the decision of the court. Nothing can be gained by discussing other questions presented by appellants.
+Judgment affirmed.
+Enloe, J. — I concur in the result, but am of the opinion the appeal should be dismissed for failure to make proper parties.
