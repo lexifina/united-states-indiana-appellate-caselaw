@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,342"
+decided: "1929-01-25"
+citations: ["88 Ind. App. 503"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cory v. Howard et al."]
+source_url: "https://static.case.law/ind-app/88/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1550018
+cites_cases: ["1 Ind. App. 28", "12 Ind. App. 150", "128 N. E. 471", "128 Pac. 210", "14 N. D. 454", "27 N. E. 438", "28 Ind. App. 74", "29 N. E. 923", "3 Ind. App. 379", "3 S. W. 382", "39 N. E. 765", "4 L. R. A. (N. S.) 244", "55 Cal. 508", "62 N. E. 60", "71 Wash. 238", "75 Ind. App. 401", "86 Ind. 303", "90 Mo. 659"]
+---
+
+# Cory v. Howard
+
+## Majority (Nichols, J.)
+
+Nichols, J.
+The complaint in this action seeks to set aside a judgment by default. It was filed in the lower court more than two years after the rendition of judgment, and is drawn upon the theory of fraud in the procurement of such judgment. It was tested by demurrer, which was overruled.
+Upon trial of the case, the court found for appellees. Appellant moved for an arrest of judgment, which was overruled, and thereupon the court rendered judgment setting aside the judgment.
+Appellant presents that the court erred in overruling the demurrer to the complaint, and in overruling appellant’s motion in arrest of judgment.
+The complaint alleges and the demurrer admits that as soon as summons in the action in which the judgment was rendered had been served on appellees, they called upon the attorney of record for appellant and told him they had a complete defense to the action and told him what that defense was; that appellant, by his attorney of record and that attorney, then, for the purpose of inducing appellees to refrain from entering an appearance and from presenting their defense, and from giving the case any further attention, told them the case would be dismissed; that neither appellant nor his attorney had any intention to dismiss; that appellees were defaulted and judgment was taken without their knowledge; that, for the purpose of preventing appellees from making application to have the default set aside within two years, no execution was requested and issued until the judgment was nearly two years old; that appellees had no knowledge of the judgment until the sheriff presented the execution on April 21,1927; that the judgment was then more than two years old. This action was commenced within four days thereafter.
+Appellant makes no contention that the averments of the complaint do not show that appellees had a meritorious defense to the action in which the judgment was rendered. He presents only the want of authority on the part of appellant’s attorneys to make the agreement or promise to dismiss the cause of action, relied upon by appellees, and that the averments of the complaint do not show reasonable diligence on the part of appellees to discover and to prevent the fraud-, and reasonable, diligence in seeking relief.
+As the dismissal of a suit does not bar the bringing of another for the same cause of action, the attorney of record has the implied authority to discontinue the action if he sees fit. 4 Cyc 936; Bacon v. Mitchell (1905), 14 N. D. 454,106 N. W. 129,4 L. R. A. (N. S.) 244; Furman v. Bon Marche (1912), 71 Wash. 238, 128 Pac. 210; McLeran v. McNamara (1880), 55 Cal. 508; Gaillard v. Smart (1826), 6 Cowan (N. Y.) 385; Davis v. Hall (1886), 90 Mo. 659, 3 S. W. 382.
+As the attorney had the authority to make the agreement to dismiss the appeal, it follows that appellant was bound thereby the same as if he had made the agreement himself. Devenbaugh v. Nifer (1891), 3 Ind. App. 379, 382, 29 N. E. 923; Thompson v. Pershing (1882), 86 Ind. 303, 310; Evansville Improvement Co. v. Gardner (1920), 75 Ind. App. 401, 409, 128 N. E. 471.
+While the statute, §423 Burns 1926, provides for relief from a judgment taken through mistake, inadvertence, surprise or excusable neglect, the courts, irrespective of the statute, have inherent power to relieve against a judgment procured by fraud. Dallin v. McIvor (1895), 12 Ind. App. 150, 39 N. E. 765; Hoag, Admr., v. Old People’s, etc., Society (1891), 1 Ind. App. 28, 27 N. E. 438; Pepin v. Lautman (1901), 28 Ind. App. 74, 62 N. E. 60.
+In the Dallin case, an agreement to dismiss was broken, and judgment taken by default. Appellant sought relief from the judgment, and, on appeal from a judgment against him, the court says: “That the action would be dismissed by appellee, as agreed, appellant had a right to believe, and not only was his failure to look after the case longer excusable neglect, but the failure of appellee to dismiss his action, and his having the appellant defaulted and causing a judgment to be rendered against him a fraud, against which the court below should have granted relief.”
+Appellant contends that this case is not in point for the reason that it was under the statute, and that it was not an action in equity, but we are not impressed with this contention. The principle as we see it is clearly applicable in an action which appeals to the equitable side of the court. In the Hoag case, the court says: “The courts, even independently of statutes, possess and exercise a very large discretion in vacating judgments by default, for the purpose of permitting a defense to be made on the merits, and, in deciding upon the question of diligence, the action of the court will be reviewed only in extreme cases, involving an abuse of the discretion vested in the court.”
+In the Pepin case the court says: “Courts of equity have inherent power to annul judgments and decrees obtained by any means amounting to fraud. If it is made to appear that the successful party to the suit did something, or caused it to be done, which prevented a real contest in the trial or hearing of the case, a court will not hesitate to open the case for a new hearing upon its merits.” And again: “If the unsuccessful party is by any false promise kept away from court, or-kept in ignorance of the suit, or is represented by an attorney who fraudulently connives at his defeat, or corruptly compromises his interests, he may be relieved from a judgment so obtained, because these are not matters submitted to the court in the actual trial of the case on its merits.”
+Following the principles announced in these cases, and applying them to the facts as averred, we hold that appellees did. not fail to exercise due diligence, as contended by appellant, and that the court did not err in overruling the demurrer to the complaint nor in overruling the motion in arrest of judgment.
+Affirmed.
