@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "13,981"
+decided: "1931-05-07"
+citations: ["96 Ind. App. 468"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pond v. Newgent."]
+source_url: "https://static.case.law/ind-app/96/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1576773
+cites_cases: ["106 Ind. 195", "108 Ind. 183", "39 Am. Rep. 113", "40 Ind. 204", "55 Am. Rep. 727", "58 Am. Rep. 35", "6 N. E. 594", "64 Ind. 220", "74 Ind. 571", "9 N. E. 150"]
+---
+
+# Pond v. Newgent
+
+## Majority (Lockyear, C. J.)
+
+Lockyear, C. J.
+This was an action by L. Russell Newgent, as administrator of the estate of Eva J. Routzahn, deceased, against Oscar L. Pond, the appellant, to recover a sum of money he had collected on a certain note he had in his possession at the time of the death of Eva J. Routzahn, and which note was payable to her order and had been endorsed by her during her lifetime.
+The note was signed by Eugenia Pearl Williamson, who was the niece of said Eva J. Routzahn.
+The note was negotiable, and, being in the possession of the appellant and endorsed in blank to him, he brought suit on it against the maker and as a result of said suit he collected the sum of $2,381.57.
+Thereafter L. Russell Newgent was appointed administrator of the estate of said Eva J. Routzahn, and brought this action against the appellant for money had and received. The complaint is in two paragraphs, one in the ordinary form for money had and received, and the other setting out the facts in detail showing that the appellant was the attorney of the deceased, Eva J. Routzahn, and that she had endorsed the note to him for collection and that the money so collected by him belongs to her estate.
+The case was tried before a jury which returned a verdict in favor of the appellee in the sum of $2,381.57, on which verdict the court rendered a judgment for said amount.
+■ The appellant filed a motion for a new trial on the grounds that the verdict of the jury is not sustained by ' sufficient evidence and is contrary to law, which motion was overruled and the action of the court in that behalf is assigned as error in this appeal.
+Other errors are assigned but they all relate to one question of law and the decision of this court on the legal questions presented will dispose of all errors assigned.
+The contentions of the appellant by a number of pleadings filed and presented to the court can all be stated in a single sentence, towit: “The appellant was the holder in due course of the note in question before maturity, which note was indorsed in blank and delivered to him. There was no contemporaneous written agreement and the appellant was therefore the absolute owner of the note and the effect of said indorsement could not be varied by parol evidence.”
+As between the holder of the note and the maker, the above is a correct statement of the law, but it has always been the law and is not changed by the Uniform Negotiable Instrument Act, where a payee of a note indorses it in blank and places it in the hands of an attorney to collect it, he cannot, as against the payee, say it is his note. If he obtained it for value that is another matter. It would be a strange doctrine to hold that the payee could not show what the real transaction was. Spencer v. Sloan (1886), 108 Ind. 183, 187, 9 N. E. 150, 58 Am. Rep. 35; Stack v. Beach (1881), 74 Ind. 571, 573, 39 Am. Rep. 113; Houck v. Graham (1886), 106 Ind. 195, 6 N. E. 594, 55 Am. Rep. 727; Hazzard v. Duke (1878), 64 Ind. 220; Cox v. Wilson (1872), 40 Ind. 204.
+The Uniform Negotiable Instrument Act, Acts 1913, page 120, Sec. 16; Sec. 11375, Burns 1926, provides: “Every contract on a negotiable instrument is incomplete and revocable until delivery of the instrument for the purpose of giving effect thereto. As between immediate parties, and as regards a remote party other than a holder in due course, the delivery in order to be effectual, must be made either by or under the authority of, the party making, drawing, accepting or indorsing, as the case may be; and, in such case, the delivery may be shown to have been conditioned, or for a special purpose only, and not for the purpose of transferring the property in the instrument. But where the instrument is in the hands of a holder in due course, a valid delivery thereof by all parties prior to him so as to make them liable to him is conclusively presumed. And where the instrument is no longer in the possession of a party whose signature appears thereon, a valid and intentional delivery to him is presumed until the contrary is proved.”
+The evidence in this case shows that the. note was executed in the office of the appellant, who was the attorney of Mrs. Routzahn, and was left in his possession by the maker; Mrs. Routzahn was not present when it was executed. The appellant testified that he was her attorney for a long time; she paid him as she saw fit; he kept no account of what she paid him and did not give her a receipt for any money she paid. He made a trip to Greencastle, Indiana, to obtain the correction of a deed to real estate there. The obtaining of this note in settlement of a matter between Mrs. Routzahn and the maker of the note was a part of the consideration for the assignment of the note to him.
+The witness could not tell how much Mrs. Routzahn had paid him. “It may have been as much as $700. At the time she endorsed the note he did not pay her any money or turn over to her any property. The consideration for indorsing it was the services he had rendered and the services he promised to give.”
+One Emma Stoner, testified that she was a sister of Eva J. Routzahn, who died at the age of 77. She was with her sister in appellant’s office, that her sister left the note in appellant’s hands to collect. It was left there only to collect for her. The witness testified further, “My sister said that to Mr. Pond in those words. She had put it there for him to collect.”
+“After my sister’s death, I saw Pond at the office once or twice. The first time was after the note was paid off. He never told me he had the money. I asked him about what he had done with the money and he said he had spent it; that he had to borrow money to pay his taxes; that he had a $200 and a $50 grocery bill to pay and his orchard did not do any good; he said he would do what was right as soon as he got on his feet.”
+We hold that the indorsement of the note to the appellant in blank was not an absolute endorsement sufficient to pass title unless it was supported by a valid consideration. Having possession of it as attorney for collection, he had a right to bring suit on the note in his own name and collect the amount due which was done; having the money in his possession, the same was subject to this action. There was evidence to support the verdict of the jury as we have above set out. The j ury had the right to believe the witness, Emma Stoner. The testimony of the appellant is not such a satisfactory explanation of the transaction as to convince the average person that the endorsement was for value, and there being competent evidence to support the verdict of the jury, the judgment is affirmed.
+Neal, P. J., not participating.
