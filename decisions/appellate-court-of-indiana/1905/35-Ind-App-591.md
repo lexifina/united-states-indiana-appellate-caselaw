@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "5,179"
+decided: "1905-06-02"
+citations: ["35 Ind. App. 591"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chicago Furniture Co. et al. v. Cronk."]
+source_url: "https://static.case.law/ind-app/35/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5011555
+cites_cases: ["10 Ind. 164", "121 Ind. 385", "140 Ind. 481", "140 Ind. 572", "140 Ind. 647", "151 Ind. 495", "158 Ind. 471", "159 Ind. 428", "161 Ind. 292", "161 Ind. 68", "162 Ind. 406", "18 Ind. App. 289", "2 Ind. App. 502", "21 Ind. App. 30", "29 Ind. App. 410", "31 Ind. App. 488", "6 Ind. App. 97", "63 L. R. A. 948", "9 Ind. App. 536"]
+---
+
+# Chicago Furniture Co. v. Cronk
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+1. Suit by appellee for the alleged wrongful taking and conversion of personal property, consisting of household goods, wearing apparel, and other property. A trial by jury resulted in a verdict for appellee for $200. Overruling appellants’ motion for a new trial is the only error assigned. It is argued that the assessment of the amount of recovery is erroneous, being too large, and that the verdict is not sustained by sufficient evidence. However, upon a careful reading of all the evidence, we can not disturb the jury’s conclusion. There was a sharp conflict in some of the evidence, and it would serve no useful purpose to set out any of the evidence. The credibility of the witnesses was a matter to be determined by the trial court and the jury who saw and heard the witnesses testify. There is evidence in the record authorizing the jury in fixing tire amount of the recovery at the amount they did. See Tea v. Gates (1858), 10 Ind. 164; Kavanaugh v. Taylor (1891), 2 Ind. App. 502.
+The only remaining question argued is the correctness of the thirteenth instruction. One reason for ashing a new trial was that “the court erred in giving instructions numbered two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen and fifteen on its own motion.” To render this available as a cause for á new trial, all the instructions named must be incorrect. But under this assignment appellant assails the thirteenth instruction only. It is not claimed therer was any .error in giving the other instructions. As it could not be claimed that they were all erroneous, the motion for a new trial for this cause, as appellee’s counsel insist, must fail. Cargar v. Fee (1895), 140 Ind. 572; Indiana, etc., R. Co. v. Snyder (1895), 140 Ind. 647; Ohio, etc., R. Co. v. McCartney (1890); 121 Ind. 385; Williamson v. Brandenberg (1892), 6 Ind. App. 97; Mock v. City of Muncie (1894), 9 Ind. App. 536; Douglass v. State (1897), 18 Ind. App. 289; Lawrence v. Van Buskirk (1895), 140 Ind. 481; Young v. Montgomery (1903), 161 Ind. 68; Ginn v. State (1903), 161 Ind. 292.
+Moreover, the instructions are not properly in the record. In the transcript is the original bill of exceptions containing the evidence. Immediately following the evidence and preceding the judge’s certificate appears a copy of the instructions. At the close is the judge’s certificate, which is his original certificate. It seems it is attempted to bring the instructions into the record by copying them into and making them a part of the original bill of exceptions containing the evidence. That is, if the instructions, which are copied into the transcript, are in the record by a bill of exceptions, and no attempt has been made to put them into the record in any other way, a part of the bill by which they are brought in is an original bill. There is no more authority for bringing instructions into the record by a bill, a part of which is a transcript and a part original, than there is for putting the original bill containing the instructions into the transcript. See Andrysiak v. Satkoski (1902), 159 Ind. 428; Getchel v. Chicago Junction R. Co. (1902), 29 Ind. App. 410; Prudential Ins. Co. v. Sullivan (1901), 21 Ind. App. 30; South Chicago City R. Co. v. Zerler (1903), 31 Ind. App. 488.
+Even if the instructions set out were properly in the record, it does not affirmatively appear that the record embraces all the instruction given to the jury. In Lake Erie, etc., R. Co. v. Holland (1904), 162 Ind. 406, 63 L. R. A. 948, the court said: “The settled rule of this State goes even further than applies to this record, namely, that the record must affirmatively show that it embraces all the instructions given to the jury; and, upon failure to do so, we must presume that the substance of instructions asked and refused was embraced in charges given by the court, and not contained in the record, and that objectionable instructions given by the court of its own motion, and set out in the record, were corrected or withdrawn in others given and not embraced in the record.” Citing State v. Winstandley (1898), 151 Ind. 495; Board, etc., v. Gibson (1902), 158 Ind. 471, 490.
+Judgment affirmed.
