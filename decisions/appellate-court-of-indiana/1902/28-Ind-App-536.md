@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "3,518"
+decided: "1902-03-21"
+citations: ["28 Ind. App. 536"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tanner et al. v. Mishawaka Woolen Manufacturing Company et al."]
+source_url: "https://static.case.law/ind-app/28/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4894789
+cites_cases: ["109 Ind. 31", "128 Ind. 367", "156 Ind. 596", "57 Ind. 461", "58 Am. Rep. 382", "60 Ind. 214", "63 Ind. 322"]
+---
+
+# Tanner v. Mishawaka Woolen Manufacturing Co.
+
+## Majority (Henley, J.)
+
+Henley, J.
+The facts in this case are substantially as follows: Appellants were engaged in the retail of general merchandise as partners, in the village of Thayer, Newton county, Indiana, and in November, 1898, sold their entire stock of goods to one John DeJong, who is named as one of the appellees herein. Appellants received part cash, and the residue of the purchase money was evidenced by notes secured by a chattel mortgage on the stock of goods. De-Jong defaulted in the payment of the notes, and on the demand for the possession of the stock of goods, under the chattel mortgage, he refused to deliver the same to appellants, who thereupon filed their complaint in replevin in the Newton Circuit Court against him, and upon the trial of said cause appellants recovered judgment against said DeJong. Appellee Mishawaka Woolen Manufacturing Company, who was made a party defendant in the action brought by the appellants against DeJong, filed a cr'oss-complaint against appellants and said DeJong and caused summons to issue accordingly and tried the issue made .by the cross-complaint at the term of court succeeding the trial upon the original complaint. By the cross-complaint, the Mishawaka Woolen Manufacturing Company, hereafter called the appellee, claimed to be the owner of a portion of the goods replevied by these appellants. Its cross-complaint was in two paragraphs; one in replevin, based upon a certain conditional bill of sale by which the title to the goods sold remained in the appellee until they were fully paid for, and the other paragraph was one alleging conversion of the goods claimed by the appellee. Upon a trial of the issue presented by the cross-complaint and answer thereto, the trial court rendered judgment against John-DeJong for the full amount of the claim, and .against the appellants for $55, which was the value of the. goods remaining unsold, and which went into the hands of appellants by virtue of their action for replevin against said DeJong.
+The record in this case is in such a condition that only one of the specifications of the assignment of errors presented by appellants’ counsel in their brief can be considered. The question which is properly presented and argued relates to the ruling of the trial court in overruling the demurrer of the appellants to the amended first paragraph of "the cross-complaint of the appellee. In the first place it might not be out of place to state that it is well settled law in this State that there may be a conditional sale of personal property whereby the vendor retains ownership until the agreed price is paid, although the vendor parts with possession of the property so sold. Steele v. Aspy, 128 Ind. 367; Domestic, etc., Co. v. Arthurhultz, 63 Ind. 322; Winchester, etc., Co. v. Carman, 109 Ind. 31, 58 Am. Rep. 382; Hodson v. Warner, 60 Ind. 214.
+It is objected to the first paragraph of the cross-complaint that no demand is averred, and that it is not stated in what county the property is believed to be detained. It has been held by the Supreme Court in this State that where, as in this case, possession of the property is not claimed before trial, proof need not be made of the detention of the property in the county where suit is brought, Robinson v. Shatzley, 57 Ind. 461, and that action may be commenced in any county where defendant resides. Hodson v. Warner, supra. It is also the law in this State that where the possession of the goods was wrongfully acquired no demand is necessary before the action for possession is commenced. Robinson v. Shatzley, supra, and cases cited. The cross-complaint in this case averred that the appellants wrongfully obtained possession of the goods in question, and were wrongfully in possession of them at the time the action was commenced. We thinlr the trial court correctly overruled the demurrer to the cross-complaint.
+All of the questions arising upon the appellants’ motion for a new trial require for their consideration the evidence which was adduced upon the trial. There is an attempt to bring the evidence in the record under the act of 1899. Acts 1899, p. 384. Section 6 of this act, which attempts to provide a means by which the evidence can be brought into the record upon appeal, has been held by our Supreme Court to be invalid. Adams v. State, 156 Ind. 596. Tho evidence is not in the record. There is no error for which a reversal can be ordered.
+Judgment affirmed.
