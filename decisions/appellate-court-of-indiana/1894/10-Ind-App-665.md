@@ -1,0 +1,56 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,186"
+decided: "1894-10-31"
+citations: ["10 Ind. App. 665"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morrison, Plummer & Company v. Schlesinger et al."]
+source_url: "https://static.case.law/ind-app/10/cases/0665-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4744050
+cites_cases: ["10 Ind. 151", "132 Ind. 588", "20 N. Y. Supp. 780", "25 Ind. 31", "28 Pa. St. 225", "4 Ind. App. 242", "7 Ind. App. 399", "73 Ind. 409", "8 Ind. App. 324", "9 Ind. 430", "94 Ind. 292"]
+---
+
+# Morrison Plummer & Co. v. Schlesinger
+
+## Majority (Gavin, J.)
+
+Gavin, J.
+The appellant, a corporation, sued appellees, Becker & Schlesinger, upon a note executed by Becker and a guaranty executed by Schlesinger.
+In the second paragraph appellant set up an account for goods sold and delivered on the faith of the guaranty. An answer of nine paragraphs was filed. A trial resulted in a special finding by the court and conclusions of law in favor of appellees, for whom judgment was rendered.
+The several affirmative answers were tested by demurrer, and error is assigned upon the court’s action in overruling each of these.
+It is expressly stated by counsel for the appellant, however, that “all the evidence given by the appellees relate to the issues attempted to be raised by her 9th paragraph of answer to complaint No. 1 and her 6th paragraph of answer to complaint No. 2.” This being true, and the special finding showing clearly that the judgment is based on those paragraphs, we are relieved from the duty of determining the sufficiency of the other paragraphs, since the rulings there were in any event necessarily harmless. Doan v. Dow, 8 Ind. App. 324; Hill v. Pollard, 132 Ind. 588.
+The guaranty reads as follows:
+[copy op guaranty.]
+“Chicago, May 26, 1891.
+“For value received, from Morrison, Plummer & Company (Incorporated), of this city, and for the purpose of securing a credit with said company for Harry V. Becker, I hereby guarantee the full and punctual payment to Morrison, Plummer & Company (Incorporated) of all indebtedness which said Harry V. Becker, of Chicago, county of Cook, and State of Illinois, has incurred, or may incur for purchase of goods, wares, and merchandise from said Morrison, Plummer & Company (Incorporated), whether such purchases shall be or shall have been made on credit or otherwise, or secured by note or otherwise, without requiring notice of any kind with respect thereto, it being understood that my liability hereto for said indebtedness shall not exceed at any one time the amount of seventeen hundred ($1,700) dollars. I further agree to pay said Morrison, Plummer & Company (Incorporated) all costs, expenses, and reasonable attorney’s fees, paid by said company in obtaining payment for such purchases from said Harry Y. Becker or myself.
+“This guaranty to be an open and continuous one until revoked by notice in writing by me.
+“Nanette Schlrsinger.”
+The ninth paragraph of answer sets up that Becker was insolvent and made an assignment, after which he entered into a composition with his creditors, of whom appellant was one; that appellant refused to sign the composition agreement unless said guaranty was executed to secure the deferred payment mentioned in the agreement as due to appellant; that this guaranty was executed without the knowledge of the other creditors, and by it appellant sought to obtain an undue advantage over the other creditors, who accepted notes without any security whatever, and without knowledge of said guaranty; that said composition agreement was carried out and the property returned to Becker by the assignee upon the written request of all the creditors, including appellant.
+While the exhibits filed with this answer make more particular and specific the averments of the pleading, they do not, in our opinion, add anything to the material averments, nor would their absence, therefore, detract any from them.
+Counsel insist that without the exhibits “the nature and terms of the composition agreement are not shown. No facts are stated showing any acts that would constitute a fraud. ’ ’ The determination of the merits of this case does not require a knowledge of the specific terms of the agreement of composition. When it appears that a composition agreement was entered into by all the creditors, and that the notes to appellant, provided for therein, were by this outside arrangement to be and were secured, without the knowledge of the other creditors, whose notes were wholly unsecured, we have facts stated which show fraud of the rankest character. The fraud does not rest upon the concluding general averment that a fraud was thereby perpetrated, but the conelusion of fraud follows irresistibly and inevitably from the facts charged.
+Counsel further say that the pleading is not sufficient to answer the whole complaint, because “the second paragraph of the complaint is for goods sold Becker in August, being over three months after all the facts referred to in this answer took place.” This is the only argument and all the argument advanced to support this proposition. The conclusion drawn by no means follows from the premise.
+This position of appellant is discussed more fully by its counsel in presenting the exceptions to the conclusions of law, and will be further considered by us when we reach that branch of the case. It is sufficient to say that the counsel have not, in our judgment, advanced any argument which will overthrow the answer.
+We are unable to discover any material difference between the sixth paragraph of answer to complaint number two, and the ninth paragraph upon which we have just passed.
+We now come to the questions presented by the exceptions to the conclusions of law. All the facts necessary to make a prima facie case for appellant are properly found. Unless the finding contains, in addition thereto, such facts as overthrow this prima facie case, and establish the ninth paragraph of answer, the appellee must fail.
+It is unquestionably the law that where a debtor enters into a composition with his creditors, any secret agreement whereby one of the' creditors secures to himself some advantage over the other creditors, is a fraud upon them, and invalid.
+This is true, although the effect of it is not to give the one creditor more money than the others, but simply further security.
+The law holds the debtor to the strictest good faith with his creditors in making a composition. It also requires from the creditors the utmost good faith and fairness toward each other.
+It is also the law that the debtor himself may set up the fraud in defense of an action on the secret agreement. Shinkle v. Shearman, 7 Ind. App. 399; Kahn v. Gumberts, 9 Ind. 430; McFarland v. Garber, 10 Ind. 151; Leicester v. Rose, 4 East. 372; Stuart v. Blum, 28 Pa. St. 225; Frieberg v. Treitschke, 55 N. W. Rep. (Neb.) 273; Hanover Nat’l Bank, etc., v. Blake, 20 N. Y. Supp. 780; 3 Am. and Eng. Encyc. of Law, 396; Greenhood on Pub. Pol., Rule 154, p. 141.
+This proposition does not seem to be seriously controverted by appellant’s counsel, but they very earnestly insist that since the guaranty covers both present and future liabilities, it is separable, and that although the agreement may be void, so far as it relates to the existing indebtedness, which was included in the composition, still it may be valid and binding so far as it purports to protect appellees in their future sales.
+From the special finding, it appears that Becker was indebted to appellant and others, made an assignment and then agreed upon a composition with his creditors, including appellant, by the terms of which he was to pay 33 K cents on the dollar, cash, giving his individual notes for the residue; that this composition was carried out by the parties, the assignment proceedings dismissed and his property returned to him; that the notes sued on were executed in fulfillment of this composition on May 26, 1891; that the other creditors received no security on their notes, and had no knowledge of appellant’s receiving said guaranty.
+It is further found: “12. That the plaintiff would not execute said composition agreement set out in No. 10, until the defendant Nanette Schlesinger would and did sign the guaranty mentioned in the complaint.”
+“23. That there was no other or different consideration for the notes and guaranty mentioned in the complaint than the composition agreement set out in finding No. 10.”
+“2d>/£. That said guaranty secured a further credit for said Becker with plaintiff, and that in consideration thereof plaintiff, in August, 1891, sold and delivered to him the goods mentioned in the second paragraph of complaint.”
+It is urged by counsel that because the guaranty is, as to future sales, a continuing one, and the future sale is wholly separable from the past indebtedness, and was made in consideration of the guaranty, therefore it is valid as to such sales.
+It has been adjudicated' in our State that where the consideration is in part valid and in part invalid, and it is practicable to separate the valid from t that which is vicious, the law will support so much of the contract as clearly appears to rest upon the valid consideration only. Hynds v. Hays, 25 Ind. 31; Doan v. Dow, supra.
+The vice existing in appellant’s argument, however, is that here the valid is not separable from the invalid. The guaranty was not, even as to future sales, made merely because the guarantor desired to give Becker a credit with appellant. On the contrary, the prime moving cause, operating upon her mind to procure the execution of the guaranty, was the appellant’s agreement to sign the composition, which was, under the circumstances, a fraud and wrong, and can not be permitted to be the basis upon which shall rest, to any degree, the promise of appellee.
+Appellant’s fraudulent act was a constituent element of the consideration, which induced the execution of the guaranty. The fact that appellant’s acceptance of the guaranty and its sales under it might ordinarily furnish an adequate and sufficient consideration for it, does not gainsay nor overthrow the fact that the fraudulent conduct of appellant was also a potent factor in procuring it.
+Filed Oct. 31, 1894.
+As well might it be contended that if the guaranty was executed under duress, yet if the goods were afterward sold in reliance upon it, recovery could be had. Knowing the infirmity in it, appellant could not rightfully rely upon it.
+It being impossible for us to say that any part of the contract of appellee rested wholly upon the valid and legal consideration, no part of it is enforceable. Saxon v. Wood, 4 Ind. App. 242; James v. Jellison, 94 Ind. 292 ; Everhart v. Puckett, 73 Ind. 409; Hynds v. Hays, supra.
+As. we view them there is no conflict nor want of harmony in the special findings, and the evidence was sufficient to justify them. Neither has appellant shown that there was any error in admitting evidence.
+We have examined and considered all the questions presented by counsel, and find no cause for reversal.
+Judgment affirmed.
