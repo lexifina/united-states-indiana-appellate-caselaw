@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,068"
+decided: "1916-10-04"
+citations: ["62 Ind. App. 679"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pence v. Pence."]
+source_url: "https://static.case.law/ind-app/62/cases/0679-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5155548
+cites_cases: ["113 N. E. 751"]
+---
+
+# Pence v. Pence
+
+## Majority (Felt, J.)
+
+Felt, J.
+This is a suit for damages for personal injuries alleged to have'been received by appellee on account of appellant’s negligence in running his automobile into' and against a buggy in which appellee was riding. The complaint in one paragraph was answered by a general denial and by a second paragraph of special answer. The case was tried by a jury and a verdict returned for appellee in the sum of $825. Judgment was rendered on the verdict.
+The only error assigned is the overruling of appellant’s motion for a new trial. The grounds of the motion, which under the rules are fairly presented 'by the briefs, challenge the sufficiency of the evidence and the giving of instructions Nos. 6 and 8 on the court’s own motion.
+Appellant alleges in his special answer, and claims the evidence conclusively supports the averments, that appellee was in a buggy drawn by a horse driven by her husband on a public highway; that he drove his automobile to the rear of the buggy, going in the same direction, and when about 300 feet from the buggy, he sounded his gong several times, and the horse drawing the buggy started to turn.to the right to let him pass; that in so approaching he drove to the left so as to give the buggy more than half the traveled portion of the road; that he reduced the speed of his ear and allowed a reasonable time for the horse and buggy to move to the right side of the road so he could pass, and that he could have done so in safety, but just as he neared the buggy the horse stopped suddenly while the left rear wheel of the buggy was still in the rut or traveled portion of the left side of the highway; that he did all he could to avoid striking the buggy but was unable to do so because of the facts aforesaid; that the collision was due wholly to the stopping of the horse, as aforesaid, and not to any fault or negligence of appellant.
+It is quite apparent that the special answer is only an argumentative general denial, but it is not questioned, and serves the purpose of presenting appellant’s view of the ease. .
+Appellant contends that under the act of 1909 (Acts 1909 p. 328), it was the duty of the driver of the horse drawing the buggy, on signal of his approach, to drive to the right so as to give appellant half of the traveled portion of the highway, and that he failed so to do, and, after starting to drive to the right, stopped suddenly as above stated. The statute in question contains such provisions, but, whatever effect it may have in other eases, it can not in this case be given the effect contended for by appellant, for the reason that there is a conflict in the evidence. Some of the evidence tends to support appellant’s contention, but there is evidence tending to show that the horse did not stop until after the automobile struck the buggy; that the left wheels of the buggy were to the right of the center of the highway in the central part of the traveled portion of the road when the buggy was struck; that appellant was driving at a high, dangerous and unlawful rate of speed just before and at the time he struck the buggy, and that there was ample room for appellant to pass without striking the buggy; and that the roadway, to the left of the buggy was clear and comparatively level. The jury heard the evidence and decided against appellant. The verdict' is supported by some evidence on every material fact involved, and it is not the province of this court to weigh conflicting testimony.
+The objection to instruction No. 6, given on the court’s own motion, is that it is not applicable to the issues of the ease and assumes the fact of appellee’s injury. The instruction deals with the subject of contributory negligence as a defense and, when fairly construed, is not open to either objection urged against it.
+The objection urged against instruction No. 8 is that it assumes that appellee had suffered some pecuniary loss as a result of appellant’s alleged negligence, and that the jury was told they could consider such loss in assessing damages. The instruction states: “If you find from the evidence that plaintiff is entitled to recover a verdict * * * in determining the amount of damages to be assessed the jury may consider the pecuniary loss or damages suffered by plaintiff as a result of the negligence of the defendant complained of in the complaint. You may consider the pain and suffering, if any, by the plaintiff, the nature and extent of her injuries, as whether they are of a temporary or permanent nature, * * * and award such damages as in your judgment will be a pecuniary compensation for the damages she has sustained not exceeding the amount demanded in the complaint.” Instruction No. 6, given at the request of appellee, was also on the measure of damages, and it accurately states the elements of damage that may be considered in such ease without referring to pecuniary loss. By the phrase “pecuniary compensation” the court evidently intended to convey the idea of a money judgment and did not thereby authorize a recovery for loss of wages or earning capacity as asserted by appellant.
+The instructions as. a whole correctly informed the jury as to their duty and limitations in assessing damages, if they found for the plaintiff, and though the use of the word “pecuniary” is inapt and subject to criticism, the giving of instruction No. 8 in connection with the other instructions is not reversible error, as it could not have misled the jury. *
+Judgment affirmed.
+Note. — Reported in 113 N. E. 751. See-under (2) 38 Cye 1595.
