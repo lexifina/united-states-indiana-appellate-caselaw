@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,016"
+decided: "1913-05-15"
+citations: ["53 Ind. App. 449"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floyd v. Fordyce."]
+source_url: "https://static.case.law/ind-app/53/cases/0449-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5113499
+cites_cases: ["101 N. E. 825", "11 Ind. App. 511", "120 Ind. 43", "123 Ind. 264", "17 Ind. App. 500", "18 Ind. App. 612", "22 N. E. 87", "24 N. E. 239", "33 Ind. App. 184", "38 N. E. 1099", "4 Am. Dec. 348", "40 Ind. 553", "46 N. E. 1024", "48 N. E. 802", "7 Blackf. 117", "71 N. E. 54"]
+---
+
+# Floyd v. Fordyce
+
+## Majority (Adams, J.)
+
+Adams, J.
+— This was an action by appellant against appellee for slander. It is averred in the complaint that at a time and place named, appellee, in the presence and hearing of divers persons, “falsely and maliciously spoke, published of and concerning the plaintiff, the false and malicious words following: ‘Lafe Floyd’s wife (meaning plaintiff) and another woman layed out in Borden all night with two other men in a barn.’ Meaning thereby and intending to mean and convey such information to persons then and there in his hearing, and to be understood that plaintiff, with another woman, stayed all night in a barn in the town of Borden, Indiana, with two men who were not their husbands, and that plaintiff had committed the crime of adultery with one or both of said men.” Appellee’s demurrer, for want of sufficient facts, having been overruled, the complaint was answered by a general denial, and the case submitted to a jury. To support the issue tendered, appellant offered one witness who testified that appellee at the time and place charged, in the presence of others, spoke the words laid in the complaint. Appellant was a witness in her own behalf, and testified that she was a married woman, the wife of Lafayette Floyd, thirty-nine years of age, and the mother of eight children. No other evidence was offered. Appellee thereupon moved the court for a peremptory instruction, directing the jury to return a verdict for the defendant, which motion was sustained, and the jury so instructed. Verdict for appellee was returned, and judgment rendered thereon. Appellant filed her motion for a new trial, assigning as a cause therefor, the giving of the peremptory instruction. This motion was overruled, which ruling constitutes the only error relied on for reversal.
+It may be said at the outset that the court erred in overruling appellee’s demurrer to the complaint. The evident theory of the complaint is that the words charged to have been spoken were not slanderous per se, and that to make them actionable it was necessary to allege extrinsic facts, giving to the words a slanderous quality. It is alleged that the defendant made certain statements in the presence and hearing of others, meaning and intending to mean that plaintiff had been guilty of the crime of adultery, but it is not alleged that the words spoken were understood by the persons to whom they were addressed as imputing that crime. The rule is that where words are not slanderous per se, a complaint, to be good, must show by the innuendo, not only that the words were slanderously uttered, but were understood in the same slanderous sense by those in whose hearing they were spoken. Cosand v. Lee (1895), 11 Ind. App. 511, 38 N. E. 1099; Freeman v. Sanderson (1890), 123 Ind. 264, 24 N. E. 239.
+The error in overruling the demurrer to the complaint, however, is available only to appellee, but if the complaint had included the averment as to the sense in which the words spoken were understood, still there could be no reversal of the judgment, for the reason that the proof failed to establish any fact other than the speaking of certain words, not actionable per se.
+The answer in denial imposed on the plaintiff the burden of proving the material facts averred in the complaint by a fair preponderance of the evidence. This appellant did not do.
+In Hamilton v. Lowery (1904), 33 Ind. App. 184, 188, 71 N. E. 54, this court said: ‘ ‘ The meaning of the defendant, as averred by an innuendo, is a question of fact, to be decided by the jury.” In the leading case of Hays v. Mitchell (1844), 7 Blackf. 117, the court said: “Words not actionable in themselves may express a criminal charge by reason of their allusion to some extrinsic fact, or in consequence of being used and understood in a particular sense different from their natural meaning, and thus become actionable. And when such is the case, it is as necessary to prove the extrinsic fact, or the particular and offensive sense in which the words were used, as it is to establish the words themselves.” See, also, Dodge v. Lacy (1850), 2 Ind. *212; Hart v. Coy (1872), 40 Ind. 553; Harrison v. Manship (1889), 120 Ind. 43, 22 N. E. 87; Alcorn v. Bass (1896), 17 Ind. App. 500, 46 N. E. 1024; Hinesley v. Sheets (1897), 18 Ind. App. 612, 48 N. E. 802, 63 Am. St. 356.
+' Judgment affirmed.
+Note. — Reported in 101 N. E. 825. See, also, under (1) 25 Cyc. 451; (2) 25 Cyc. 520, 541; (3) 31 Cyc. 678; (4) 25 Cyc. 542. As to general rules applicable to libel and slander, see 4 Am. Dec. 348. As to words libelous per se and the contrary, as basis oí action, see 116 Am. St. 804. As to evidence to support the innuendo, see 53 Am. St. 698.
