@@ -1,0 +1,41 @@
+---
+court: "Appellate Court of Indiana"
+docket: "5,788"
+decided: "1906-10-25"
+citations: ["38 Ind. App. 673"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jessup et al. v. Fairbanks, Morse & Company."]
+source_url: "https://static.case.law/ind-app/38/cases/0673-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4979118
+cites_cases: ["10 L. R. A. 526", "107 N. C. 47", "12 S. E. 68", "135 Ind. 434", "153 Ind. 322", "164 Mass. 516", "2 L. R. A. (N. S.) 97", "23 Hun 141", "25 Ind. App. 125", "30 L. R. A. 537", "36 Ind. App. 568", "4 Heisk. (Tenn.) 617", "42 N. E. 104", "45 Mo. App. 42", "5 South. 627", "55 Atl. 54", "62 Atl. 47", "65 N. W. 184", "66 Miss. 48", "69 N. J. L. 582", "78 Vt. 152", "91 Wis. 526"]
+---
+
+# Jessup v. Fairbanks, Morse & Co.
+
+## Majority (Comstock, P. J.)
+
+Comstock, P. J.
+Appellee, a corporation, brought this action against appellants to recover the purchase price of a certain gasoline engine, which had been sold to appellants upon condition that the title and right of possession should remain in the vendor until payment had been made in full as specified in the written contract. Before all the payments provided for in the contract had been made, and before all payments had become due, the engine was wrecked by a fire which destroyed the building in which it was located.
+The issues were formed by the complaint and an affirmative answer by the appellants, in which they set up the destruction of the engine by fire without fault on their part as causing a failure of consideration for the contract in suit. A copy of the contract was filed with the complaint and with the answer. Appellee filed a demurrer for want of facts to this answer, which demurrer was sustained, and, defendants refusing to plead further, judgment was rendered against them for the sum of $499.87. Erom this judgment appellants appeal.
+The sustaining of said demurrer is assigned as error for which a reversal is asked. We deem it necessary to set out only the following portions of exhibit A, a copy of the contract filed with the complaint and answer:
+“Eairbanks, Morse & Company, Manufacturers of Gas and Gasoline Engines, Indianapolis, Indiana, October 3, 1903.
+Jessup & Wheeler,
+Oakdale, Indiana.
+Eairbanks, Morse & Company hereby propose to furnish and deliver f. o. b. Beloit, Wisconsin, one 25 H. P. Fairbanks, Morse Gasoline engine, according to the following specifications:
+[Then follow the specifications, the guarantee, and a list of supplies to be furnished with the engine.]
+■ The foundation plan will be furnished by us, foundation to be prepared and furnished by you. A competent man to superintend the erection of the engine will he furnished hy us. You will supply all necessary labor and do all teaming. We propose to furnish the above engine and material for the sum of $800, payable at the office of Fairbanks, Morse & Company, Indianapolis, Indiana, of which amount $200 is to be paid upon shipment, balance as follows: $200 when erected and $400 six months after shipment at seven per cent, per annum after due, also all expenses incurred in the collection thereof secured by contract.
+It is agreed that the title and right of possession of said engine shall remain in Fairbanks, Morse & Company until payment has been made in full, as above provided, and in the event notes are taken representing the deferred payments the title shall not pass until said notes are fully paid and satisfied. Upon default of any payment when due, said Fairbanks, Morse & Company or their agent may enter the premises without process of law, take immediate possession of and remove said property, and any payments theretofore received they shall he entitled to retain to cover expenses of taking possession of the above described property and to cover usage, and wear and tear upon the same.
+This proposal is binding when signed by the purchaser and approved by the manager of Fairbanks, Morse & Company at Indianapolis, it being expressly understood and agreed that this is the only contract existing between the parties here mentioned and that there are no verbal agreements to the contrary.
+Fairbanks, Morse & Company,
+Proposal Accepted by:
+Jessup & Wheeler.”
+The foregoing is a sale on condition. It is not a contract to make a future sale. It required nothing to be done by the vendor to pass title. It gives the vendor the right, upon vendee’s default, to retake the property, which is a disaffirmance of the sale, or he may treat the sale as absolute and bring an action for the price. Turk v. Carnahan (1900), 25 Ind. App. 125, 81 Am. St. 85; Green v. Sinker, Davis & Co. (1893), 135 Ind. 434; Smith v. Barber (1899), 153 Ind. 322.
+The contract being a present contract of sale, its stipulation that the title should remain in the vendor until the full payment of the purchase price, did not relieve the vendees from the contract to pay, because the property was injured or destroyed. American Soda Fountain Co. v. Vaughn (1903), 69 N. J. L. 582, 55 Atl. 54; Osborn v. South Shore Lumber Co. (1895), 91 Wis. 526, 65 N. W. 184; White v. Solomon (1895), 164 Mass. 516, 42 N. E. 104, 30 L. R. A. 537; Burnley v. Tufts (1888), 66 Miss. 48, 5 South. 627, 14 Am. St. 540; Tufts v. Griffin (1890), 107 N. C. 47, 12 S. E. 68, 10 L. R. A. 526, 22 Am. St. 863; Tufts v. Wynne (1891), 45 Mo. App. 42; Planters Bank v. Vandyck (1871), 4 Heisk. (Tenn.) 617; Humeston v. Cherry (1880), 23 Hun 141; LaValley v. Ravenna (1905), 78 Vt. 152, 62 Atl. 47, 2 L. R. A. (N. S.) 97. In numerous decisions outside of Indiana, in cases of conditional sales, in which the property was destroyed before the payments were made in full, it has been held that the vendor may sue upon the promise of the vendee to make payment. In the foregoing list we have given some of them.
+American Soda Fountain Co. v. Vaughn, supra, was a case of destruction of property in the possession of the vendee under such contract, and the court said: “The question to be determined is: What was the consideration of the note? If the passing of the title to the apparatus was the consideration, the defense must prevail. If the delivery of the apparatus, with the right to acquire title, was the consideration, the plaintiff shall prevail. We think the consideration for the note was the delivery of the apparatus with the right to acquire title. * * * The title was retained by the plaintiff merely as security for the unpaid purchase-money. Nothing remained to be done by the plaintiff to perfect the title of the defendant; that title would have become perfect immediately upon payment. * *' * The exact question presented in the present case has been considered in other states, and although there is conflict in the authorities, the weight of authority is in favor of the plaintiff. Burnley v. Tufts [1888], 66 Miss. 48; Tufts v. Griffin [1890], 107 N. C. 47; Osborn v. South Shore Lumber Co. [1895], 91 Wis. 526.”
+In LaValley v. Ravenna, supra, upon the sale of a horse, a written lien was executed reciting that the seller was to retain title until the balance of the purchase price was paid. The horse died before the balance was due, and the court held that the seller was entitled to recover the balance.
+In our own State the cases hold that under such contracts as the one before us the vendor has the right to elect whether to retake the property or sue for the purchase price on the promise to pay. Smith v. Barber, supra; Kilmer v. Moneyweight Scale Co. (1905), 36 Ind. App. 568; Gaar, Scott & Co. v. Fleshman (1906), ante, 490. Smith v. Barber, supra, distinctly holds that there is nothing to be done by the vendor and nothing in the way of acceptance is necessary on the part of the vendee.
+Oases cited by appellant are distinguishable from those cited in this opinion, except, perhaps, Cobb v. Tufts (1884), 2 Tex. App. Civ. Cas. 141. We regard the question as settled in this State. “In such a contract of sale — the possession to be in the buyer, the title to remain in the seller until full payment — there is a sufficient consideration for the absolute promise to pay the agreed price.” Kilmer v. Moneyweight Scale Co., supra.
+Judgment affirmed,
