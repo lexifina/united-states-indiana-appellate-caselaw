@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "37"
+decided: "1891-03-31"
+citations: ["1 Ind. App. 25"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reed v. The Town of Orleans."]
+source_url: "https://static.case.law/ind-app/1/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1970295
+cites_cases: ["107 Ind. 231", "116 Ind. 15", "63 Ind. 155", "90 Ind. 362"]
+---
+
+# Reed v. Town of Orleans
+
+## Majority (Crumpacker, J.)
+
+Crumpacker, J.
+This suit was brought to recover compensation for services as a broker, alleged to have been performed by the appellant for the town of Orleans in negotiating the sale of certain municipal bonds.
+It is alleged in the complaint, in substance, that the town of Orleans was duly incorporated under the general laws of the State, and a necessity existed for the enlargement of a public school building in said town, and in order to raise funds necessary for that purpose the town trustees, by an ordinance duly adopted, authorized the issuing of municipal bonds to the amount of $2,500, and provided that the bonds should not be sold for less than ninety-four per cent, of their face value ; that such bonds were duly made out and signed, and the town trustees undertook to dispose of them, but failed; that appellant had an extended acquaintance among investors in that kind of securities, and was of good financial standing generally; and because of such acquaintance and standing the town, by its “ trustees, called upon this plaintiff and verbally requested him to sell and dispose of said bonds, and placed the selling and disposition of said bonds under his control.”
+It is further averred that after considerable effort, and upon his own personal guaranty that the bonds were valid, he succeeded in selling them at their par value, and turned the entire proceeds over to the proper officer upon the order of the town trustees ; that such trustees knew of his employment, consented thereto, accepted and used the proceeds of the bonds, but refused to pay him anything for his services for selling them, although requested so to do, and that his services were fairly worth $200.
+•A demurrer was filed to the complaint, denying its sufficiency to state a cause of action, and was sustained by the trial court. The appellant excepted to the ruling of the court, and judgment was rendered against him upon the demurrer. This appeal properly presents the ruling of the trial court upon the demurrer.
+It is claimed, in support of the judgment, that the bonds were issued pursuant to the provisions of section 4488, R. S. 1881, and under this statute it was the duty of the town trustees to dispose of the bonds, and consequently the employment of the appellant for that purpose was unauthorized. While the section of the statute above cited provides that the trustees may negotiate and sell, from time to time, as many bonds issued under its provisions as may be necessary to carry into effect the purpose for which they were issued, it does not follow that the trustees may not employ the usual and most efficient agencies to effect such sale.
+The sale of the bonds was incidental and necessary to effect the purpose for which they were issued, and- the law does not undertake to prescribe the manner in which the sale should be made. Authority to issue and sell bonds, for municipal purposes, must come from the officers charged with the management of municipal affairs, and their authority depends upon the express provisions of the law, which must be strictly observed; but after bonds have been issued by competent authority, the particular means to be employed to effect their sale lies in the business sense and discretion of the town authorities. Municipal corporations have the right to employ such methods and agencies in transactions of a purely business character as are approved by the experience and judgment of good business men, unless restricted by legislation. A sale of bonds by a duly authorized agent of the trustees of a town corporations is, in contemplation of law, a sale by the town. State, ex rel., v. Hauser, 63 Ind. 155; Dillon Municipal Corporations, section 452, et seq.
+It is also insisted that the complaint is defective in that it does not show appellant’s employment to have been made by the town trustees while sitting in the discharge of official duties, and because the contract of employment was not in writing.
+The averment that the town, by its trustees, engaged appellant to negotiate and sell the bonds shows the employment was authorized. If such employment could not have been legally made except by the trustees in session, the averment of employment on the part of the town by its trustees, is equivalent to the allegation that the town, by its trustees in session, employed the appellant to sell the bonds.
+Contracts of employment of this nature need not be written, although it would be in keeping with good business methods if they were. This is settled in the cases of City of Logansport v. Dykeman, 116 Ind. 15; Over v. City of Greenfield, 107 Ind. 231, and Board, etc., v. Ritter, 90 Ind. 362.
+The only other objection made to the complaint is that it does not show that the bonds sold by the appellant were legally issued. It was not necessary, in the complaint, to recite all the precedent steps necessary to authorize the issuing of the bonds. Where the question comes up incidentally, as it does here, it will be presumed that the officers of the town fully observed the requirements of the law. Besides, it is difficult to understand how the invalidity of the bonds could affect the question involved in this case, at any rate. If the bonds should be adjudged invalid, it does'not follow that the town would be absolved from an honest liability incurred in disposing of them, any more than that fact would defeat the claim of the printer, or lithographer, for preparing the blanks upon which they were written.
+Filed March 31, 1891.
+The complaint shows that the town of Orleans issued the bonds for an authorized purpose, and employed the appellant, as a broker, to sell them. He sold them at their face value, and turned the entire proceeds over to the town. The town has had the benefit of his services, and has paid nothing therefor. If the facts in the complaint be true, the appellant is entitled to what his services were fairly worth. The complaint states a good cause of action.
+The judgment is reversed, with instructions to overrule the demurrer to the complaint, and to proceed in accordance with this opinion.
