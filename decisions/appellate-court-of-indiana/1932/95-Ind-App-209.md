@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,681; 14,682; 14,688; 14,689"
+decided: "1932-11-18"
+citations: ["95 Ind. App. 209"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gainey et al. v. Hasler."]
+source_url: "https://static.case.law/ind-app/95/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1578775
+cites_cases: ["107 N. E. 40", "108 N. E. 165", "164 N. E. 320", "21 Ind. App. 115", "51 N. E. 729", "58 Ind. App. 220", "59 Ind. App. 438", "89 Ind. App. 12"]
+---
+
+# Gainey v. Hasler
+
+## Majority (Wood, C. J.)
+
+Wood, C. J.
+— Upon the petition of appellants the above entitled causes were consolidated under cause No. 14681 for briefing, argument, and consideration by the court. Hereafter in this opinion, they will be referred to and identified by their respective numbers.
+The appellee has not appeared in any of the cases, either in person or by attorney, nor has he filed any brief. The condition of the record makes it necessary for us first to determine whether this court has jurisdiction of any of the above entitled cases before entering upon a discussion of the merits of the questions presented by the respective assignments of error.
+The judgment in each case from which the appeal is taken was rendered upon December 31,1931. These are all vacation appeals. In cause No. 14681, and No. 14682, the appellant served notice of appeal upon the attorney of record for the appellee on February 28, 1932, and upon the clerk of the Greene Circuit Court on February 27, 1932. In cause No. 14688, and No. 14689, the appellant served notice of appeal upon the clerk of the Greene Circuit Court on February 27, 1932, but in these two cases, there was never any notice of appeal served upon either the appellee or his attorney of record at any time before the filing of the transcripts and assignment of error in this court.
+The transcript was filed in this court in cause No. 14681, and No. 14682 on May 31, 1932, and in cause No. 14688, and No. 14689, on June 10, 1932. It was evidently the intention of appellant to perfect his appeal in these cases under the first procedure outlined in Sec. 700 Burns 1926. Because of his failure to serve notice of appeal upon the appellee or his attorney of record, at any time before the filing of the transcript in this court, in cause No. 14688 and 14689, appellant failed to perfect his appeal in those two cases as provided in said first procedure in Sec. 700, supra, and this court would not have jurisdiction of those two cases for that reason, in the absence of some other recognized method of obtaining jurisdiction.
+But limiting our statements to the notices to which reference has heretofore been made, there is another insurmountable difficulty confronting appellant. Even though appellant had served notice upon the appellee or his attorney of record in cause No. 14688 and No. 14689, as he did in cause No. 14681 and No. 14682, this court would not have jurisdiction of cause No. 14688 and No. 14689, nor does it have jurisdiction of cause No. 14681 and No. 14682, in which notices were properly served as required under Sec. 700, supra, for the reason that the transcript in none of the cases was filed in this court within sixty days from the time of giving any of the notices in said cases, as required by Rule No. 2 of this court. Smith et al. v. Hibben et al. (1915), 59 Ind. App. 438, 107 N. E. 40; Steinmetz v. Lucas (1928), 89 Ind. App. 12, 164 N. E. 320.
+Appellant must have doubted the sufficiency of the notices we have been discussing to confer jurisdiction in this court, for on June 14, 1932, after he had filed the transcript in each case in this court, and it had been docketed as a cause pending herein, he served an unofficial notice, as provided in the first procedure outlined in Sec. 700, supra, upon the clerk of the Greene Circuit Court and upon the attorney of record for appellee, in each of the cases, notifying them that he had taken an appeal to this court from the respective judgments of the lower court. The clerk and the attorney each acknowledged the service of notice in each case. These original notices, together with the acknowledgment of service, were filed in the respective cases in this court June 15, 1932. Under our appellate procedure, appellant could not give an unofficial notice of an appeal to this court after he had filed the transcript with the clerk, so the last mentioned notices would not confer jurisdiction in the court. Dougherty v. Brown (1898), 21 Ind. App. 115, 51 N. E. 729; Perkins et al. v. Indiana, etc., Co. et al. (1915), 58 Ind. App. 220, 108 N. E. 165.
+Rule 36 of this court provides that, “where a case not appealed in term has been on the docket ninety days or more, and there is no appearance by the appellee, and no steps have been taken to bring him into court, or where a notice has issued and proves ineffectual for any cause, and no steps are taken for more than ninety days after the issuance of such ineffectual notice to bring the appellee into court, the clerk shall enter an order dismissing the appeal.
+The facts disclosed by an examination of the record in each of the above cases demonstrate, beyond any question of doubt, that there has been a complete failure by appellant to comply with the requirements of Rule 36, to bring the appellee into court. It follows as a necessary conclusion that the court does not have jurisdiction of the appellee in any of the above cases, and the appeal in- each one of them is dismissed.
