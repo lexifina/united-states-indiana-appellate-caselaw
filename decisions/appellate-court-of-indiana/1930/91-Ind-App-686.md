@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,098"
+decided: "1930-11-21"
+citations: ["91 Ind. App. 686"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mutual Oolitic Cut Stone Company v. Colgren et al."]
+source_url: "https://static.case.law/ind-app/91/cases/0686-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1554746
+---
+
+# Mutual Oolitic Cut Stone Co. v. Colgren
+
+## Majority (Remy, J.)
+
+Remy, J.
+Appellant, Mutual Oolitic Cut Stone Company, an Indiana corporation with capital stock of $30,000 divided into 300 shares, was organized June 29, 1926; appellees Roberts and Colgren, and John W. Olsen, were the incorporators. At the time of the incorporation, Olsen subscribed for, and there were issued to him, 30 shares of the capital stock, for which he .paid $3,000 cash; Colgren and Roberts each subscribed for, and there were issued to each, 135 shares of the capital stock, for which each obligated himself to pay $13,500. Roberts was president and Colgren secretary and treasurer of the corporation. April 30, 1929, Colgren sold all of his stock to Roberts at the price of $5,515.84. Pursuant to the contract of sale, Roberts paid to Colgren $1,000, and agreed that, on or before June 1,1929, he would pay the remainder to the First National Bank of Blooming-ton, to which, as escrow agent, the stock, assigned in blank, had been delivered.
+On May 28, 1930, appellee Roberts commenced this action, naming Colgren, Mutual Oolitic Cut Stone Company and the First National Bank of Bloomington as defendants. In his complaint, he alleges, in substance, that, at the time he purchased the Colgren stock, Colgren fraudulently represented that his subscription of $13,500 had been fully paid, when, in fact, only the sum of $5,515.84 had been paid; that, by reason of the fraud, he had been induced to execute the contract of purchase, and to make the cash payment of $1,000, and prayer that he have judgment for the 135 shares of stock upon the payment to the Mutual Oolitic Cut Stone Company of $4,515.84, the balance due on the stock purchase contract, and that the First National Bank of Blooming-ton be ordered to turn over to him the 135 shares.
+In addition to denial, the Mutual Oolitic Cut Stone Company filed a cross-complaint demanding judgment against Colgren for balance due on stock subscription with interest. To this cross-complaint, Roberts filed an answer admitting all material allegations thereof. To the complaint of Roberts and the cross-complaint of Mutual Oolitic Cut Stone Company, Colgren answered by denial, and filed his cross-complaint alleging that Roberts not only knew that Colgren owed a balance of $7,984.16 on his stock subscription, but had agreed to take the stock subject to such balance; that it was due to mutual mistake and inadvertence that the sale contract as reduced to writing did not include that part of the agreement, and asked that the court reform the contract so as to reflect the intent of the parties. The bank, in addition to a denial, filed an answer disclaiming any interest except as escrow agent for the parties to the stock-sale contract.
+On the trial, the court found against appellee Roberts, plaintiff below, on his complaint, and also against appellant Mutual Oolitic Cut Stone Company on its cross-complaint, and judgment was so rendered. There was no finding by the court on the issue presented by Colgren ’s cross-complaint for reformation, and the failure to find on that issue was not called to the attention of the court by motion for venire de novo or otherwise.
+Overruling motion of Mutual Oolitic Cut Stone Company for new trial is the error assigned; and the only reason for new trial presented is that the decision of the court is not sustained by sufficient evidence.
+The only question for determination by this court is the sufficiency of the evidence to sustain the court’s finding that, on the issue formed by appellant’s cross-complaint and Colgren’s answer in denial thereto, there could be no recovery for balance due on Colgren’s stock subscription. The material facts bearing upon the question are not in controversy. That Colgren subscribed for 135 shares of the corporate stock at par was, on the trial, stipulated by the parties; and that only $5,515.84 had been paid on the subscription, and that there remained due and unpaid the sum of $7,984.16, was admitted by Colgren when testifying as a witness in his own behalf. To support the court’s ruling, appellee Colgren insists that the corporation should look to Roberts, who had purchased the stock, and not to him; that the corporation had issued the stock as fully paid and nonassessable; that Roberts was at all times the president of the corporation, and necessarily knew that the stock subscription had not been fully paid, and that, therefore, the corporation, appellant herein, was estopped. Estoppel, however, was not pleaded; in fact, no affirmative defense of any kind was pleaded. Clearly, the decision is not sustained by sufficient evidence.
+Judgment reversed, with instructions to the trial court to grant a new trial.
