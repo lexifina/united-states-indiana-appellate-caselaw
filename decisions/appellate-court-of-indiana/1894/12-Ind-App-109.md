@@ -1,0 +1,78 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,329"
+decided: "1894-11-27"
+citations: ["12 Ind. App. 109"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Louisville, New Albany and Chicago Railway Company v. Cook."]
+source_url: "https://static.case.law/ind-app/12/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5776355
+---
+
+# Louisville, New Albany & Chicago Railway Co. v. Cook
+
+## Majority (Davis, J. —)
+
+Davis, J. —
+This suit was brought by the appellee against the appellant, a common carrier, to recover damages alleged to have been sustained on account of the misconduct of appellant’s servants.
+The complaint is in two paragraphs. The first paragraph alleges, in substance, that the appellee, at about ten in the morning, took passage, at Bedford, in a caboose or way car of appellant’s local freight train to go to Mitchell, having previously purchased a ticket; that said train, according to the custom and regulations of appellant, carried passengers; that appellee was an ignorant and unlearned woman, and not accustomed to travel, and not acquainted with appellant’s railroad, trains and stations; that the conductor took up her ticket; that when she arrived at a way station called Yockey, appellant’s agents and servants in charge of said train negligently and wrongfully informed appellee that the train had arrived at her destination, and she must get off; that relying on said statements, obeying said directions, and knowing no better, appellee alighted from the train with her children and baggage; that she did not learn of her mistake until the train was in motion, when she requested said servants to stop the train to let her board it and continue her journey, but they refused to do so. She started to walk to Mitchell, but became exhausted, and returned to Yockey, and waited there until two that afternoon, when she returned to Bedford, where she remained until five p. m., when she resumed her journey to Mitchell, and that she suffered great anxiety, pain and physical injury, etc.
+The second paragraph is practically the same as the first, except as to the allegations in regard to appellee leaving the train, which are as follows: Appellee started
+with her children and baggage to get off said train. Her little boy got off on the ground when the train started. Appellee requested said employes to stop the train until she could get off or her son could board the train, but they refused so to do, and being frightened, appellee jumped from the train and was left.
+The jury returned a special verdict. The appellant moved the court for judgment in its favor on the special verdict, which motion was overruled and exception duly saved.
+The only charge of negligence upon which there is any finding in the verdict is as follows: “Whereupon defendant’s agents and servants in charge of said train negligently and wrongfully informed plaintiff that the train had arrived at her destination and she must get off.”
+The complaint charges a direct and affirmative act— that of negligently and wrongfully misdirecting appellee as to her destination.
+Following this averment in each paragraph of the complaint is a charge of other negligent acts, but no reference is made to any such acts in the verdict. The only finding upon the issue of negligence is as follows:
+“That at said point (Yockey) the other passengers began getting off said train, and the plaintiff went onto the platform of the caboose of said train to see if she had reached the town of Mitchell, Indiana, when she was directed by some one whom she had reason to believe, by his actions in passing through the train, turning the brake and climbing up in the cupola, and signaling the train to stop and go ahead, and assisting passengers off and directing them to get off, was a brakeman and employe of the defendant, to get off said train, and that she then stated that she did not wish to get off said train unless she had reached the town of Mitchell, the place of her destination, whereupon she was urged by the defendant’s agents and servants to get off at once, and one of them took her hurriedly by the hand and assisted her off said train.”
+The appellant filed a motion for a new trial. One of the causes assigned was that the special verdict of the jury is not sustained by sufficient evidence.
+The error of the lower court in overruling this motion is presented to this court in the record and assignment of errors.
+The only witness to the transaction complained of was the appellee herself. Her testimony bearing on the negligence charged in the complaint is as follows:
+‘‘Q. 52. State if you learned how many stops there would be between Bedford and Mitchell. A. Directly after we started, some one, I did not know who he was, said there was to be two stops and then the train would be at Mitchell. The train stopped twice, and then it was stopped that time, that made three times it stopped.
+“Q. 53. Had you been on that train before very often? A. I had been twice.
+‘‘Q. 56. If anything occurred at Yockey or Juliet, state what it was; tell it in your own way. A. When the train stopped at this small siding several passengers in the ‘boose,’ or whatever you call it, got out. A fellow came in and told a girl to get off, before she got off, and he looked at me when he said it; I thought he was talking to me. They got up, all of them, and began getting out. I was the last one out. And there was no one to ask where I was, and I went out on the platform.
+“Q. 57. Did the conductor or brakeman call the name of the station? A. No; the conductor, he never called no name of no station. I got out on the platform to see where I was. I did not know whether it was going to be a wreck, or what.
+“Q. 58. State whether or not you got out and looked around? A. I got out and looked out on the right hand side where I was standing, and I had my boy to my left . hand side, standing on the platform. They said to come, hurry up here and get off. But before I got hurt, before I got off, I said: ‘Aint this train going to pull up to the depot?’ He said, no. I did not go very fast, and he said, hurry up and get off-. I looked around to see where I was. I walked on to where I could get a good look as to where I was. By this time the train was going, I said, I don’t want to get off, if it aint Mitchell. This man said, hurry up here and get off, and he give me a kind of shove.
+“Q. 101. Did you see the conductor after he took up your ticket? A. No, I don’t think I saw him any more until I got off the car.
+“Q. 113. It is a fact that when you saw these other people go out you thought that was the place you ought to get out? A. Yes, sir; I did.
+“Q,. 114. After you got- out on the platform where was the conductor? A. I seen him between the engine and tender, or what you call it, up next the engine.
+“Q. 115. How far from you, the length of the train? A. Yes, sir.
+“Q. 116. That is the only time you saw him after he took up your ticket? A. Yes, sir.
+“Q. 117. So that at that station you had no conversation with the conductor? A. No, sir; I said nothing to the conductor about it.
+“Q. 118. Whereabouts was the brakeman after you got off of the train? A. There were a couple of men standing at the brake of the train when I got off.
+“Q. 119. On top of the caboose? A. No, sir; at the back end.
+“Q. 120. Is that where those passengers got out? A. Yes, sir.
+“Q. 121. What was he doing? A. Turning the brake. I saw him several times.
+“Q,. 122. Did you ask him if that was Mitchell? A. I asked him if the train was not going to stop at the depot, and he said to get off. I said, ‘Why, aint it going to stop at the depot?’ Pie said, ‘No, you will have, to get off here.’
+“Q,. 123. You did not ask him if it was Mitchell? A. No, sir.
+“Q,. 124. Was he present when the conductor took up your ticket? A. Why, he was; I think he was.
+“Q,. 125. He did not see your ticket? A. Well, I don’t know. He was not sitting far away.
+“Q,. 127. How far? A. About as far as to you— about four or five feet.
+“Q. 128. He did not look at your ticket, did he? A. I don’t know if he did or not.
+“Q. 129. You did not ask any of the passengers if that was Mitchell? A. No, sir; when I got out they was gone.
+“Q. 130. When the train started up did you have a conversation with any one? A. No; only I told the man that hollered up to the man in front and said there was a woman to get off and I said—
+“Q. 131. Who was that? A. He was a train employe, I suppose.
+“Q. 132. What was he doing? A. He was not doing anything — he had hollered up and told them to stop the train, that there was a woman to get off.
+“Q. 133. Where was he? A. He was leaning out of the caboose, he was on the platform of the car.
+“Q,. 134. He hollered to whom? A. I don’t know, the fireman, or engineer — he just hollered and said— ‘Stop the train, boys; there is a woman to get off.’
+“Q,. 135. Did they stop it? A. Not still; they checked it up. He gave me a kind of shove. I don’t know how he knew I wanted off.
+“Q,. 136. Where was he? A. I seen him on the caboose as I went down.
+“Q,. 137. What was he doing on the train? A. I don’t know as I seen him do anything only pass in and out.
+“Q,. 138. You did not see him give up any ticket? A. No, I did not while I was on the caboose.
+“Q,. 139. And you don’t know who that man was? A. No, I did not.
+“Q. 140. He did not know, so far as you know, that there was a woman to get off anywhere? A. No, I did not. I told him I did not want to get off if it was not Mitchell.
+“Q,. 141. What did he say? A. Nothing; only he said, hurry up and get off.
+“Q. 142. How was he dressed? A. Just common clothes.
+“Q,. 143. In a citizen’s suit? A. Yes, sir.
+“Q,. 144. Did he sit there, that man? A. No, he did not; the last I seen he was standing on the platform.
+“Q. 145. He was not the man turning the brake? A. No, he was not the man that was turning the brake.”
+She further testified that she saw this person in the caboose while going to Mitchell from Bedford; that he was dressed like a railroad man, and that he assisted in helping the passengers off the train; that there was a brakeman turning the brake, and the other man who did the hallooing, who, before this station was reached, was up inside the lookout where the conductor and brakeman were riding on a cushion, and that while the train was at this station he hallooed to stop the train, and the other one turned the brake; and that when the train stopped he helped her to get off; and that she took the one who hallooed to stop the train, and who assisted the passengers to get off the train, to be a brakeman.
+The conductor, when he took up appellee’s ticket, was required to take notice of the fact that her destination was Mitchell. It was the imperative duty of appellant to inform her by calling the name of the station, or otherwise, on the arrival of the train at Mitchell. Appellee had the right to assume that this duty would be performed at the right time and place and in the proper manner. The appellant also had the right to assume that appellee would not attempt to leave the train before it reached Mitchell. If the conductor knew she was ignorant and inexperienced he was not bound to anticipate that she would attempt to leave the train before she should be advised by the employes of the company that she had reached her destination. The appellant owed no duty to appellee of calling the stations between Bed-ford and Mitchell. The conductor was not bound, so far as she was concerned, to stay in or about the caboose at the intermediate stations. Neither was the brakeman bound to know or ascertain what her destination was unless inquiry was made of him by her in reference thereto. The brakeman or other employe of the company, in the absence of notice to the contrary, had the right to assume, when she walked out on the platform in a manner indicating her intention to leave the train, that she had reached her destination. The company was not bound by the statements or acts of passengers in anything they may have said or done that had a tendency to mislead appellee. It was the duty, however, of the conductor, brakeman or other employe who assisted the passengers at the station to get off the train to give the passengers, including appellee, correct information, as to the name of the station, when a passenger who was about to leave the train expressed a desire for such information.
+The only question for our consideration on this branch of the case is, whether there is any evidence in the record fairly tending to prove that when she arrived at Yockey appellant’s agents and servants in charge of the train negligently and wrongfully informed appellee that the train had arrived at her destination? The evidence on the vital question is neither clear nor satisfactory, but there is some evidence in the record which this court can not say was not sufficient to authorize the inference by the jury, that the man to whom she stated that she did not wish to get off said train unless she had reached the town of Mitchell, and who assisted her to get off, was an employe of appellant.
+In a case such as this, where the trial judge has seen the witnesses and heard the evidence, it is his duty, if he is satisfied that the jury was not authorized in drawing the inferences which have resulted in the verdict returned, to grant a new trial on the motion of the losing party, but in an appellate court, although the court may entertain grave doubts as to whether a correct conclusion has been reached by the jury, the court can not disturb the verdict on the evidence if there is any evidence in the record, however, slight it may be, fairly tending to prove the facts which the jury were required to find in order to return the verdict.
+The conductor, it appears, was not present at or near the caboose when, appellee left the train, but the brakeman and the other man who was acting as an employe during this trip were present. She had a conversation with the brakeman and also with the other man who was acting as such employe. It is not easy, as will be seen by reading the evidence, the material parts of which we have set out, to determine just what was said by appellee to each of these men or what each of them said to her. No evidence was introduced by appellant, and in the absence of any explanation or statement to the contrary, we can not say, under all the circumstances, that the inference was not authorized that .both men were employes of the company acting within the scope of their employment on this occasion, and that what was said or done by either of them, to appellee or by her to either of them, was so said and done in the presence and hearing of the other, and that they, or at least one of them, wrongfully misled and deceived her and negligently caused her to leave the train at Yockey.
+Filed Nov. 27, 1894;
+petition for rehearing overruled Feb. 6, 1895.
+The special verdict was, on the controverted question, in our opinion, sufficient to sustain the judgment. The most serious question, as heretofore indicated, has been whether the evidence sustained the verdict, and on this proposition the court has reached the conclusion that we can not disturb the verdict on this ground. It is insisted that the damages, $250, are excessive. The jury were the judges of this question, and we can not say that in the exercise of a wise discretion, under the facts and circumstances disclosed on this branch of the case, they were governed by fraud or prejudice or any other improper reason or influence. We find no reversible error in the record.
+Judgment affirmed.
