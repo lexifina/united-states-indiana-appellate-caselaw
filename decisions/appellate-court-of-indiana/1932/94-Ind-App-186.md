@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,532"
+decided: "1932-03-18"
+citations: ["94 Ind. App. 186"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Armour and Company v. Phillips."]
+source_url: "https://static.case.law/ind-app/94/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1559875
+---
+
+# Armour & Co. v. Phillips
+
+## Majority (Lockyear, J.)
+
+Lockyear, J.
+The record in this cause discloses that the plaintiff was injured on March 21, 1927, and filed with the Industrial Board an application for the adjustment of his claim for compensation on April 25, 1927; that thereafter, on July 18, 1927, a single member of the Industrial Board entered an order awarding the plaintiff compensation at the rate of $6.60 per week during total disability, not exceeding 500 weeks; that, on July 27, 1927, the defendant filed with the full Industrial Board of Indiana its application for review of said finding and award of said hearing member, and, on November 15, 1927, the full Industrial Board entered a finding awarding the plaintiff compensation at the rate of $6.60 per week for the specific period of 200 weeks on account of the amputation of the plaintiff’s left leg above the knee, and included in its finding and award the provision that the full Industrial Board shall retain jurisdiction of the case for the purpose of determining the period of the plaintiff’s total disability resulting from the injuries separate and distinct from the amputation of the plaintiff’s left leg above the knee, for the purpose of ascertaining the degree of permanent impairment, if any, of such injuries.
+Under and pursuant to said award of the full Industrial Board of Indiana, the defendant paid to the plaintiff 200 weeks compensation at the rate of $6.60 per week as they became due, the period covered by said payments expiring on January 5, 1931.
+On May 2, 1931, the appellee filed a petition to the full Industrial Board of Indiana, setting up the facts as above alleged, and, in addition thereto, the said board made a further award of the medical, hospital and nurses expenses, which amount was paid by the appellant.
+The appellee alleged further that he was wholly and totally disabled as a result of the injury sustained in said accident, which happened March 21, 1927, and that he is permanently and totally disabled from other injuries sustained separate and apart from the loss of his leg, and that said other injuries are set out in the original application for adjustment of the appellee’s claim; wherefore, he asked the board to continue the determination of said cause in accordance with the finding of the full Industrial Board made November 15, 1927. The same was set for hearing, and the board made a finding and order sustaining the claim of the appellee and ordered that the appellant resume payment of compensation to the appellee as of January 5, 1931, at the rate of $6.60 per week on account of the appellee’s total disability, and that said payments continue during the period of said total disability, and that all deferred payments be brought up to date and paid in a lump sum.
+To this finding and order of the full Industrial Board the appellant excepted, and appealed to this court and assigns as error that the finding and order of the full Industrial Board is contrary to law. .
+The appellant contends, in this case, that the appellee was injured on March 21, 1927. His amended application for compensation filed with the Industrial Board on July 5, 1927, claimed compensation for “total disability — can not recover — 500 weeks.” Said applicant listed his injuries as follows: “Crushed leg, bruised shoulder, leg, arm and spine injured; leg required amputation above the knee. As the end result of his claim, the appellee on November 15, 1927, was granted an award for 200 weeks compensation for the loss of the left leg.”
+Also: “The mere fact that the full Industrial Board in its finding and award of November 15, 1927, included a provision whereby it attempted to retain jurisdiction of this cause for the purpose of determining the period of plaintiff’s total disability resulting from his other injuries and for the purpose of ascertaining the degree of impairment resulting from other injuries did not and could not in any way extend the time for the bringing of the plaintiff’s claim as required under the Compensation Act of Indiana. There is no provision in the Workman’s Compensation Act of Indiana, either express or implied, under which the Industrial Board could enforce such a provision in any order or award.”
+The contention of the appellant is further that the appellee’s claim for compensation for anything other than the loss of his leg should have been refiled by him some time within two years, and, if not so refiled, the statute of limitations has run against any filing and for that reason the Industrial Board had no jurisdiction. We do not concur in this view. The original claim filed by the appellee covered all his injuries. The Industrial Board, at the time of the first finding and order, only included compensation for the loss of his leg, and the effect of the order was then to continue the matter as to other injuries. We know of no reason why the Industrial Board cannot continue either a part or all of a matter of .this kind, and will not for that reason lose jurisdiction of the subject-matter and the person. This proposition is so elementary that further discussion seems unnecessary.
+The award is affirmed, and it is now ordered that said award be increased 10 per cent.
