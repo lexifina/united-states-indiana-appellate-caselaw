@@ -1,0 +1,31 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,602"
+decided: "1909-03-19"
+citations: ["43 Ind. App. 438"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fowler Utilities Company v. Chaffin Coal Company."]
+source_url: "https://static.case.law/ind-app/43/cases/0438-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4937249
+cites_cases: ["110 Ind. 328", "126 Ind. 177", "13 Ind. App. 23", "131 Ind. 135", "164 Ind. 177", "164 Ind. 589", "165 Ind. 32", "18 N. W. 172", "20 Ind. App. 22", "20 Ind. App. 594", "26 Ind. App. 322", "28 Ind. App. 539", "29 Ind. 375", "38 Ind. App. 414", "4 Ind. App. 115", "48 Am. Rep. 516", "48 Ind. 543", "58 S. W. 382", "59 Wis. 316", "65 Ind. 468"]
+---
+
+# Fowler Utilities Co. v. Chaffin Coal Co.
+
+## Majority (Roby, J.)
+
+Roby, J.
+Action on contract by appellee for the agreed purchase price of ten cars of coal. The terms of the contract are in the written correspondence which passed between the parties, made up of letters and telegrams. A demurrer to an answer in abatement was sustained, and an answer of counterclaim, based on alleged damages caused by the delivery of the coal in hopper-bottomed cars, was filed. On motion, part of this paragraph was stricken out. Reply in denial. At the close of the evidence the plaintiff moved to direct a verdict in its favor for $974.55. This motion was sustained, and such action excepted to by defendant. Verdict was returned, and judgment rendered thereon for the amount named and costs. A motion for a new trial was made and overruled.
+Errors relied upon are, sustaining plaintiff’s demurrer to defendant’s answer in abatement, and overruling the motion for a new trial.
+After a preliminary written correspondence between appellant and appellee, relative to appellant’s demand for coal and appellee’s ability to supply the same, appellant sent an order by telegraph as follows: “Referring to yours 27th ship at once ten cars, mine run.” Appellee answered: “Wire received. Will have prompt attention. Shipment in any equipment available.” It was upon the contract thus constituted that the court instructed the jury to find for appellee. The shipment was made in large hopper-bottomed or iron dump-cars. Appellant sought to introduce evidence to the effect that it was difficult and expensive to unload the hopper-bottomed cars in Fowler, the point to which the coal was shipped; that such cars were very seldom used in shipments of West Virginia coal to Indiana points, and that a “car” of coal, as used in appellant’s telegram should be construed to mean an ordinary coal-car, and not a large, hopper-bottomed ear. Appellant contends that the telegram of appellee providing for “shipment in any equipment available” was not a part of the contract between the parties.
+If appellee’s telegram was not a part of the contract, then it was proper to admit parol evidence to explain the latent
+ambiguity of tbe word “cars” (Thomas v. Troxel [1901], 26 Ind. App. 322) and the business usage with reference to which the contract was made (Morning star v. Cunningham [1887], 110 Ind. 328; Lupton v. Nichols [1902], 28 Ind. App. 539; Leiter v. Emmons [1898], 20 Ind. App. 22; Louisville-Cincinnati Packet Co. v. Rogers [3898], 20 Ind. App. 594),
+and the motion to direct a verdict for appellee was improperly sustained, for in such event the verdict would be based in part upon oral testimony. Stephens v. American Car, etc., Co. (1906), 38 Ind. App. 414; Houghton v. Aetna Life Ins. Co. (1905), 165 Ind. 32; Wagner v. Weyhe (1905), 164 Ind. 177; Board, ele., v. Garrigus (1905), 164 Ind. 589.
+But if appellee’s telegram was a part of the contract, a usage cannot be appealed to for the purpose of eliminating terms from the written contract and ingrafting upon it conditions different from those displaced (Van Camp Packing Co. v. Hartman [1890], 126 Ind. 177; Atkinson v. Allen [3.868], 29 Ind. 375; Spears v. Ward [1874], 48 Ind. 543),
+and where evidence introduced is sufficient to warrant a recovery, and there is no conflict in the evidencie tending to prove any defense, it is the duty of the trial court to instruct for-the plaintiff. Rogers v. Schneider (1895), 13 Ind. App. 23; Moore v. Baker (1892), 4 Ind. App. 115, 51 Am. St. 203; Rush v. Coal Bluff Min. Co. (1892), 131 Ind. 135; Beckner v. Riverside, etc., Turnpike Co. (1879), 65 Ind. 468, 473.
+It appears that appellee’s telegram was a part of the contract. On the same date of the telegram appellee’s general manager sent a letter, as follows: “I am in receipt of your wire this morning ordering ten cars of our Fairmount Mine Bun. I wired you in reply to this that your wire was received and that the order will have prompt attention and shipment would be made in any equipment available. We have sent this order to our mines by wire, and it is possible that we will have the car numbers for you tomorrow.”
+The acknowledgment of the order of the same date, contained the provisions “To be shipped in any equipment available. Order not subject to cancelation after coal has left the mines. * * * If any error has been made in this order, as before stated, please advise us by return mail.” On April 5, 1906, appellant wrote appellee acknowledging the receipt of the invoice, and asked that a tracer be sent after the coal. Appellee’s letter to appellant, in which prices were quoted, was not an offer to sell any specified amount of coal. Appellee did not know what amount it would be asked to ship until the order was placed, and could only determine after that time whether it could ship the amount required; but whether telegraphing the order for a reasonable amount was all that was necessary to complete the contract (Moulton v. Kershaw [1884], 59 Wis. 316, 18 N. W. 172, 48 Am. Rep. 516, and College Mill Co. v. Fidler [1899], [Tenn.], 58 S. W. 382), it is unnecessary here to determine, for, although the contract was completed by sending the telegram, appellant later acquiesced in appellee’s provision as to equipment. The disposition of the cause made by the court upon the merits is not unsettled by the minor points which have been discussed.
+Judgment affirmed.
