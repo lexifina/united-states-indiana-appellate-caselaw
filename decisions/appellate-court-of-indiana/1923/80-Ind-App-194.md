@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,632"
+decided: "1923-06-19"
+citations: ["80 Ind. App. 194"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dausman, J., not participating."]
+parties: ["Doering v. Walters."]
+source_url: "https://static.case.law/ind-app/80/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2499787
+cites_cases: ["117 Pac. 612", "169 N. C. 265", "36 L. R. A. (N. S.) 158", "51 Colo. 270", "84 S. E. 340"]
+---
+
+# Doering v. Walters
+
+## Majority (Enloe, P. J.)
+
+Enloe, P. J.
+This was an action by appellee and against the appellant to recover damages for injuries to his automobile, sustained by. reason of a collision between the machines of the appellee and the appellant.
+To the complaint, which was in one paragraph, the appellant answered in general denial. He also filed á counter-claim for damages alleged to' have been suffered by reason of his machine having been injured in the same collision. The appellant’s counter-claim was met by answer in general denial.
+The issues thus formed were submitted to a jury for trial, resulting in a verdict and judgment in favor of the appellee. The appellant’s motion for a new trial having been overruled, he now prosecutes this appeal. The only valid assignment of error is the action of the court in overruling his motion for a new trial.
+The first reason assigned by the appellant in his.said motion was, that the damages assessed were excessive, but as he has entirely failed to present this matter in his propositions or points, in his brief, the same is therefore, under the repeated holdings of this court, waived.
+The appellant next insists that the verdict is not sustained by sufficient evidence. After a careful reading of the evidence, we are constrained to hold otherwise. We think the evidence is amply sufficient to sustain the verdict.
+The appellant next insists that the court erred in giving instructions Nos. 11, 12 and 13, of the instructions given by the court of its own motive. The correctness of said instruction No. 11, depends upon the construction of §10476u Burns’ Supp. 1921, Acts 1921 p. 115, and whether said section is applicable to the facts of this case.
+The following facts appear in this case without dispute, viz.: Elkhart street is a street in the town of Wakarusa, running north and south; on the day, and at the time of the said collision, the appellee was driving his automobile south on said street, traveling to the right of the center thereof; the appellant lives on the west side of said street, and, for a short time before said collision, his machine had been standing near the curb in front of his residence, with the front thereof toward the south; that just to the north of appellant’s residence is a narrow street, or alley, running east and west; that as appellee approached the machine of appellant at the time in question, the appellant started to back his machine, to turn the same around so that he might drive the same into said narrow street or alley; that in so turning his machine, he backed the same into and across the path of the machine driven by the appellee, and the collision resulted.
+Instruction No. 11 was as follows: “The legislature of this state by an act passed in 1921, among other things provides that, ‘No driver of a vehicle shall stop suddenly, slow down or attempt to turn around without first signaling his intentions with outstretched arm or otherwise, to those following closely in the rear.’ If you find from the evidence in this case that the defendant, at the time of the accident, was turning around upon the street, and he saw an automobile approaching him from the north, it was his duty under this law to give a signal by an outstretched arm or otherwise to those approaching, unless you find that they were so far away that a signal would be of no avail.”
+The appellant insists upon a strict construction of said statute, the same being penal in its nature; that as the statute says nothing about “backing a car,” the case as made was not within the provisions of said statute, and that said instruction was erroneous.
+The statute in question was enacted to promote the safety of the public traveling upon our public highways. It is essentially a police regulation, and the people, at large, have a direct interest in its enforcement; and it does not, therefore, belong to that class of penal statutes which are construed strictly, Smith v. People (1911), 51 Colo. 270, 117 Pac. 612, 36 L. R. A. (N. S.) 158. In State v. Lipkin (1915), 169 N. C. 265, 84 S. E. 340, L. R. A. 1915F 1018, Ann. Cas. 1917D 137, the court, citing as authority the Magdalen College Case, 11 Coke 71, said,—“It is well settled that laws and regulations necessary for the protection of the health, morals, and safety of society are strictly within the legitimate exercise of the police power, and in the interpretation of such remedial statutes, the office of the judges, it has been said, is to make such a construction as will suppress the mischief and advance the remedy, and to defeat all evasions for the continuance of the mischief.” See, also, 25 R. C. L. 1079. The legislature, by the enactment of the statute in question, was trying to. prevent collisions between vehicles traveling upon a public highway, caused by one of such vehicles suddenly stopping, slowing up or turning, so as to be or become in the path of some other on-coming vehicle. It was the obstructing of the path of such other on-coming vehicle that the legislature was seeking to prevent, and it makes no difference whether such obstructing of such path be accomplished by “going ahead,” and turning the vehicle, or by “backing up” and turning such vehicle. The wrongful act may be as readily accomplished one way as the other, and both of such turnings are equally within the statute. The court did not err in giving said instruction.
+What we have said in reference to instruction No. 11, also disposes of appellant’s contention in regard to instruction No. 12. There was no error in giving said instruction, as it was applicable to the facts of this case under the law as above declared.
+Objection is next made to instruction No. 13. This instruction was based upon the rule of conduct where a person is confronted by “sudden and imminent peril.” Objection is made that the instruction omits the element that the person complaining “must have been placed in such situation through no fault of his own.” It is true that said instruction does not use the language quoted; it does, however, tell the jury that, “it must be shown that the emergency was brought about by the acts of .the defendant,” which is, in effect, but another way of stating the same fact. We see no error in this instruction.
+What we have heretofore said concerning instruction No. 11, disposes also of appellant’s contention as to his requested instructions Nos. 5 and 6. They were not correct statements of the law, as applicable to the facts of this case, and the court did not err in refusing to give them to the jury.
+No error has been presented and thé judgment is affirmed.
+Dausman, J., not participating.
