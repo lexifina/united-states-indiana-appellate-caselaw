@@ -1,0 +1,61 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "1-377A56"
+decided: "1978-03-30"
+citations: ["176 Ind. App. 53"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman E. Umbreit and Norma R. Umbreit v. Chester B. Stem, Inc."]
+source_url: "https://static.case.law/ind-app/176/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1499604
+cites_cases: ["109 Ind. App. 383", "153 Ind. App. 304", "157 Ind. App. 44", "158 Ind. App. 272", "160 Ind. App. 399", "173 Ind. App. 437", "227 Ind. 441", "26 L.Ed.2d 290", "287 N.E.2d 262", "299 N.E.2d 214", "302 N.E.2d 865", "307 U.S. 161", "312 N.E.2d 138", "34 N.E.2d 168", "340 F. Supp. 691", "363 N.E.2d 1298", "373 N.E.2d 1116", "390 U.S. 400", "398 U.S. 950", "421 U.S. 240", "424 F.2d 161", "453 F.2d 852", "57 F.R.D. 94", "85 N.E.2d 638", "90 S. Ct. 1870"]
+---
+
+# Umbreit v. Chester B. Stem, Inc.
+
+## Majority (Robertson, J.)
+
+Robertson, J.
+The plaintiff-appellee, Chester B. Stem, Inc. (Stem) filed suit against the defendant-appellants, Herman E. and Norma R. Umbreit (Umbreit) after Umbreit had used a bulldozer to clear a roadway across Stem’s land to Umbreit’s adjacent property. Stem sought damages for trespass and an injunction preventing further use of the roadway by Umbreit. Umbreit counterclaim seeking to be declared the owner of an easement by prescription of the roadway.
+The trial court’s judgment denied Umbreit’s counterclaim, granted Stem an injunction against Umbreit’s further use of the roadway, granted Stem $1,000.00 in damages and awarded Stem approximately $4,500.00 in attorney fees.
+Umbreit brings the following issues for our review:
+(1) Was the trial court’s judgment contrary to law in not declaring the Umbreits to be owners of a prescriptive easement across the land of Stem?
+(2) Was the trial court’s judgment in awarding attorney fees of $4,500 to Stem contrary to law?
+The Umbreits bring this appeal from a negative judgment on their counterclaim, in that they had the burden of proving or establishing their cause of action for declaration of a prescriptive easement.
+A negative judgment will be reversed only where the evidence is without conflict and leads to but one conclusion. An attack against the sufficiency of the evidence supporting a negative judgment is an improper form of appeal, and any contention that the judgment is not supported by the evidence or is contrary thereto, presents nothing for the consideration of this court. Borden Cabinet Corp. v. Town of Borden (1974), 160 Ind. App. 399, 312 N.E.2d 138; Dyer Construction Inc. v. Ellas Construction (1972), 153 Ind. App. 304, 287 N.E.2d 262.
+A negative decision may only be attacked as contrary to law. Dyer Construction Inc. v. Ellas Construction, supra.
+In determining whether a judgment is contrary to law we may not weigh the evidence nor consider the credibility of witnesses; it is only where the evidence leads to but one conclusion and the trial court has reached an opposite conclusion that the judgment will be disturbed as being contrary to law. McCurdy v. McCurdy (1977), 173 Ind. App. 437, 363 N.E.2d 1298.
+I.
+The Umbreits contend that the undisputed evidence establishes that their predecessors-in-interest had acquired an easement by prescription over the roadway running partially across Stem’s land to an adjacent tract on the east, which was subsequently purchased by Umbreit. Indiana Code 1971 32-5-1-1 (Burns Code Edition) says the following about eastments by prescription:
+“When acquired by adverse use. — The right of way, air, light or other easement, from, in, upon, or over, the land of another, shall not be acquired by adverse use, unless such use shall have been continued, uninterruptedly for twenty [20] years.”
+In Pugh v. Conway (1973), 157 Ind. App. 44, 299 N.E.2d 214, the Court of Appeals wrote:
+.. In order to establish the existence of a prescriptive easement across the land of another, the evidence must show an actual, hostile, open, notorious, continuous, uninterrupted, and adverse use for twenty years under claim of right, or such continuous adverse use with the knowledge and acquiescence of the owner of the servient land. . . .”
+“The existence or non-existence of a prescriptive easement is a question of fact for the trier of facts. . . .”
+“Further, each of the elements of a prescriptive easement must be established by the party asserting the prescriptive right. Failure to prove any one of such elements is fatal.” (Citations by the Court omitted.)
+Accepting as we must the evidence most favorable to the appellees, the record discloses that the Umbreits failed to establish the exact location of the “old road’’ upon which they base their alleged prescriptive easement, nor did they identify their predecessors-in-title under whom they claim a continuous use of the roadway in question. The Umbreits also failed to establish when the actual possessory period or twenty years of adverse use began other than “prior to” or “around” 1925. Testimony was, at best, conflicting as to the existence and/or location of a road along the north part of the Stem property prior to 1968, when both sides agree that a temporary easement on the Stem property was used by a utility company while erecting high voltage lines and towers. It was this temporary easement, (which was reseeded after use by the contractor in 1968), that the bulldozer operator, hired by Umbreit, testified that he followed.
+While it is not necessary that the use be exercised constantly and without intermission, use of the property must be shown to be continuous for the requisite statutory period. DeShields v. Joest (1941), 109 Ind. App. 383, 34 N.E.2d 168. No one had lived on the Umbreit property after 1925 until 1975, shortly before this action was commenced. The Umbreits failed to call their immediate predecessor-in-title, Dorotha Knight, nor was evidence offered to show when and from whom Mrs. Knight obtained title to the tract. Umbreit admitted that he had no personal knowledge of the existence and use of the road prior to 1974.
+In light of the foregoing, we hold that the evidence shows that Umbreits failed in meeting their burden of proving that a prescriptive easement existed, and therefore the judgment of the trial court is not contrary to law.
+II.
+Umbreit’s second contention of error is that the trial court’s award of $4,500 in attorney fees to Stem was contrary to law.
+In Saint Joseph’s College v. Morrison, Inc. (1973), 158 Ind. App. 272, 302 N.E.2d 865, Judge Buchanan discussed the general rule regarding the award of attorney fees and listed the exceptions to that rule:
+“The general rule in Indiana and in other states is that each party to the litigation must pay his own counsel fees. They are not allowable in the absence of a statute, or in the absence of some agreement or stipulation specially authorizing the allowance, and the rule applies equally in courts of law and in courts of equity. Trotcky v. Van Sickle, (1949), 227 Ind. 441, 85 N.E.2d 638.
+There are certain limited exceptions which exist to the general rule denying the awarding of attorney’s fees. For example, Morrison cites the case of La Raza Unida v. Volpe, (N.D. Cal. 1972), 57 F.R.D. 94, which succinctly summarizes the power of equity in this area:
+“The power to grant attorneys’ fees springs from the equitable powers of the court. Sprague v. Ticonic Nat. Bank, 307 U.S. 161, 166, 59 S. Ct. 777, 83 L.Ed. 1184 (1939). The basic issue in the present motion is whether plaintiffs have demonstrated the equity compels the awarding of fees in this case. Through the use of their equitable powers courts have carved out several exceptions to the Americal rule of not granting attorneys’ fees absent statutory authorization. [Original emphasis.]
+“U The ‘obdurate behaviour’ situation. Here the courts use their equitable powers to impose costs on defendants who behaved in bad faith. See, e.g., Kahan v. Rosenstiel, 424 F.2d 161, 167 (3rd. Cir. 1970), cert. denied, Glen Alden Corp. v. Kahan, 398 U.S. 950, 90 S. Ct. 1870, 26 L.Ed.2d 290 (1970); Knight v. Auciello, 453 F.2d 852 (1st Cir. 1972).
+“2) The ‘common fund’ situation. Here the courts use their equitable powers to insure that the beneficiaries of litigation are the ones who share the expense. This is a defensive use of the equitable power of the courts to prevent the unjust enrichment of ‘free riders’. See, e.g., Sprague v. Ticonic Nat. Bank, 307 U.S. 161, 59 S.Ct. 777, 83 L.Ed. 1184 (1939).
+“3) The ‘private attorney general’ situation. Here the courts use their power offensively when necessary and appropriate to insure the effectuation of a strong Congressional policy. See e.g., Sims v. Amos, 340 F. Supp. 691 (M.D. Ala. decided March 17, 1972); cf. Newman v. Piggie Park Enterprises, 390 U.S. 400, 88 S.Ct. 964, 19 L.Ed.2d 1263 (1968).” 57 F.R.D., supra, at 96.”
+The United States Supreme Court subsequently ruled that in the absence of statutory authorization by Congress, prevailing litigants in federal actions cannot recover attorney’s fees from petitioners based on the “private attorney general approach.” Alyeska Pipeline Service Co. v. Wilderness Society (1975), 421 U.S. 240, 44 L.Ed.2d 141, 95 S.Ct. 1612.
+Since it appears, as in the Saint Joseph’s College case, supra, that neither the “common fund” nor the “private attorney general” exceptions apply to the facts before us, Stem argues that the award of attorney fees is justified on the basis that Umbreit’s actions constituted “obdurate behavior”, i.e., “bad faith.”
+Clearly the language used by the trial court in its judgment leads to that conclusion, that is:
+“3. That the acts of the Defendants [Umbreit] were without any color of title; that the nature of Defendant’s acts were shocking to the conscience of this Court and evidenced a reckless disregard of the consequences; and that in view of Defendant’s conduct, this Court awards attorney fees to Plaintiff in the amount of $4,502.00.”
+The terms selected by the trial court “shocking to the conscience of this Court” and “evidenced a reckless disregard of the consequences” are associated with the awarding of punitive damages, not attorney fees. Stem did not specifically or generally request payment of attorney fees in its complaint, nor did it allude to their payment in its proposed Findings of Fact and Conclusions of Law.
+In the Saint Joseph’s College case, the Court of Appeals held that a party’s conduct must be vexatious and oppressive in the extreme before the trial court can impose special equitable sanctions. There the Court of Appeals held that the failure of one party to pay a disputed claim did not constitute “bad faith.”
+While the Umbreits were not yet record title owners of the tract, they had entered a binding purchase agreement with the prior owner to purchase the real estate when they arranged for the roadway to be,cleared. There is no dispute that Umbreits had been assured by Mrs. Knight that the roadway in question was the means of ingress and egress from the real estate, and the deed executed subsequent to their purchase purports to include an “easement” along this roadway. While Umbreits may have acted prematurely and with undue haste, we think that these actions on the part of Umbreits do not rise to the level of “obdurate behavior” or “bad faith” required under the exception set forth in the St. Joseph’s College case.
+As there is no justification in law or equity for an award of attorney fees absent statutory provisions or the special circumstances indicated above, the trial court improperly awarded attorney fees.
+Therefore we order the judgment reversed as to the award of attorney fees to Stem and remanded to the trial court for further proceedings not inconsistent with this opinion. The judgment of the trial court is affirmed in all other respects.
+Affirmed in part; reversed in part and remanded.
+Lowdermilk and Lybrook, JJ., concur.
+Note — Reported at 373 N.E.2d 1116.
+. Since Umbreits have failed to establish whether a prescriptive easement might have existed prior to 1925, we need not explore the question of whether or not such right-of-way was abandoned.
