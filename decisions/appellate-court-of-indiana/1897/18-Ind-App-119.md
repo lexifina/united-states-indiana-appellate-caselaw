@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,108"
+decided: "1897-09-14"
+citations: ["18 Ind. App. 119"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of Commissioners of Johnson County v. Reinier."]
+source_url: "https://static.case.law/ind-app/18/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4807987
+cites_cases: ["1 L. R. A. 607", "103 Ind. 262", "114 Ind. 61", "12 L. R. A. 160", "12 N. W. 478", "121 Pa. St. 543", "122 Mass. 344", "128 Mass. 561", "128 Mass. 567", "129 Ind. 396", "13 R. I. 454", "131 Ind. 116", "131 Ind. 285", "131 Ind. 56", "132 Ind. 73", "137 Ind. 404", "14 Gray 541", "14 Ind. App. 219", "14 Ind. App. 701", "142 Ind. 27", "142 Ind. 573", "15 Atl. 812", "153 Mass. 426", "16 L. R. A. 228", "23 Am. Rep. 332", "24 Atl. 958", "27 Am. Rep. 414", "27 N. E. 11", "30 Ohio St. 37", "33 Am. Rep. 504", "4 Ind. App. 133", "43 Am. Rep. 35", "58 Ia. 462", "62 N. H. 8", "69 Mo. 341", "84 Me. 499"]
+---
+
+# Board of Commissioners v. Reinier
+
+## Majority (Wiley, C. J. —)
+
+Wiley, C. J. —
+The appellee sued appellant for injuries alleged to have been received while crossing a bridge constituting a part of a public highway. The amended complaint is in four paragraphs, and it is sought to hold the appellant liable on the ground of the negligent construction and maintenance of a bridge spanning a water way. The negligence complained of is, that appellant maintained said bridge only fourteen feet wide, about eight feet from the ground, and without any side rails or barriers, and in crossing said bridge the horse appellee was driving became frightened, and, on account of the absence of any side rails or barriers, stepped over and off at the side of the bridge, carrying the- buggy in which appellee was riding, with it, whereby she was severely injured.
+The record, as it comes to us, presents but one question for our consideration, and that is the sufficiency of the complaint. The appellant addressed to each paragraph of the complaint a demurrer on the ground that neither paragraph stated facts sufficient to constitute a cause of action’. The trial court overruled the demurrer, and this ruling of the court is assigned as error.
+We are clearly of the opinion that, under the recent holdings of the Supreme and of this Court, neither paragraph of the complaint states a good cause of action. It is now the settled law of this State that counties are not liable for damages resulting to travelers on public highways on account of defects therein resulting from the negligence of its officers. It is the recognized rule in this and many states of the Union, that a county is a subdivision of the state for governmental purposes, and is not liable for the negligence of its officers, unless a right of action is expressly granted by statute.
+In Board, etc., v. Allman, Adm’r, 142 Ind. 573, Monks, J., speaking for the court, said: “It is a well settled proposition that when subdivisions of a State are organized solely for a public purpose by a general law, no action- lies against them for an injury received by any one on account of the negligence of the officers of such subdivision, unless a right of action is expressly given by statute; that such subdivisions, as counties and townships, are instrumentalities of government, and exercise authority given by the State, and are no more liable for the acts or omissions of their officers than the State.”
+Following the above quotation, the learned judge, in support of the doctrine announced, cites the following cases: Cones v. Board, etc., 137 Ind. 404; Morris v. Board, etc., 131 Ind. 285; Board, etc., v. Daily, 132 Ind. 73; Smith v. Board, etc., 131 Ind. 116; White v. Board, etc., 129 Ind. 396; Abbett v. Board, etc., 114 Ind. 61, and cases cited on page 63; Freel v. School City of Crawfordsville, 142 Ind. 27; Summers v. Board, etc., 103 Ind. 262; Board, etc., v. Boswell, 4 Ind. App. 133; Edgerly v. City of Concord, 62 N. H. 8, 13 Am. St. 533; Goddard v. Inhabitants of Harpswell, 84 Me. 499, 24 Atl. 958, 30 Am. St. 373, and note on pages 398-402; Howard v. City of Worcester, 153 Mass. 426, 27 N. E. 11, 12 L. R. A. 160; Larrabee v. Inhabitants of Peabody, 128 Mass. 561; Clark v. Inhabitants of Waltham,, 128 Mass. 567; Hill v. City of Boston, 122 Mass. 344, 23 Am. Rep. 332; Wixon v. City of Newport, 13 R. I. 454, 43 Am. Rep. 35; Finch v. Board, etc., 30 Ohio St. 37, 27 Am. Rep. 414; Lane v. District Tp. of Woodbury, 58 Ia. 462, 12 N. W. 478; Flori v. City of St. Louis, 69 Mo. 341, 33 Am. Rep. 504; Bigelow v Inhabitants of Randolph, 14 Gray 541; Ford v. School District, 121 Pa. St. 543, 15 Atl. 812, 1 L. R. A. 607.
+In Board v. Chipps, Admr., 131 Ind. 56, 16 L. R. A. 228, Coffey, J., speaking for the court, says: • “The decided weight of authority is that, in the absence of a statute upon the subject, a county is not liable for a failure to keep its bridges in repair. Elliott, Roads and Streets, p. 42.”
+Following the authority of the Supreme Court in Board, etc., v. Allman, supra, this court, in Board, etc., v. Coffenberry, 14 Ind. App. 701, and Board, etc., v. Hemphill, 14 Ind. App. 219, held that there was no liability on the part of the county for injuries received on account of defective highways or bridges.
+It follows, therefore, from the authorities cited, that the appellee’s complaint did not state facts sufficient to constitute a cause of action against appellant county, and that the court below erred in overruling the demurrer to each paragraph of the complaint.
+The judgment is reversed, with instructions to sustain the demurrer to each paragraph of the complaint and for further proceedings not in conflict with this opinion.
