@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "9,050"
+decided: "1916-06-23"
+citations: ["62 Ind. App. 481"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hillel v. Julius H. Buettner Furniture and Carpet Co."]
+source_url: "https://static.case.law/ind-app/62/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5155249
+cites_cases: ["1 N. E. 854", "102 Ind. 458", "102 N. E. 875", "105 N. E. 400", "113 N. E. 12", "123 Ind. 429", "24 N. E. 152", "54 Ind. App. 146", "56 Ind. App. 367", "78 Ind. 241"]
+---
+
+# Hillel v. Julius H. Buettner Furniture & Carpet Co.
+
+## Majority (Ibach, J.)
+
+Ibach, J.
+Appellee brought this action of replevin for certain household goods alleged to be in appellant’s possession and unlawfully detained by her. To this complaint appellant filed her verified answer in general denial. A trial by the court resulted in a general finding and judgment for appellee. Appellant’s motion for new trial was overruled, and this is assigned as error. This motion was based on a number of grounds. Those argued are: (1) “The judgment is clearly against the weight of the evidence. (2) The finding of the court is not sustained by the evidence. (3) Error of the court in admitting in evidence a certain written article of agreement supposed to have been entered into between the plaintiff and the husband of defendant, bearing date of April 15, 1911.”
+The first specification is not a statutory ground for a new trial, and therefore presents no question for review. §585, el. 6, Burns 1914, §559 It. S. 1881. In the second specification the word “finding” is used instead of the word “decision,” but it has been held that the former word is equivalent to the word used in the statute, when the cause has been tried by the court, so that the ground for a new trial in the form here appearing properly presents the question for a review of the evidence. Bump v. Sellers (1913), 54 Ind. App. 146, 102 N. E. 875, and eases cited. The assignment that the decision “is not sustained by the evidence” is in effect equivalent to the assignment that the decision “is not sustained by sufficient evidence.”
+The facts as they appeared from the evidence are that the appellee is a furniture dealer, and appellant’s husband, 1ST. Hillel, who has since died, obtained possession of the furniture in question by virtue of a contract of conditional sale, by the terms of which he was to pay the sum of $184.80 in weeHy installments of $2 each. Appellee was to retain title and the right to recover possession on default of the purchaser. The contract contains the further condition that in ease of the violation by N. Hillel of other provisions of the contract, among which is that in ease of sale or disposal, or an attempt to sell or dispose of the property, or removal of the same by N. Hillel or any one else from the then place of residence of the mortgagor, then appellee might take the property into' its possession. There is evidence also from which the trial court could very properly infer that appellant’s husband executed the instrument relied on by appellee, and that she knew of that fact; and the evidence is uncontradieted that appellant retained possession of the same property on the death of her husband, in their home in St. Louis, Missouri. There is some evidence, contradicted it is true, which shows that at the time of the death of appellant’s husband he was in default of his payments and that she never made any payments' after his death. There is also some evidence tending to show that the goods purchased were found in appellant’s possession in Indiana Harbor, Indiana, where appellant was residing when suit was brought. The contract of sale was properly received in evidence, and this court can not reverse the judgment of the trial court on the sufficiency of the evidence, since there is some evidence to support every material fact essential to appellee’s recovery.
+Under the facts of the case appellant can not insist that the terms of the contract can not be enforced against her, because she did not execute the original contract of sale. On the contrary, when the property was found in her possession, and default had occurred in the payments, her right to retain the property under such original contract was terminated, and since the contract of sale provided against the removal of the property from the domicile of the purchaser, when appéllant removed the same into this state, without the consent of the owner, her act amounted to a conversion of the property and her possession in this state from that time became wrongful and no demand was necessary before bringing the suit. A demand is not necessary except where a party has possession of the property of another lawfully, and a demand will make the possession unlawful. Cox v. Albert (1881), 78 Ind. 241; Deeter v. Sellers (1885), 102 Ind. 458, 1 N. E. 854; Haffner v. Barnard (1890), 123 Ind. 429, 24 N. E. 152; Hoover v. Lewin (1914), 56 Ind. App. 367, 105 N. E. 400.
+Judgment affirmed.
+Note. — Reported in 113 N. E. 12. Conditional sales, recovery of goods, 133 Am. St. 564. ' See under (4) 35 Cye 702; (5) 34 Cyo 1404.
