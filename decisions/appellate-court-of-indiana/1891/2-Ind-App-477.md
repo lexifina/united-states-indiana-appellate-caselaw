@@ -1,0 +1,41 @@
+---
+court: "Appellate Court of Indiana"
+docket: "277"
+decided: "1891-10-14"
+citations: ["2 Ind. App. 477"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Howe et al. v. Gregory, Executrix."]
+source_url: "https://static.case.law/ind-app/2/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4685133
+cites_cases: ["51 N. Y. 219", "65 Ind. 329", "80 Ind. 366"]
+---
+
+# Howe v. Gregory
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+The appellants filed a complaint in the nature of a claim against the appellee, Susan C. Gregory, executrix of the estate of William L. Gregory, deceased, to recover for the expense incurred in furnishing an elevator for the testator by the appellants, upon which claim a balanee was claimed as due from said estate to the appellants of $115.65.
+The appellee answered in two paragraphs :
+First. General denial.
+Second. Set-off and counter-claim, which alleged that the appellants were indebted to said appellee, as the executrix of the last will and testament of said William L. Gregory, deceased, for rent of store-room owned by said decedent, and occupied by said claimants, known and called No. 12 South Fourth street, in the city of Lafayette, Indiana, as follows: 1885. Jan. 12. Amount of rent retained by said
+claimants.................$25 00 1889. Sept. 22. To balance of rent due .... 250 00 And said executrix avers that said sum of money, together with the interest, is wholly due and unpaid, and now amounts to a large sum, to wit, $350, for which she demands judgment, etc.
+The appellants replied by general denial. Afterwards the appellants dismissed their claim, and went to trial on the set-off and counter-claim. There was a finding and judgment for the appellee for $290. Appellant filed a motion for a new trial, which was overruled, and exception taken.
+The errors assigned in this court and presented in argument are that the circuit court erred in overruling the motion for a new trial, and that the finding of the court was not sustained by sufficient evidence and was contrary to law.
+The evidence is in the record, and as it is brief we here set it out:
+Susan C. Gregory testified that she was the widow of William L. Gregory, who died in 1884; that she was the executrix of the last will of William L. Gregory; that the claimants, Howe & Shipley, occupied the store-room referred to in the counter-claim for a number of years prior to the death of her husband — did not know just when their tenancy began; they continued to occupy said premises after the death of her husband until about the first of October, 1889; since the death of her husband they had paid her rent of said store-room; there was a balance of twenty-five dollars still owing for rent which had been due since January 12th, 1885 ; the rent for the last quarter, ending October 1st, 1889, was also due and unpaid ; the amount of the quarter’s rent was two hundred and fifty dollars; never made any demand for the payment of this rent prior to the commencement of this action. “ Howe & Shipley didn’t pay the twenty-five dollars due January 12th, 1885, because they claimed I should pay for an elevator which they had put in the storeroom ; this I refused to do; Mr. Shipley came to see me, and wanted me to agree to pay for the elevator; I told him I would not do it, for Mr. Gregory refused to putin the elevator, and they put it in for themselves; he promised to send me up a cheek for the rent next day, for the rent then due, and when it came it was twenty-five dollars short, and it has stood just that way ever since; did not agree to let the twenty-five dollars go on the elevator; did not demand the payment of the rent at any time, for they always went and paid it into bank to my credit without asking, except the last quarter, which they did not pay.”
+This was all the evidence in the case, and the statements made by the appellee on the witness-stand must be taken as the facts in the case, because there was no conflict, and the facts so stated by the appellee were undisputed.
+It is claimed by the appellants that, as it is alleged in the counter-claim that the appellants were indebted to the appellee in the capacity of executrix of the last will and testament of William L. Gregory, deceased, for rent of a store-room owned by the testator in his lifetime, and occupied by the appellants, this allegation in the counter-claim should have been proven to have entitled the appellee to judgment; “ that an executor, as such, has no right to take possession of his testator’s real estate, or to receive the rents thereof, unless authorized to do so by the will, or in the absence of the heirs or devisees on the death of the testator; ” that the burden was on the appellee to prove her right to the rents in the capacity in which she was sued. If the will gave her the right to collect the rents, or they were necessary to pay the debts of the estate, it was incumbent on the appellee to make this proof; that, as the will was not read in evidence, and there was no evidence showing that the rents were needed to pay the debts of the estate, there was no evidence to sustain the judgment in favor of the appellee on her counter-claim, and that therefore the circuit court should have sustained appellants’ motion for a new trial.
+The appellants, in support of the positions assumed, refer us to Hendrix v. Hendrix, 65 Ind. 329. It was held in that case: “As a general rule an executor, as such, has no authority to take possession of the real estate of his testator, or to receive the rents and profits thereof, in the absence of an express provision of the will authorizing him to do so. The only exception to this rule is where there is no heir or devisee of the testator present at the time of his death to take possession of such real estate.”
+The point decided in this case is not applicable to the questions in the case at bar, which, under the evidence, present, for consideration an entirely different question from the one that is claimed by the appellants, or that was determined in Hendrix v. Hendrix, supra.
+The evidence in the ease heretofore set out proves without conflict that the appellants were the tenants of the testator, William L. Gregory; that after his death appellants continued to hold over and occupy the premises, and attorn to the appellee as the executrix of the estate of said William L. Gregory, and continued to pay the rent without objection to the appellee as such executrix from the death of said testator, in 1884, until July, 1889; the payment of said rent after the testator’s death was paid direct to the appellee or in bank to her credit.
+Filed Oct. 14, 1891.
+These facts clearly established the relation of landlord and tenant between the appellee, as executrix of said estate, and the appellants.
+The payment of the rent estopped the appellants from disputing the title of the appellee. Taylor Landlord and Tenant, sections 629, 705, 841; 2 Herman Estoppel and Res Judicata, section 840; Sedgwick and Wait Trial of Title to Land, section 351; Prevot v. Lawrence, 51 N. Y. 219.
+“ Where the relation of landlord and tenant exists, the former is not required to show that his title is good against all the world, nor, indeed, to prove title at all. The only thing he need do is to show that defendant entered into possession as tenant.”
+The appellants paid the appellee rent for about five years at the rate fixed at the time they entered under the testator, and continued to hold under the appellee. This was sufficient to establish the relation of landlord and tenant. Where one claims to be the lessor, and the person in possession acquiesces in the claim, and pays rent, the presumption is that the relation of landlord and tenant exists, and this presumption will prevail, unless overcome by countervailing evidence. Cressler v. Williams, 80 Ind. 366; Taylor Landlord and Tenant, section 22.
+The authorities sustaining the opinion in this case are numerous, but as the questions involved are so familiar and well settled under the facts, as shown by the evidence, a further citation of authority is unnecessary.
+Judgment affirmed, with costs.
