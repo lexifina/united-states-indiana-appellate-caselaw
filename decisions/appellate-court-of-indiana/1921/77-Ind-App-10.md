@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "11,192"
+decided: "1921-11-30"
+citations: ["77 Ind. App. 10"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Driscoll v. Weidely Motors Company et al."]
+source_url: "https://static.case.law/ind-app/77/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2511529
+---
+
+# Driscoll v. Weidely Motors Co.
+
+## Majority (Enloe, C. J.)
+
+Enloe, C. J.
+On July 12, 1920, one William Driscoll, a boy of the age of fourteen years, entered the service of appellee in the capacity of a “tool room errand boy.” On August 17, 1920, he, while in the service of appellee at its manufacturing plant, received the injury by accident which caused his death. The appellant made application to the Industrial Board for an award of compensation as the dependent mother of said deceased with whom he lived and to whom he contributed all his earnings for her support. Such proceedings were had thereafter that the cause was reviewed by the full board, and said board made a finding that:
+“On the 17th day of August, 1920,.one William Driscoll was in the service of the defendant, Weidely Motors Co., at an average weekly wage of- $15.41; that the said William Driscoll was bom August 31, 1905, and was under fifteen years of age on the 17th day of August, 1920; that among other things the said William Driscoll was hired to and was permitted to operate an elevator; that on the 17th day of August, 1920, while performing work that he was hired to do, the said William Driscoll was operating an elevator with the knowledge, acquiescence and consent of the defendant, Weidely Motors Co.; that while so operating said elevator he received a personal injury by an accident arising out of the operation of said elevator, which resulted in his death on the 20th day of August, 1920; that the plaintiff is the mother of the said William Driscoll; that at the time of his injury and death she was partially dependent upon him for maintenance and support; that by reason of the facts hereinbefore found, the Industrial Board is without jurisdiction to hear and determine the plaintiff’s claim.” Based upon such finding the Industrial Board dismissed said claim, from which order of dismissal this appeal is prosecuted.
+The appellant insists that under the evidence, the deceased was lawfully in the service of the Weidely Motors Company as an errand boy, and that operating the elevator was outside of the duties for which he was employed at the time of the injury, and that therefore the appellant is entitled to an award of compensation. This contention necessitates an examination of the evidence to determine whether there is any evidence which fairly tends to support the findings of said board.
+Our statute, §8024 Burns 1914, Acts 1899 p. 231, provides :
+“No person, company, corporation or association shall employ or permit any young person to have the care, custody, management of or to operate any elevator.” A “young person” is defined by statute to be a person between the age of 14 and 18 years. It necessarily follows that if the deceased, who was a “young person,” and who met his death while operating an elevator, was performing a service for which he was employed, that his contract of employment was therefore illegal and the board had no jurisdiction to make an award in this case.
+It appears from the evidence that when the deceased was first employed, one Paul Mills, who was also an errand boy, was directed by an assistant foreman of appellee motors company, to show young Driscoll the different work he was to do and how to do it. It also appears that the foreman of said motors company instructed said Mills to show the deceased the work he was to do and how to do it, and to remain with him two or three days until he got onto the work; that it was a part of the work of an errand boy to get tools from' the tool room and deliver them to the workmen, and also to return tools to said tool room; that the tool room in said plant was on the second floor of the building and that in delivering tools to the workmen, and in returning them to the tool room, if the tools were light they would be carried by the errand boy up a stairway, but if the tools were heavy they were usually placed on a truck, which was placed on the elevator and thus taken by the errand boy from floor to floor as occasion demanded.
+Just prior to his injury the deceased had delivered a tool called a milling cutter, weighing thirty-five or forty pounds to one .of the workmen, and had used the elevator to transfer said tool from one floor to another, and having delivered said tool, was returning the two-wheel push truck upon which he had delivered said tool, to the tool room where said truck belonged and was kept, using the elevator for that purpose, and that in so using the elevator the accident occurred which caused his death.
+We think the evidence abundantly shows that it was a part of the usual work of an errand boy under his employment, to use this elevator as occasion should demand in making delivery of tools, and that the finding of the Industrial Board is abundantly sustained. This part of the employment of the deceased being prohibited by law, his entire contract of employment was invalid. The order of the Industrial Board is therefore affirmed.
