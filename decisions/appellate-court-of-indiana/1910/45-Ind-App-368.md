@@ -1,0 +1,26 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,704"
+decided: "1910-02-17"
+citations: ["45 Ind. App. 368"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cole Carriage Company v. Hacker et al."]
+source_url: "https://static.case.law/ind-app/45/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5035902
+---
+
+# Cole Carriage Co. v. Hacker
+
+## Majority (Rabb, P. J.)
+
+Rabb, P. J.
+This was an action to recover damages for the alleged breach of an executory contract, for the purchase and sale of certain buggies, entered into between the parties. Issues were formed and a trial had resulting in a finding and judgment in favor of appellees.
+The only question presented by the record is the sufficiency of the evidence to sustain the finding.
+The complaint set up a written contract between the parties, by the terms of which the appellees, who were retail dealers in buggies, gave their written order to appellant, who was engaged in the manufacture and sale of buggies, for ten buggies, to be delivered by shipment to appellees, at Montpelier, Indiana, in time for exhibition at a county fair to be held there, which order was accepted in writing by appellant. The contract provided, among other things, that the order for the goods was not subject to countermand, except on the payment of twenty per cent liquidated damages, with the written consent of appellant, and that no agreement by a sales agent, unless in writing, and approved by some officer of the company, should be binding upon the company. It Avas provided that the title to the goods should remain in the appellant, who would have the right to resume possession of the property whenever it should feel insecure. The complaint averred the performance of the contract on appellant’s part, and a refusal to accept the goods on the part of appellees. Appellee answered in two paragraphs: (!)■ A general denial; (2) that, after the execution of the contract the appellant, in consideration of the payment by appellees of a certain note, executed theretofore by appellees to appellant, and which was not then due, released appellees from the obligations of the contract sued on.
+Under the issues thus presented, every material fact alleged in the complaint and answer was in issue, and if the evidence, viewed in its most favorable light for appellees, fails to sustain every material fact averred in the complaint, or does sustain the material facts set up in the affirmative paragraph of answer, the judgment must, be affirmed. The evidence discloses that sometime after the contract was executed, and about the time the goods were shipped, and while they were on board the cars at Montpelier, and before they had been accepted by appellees, a question arose as to the financial ability of the appellees to pay for the buggies. A confidential letter was written by one of the appellees to appellant on the subject, and some talk was had over the telephone, between the president of appellant company and one of the appellees, as to the possibility of appellant’s sustaining loss if the goods were taken by appellees, and as a result of these negotiations, and before the complete execution of the contract by the acceptance of the goods by appellees, or a breach thereof by the refusal on the part of appellees to accept the goods, by mutual agreement between the parties, the appellant resumed possession of the goods, and has ever since held them.
+One of the material averments in appellant’s complaint was that the appellees refused to accept the goods. It was necessary to appellant’s case that this fact should be made to appeal. While there is some conflict in the evidence on the subject, there was an abundance of evidence to sustain the verdict that this material averment of the complaint was not true, and there was some evidence to sustain the affirmative paragraph of the appellant’s answer. It is insisted by appellant that what was done with reference to taking possession of the goods was done by appellant’s traveling salesman, and was without authority of the firm. The contract expressly provided that no agreement by a sales agent, unless in writing and approved by some officer of the company, should be binding upon the company. Notwithstanding the written contract, the parties' still possessed the right and power to make any kind of a contract they chose, in reference to the subject, either in writing or by parol.
+Here it was shown that in the conversation had, over the telephone, between one of the appellees and appellant’s president and general manager, in reference to the subject of the possession of the goods in question, the appellees were informed by the president that appellant’s traveling salesman would see them and take up the matter with them. The traveling salesman did see them, took up the matter with them, and, in appellant’s behalf, took possession of the goods. The appellant received the goods under this arrangement made with the traveling salesman, and still retains possession of them, and never afterwards offered to deliver them to appellees, and they cannot now be heard to say that their salesman acted without authority.
+Judgment of the court below affirmed.
