@@ -1,0 +1,28 @@
+---
+court: "Appellate Court of Indiana"
+docket: "4,007"
+decided: "1903-10-14"
+citations: ["31 Ind. App. 473"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Old Wayne Mutual Life Association v. Flynn."]
+source_url: "https://static.case.law/ind-app/31/cases/0473-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2418191
+cites_cases: ["102 Ind. 14", "137 U. S. 287", "17 Ind. App. 84", "18 Ind. App. 392", "18 Wall. 350", "52 Ind. 583", "53 Ind. 466", "83 Ind. 417"]
+---
+
+# Old Wayne Mutual Life Ass'n v. Flynn
+
+## Majority (Roby, J.)
+
+Roby, J.
+This action is founded upon a judgment alleged to have been rendered in favor of appellee and against appellant by the common pleas court of Lackawanna county, Pennsylvania. Whether the judgment is valid depends upon whether the Pennsylvania court is shown to have had jurisdiction of the person of appellant. The suit therein brought was one to recover upon a policy of insurance issued by appellant, an Indiana corporation, by its agents in Pennsylvania, to a citizen of that state, upon the life of another citizen thereof. The court is averred to have been one of record and of general jurisdiction as the name implies. The presumption therefore is that it had jurisdiction of both the subject-matter and all the parties. Gates v. Newman, 18 Ind. App. 392; Galpin v. Page, 18 Wall. 350, 21 L. Ed. 959. Such jurisdiction may be questioned in this State notwithstanding the record. The jurisdiction of a foreign court is always open to inquiry, and a court of another state in this respect is regarded as foreign. Pond v. Simons, 17 Ind. App. 84; Grover, etc., Mach. Co. v. Radcliffe, 137 U. S. 287, 11 Sup. Ct. 92, 34 L. Ed. 670.
+The distinction between collateral and direct attacks as applicable to judgments rendered in this State is not therefore of controlling importance. The presumption of jurisdiction does not arise when the record shows the facts upon which it depends, but the record will be taken as expressive of the entire truth. The same proposition applies to a pleading in which averments relative to jurisdictional facts are contained. Coan v. Clow, 83 Ind. 417; Galpin v. Page, supra; Pressley v. Harrison, 102 Ind. 14, 23.
+It is averred “that said writ was personally served on said defendant association by the proper officer having the writ for service, giving to S. W. McCulloch, deputy insurance commissioner of said commonwealth, at the office of the insurance commissioner of said commonwealth, a true attested copy of said writ and statement aforesaid, and making the contents known to him, the said McCul.loch being legally authorized to receive and receipt said regular service as and for the insurance commissioner of -said commonwealth, as the lawful representative and agent of said defendant association resident in said common- . wealth for the purpose of receiving and receipting service of process, including the aforesaid writ, for said defendant association.” The sufficiency of the complaint and the validity of the judgment are asserted on the theory that service upon the deputy insurance commissioner was service upon his principal. The Pennsylvania statute “to establish an insurance department” was in part incorporated in appellee’s complaint. Only one section thereof — the thirteenth — was so pleaded. Appellee asserts that by a different section the deputy insurance commissioner was empowered to perform the acts attached to the office in certain contingencies, citing McCann v. Old Wayne, etc., Ins. Co., 10 Pa. Dist. Rep. 560; Reynolds v. Supreme Conclave, 9 Pa. Dist. Rep. 622.
+The courts of this State do not take judicial notice of the statutes of another state. Tyler v. Kent, 52 Ind. 583.
+The statute pleaded stipulates that no insurance company not of that state shall do business therein until it has filed with the insurance commissioner a written stipulation agreeing that any legal process affecting the company “served on the insurance commissioner, or the party designated by him, or the agent 'specified by said company to receive service of process for said company, shall have the same effect as if served upon the company.” It is not averred that service was made upon the insurance commissioner, or upon any party designated by him, or upon any agent appointed by the appellant.- Where a particular method of serving process is pointed out by statute, that method must be followed in order to secure jurisdiction of the person. McCormack v. First Nat. Bank, 53 Ind. 466. The averments that the deputy was “legally authorized,” and that he was the “lawful representative” of the appellant company, are legal conclusions, the correctness of which depends upon facts not exhibited by the pleading. The question presented is one of pleading. Whether, as matter of pleading or proof, facts might be shown rendering service upon the “deputy insurance commissioner,” if it should be made to appear that there is such an officer, equivalent to service upon the commissioner, as specified in the section of statute pleaded, is not decided in this case.
+Inasmuch as the second paragraph of complaint sets out specifically the manner in which jurisdiction of appellant’s person was attempted to be acquired by the Pennsylvania court, and shows such attempt to have been futile, the demurrer to it should not have been overruled.
+The judgment is reversed, with directions to sustain the demurrer to the second paragraph of complaint, and for further proceedings not inconsistent herewith.
+Robinson, O. J., Ilenly and Black, JJ., concur. Corn-stock and Wiley, JJ., concur in result.
