@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "7,142"
+decided: "1910-04-29"
+citations: ["45 Ind. App. 698"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wirrick et al. v. Boyles et al."]
+source_url: "https://static.case.law/ind-app/45/cases/0698-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5038698
+cites_cases: ["160 Ind. 329", "165 Ind. 140", "165 Ind. 253", "26 Ind. 398", "30 Ind. App. 116", "37 Ind. App. 56", "44 Ind. 248"]
+---
+
+# Wirrick v. Boyles
+
+## Majority (Myers, C. J.)
+
+Myers, C. J.
+Appellees by a verified complaint in the court below sued Jacob Wirrick, who after the trial, and after perfecting this appeal in the Supreme Court, died. On petition to the Supreme Court the appellants, as the heirs of said Wirrick, were susbstituted as parties appellant. Thereafter the last-named court transferred the case to this court, and from that action we may assume that the case should have been appealed to this court in the first instance.
+Appellees, as it appears from their complaint, claimed to be the owners in fee simple and as tenants in common of a certain described strip of land, sixteen and one-half feet wide and eight rods long, situated in the town of Winamae, Indiana. It is also shown that they erected a substantial wire fence on the east line of their said premises, for the purpose of enclosing them, which fence on May 14, 1906, was by said Wirrick wrongfully and forcibly torn down and destroyed without the knowledge or consent of appellees; that appellees rebuilt said fence, and it was again torn down by said Wirrick, who, under a claim of right to enter upon said land at will and for any purpose of his own, threatens to destroy, and will, unless enjoined, continue to destroy, any fence posts -which are now standing or may hereafter be set for the purpose of such fence. Other facts were alleged. The complaint was for an injunction. It was answered by a general denial. Trial by the court. The facts were specially found and conclusions of law stated thereon. Judgment was rendered in favor of appellees, permanently enjoining said Wirrick from in any manner interfering with said enclosure.
+The questions presented for our consideration are grounded upon the exceptions to the conclusions of law, and the overruling of defendants’ motion in arrest of judgment.
+Appellants first insist that the court erred in overruling the demurrer to the complaint. To this insistence appellees earnestly contend that the failure of appellants to set forth in their brief the demurrer, or the substance thereof, mast be considered as a waiver of such alleged error. The decisions of the Supreme Court sustain their contention. Knickerbocker Ice Co. v. Gray (1905), 165 Ind. 140; Chicago, etc., R. Co. v. Walton (1905), 165 Ind. 253. However, we have given the complaint consideration as to facts, and conclude that it was sufficient, on the theory that it exhibits facts showing continued acts of trespass by said Wirrick upon the land of appellees, for which redress at law would necessarily require a multiplicity of actions, and would not be as adequate or as practical and efficient to the ends of justice and its prompt administration as the remedy in equity. Miller v. Bowers (1902), 30 Ind. App. 116; Wabash R. Co. v. Engleman (1903), 160 Ind. 329.
+Turning to the conclusions of law stated upon the special finding of facts and the motion in arrest of judgment, it will be seen from the findings, as well as from the complaint, that appellees were the owners in fee simple,
+as tenants in common, of a certain parcel of land, sixteen feet wide and eight rods long, immediately adjoining and on the west side of certain land owned by appellants, which strip of land appellees had recently enclosed with a wire fence. Jacob Wirrick did not claim title to the land so enclosed, nor did he dispute the title of appellees, but supposing that the strip was a public alley, and that he had a right to use it, without malice he cut and removed the fence for the purpose pf using the strip at will as an alley and to gain access to his land adjoining it. Appellees rebuilt the fence, but said Wirrick again destroyed it, and threatened to do so thereafter as often as it might be replaced, and to use the strip of land at his pleasure, adverse to appellees’ ownership and right of the exclusive possession thereof.
+It is contended, upon behalf of appellants, that a suit for injunction would not lie, and that there was an adequate remedy at law.
+The facts stated and found constitute a continuous trespass, and if the action of said Wirrick done and threatened were continued indefinitely the foundation of adverse rights might be laid and an injunction would not only prevent such accrual of right, but would also prevent a multiplicity of actions for trespass. Town of Syracuse v. Weyrick (1906), 37 Ind. App. 56. “If the trespass is continuous in its nature, if repeated acts of wrong are done or threatened, although each of these acts, taken by itself, may not be destructive, and the legal remedy may therefore be adequate for each single act if it stood alone, then also the entire wrong will be prevented or stopped by injunction, on the ground of avoiding a repetition of similar actions. ’ ’ 4 Pomeroy, Eq. Jurisp. (3d ed.), §1357.
+" Courts of equity interfere in cases of trespass, that is to say, to prevent irreparable mischiefs, or to suppress multiplicity of suits and oppressive litigation.” 2 Story, Eq. Jurisp. (11th ed.), §928; and see Clark v. Jeffersonville, etc., R. Co. (1873), 44 Ind. 248. In the case of Lewis v. Bough (1866), 26 Ind. 398, 400, it was said: “If the defendants committed the threatened trespass, and the plaintiff established his right at law, and the defendants nevertheless persist in the wrongful use of plaintiff’s lands for the purpose of a highway, then a court of equity would grant relief, on the ground of suppressing litigation, and of preventing a multiplicity of suits.”
+Judgment affirmed.
