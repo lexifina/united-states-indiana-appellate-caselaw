@@ -1,0 +1,60 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "1-778A200"
+decided: "1979-03-28"
+citations: ["180 Ind. App. 12"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John A. Glick v. The Department of Commerce of The State of Indiana and the Industrial Promotions and Development Division of the Department of Commerce of the State of Indiana"]
+source_url: "https://static.case.law/ind-app/180/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1518843
+cites_cases: ["113 Ind. 373", "114 Ind. 588", "14 N.E. 586", "162 Ind.App. 658", "165 Ind.App. 513", "17 N.E. 163", "173 Ind. App. 166", "173 Ind.App. 208", "175 Ind.App. 449", "179 Ind.App. 227", "179 Ind.App. 392", "321 N.E.2d 215", "332 N.E.2d 845", "362 N.E.2d 1178", "363 N.E.2d 1245", "372 N.E.2d 479", "385 N.E.2d 198", "386 N.E.2d 180", "387 N.E.2d 74"]
+---
+
+# Glick v. Department of Commerce
+
+## Majority (LYBROOK, P.J.)
+
+LYBROOK, P.J.
+This appeal is being brought by plaintiff-appellant John A. Glick (Glick) from the trial court’s denial of his Petition to Enforce Judgment which requested that the defendants-appellees Department of Commerce of the State of Indiana and Industrial Promotions and Development Division of the Department of Commerce of the State of Indiana (hereinafter collectively referred to as the State) be required to pay interest on a $24,000 judgment entered in favor of Glick on September 28,1976. The State appealed the original judgment to this court which affirmed the trial court’s decision on Feburary 13, 1978. See Department of Commerce v. Glick (1978), 175 Ind.App. 449, 372 N.E.2d 479.
+Subsequently, on April 5, 1978, the State paid into the office of the Bartholomew County Clerk the sum of $24,026 which represented the principal sum of the judgment plus court costs. Glick then filed a Petition to Enforce Judgment requesting the trial court to direct the State to pay interest on the September 28, 1976, judgment. The trial court denied this petition on June 20, 1978.
+Glick filed a Praecipe for purposes of taking an interlocutory appeal and also filed a Motion to Correct Errors, with supporting memorandum, which Motion was denied on July 7, 1978. Glick thereafter filed his Praecipe and brings this appeal based upon the following issues:
+(1) Whether the trial court erred in finding that IND. CODE 34-4-16.5-17 applied to this cause which arose prior to the effective date of said statute?
+(2) Whether the trial court erred in finding that no interest was taxable against the State where the trial court applied IND. CODE 34-4-16.5-17, and the principal amount of the judgment was not paid within 180 days of the trial court’s judgment?
+(3) Whether the trial court erred in not applying the interest provisions of IND. CODE 24-4.6-1-101, 24-5A-1-1 and 34-2-22-1?
+(4) Whether the trial court erred in denying Glick’s Petition to Enforce Judgment by finding that no interest was taxable against the defendants?
+I.
+Glick alleges that the provisions of the Indiana Tort Claims Act, which became effective on February 19, 1974, should not be applied to this case where the cause of action arose April 14, 1972, and the suit was filed on January 15, 1974.
+Glick relies upon two cases where this court failed to apply the Indiana Tort Claims Act retroactively, State v. Daley (1975), 165 Ind.App. 513, 332 N.E.2d 845, and Palmer v. State (1977), 173 Ind.App. 208, 363 N.E.2d 1245.
+In the recent case of Speidel v. State (1979), 179 Ind.App. 392, 386 N.E.2d 180, this court addressed the applicability of IND. CODE 34-4-16.5-17 to claims arising prior to the effective date of the Tort Claims Act, but where judgment was rendered after the effective date.
+This court, in Speidel, pointed out that in Palmer, supra, the notice requirement of the statute was directly tied to an event (the date of the accident) which had occurred prior to the passage of the Act. Similarly, in Daley, supra, the court on appeal refused to apply the Act to a judgment rendered prior to the passage of the Act. Clearly, both Palmer and Daley are distinguishable from the present case in that the event from which interest is to be determined here, would be the entry of judgment which occurred after the effective date of the Tort Claims Act, and not the date of the occurrence from which the claim arose.
+We think that our recent decision in State v. Thompson (1979), 179 Ind.App. 227, 385 N.E.2d 198, is likewise distinguishable where this court held that the provisions of IND. CODE 34-4-16.5-4, which would have limited recovery to $300,000 in Thompson, were inapplicable to a judgment on a jury verdict rendered after the effective date of the Act. Our focus in Thompson was a claim for damages which arose from an event (the date of the accident) occurring prior to the effective date of the Tort Claims Act. The court’s focus both in Speidel and in the case at hand is a claim for interest on the judgment which claim only arises in the event judgment has been received. Under the facts in Speidel and here, the judgments were received after the effective date of the Tort Claims Act and claims for interest on those judgments could only commence with the entry of judgment in each case.
+As Glick argues here, the appellant in Speidel complained that the State is seeking an improper retroactive application of IND. CODE 34-4-16.5-17. The court there held that there is no rule against retroactive application of a statute where the party did not have a “vested” right which would be impaired by such application. The court repeated the rule of construction found in Connecticut Mutual Life Insurance Co. v. Talbot (1887), 113 Ind. 373, 14 N.E. 586, 589:
+“The better rule of construction, and the rule peculiarly applicable to remedial statutes, however, is that a statute must be so construed as to make it effect the evident purpose for which it was enacted; and if the reason of the statute extends to past transactions, as well as to those in the future, then it will be so applied, although the statute does not, in terms, so direct, unless to do so would impair some vested right, or violate some constitutional guaranty.”
+The court in Speidel stated that the appellant did not possess a vested right to receive interest on the judgment, but only had a right to recover damages against the State. As a general rule, the court found a litigant does not have an unalterable right to any particular type of remedy for his injury, citing the following language from Davis v. Rupe (1888), 114 Ind. 588, 17 N.E. 163:
+“As has often been declared, there can be no vested right in remedies, provided they are not so changed as to be rendered nugatory and hence it is that whatever belongs to the remedy merely is within the control of the Legislature, subject only to the limitation that an adequate and reasonable mode of enforcing the right must remain, or be provided, which leaves the value of the contract without substantial depreciation or impairment.”
+We think the provisions of IND. CODE 34-4-16.5-17 which operate only to excuse the State’s liability for interest if judgment is promptly paid, falls far short of impairing or destroying an injured party’s right to recover against the State, and we find that this section applies to the facts of this case.
+II.
+Next, Glick asserts that even if the Indiana Tort Claims Act is applicable, he is entitled to recover interest pursuant to the statute because the judgment was not paid within 180 days.
+IND. CODE 34-4-16.5-17 provides:
+“A claim or suit settled by, or a judgment rendered against, a governmental entity shall be paid by it not later than one hundred eighty [180] days after settlement or judgment, unless there is an appeal, in which case not later than one hundred eighty [180] days after a final decision is rendered. If payment is not made within one hundred eighty [180] days, the governmental entity is liable for interest from the date of settlement or judgment at an annual rate of eight per cent [8%].”
+Although the trial court rendered judgment in the original action on September 28,1976, the State appealed the case to the Indiana Court of Appeals. Thereafter, the appeal was exhausted when this court affirmed the trial court’s decision on February 13,1978, since procedures for rehearing and transfer were never instituted.
+Statutes are to be construed to give effect to the ordinary and plain meaning of the words used. If the intent of a statute is unmistakable and its meaning so plain and unambiguous that there is no room for judicial construction, we will adopt the meaning plainly expressed. Bowen v. Review Board of Indiana Employment Security Division (1977) 173 Ind. App. 166, 362 N.E.2d 1178.
+Clearly, there is no need for judicial construction here, where the statute provides that the 180-day period begins to run at the date of settlement or judgment “unless there is an appeal, in which case not later than one hundred eighty [180] days after a final decision is rendered.”
+The Court of Appeals rendered its judgment on February 13,1978, and since no petition for rehearing was filed thereon, the Court of Appeals judgment was the “final decision” from which the 180-day period would run. The State paid the judgment principal plus costs to the Bartholomew County Clerk on April 5,1978, well within the time period allowed, and therefore was not liable for any interest under the statute.
+III.
+Finally, Glick argues that the trial court erred in not applying the interest provisions of IND. CODE 24-4.6-1-101, 24-5A-1-1 and 34-2-22-1, either in place of IND. CODE 34-4-16.5-17 or construed and interpreted along with the Indiana Tort Claims Act.
+The courts of this state have long embraced the following rules of statutory construction:
+(1) There is a strong presumption that the legislature, in enacting a particular piece of legislation, is aware of existing statutes on the same subject.
+(2) Statutes relating to the same general subject matter are in pari materia and should be construed together so as to produce a harmonious system.
+(3) When two statutes on the same subject must be construed together, the court should attempt to give effect to both; however, where the two are repugnant in any of their provisions, then the latter statute will control and operate to repeal the former to the extent of the repugnancy.
+(4) Similarly, where one statute deals with a subject in general terms and another statute deals with a part of the same subject in a more detailed or specific manner, then the two should be harmonized, if possible; but if they are in irreconcilable conflict then the more detailed will prevail as to the subject matter it covers.
+Economy Oil Corporation v. Indiana Dept. of Revenue (1974), 162 Ind.App. 658, 321 N.E.2d 215.
+The Indiana Tort Claims Act is not only the more specific and detailed treatment of the area of governmental liability in tort, but also was enacted at a later date than the statutes set out above. Under our rules of statutory construction we find that the trial court correctly applied the Tort Claims Act to this case and did not err in failing to apply the three statutes cited.
+IV.
+For the foregoing reasons, this court finds that the trial court did not err in denying Glick’s Petition to Enforce Judgment where the State was not liable for any interest on the judgment under IND. CODE 34-4-16.5-17.
+Affirmed.
+Lowdermilk and Robertson, JJ., concur.
+NOTE — Reported at 387 N.E.2d 74.
