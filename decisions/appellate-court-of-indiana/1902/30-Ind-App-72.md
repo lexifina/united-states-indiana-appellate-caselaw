@@ -1,0 +1,37 @@
+---
+court: "Appellate Court of Indiana"
+docket: "4,226"
+decided: "1902-05-13"
+citations: ["30 Ind. App. 72"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson et al. v. Sayler."]
+source_url: "https://static.case.law/ind-app/30/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4912925
+cites_cases: ["113 Ind. 164", "114 Ind. 229", "136 Ind. 142", "138 Ind. 260", "149 Ind. 443", "151 Ind. 445"]
+---
+
+# Jackson v. Sayler
+
+## Majority (Henley, J.)
+
+Henley, J.
+This was an action by the appellee Eva M.-Sayler, against the appellant Lorenzo D. Jackson who was indebted to appellee, to set aside certain conveyances alleged to be fraudulent, and to subject the land so conveyed to the.payment of a judgment previously obtained by her.
+To this action Mary E. Jackson, the wife of said Lorenzo D., and their children, Eva A. and Sarah M., were made party defendants in the lower court, and all join in this appeal. Appellants separately demurred to the complaint. Their demurrers were overruled, whereupon they joined in an answer of two paragraphs; the first being a general denial; the second averring facts in confession and avoidance. No reply was filed. The cause was submitted to the court for trial, and there was a finding and judgment in accordance with the prayer of the complaint,— •that the said conveyances were fraudulent, and that the land so conveyed be subjected to the payment of appellee’s judgment. Appellants’ motion for a new trial was overruled.
+It is first urged by the counsel for appellants that the complaint was insufficient. The principal objection to the tíomplaint, as stated by counsel, is: “The complaint wholly fails to allege that the debtor Lorenzo D. Jackson, at the time he and his wife and co-appellant conveyed the lots in controversy to their co-appellants, Eva A. and Sarah M. Jackson, had no other property subject to execution, and is therefore bad.” If this statement was -borne out by the record, the cause would have to be reversed for this reason. Wilson v. Boone, 136 Ind. 142; Nevers v. Hack, 138 Ind. 260, 46 Am. St. 380; Taylor v. Johnson, 113 Ind. 164. But we find upon examination of the complaint that after alleging the date when the judgment against the appellant Lorenzo D. was rendered in favor of the appellee, it is averred that since that time, and up to the time of the filing of the complaint, said Lorenzo D. Jackson did not own any property, real, personal, or mixed, subject to execution. We think this averment sufficient in this regard. The complaint also properly identifies and describes the judgment pleaded therein. We think the complaint good, and that the trial court properly overruled appellants’ demurrers thereto.
+It is next argued that the decision of the court is not sustained by the evidence. We have carefully examined the evidence. It presents a state of facts -which conclusively shows that the conveyance by Lorenzo D. Jackson was not a fraudulent conveyance. Under the uncontradicted evidence, the highest valuation placed upon the lots and improvements in controversy was $2,100. It is further shown by the uncontradicted evidence that there was an existing, valid mortgage upon the property conveyed, amounting to $900, and that the ajopellant Lorenzo D. is, and was all the time covering this controversy, a resident householder, and as such entitled to an 'exemption of $600. It can not be denied that if these lots so conveyed should be subjected to a judicial sale the appellant Mary E. Jackson, as the wife of said Lorenzo D., would be entitled to one-third of the land, or one-third of the proceeds of the sále thereof, to wit, $700. The situation presented by the rmcontradieted evidence is as follows:
+Valuation of'real estate conveyed...............$2,100
+Value of wife’s one-third upon judicial sale.. $700
+Amount of existing mortgage............. 900
+Appellant Lorenzo D.’s exemption........ 600
+Total...............................$2,200
+It can thus be seen that there is nothing left in the land out of which the judgment of the appellee could be paid, and that the conveyance of the land, as alleged in the complaint, could not have resulted in any damage to appellee, and this conclusion is reached without taking into consideration the further sum of $1,280, which amount was shown by the uncontradicted evidence to have been paid by Mary E. Jackson as a part of the purchase price of the land conveyed.
+It was said by Monks, J., in Marmon v. White, 151 Ind. 445: “In determining whether a decree for the sale of the real estate held by William T. White and wife, as tenants by entireties, would be of any ultimate benefit to appellant, it was the duty of the trial court, and is the duty of this court, to take judicial notice of the fact that under the law said Mamie White was, and would be, entitled to one-third of said real estate as against appellant or any other person purchasing the same at sheriff’s sale to pay appellant’s judgment. The special finding shows that appellee Mamie White had no knowledge of any fraudulent intent on the part of her husband, and that, under the contract said real estate should be conveyed to her and her husband, she paid street and sewer assessments against said real estate, and for improving said real estate, in all, the sum of $873. The rule is that when the purchaser has not been guilty of any positive fraud, and the circumstances are such as make it highly injurious and inequitable as to the creditors for the conveyance to stand, the same may be set aside, ripon such terms as will protect a purchaser whose purchase is only constructively fraudulent. Smith v. Selz, 114 Ind. 229, 234; First Nat. Bank v. Smith, 149 Ind. 443, and cases cited. Under this rule the $873 paid by appellee Mamie White for improvements on said real estate, and for street and sewer assessments, she was entitled to a lien thereon, for the same, junior only to the mortgage for $500. The value of the real estate, as found by the court, was $2,630. Mamie White would be entitled to the undivided one-third of said real estate if sold to satisfy appellant’s judgment. The value of the real estate to be sold would be $2,630 less $876.66, the value of her one-third, which is $1,753.34. To determine whether the sale of said real estate on execution to pay said judgment would be of any ultimate benefit to appellant, the following sums must be deducted from the value of said real estate, because they must be paid out of the proceeds of said sale before any part thereof could be applied upon appellant’s judgment :
+Amount paid by Mamie White for improvements on said real estate and for street and sewer assessments ........ $873
+Mortgage on said real estate.................... 500
+Amount of exemption allowed William T. White, resident householder ........................ 600
+Total..... ...... $1,973
+“The amount to be paid out of the proceeds of the sale of the property if sold to pay appellant’s judgment is '$219.66 in excess of the value of the interest in said real estate subject to sale. It is evident, therefore, that the appellant was not damaged by the conveyance of said real estate.”
+■We think this case fully decides the case under consideration, and that the trial court erred in overruling appellants’ motion for a new trial. Judgment reversed, with instructions to the trial court to sustain appellants’ motion for a new trial.'
