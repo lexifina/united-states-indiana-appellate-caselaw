@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "18,171"
+decided: "1951-10-02"
+citations: ["122 Ind. App. 41"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fleming v. Pyramid Coal Corporation."]
+source_url: "https://static.case.law/ind-app/122/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1340604
+cites_cases: ["100 Ind. App. 285", "100 N. E. 2d 835", "101 Ind. App. 235", "105 Ind. App. 197", "107 Ind. App. 152", "107 Ind. App. 225", "116 Ind. App. 66", "117 Ind. App. 119", "117 Ind. App. 697", "118 Ind. App. 463", "118 Ind. App. 504", "119 Ind. App. 206", "119 Ind. App. 593", "119 Ind. App. 655", "12 N. E. 2d 992", "177 N. E. 466", "179 N. E. 19", "192 N. E. 844", "195 N. E. 281", "198 N. E. 807", "222 Ind. 130", "23 N. E. 2d 306", "23 N. E. 2d 620", "52 N. E. 2d 356", "59 N. E. 2d 899", "69 N. E. 2d 757", "75 N. E. 2d 803", "77 N. E. 2d 902", "81 N. E. 2d 703", "84 N. E. 2d 734", "85 N. E. 2d 273", "88 N. E. 2d 175", "94 Ind. App. 47", "99 Ind. App. 667"]
+---
+
+# Fleming v. Pyramid Coal Corp.
+
+## Majority (Royse, J.)
+
+Royse, J.
+The Full Industrial Board denied appellant’s claim for compensation for the death of her husband who died while at work for appellee.
+In this appeal appellant attempts to raise two questions: (1) It is contended the Board erred in the admission of certain evidence; (2) that the evidence is insufficient to sustain the award.
+At the trial before the single hearing member of the Board, over the objection of appellant the Deputy-Coroner was permitted to testify regarding an . autopsy he performed shortly after decedent died. However, at the hearing before the Full Board appellant did not renew her objection to this evidence. Therefore no question is presented to us in reference to the admission of this evidence or the refusal to strike it out. Rhoden et al. v. Smith & Decker Electric Company (1939), 107 Ind. App. 152, 23 N. E. 2d 306; Hayes v. Joseph E. Seagram & Co. (1944), 222 Ind. 130, 132, 133, 52 N. E. 2d 356; McGill Manufacturing Company, Inc. v. Dodd (1945), 116 Ind. App. 66, 59 N. E. 2d 899 (Transfer denied) ; Employers’ Liability Assurance Corporation v. Merritt (1947), 117 Ind. App. 697, 75 N. E. 2d 803; Deszancsity v. Oliver Corporation (1948), 118 Ind. App. 504, 81 N. E. 2d 703; Railway Express Agency v. Harrington (1949), 119 Ind. App. 593, 88 N. E. 2d 175, 915.
+Appellant next contends this is a res ipsa loquitur action and the burden of proof shifted to appellee. She asserts this is true because decedent’s body was found under or alongside of a high voltage unguarded electric trolley wire in appellee’s mine.
+The burden of proof never shifts. The duty of going forward with the evidence may áhift during the trial. Meyers v. Emerson et al. (1948), 118 Ind. App. 463, 466, 77 N. E. 2d 902 (Transfer denied). In this case the burden was upon appellant to show by a fair preponderance of the evidence that decedent received an accidental injury which caused or hastened his death and that a causal connection existed between his employment and the condition which caused his death. Johnson v. P. R. Mallory Company, Inc. (1946), 117 Ind. App. 119, 69 N. E. 2d 757. The doctrine of res ipsa loquitur is a rule of evidence in negligence cases. Wass, Admx. v. Suter, et al. (1950), 119 Ind. App. 655, 659, 84 N. E. 2d 734 (Transfer denied). Negligence is not involved in this action. The rights of the parties are determined by the Compensation Act. General Printing Corporation v. Umback, Administratrix (1935), 100 Ind. App. 285, 195 N. E. 281.
+The record discloses decedent was called by a fellow employee to help him carry a “bonder,” a small machine used for welding small jobs. This machine has metal handles on the front and back end. It is not heavy and can be carried by one man when not hot. On this occasion it was hot. Decedent was on the front end and his fellow employee on the back end facing decedent. He could see decedent at all times. The room where they were moving the bonder was about 5 feet, 9 or 10 inches high. There was a trolley wire on this ceiling. He did not see decedent come in contact with this wire. After they had moved eight or ten feet decedent slumped over and sat down against the work bench and said “Oh!” He died in a few minutes. There were no external marks or burns on his body. His fellow employee saw no sparks and did not smell any burning flesh.
+There was no positive medical testimony that decedent’s death was caused by electrocution. Physicians testifying for appellant asserted it was possible his death was so caused. There was other medical evidence that he did not die from electric shock.
+The foregoing facts distinguish this case from the rule announced in the cases of School City of Ham mond v. Moriarty (1949), 119 Ind. App. 206, 85 N. E. 2d 273; Czuczko v. Golden-Gary Company, Incorporated (1932), 94 Ind. App. 47, 55, 56, 177 N. E. 466, 179 N. E. 19 (Transfer denied) ; Fisher v. City of Decatur et al. (1935), 99 Ind. App. 667, 670, 192 N. E. 844; Progress Laundry Company et al. v. Cook et al. (1935), 101 Ind. App. 235, 198 N. E. 807; Hunt et al. v. Gasteria, Inc. (1938), 105 Ind. App. 197, 201, 12 N. E. 2d 992; National-Helfrich Potteries Co. v. Collar (1939), 107 Ind. App. 225, 23 N. E. 2d 620, that “Where an employee charged with the performance of a certain duty is found injured or dead at a place where it would be necessary for him to be in performing that duty, there is an inference that he was injured or died under circumstances indicating an accident arising out of and in the course of his employment.” In this case he was not alone when he collapsed. On the record herein we cannot say reasonable men could reach only the conclusion that decedent’s' death was caused by an accidental injury arising out of and in the course of his employment.
+The order of the Industrial Board is affirmed.
+Note. — Reported in 100 N. E. 2d 835.
