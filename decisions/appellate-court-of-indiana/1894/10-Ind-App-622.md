@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,169"
+decided: "1894-09-25"
+citations: ["10 Ind. App. 622"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Railsback v. The President and Directors of the Wayne County Turnpike Company."]
+source_url: "https://static.case.law/ind-app/10/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4747135
+cites_cases: ["124 Ind. 326", "124 Ind. 376", "134 Ind. 625"]
+---
+
+# Railsback v. President & Directors of the Wayne County Turnpike Co.
+
+## Majority (Davis, C. J.)
+
+Davis, C. J.
+This was an action instituted by appellant against appellee, to recover damages for personal injuries. The court below sustained a demurrer to the complaint, and on refusal of appellant to further plead, judgment was rendered against appellant. The only error assigned brings in review the action of the court in sustaining the demurrer to the complaint. The material facts alleged in the complaint, in substance, are that appellant was employed by appellee to haul gravel; that a part of his duties were to assist to shovel gravel into his wagon, and load the same when in the gravel pit; that he was directed by appellee to drive into the Smith pit and there load his wagon and perform his said duties, and that while he was at work in said gravel pit and in the proper discharge of his duties under said employment, the bank of said gravel pit caved in and a large quantity of earth fell upon appellant and broke his leg, etc.; that the stratum of gravel in said pit where he received his said injuries was at said time about six feet thick, and stood amost perpendicularly, and was not dug out from under the stratum of soil overlaying the same to exceed one foot; "that said soil overlaying said gravel stratum was about three to four feet thick, and not of the usual and ordinary formation of tough clay which is generally known to overlay strata of gravel, but on the contrary it was composed of a black, loose and brittle loam which had been, within recent years, deposited thereon by those who took gravel from said pit, and was brittle and possessed no strength whatever, and was wholly and entirely different from the soil and earth that is usually and commonly known to overlay gravel beds; that the defendant had, on prior and divers times, the particular dates this plaintiff is unable to state, taken gravel from said pit, and knew, or could have known, of the unusual and dangerous condition of the same had it made proper and careful examination thereof; that there was nothing in the general appearance of said pit to put plaintiff on his guard as to its unusual and dangerous condition, and he had never been in said gravel pit before, and was there only about twenty minutes, in the discharge of his duty as aforesaid, when he was injured as aforesaid; that he had no knowledge whatever of the unsafe and dangerous condition of said gravel pit; and without fault upon his part, and without any warning from the defendant or any one else, the said stratum of earth, by reason of, and wholly on account of, said unusual, brittle and peculiar formation of the same, broke, cracked, and caved in, and with a large quantity of said earth fell upon plaintiff and thereby injured him as aforesaid.
+And plaintiff further avers that the defendant negligently and carelessly failed to give plaintiff any notice whatever of the unsafe and dangerous condition of said gravel pit, although it then well knew he had no knowledge of the said condition of the same, and was not acquainted with the peculiar formation of the soil overlaying said gravel stratum.”
+It is the duty of the master to furnish a reasonably safe place for his employes in which to prosecute the work assigned them to do, and to take proper precaution to guard against injuries to his employes. The employes have the right to repose confidence in the prudence and caution of their employer, and to assume that the place assigned them to work is reasonably safe from any hidden or undisclosed perils which are not open and obvious to their senses. It is also settled that when a servant enters upon an employment which is, from its nature, necessarily hazardous, he assumes all the usual risks and perils incident to the service.
+Filed Sept. 25, 1894.
+It is not controverted in this case but that the condition of the gravel pit was open alike to appellant and the officers and agents of appellee. The appellant alleges, it is true, that there was nothing in the general appearance of said pit to put him on his guard as to its unusual and dangerous condition, but there is nothing in the complaint to indicate that the overlaying stratum, composed of a black, loose and brittle loam, was not open and obvious to his senses. The stratum of gravel stood perpendicularly six feet thick. The soil above projected over this stratum one foot. It does not appear that either the character or condition of this overhanging stratum or soil was hidden or latent. When he went to shovel said gravel into his wagon, if he had exercised his sense of sight, he could have seen and observed the character and condition of the soil above.
+The action of the circuit court is in harmony with the decisions of the Supreme Court. Swanson v. City of Lafayette, 134 Ind. 625; Griffin v. Ohio, etc., R. W. Co., 124 Ind. 326; Vincennes Water Supply Co. v. White, 124 Ind. 376.
+Judgment affirmed.
