@@ -1,0 +1,35 @@
+---
+court: "Appellate Court of Indiana"
+docket: "395"
+decided: "1891-10-13"
+citations: ["2 Ind. App. 448"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dutton v. The State."]
+source_url: "https://static.case.law/ind-app/2/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4685595
+cites_cases: ["119 Ind. 501", "14 Ind. 430", "3 Ind. 403", "30 Ind. 115", "65 Ind. 213"]
+---
+
+# Dutton v. State
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+This was an indictment, in the Porter Circuit Court, charging the appellant with having kept a house of ill-fame. Omitting the caption and formal parts of the indictment, it charged that the appellant, Skip Dutton, late of said county, on the 1st day of January, A. D. 1890, and continuously from thence to the making of this presentment, at said county and State as aforesaid, did then and there unlawfully keep a certain house of ill-fame, then and there situated on lot numbered one (1), in block numbered thirty-five (35), in theoriginal town (now city) of Valparaiso in said county, which said house of ill-fame was then and there, and during all of said time, unlawfully resorted to for the purpose of prostitution and lewdness by divers persons male and female, whose names are to the grand jury unknown, all of said persons being then and there of bad repute for chastity and virtue, contrary to the form of the statute, etc.
+The case was tried by a jury, and a verdict returned finding the appellant guilty and assessing her fine at $25. The appellant moved for a new trial, which was overruled. Exceptions were saved, and judgment was rendered upon the verdict.
+The only error assigned in this court is the .overruling of the motion for a new trial, which contained the single cause, that the verdict was not sustained by sufficient evidence.
+It will be observed that the indictment charged the appellant with having kept a house of ill-fame, etc., which said house of ill-fame was then and there, and during all of said time, unlawfully resorted to for the purpose of prostitution and lewdness by divers persons, male and female, whose names are to this grand jury unknown, all of said persons being then and there of bad reputation for chastity and virtue.
+The position is assumed in argument by the counsel for the appellant that under the evidence, which is in the record, the State failed to prove that the names of the third persons who resorted to the house for purposes of prostitution and lewdness were unknown to the grand jury, and, therefore, the appellant should have been acquitted.
+In support of the position assumed by counsel for appellant, we are referred to the cases of Blodget v. State, 3 Ind. 403, and Stone v. State, 30 Ind. 115.
+The case of Blodget v. State, supra, was an indictment for retailing spirituous liquor, in which the indictment charged that the liquor was sold to a person whose name was unknown, to the grand jurors. There was but one witness examined on the trial. He stated that the sale of the liquor was made to a person, naming him; that he knew the person and his name, and would have informed the grand jury of his name and what it was, but they did not make the inquiry. Under these facts it was held that it was the duty of the grand jury to inquire of the witness before them for the name of the person to whom the liquor was sold. It appealed that if they had made the inquiry the name would have been given them; that the indictment ought not to be sustained where the name might have been ascertained by the grand jury if they had made the proper inquiry of the witness whom they were examining.
+The case of Stone v. State, supra, was also an indictment for retailing spirituous liquors. In this case it was held that the statute requires the names of the parties to be stated, or the person to be described as one whose name is unknown to the grand jury. “Where the name of the person injured was unknown to the grand jury, it may be so alleged in the indictment, but the proof must correspond with the allegation, and unless the traverse jury are satisfied that the name was unknown to the grand jury, the defendant is not to be convicted.”
+Counsel for appellant also refer to Moore v. State, 65 Ind. 213, which was an indictment charging the defendant with then and there having the care, management and control of a billiard table, and did then and there allow, suffer and permit George Brown to play billiards and a game commonly called “ pool” upon said table, with persons whose names are unknown to the grand jury, he, the said George Brown, then and there being a person under the age of twenty-one years, etc., in which case an instruction which stated, among other things, that if the defendant did suffer George Brown to play a game of billiards or pool with some person whose name to the grand jury was unknown, etc., was erroneous because it was not applicable to the indictment nor to the evidence in the bill of exceptions, the indictment having charged the game to have been played by George Brown with persons who were unknown to the grand jury. “A game with a person is not a game with persons; this is descriptive of the offence, and must be literally proved, that the record may be sufficient to bar a subsequent prosecution for the same of-fence/-’
+The case at bar is distinguishable from the cases cited by the appellant, and to which we have referred. The cases cited were indictments for specific offences, and the general rule is that the names of third persons must be set out in the indictment whenever such names go to the identity of the of-fence, but an omission to do so may be cured by an allegation that the same is unknown to the grand jury.
+It is, therefore, necessary, in order that the record may protect the defendant against a second prosecution for the offence tried, that strict proof be required of the names of third persons, or that such third persons were unknown, but the rule we have stated is not applicable to the case at bar. The indictment before us was under section 1994, R. S. 1881, which provides, whoever keeps a house of ill-fame, resorted to for the purpose of prostitution or lewdness, etc., shall be fined, etc. The offence charged in the indictment under this statute was a continuing one, and a trial upon it, whether there had been a conviction or not, was a bar to any other charge for keeping such house during the time alleged in the indictment, and for a period of two years next preceding the return of the indictment. Freeman v. State, 119 Ind. 501; State v. Lindley, 14 Ind. 430.
+It may be said, aside from what we have determined, that there was evidence on the trial that the names of the parties were unknown. As appears by the record, the same witness testified on the trial, as before the grand jury, that different people resorted to the house but that he did not know their names.
+Filed Oct. 13, 1891.
+Judgment affirmed, with costs.
+Crttmpacker, J., was absent.
