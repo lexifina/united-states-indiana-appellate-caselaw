@@ -1,0 +1,25 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,248"
+decided: "1914-03-20"
+citations: ["55 Ind. App. 660"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wolf v. Russell et al."]
+source_url: "https://static.case.law/ind-app/55/cases/0660-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5193542
+cites_cases: ["104 N. E. 603", "106 Ind. 38", "108 Ind. 78", "11 Ohio C. D. 655", "127 Mich. 372", "144 Ind. 335", "145 Ind. 167", "16 Ind. 380", "180 Mass. 106", "190 Mass. 219", "21 Ohio C. C. R. 591", "37 Colo. 96", "43 N. E. 11", "43 N. E. 302", "46 Mont. 510", "5 N. E. 743", "61 N. E. 802", "76 N. E. 723", "86 N. W. 808", "86 Pac. 94", "9 N. E. 347"]
+---
+
+# Wolf v. Russell
+
+## Majority (Hottel, J.)
+
+Hottel, J.
+This is an appeal from a judgment in favor of appellees in a replevin action brought by appellant to recover possession of sixteen stacks of hay located on certain real estate in Jasper County, Indiana. The error assigned and relied on by appellant is that of the ruling on his motion for a new trial. It is insisted that the decision of the trial' court is not sustained by sufficient evidence, and is contrary to law.
+Appellant based his right to recover possession of the hay in suit on an instrument introduced in evidence which, on its face, purports to be a bill of sale thereof executed by appellee Reid who was, at the time, the owner of such hay and the real estate on which it was located. Reid afterwards sold to appellee Russell the real estate and all the personal property thereon, including such hay.
+The only question presented by the appeal is whether there was any evidence which authorized the trial court to treat said instrument as a mortgage given to secure a preexisting debt, rather than a bill of sale. The instrument was acknowledged, but was not recorded. It was practically admitted that the appellee Reid at the time he agreed to give the bill of sale, owed the appellant, on account of money advanced on hay bought by appellant the previous year, $210.73, the amount specified in the bill of sale as the amount of the purchase price of the hay described therein. The appellant had never seen the hay when such instrument was executed. The number of tons or the price per ton for the hay was not mentioned at the time of its execution. And, as appellant himself says, the purpose of his visit to appellee Reid at that time was “to get on the ground floor and make himself safe and secure.” There is no evidence that appellant took possession either actual or constructive • of such hay under such bill of sale. Appellant wrote appellee Russell a letter in which he told him in substance that he had contracted and paid for, at $4.50 a ton, enough of the hay on the farm which he (Russell) had bought from appellee Reid “to satisfy purchase money amounting to $210.73.” At such figure the total value of the sixteen stacks óf hay as shown by other evidence would have been over $375'. The evidence of appellee Reid and his conduct tended in some degree at least to show that he treated the bill of sale as security for his debt and that when he sold the real estate he wanted appellee Russell to assume and agree to pay the debt, which Russell says he refused to do. "We have indicated enough of the evidence to show, we think, tnat, the trial court had at least some evidence before it, which under the authorities justified it in inferring that said instrument was intended by the parties thereto, to evidence a security for a preexisting debt, and not to evidence an absolute sale of the property in discharge of such debt, and that it was afterwards treated both by appellant and appellee Reid as a mortgage rather than an instrument of absolute sale of the property therein described.
+Appellant having failed to have such instrument recorded, it is invalid as against appellee Russell and hence as to him was insufficient to give to appellant any right to possession of the property described therein. The conclusion herein reached we think is supported by the following authorities: §7472 Burns 1908, Acts 1897 p. 240; Seavey v. Walker (1886), 108 Ind. 78, 81, 9 N. E. 347, and authorities cited; Lumbert v. Woodard (1896), 144 Ind. 335, 43 N. E. 302, 55 Am. St. 175; Plummer v. Shirley (1861), 16 Ind. 380; Mullenkopf v. Baumgardner (1900), 21 Ohio C. C. R. 591, 11 Ohio C. D. 655; Gibbons v. Gibbons, etc., Milling Co. (1906), 37 Colo. 96, 86 Pac. 94; Jones, Chattel Mortgages §§22, 23. See, also, Geisendorff v. Eagles (1886), 106 Ind. 38, 5 N. E. 743; Higgins v. Spahr (1896), 145 Ind. 167, 43 N. E. 11; Clark v. Williams (1906), 190 Mass. 219, 76 N. E. 723; Wetmore v. Moloney (1901), 127 Mich. 372, 86 N. W. 808; Hawes v. Weeden (1901), 180 Mass. 106, 61 N. E. 802; Rairden v. Hedrick (1912), 46 Mont. 510, 129 Pac. 498, 499. Judgment affirmed.
+Note.—Reported in 104 N. E. 603. As to the registration of chattel mortgages, see 21 Am. St. 282. As to the effect of failure to record chattel mortgage, see 137 Am. St. 471. See, also, under (1) 6 Cyc. 992; (2) 6 Cyc. 1072.
