@@ -1,0 +1,30 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,749"
+decided: "1899-06-15"
+citations: ["23 Ind. App. 34"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["' Bernhamer et al. v. Hoffman."]
+source_url: "https://static.case.law/ind-app/23/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5775503
+cites_cases: ["101 Ind. 317", "106 Ind. 471", "112 Ind. 498", "117 Ind. 114", "136 Ind. 105", "15 Ind. 211", "2 Ind. App. 16", "25 Ind. 152", "40 Ind. 139", "59 Ind. 287", "59 Ind. 587", "6 Ind. App. 288", "79 Ind. 397", "86 Ind. 149", "86 Ind. 43"]
+---
+
+# Bernhamer v. Hoffman
+
+## Majority (Eobinson, J. —)
+
+Eobinson, J. —
+The sufficiency of appellee’s complaint is the Only question presented. The suit is on an appeal bond.
+The complaint avers that appellee sued one'Arbenz, before a justice of the peace, “for possession” of certain lands, described, and “for damages for the unlawful detention thereof,” that he recovered judgment “for the possession of” the lands and a certain sum as “damages for the detention thereof;” that Arbenz appealed to the circuit court and filed an appeal bond, which is set out, with appellants as sureties; that after the appeal was docketed in the circuit court, it was dismissed; that the judgment was never paid, asking for further damages for detention after rendition of judgment. It is argued that the complaint shows on its face that the justice rendering the judgment had no jrrrisdiction of the subject-matter, and that the judgment was void.
+The demurrer, which was for the fifth statutory cause, §342 Burns 1894, §339 Horner 1897, calls in question not only the sufficiency of the facts stated to constitute a cause of action, but-also the right of the particular plaintiff to maintain a suit on such cause of action. If the jxrstice had no jurisdiction over the subject-matter of the action,- and if appellee had no right to maintain this action, such right is questioned by the demurrer. Louisville, etc., R. Co. v. Lohges, 6 Ind. App. 288; Frazer v. State, 106 Ind. 471; Farris v. Jones, 112 Ind. 498; Pence v. Aughe, 101 Ind. 317; Wilson v. Galey, 103. Ind. 257.
+A justice of the peace- has jurisdiction in actions for the possession of real estate and damages where the relation, of landlord and tenant exists and the action is against a tenant holding over, and in cases of forcible entry and detainer and forcible detainér. §§7106, 7118 Burns 1894, §§52.25, 5237 Horner 1897. See, Burgett v. Bothwell, 86 Ind. 149; Kiphart v. Brenneman, 25 Ind. 152; Short v. Bridwell, 15 Ind. 211.
+It is well settled that no presumptions are indulged in favor of the jurisdiction of courts of special and limited jurisdiction, but when it is made to appear that they have acquired jurisdiction, the same presumptions arp indulged in favor of their proceedings as in case of courts of general jurisdiction. Presumptions will not be indulged that they have acquired jurisdiction. Wilkinson v. Moore, 79 Ind. 397; Smith v. Clausmeier, 136 Ind. 105.
+Where a justice of the peace has' no authority to try a case, an appeal from his judgment can confer no jurisdiction upon the circuit court. Goodwine v. Barnett, 2 Ind. App. 16; Jolly v. Ghering, 40 Ind. 139; Nace v. State, 117 Ind. 114. It is equally well settled that a judgment by a justice in a matter over which he had no jurisdiction is void. Mays v. Dooley, 59 Ind. 287; Horton v. Sawyer, 59 Ind. 587.
+In the case at bar the complaint shows affirmatively that the action before the justice was an action in ejectment. In such a case, a justice has no jurisdiction, and a judgment rendered by him is void. It is true; as argued, that the code abolished certain forms of action and provided for one action in civil eases denominated a civil action. -But the term ejectment has been properly retained by the courts to designate one form of action. But whatever designation may be given the cause, it is clear that it was one without the jurisdiction of the justice. We are not concerned with what may affirmatively appear in the record outside of the complaint, and the injunction placed upon the court to disregard an error or defect which does not substantially affect the rights of the adverse party has no application. §401 Burns 1894.
+Under the rule laid down in Hopper v. Lucas, 86 Ind. 43, if the complaint in the case at bar had contained an averment that the judgment was duly given or made, it would be a sufficient complaint. But the objection to the complaint is, not that it fails to aver sufficient facts to show that the justice had jurisdiction, but that it avers facts which show affirmatively that the justice did not have jurisdiction. In other words, the bond is claimed to be invalid not because of failure to show the justice’s authority, but because of the affirmative showing that he did not have authority. So that the question presented is the validity of a bond, not where there is a failure to show jurisdiction, but where there is a showing of no jurisdiction.
+However, one of the methods prescribed for escaping the effects of a void judgment rendered by a justice of the peace is to appeal to the circuit court. The defendant in the justice’s court availed himself of this method. It follows that there was a sufficient consideration for the bond. It accomplished the purpose he sought. The bond was conditioned that he would prosecute the appeal to final judgment. This he failed to do by dismissing the appeal. That left the judgment standing in the justice’s court. It may be said that had the case been prosecuted in the circuit court it must necessarily have resulted in a dismissal. True, but the' circuit court would not have dismissed the appeal but would have dismissed the cause of action. Goodwine v. Barnett, 2 Ind. App. 16. After a party'has obtained what he sought by an appeal bond, he can not then be heard to say that the bond was never of any effect. ’ There was no error in holding the complaint sufficient.
+Judgment affirmed.
