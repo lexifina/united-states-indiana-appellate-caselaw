@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "14,431"
+decided: "1932-06-01"
+citations: ["94 Ind. App. 451"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Riffle et al. v. Town of Newtown."]
+source_url: "https://static.case.law/ind-app/94/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1559795
+cites_cases: ["137 Ind. 295", "144 N. E. 416", "150 Ind. 565", "194 Ind. 633", "36 N. E. 847", "50 N. E. 725", "87 Ind. 45"]
+---
+
+# Riffle v. Town of Newtown
+
+## Majority (Lockyear, J.)
+
+Lockyear, J.
+The appellants herein filed separate petitions before the town board of Newtown, Indiana, to disannex certain unplatted farm lands owned by the petitioners and lying near said incorporated town of Newtown.
+A hearing was had on each petition and the board refused to disannex any of the lands described in said petitions and the appellants herein appealed to the Fountain Circuit Court which also refused to disannex the lands in question; then this appeal followed.
+There was a special finding of facts and conclusions of law thereon.
+The facts are not questioned and the only error assigned is that the court erred in its conclusion of law upon the special finding of facts.
+The law prescribing the method of disannexing territory from towns of this state is provided in Acts 1907 p. 617, being §11218 Burns 1926, under which, the owner or owners of any contiguous lands within the corporate limits of any town, not less than one block, if platted, •and not less than one acre, if not platted, one or more boundary on the corporate line of such town, desiring to have the same disannexed, may file his, their or its petition with the board of town trustees, praying for such disannexation, setting forth as a part of the petition a plat of the lands sought to be disannexed, and give notice, as provided by law, of the time and place of hearing. Remonstrances against the granting of such petition may be filed by any owner of any lot or land immediately adjacent to the lands sought to be disannexed and such other order may be made by the board hearing the same as shall be just and equitable in the premises. Acts 1907 p. 617, §8914 R. S. 1914; Livengood v. City of Covington (1924), 194 Ind. 633, 144 N. E. 416.
+Under this section it is left to the sound legal discretion of the tribunal acting upon the petition for disannexation of unplatted farm lands. The law does not state what facts shall constitute grounds for disannexation, neither what are and what are not sufficient reasons therefor. This law has been attacked in the Supreme Court of this state upon constitutional grounds and has been held to be constitutional.
+The court’s special finding of facts found that a hearing on the petitions was had before the board of trustees of the town of Newtown at the time and place stated in the notice therefor, without any remonstrances of any kind having been filed and without objections thereto having been made or. argued by any resident of the town; that the evidence was heard by the board, and, after being duly advised, the said board denied the several petitions and each of them; that the petitioners then appealed to the circuit court and said petitions were duly consolidated for trial and were heard de novo.
+That the real estate described in said petitions and each of them (after the original petition of the petitioner, James M. Riffle, was amended) consists wholly of farm lands used exclusively for agricultural purposes and without any building improvements thereon, with the exception of the real estate of the petitioner, Rhoda H. Kerr, which has a residence, barn and other buildings thereon of an assessed value of $........and are rented to a tenant, who does not operate the farm; that the residence and farm buildings appurtenant to the farm lands of the petitioner, James M. Riffle, are within the corporate limits of said town of Newtown, and adjacent to the real estate described in said petition; and that there is a residence and other out buildings within the corporate limits of said town of Newtown, situated on a one-acre tract, the title of which is in Daisy Arter, wife of Elmore Arter, which said tract is contiguous and adjacent to the lands described in the petition of Elmore Arter, et al.
+That all of the real estate described in said several petitions and each of them is now and has been, since the town of Newtown was incorporated in 1911, assessed for taxation within the town of Newtown, and subject to the corporation taxes levied by the board of trustees of said town.
+That the town of Newtown furnished lights for the streets of said town, fire protection by a motor driven chemical engine and maintenance,- sanitation and drainage for the streets and alleys of said town out of the revenues as shown in statement of receipts and expenditures. The only advantage or benefits to the petitioners or any of them that could be derived from said proposed disannexation is in the reduction of taxes in the amounts as set out; that all of said premises receive the benefit of materially reduced insurance rates and electric light rates, and all advantages and benefits of street lights and other means of police protection that are received by other property in said town. That said town is of a rural nature and the town and the expenses thereof cannot reasonably be maintained unless the said entire premises of the petitioners respectively receiving the benefits therefrom are retained within the corporate limits as they now are, and that all of such facts were known and at the time petitioners purchasing lands therein made such purchases. That no part of said real estate sought to be disannexed is platted or shall probably be needed for town lots or town purposes except as aforesaid, but the same is now used and probably will be used as a part of the premises of said petitioners respectively in agricultural pursuits; that the disannexation and each of them herein sought if allowed would be an injustice to said town. And the court stated its conclusions of law thereon, that the petitioners are not entitled to have the real estate described in their petitions disannexed from the said town of Newtown.
+The facts are sufficient to sustain the court’s conclusions of law.
+For other reference and phases of the law of annexation and disannexation, see the following: Catterlin v. City of Frankfort (1882), 87 Ind. 45; Chandler v. City of Kokomo (1894), 137 Ind. 295, 36 N. E. 847; Livengood v. City of Covington, supra; Paul v. Town of Walkerton (1898), 150 Ind. 565, 50 N. E. 725.
+Judgment is affirmed. .
