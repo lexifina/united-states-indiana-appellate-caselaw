@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,783"
+decided: "1909-11-17"
+citations: ["44 Ind. App. 574"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warner v. Jennings."]
+source_url: "https://static.case.law/ind-app/44/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5026344
+---
+
+# Warner v. Jennings
+
+## Majority (Rabb, J.)
+
+Rabb, J.
+This was an action by appellant against the appellee, to have a deed, executed by appellant to appellee, conveying to him certain lands in Scott county, declared a mortgage, and for an accounting of the rents and profits.
+The appellee answered in six paragraphs, and filed a cross-complaint seeking to have his title quieted to the premises. Appellant’s demurrer was sustained to the third and fourth paragraphs of answer, and overruled as to the fifth and sixth. The cause was put at issue, a trial had, a special finding of facts made and conclusions of law stated thereon by the court. Appellant excepted to each conclusion of law. Her motion for a new trial was overruled, and judgment was rendered upon the special findings, in favor of appellee.
+Appellant has assigned as errors the action of the court below in overruling her demurrer to appellee’s cross-complaint, the demurrer to the fifth paragraph of answer, and the motion for a new trial.
+There was a special finding of the facts in this case, and as it is disclosed by the record that the appellee filed a general denial to appellant’s complaint, and also a cross-eomplaint, seeking to quiet his title to the premises in dispute, it is wholly immaterial what ruling was made by the court upon the demurrer to the several paragraphs of answer. The special findings disclose that the judgment of the court appealed from is predicated upon these pleadings; hence error committed by the court, in overruling demurrers to other paragraphs of answer, if there was error, would be no ground for a reversal of the judgment of the court below.
+The complaint proceeds upon the theory that a certain deed executed by appellant and her husband to appellee, in the year 1890, absolute in form, was made to secure and indemnify the appellee from loss on account of his suretyship for appellant’s husband on a promissory note executed to a third person. One paragraph of the complaint seeks to have the deed declared null and void and to quiet title against the claims of appellee thereunder, on account of the fact that the deed was executed as a mortgage upon the separate property of the appellant, who is alleged to have been, at the time, a married woman, and that it was given to secure the debt of her husband. Other paragraphs proceed upon the theory that the deed was given to secure a. debt against appellee, and that the same was a valid and subsisting lien on the premises.
+Appellee’s answer of general denial put these facte in issue, as did also his cross-complaint to quiet his title to the premises.
+The point of dispute between the parties was whether the deed in question was given to indemnify the appellee, or whether it was given as an absolute conveyance, in consideration of the appellee’s agreement to pay a debt of $500, for which he was security for appellant’s husband.
+The special findings, which are not set out in appellant’s brief, but which appear in the brief filed by the appellee, disclose that on January 23, 1882, the appellant was the owner of a certain described tract of real estate in Jackson county; that she was indebted to one Hamilton in the sum of $500; that the debt was evidenced by a note, signed by the plaintiff’s husband, with the appellee and Susannah Jennings as sureties thereon; that on January 20, 1890, the appellant and her husband made and executed to the appellee a warranty deed for said real estate; that there was at the time due to Hamilton upon the note the sum of $750; that there were delinquent and current taxes due against the land, amounting to $20.12, and that appellee agreed to pay and discharge the note to Hamilton, in consideration of which the appellant agreed to, and did, with her husband joining, execute to the appellee the warranty deed to the real estate mentioned in the complaint; that the price paid for the real estate by the appellee was more than its fair market value; that there was no agreement or understanding between the parties that said deed should be considered and treated by them as a mortgage to secure said debt; that appellhe did not agree to hold said land in trust for appellant until the profits from the crops should pay him said debt, and made no agreement to reconvey the land to appellant.
+If these facts were true, then the allegations of the complaint were not true, and the decree of the court, following the conclusions of law stated, was proper, and the appellant was entitled to take nothing by her complaint, and the appellee was entitled to a decree quieting his title against appellant’s claims.
+Appellant’s motion for a new trial raises the question of the sufficiency of the evidence to sustain this finding. Appellant’s brief in nowise complies with the requirements of the rule of this court, to the effect that the appellant shall set forth in his brief, where the insufficiency of the evidence is relied upon for reversal, a concise statement of the evidence. Appellee’s brief, however, supplies the defect.
+In determining the question of the sufficiency of the evidence to sustain the finding of the court or the verdict of the jury, the court considers that evidence which is most favorable to the party in whose favor the finding is made, and if there is any evidence upon which the finding can be based, this court will not disturb it, even though we were convinced that it was against the weight of the evidence.
+An examination of the evidence contained in the record discloses that it was amply sufficient to justify the finding of the court — that the consideration of the deed in question was not the indemnity of the appellee, on account of his liability on the note, but his agreement to pay the debt himself.
+The appellant seems to think that, because the note originally given by the appellant and her husband to Hamilton was not surrendered to her at the time the deed was executed, the transfer must be regarded as a mortgage. Such however is not the law as between appellant and appellee. Appellee’s agreement to pay the debt, upon which he was already bound as security, was an original undertaking, and a valuable consideration for the deed executed by appellant and her husband.
+Judgment of the court below affirmed.
