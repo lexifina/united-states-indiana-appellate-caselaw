@@ -1,0 +1,36 @@
+---
+court: "Appellate Court of Indiana"
+docket: "2,239"
+decided: "1897-10-27"
+citations: ["18 Ind. App. 304"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Indiana Mutual Building and Loan Association et al. v. Paxton et al."]
+source_url: "https://static.case.law/ind-app/18/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4806778
+cites_cases: ["103 Ind. 12", "104 Ind. 451", "105 Ind. 546", "112 Ind. 435", "144 Ind. 614", "17 Ind. 291", "73 Ind. 77", "75 Ind. 241", "77 Ind. 184", "78 Ind. 116", "88 Ind. 342"]
+---
+
+# Indiana Mutual Building & Loan Ass'n v. Paxton
+
+## Majority (Comstock, J. —)
+
+Comstock, J. —
+Appellees, Paxton, Paxton and Col-burn, brought this action against the other parties named as appellees and the appellants, to foreclose a mechanic’s lien on certain real estate and a hotel building erected thereon, for materials furnished by the appellees, Paxton, Paxton and Colburn, for, and which was used in the construction of said hotel building.
+The complaint alleges that Charles Kahlo claimed some interest in the property, and that the other defendants had or claimed liens thereon, and were made parties to answer to their interest, except the appellant, Alice Kahlo, and the appellee, Lena Broschart, who were made defendants, because they were the wives of the defendants claiming to own the real estate.
+The appellants, Charles Kahlo and the building and loan association, separately demurred to the complaint which demurrers were overruled. Broschart and wife joined in an answer of denial and payment. The appellant association and Charles Kahlo each filed a separate answer. To these separate answers plaintiffs filed replies. Trial by the court. Finding and judgment for the plaintiffs, and that there was due them the sum of $237.59; that the same was a lien on the real estate and hotel building as described in the complaint, prior to the lien of the mortgage of the defendant association, foreclosure and order of sale.
+The appellant association moved to modify the judgment so as to make the lien of the plaintiffs junior to the lien of its mortgage. Appellants, Charles Kahlo and the building association, filed a joint motion for a new trial, which was overruled.
+The errors assigned are, (1) that the court erred in overruling the separate demurrers of each of the appellants to the plaintiffs’ complaint; (2) in overruling appellants’ motion to modify the judgment in said cause; (3) in overruling appellants’ motion for a new trial.
+The first assignment raises the question whether any cause of action is stated against either Charles Kahlo on the building association. It is averred in the complaint that one C. A. Rutledge, a contractor, agreed, with one Henry Broschart, to erect for him a brick building on certain real estate in Red Key, Jay county, described in the complaint, which said materials were sold and delivered to said Rutledge at his special instance and request from time to time between the 22d day of May and November 1, 1894. A bill of particulars was filed with and made part of the complaint, from which it appears that bills of lumber were sold to Rutledge in May and June, 1894, and that on November 1,1894, one hundred pounds of paste paint were sold; that on December 4, 1894, within sixty days from the time the last mentioned article was furnished, a notice was filed in the recorder’s office of Jay county of the intention to hold a lien against said real estate and building, a copy of the notice is made a part of the complaint.
+Appellants’ learned counsel contend that, the complaint proceeding upon the theory of an enforcement of material man’s lien for materials furnished to the contractor, if such a lien is shown to exist, then the demurrers should have been sustained; and that it should appear from the complaint that the materials were furnished under one continuous contract, citing Premier Steel Co. v. McElwaine-Richards Co., 144 Ind. 614. It is not necessary to decide whether or not this authority sustains appellants’ position. The law gives a lien for articles furnished at different times under different contracts as to such articles furnished within sixty days next preceding the filing of a notice of intention to hold a lien. While the complaint does not aver that all the articles were furnished under one contract, it does show that one item was furnished within sixty days of the filing of the notice. The complaint would, therefore, be good, at least as to the one sale, and a cause of action is stated, and appellees would be entitled to relief. Bennett v. Preston, 17 Ind. 291; Culbertson v. Munson, 104 Ind. 451.
+We think the complaint good and that the court committed no error in overruling • the demurrer thereto.
+Counsel for appellees contend that the second and third assignments of error cannot be considered because they can only be determined by an examination of the evidence, and that the evidence is not properly in the record, first, because the bill of exceptions containing the evidence was not presented to the trial judge for approval and signature until after the expiration of the term of court at which the motion for a new trial was overruled, and that time beyond the term to present the bill was not given; second,, because it does not appear that the longhand manuscript of the evidence was filed in the clerk’s office before being incorporated in the bill of exceptions. •
+That the claim of appellees is based upon a correct proposition needs the citation of no authorities.
+The motion for a new trial was filed and overruled on the thirty-sixth judicial day of the February term, 1896, which was the last day of the term of the Jay Circuit Court. The bill of exceptions was presented to the trial judge May 27, 1896, at the May term of said court. The court takes judicial notice of the terms of the circuit courts of this State. McCrory v. Anderson, 103 Ind. 12; Carmody v. State, 105 Ind. 546. The court takes notice that the February term, 1896, of said court began February 24 and ended April 4, and that the May term began May 16. Acts 1885, p. 38.
+Exceptions must be reserved to rulings at the term at which they are taken, unless at that term further time is given. Sohn v. Marion, etc., Gravel Road Co., 73 Ind. 77; Weise v. City of Madison, 75 Ind. 241; Alcorn v. Morgan, 77 Ind. 184: Easter v. Flemming, 78 Ind. 116, 118; Kinsey v. Satterthwaite, 88 Ind. 342, 344; Kopelke v. Kopelke, 112 Ind. 435, 438.
+From an examination of the record it does not appear that the longhand manuscript of the shorthand report of the evidence was filed in the clerk’s office before it was incorporated in the bill' of exceptions. The claim made by counsel for appellee as to the second and third assignments of error must be sustained. The evidence is not properly in the record.
+Counsel for appellee further contend that the appeal presents no question for this court, because the assignment of errors is joint, and is not good as to all the appellants. As the judgment must be affirmed for the reasons heretofore given, this question is not considered.
+Judgment affirmed.
+Wiley, O. J., took no part.
