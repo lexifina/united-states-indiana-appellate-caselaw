@@ -1,0 +1,33 @@
+---
+court: "Appellate Court of Indiana"
+docket: "387"
+decided: "1892-02-16"
+citations: ["3 Ind. App. 558"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elmer v. Marsh, Administrator."]
+source_url: "https://static.case.law/ind-app/3/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4693500
+cites_cases: ["104 Ind. 588", "107 Ind. 246", "118 Ind. 107", "80 Ind. 163", "85 Ind. 209", "85 Ind. 286", "87 Ind. 144", "92 Ind. 34", "93 Ind. 1", "93 Ind. 360", "97 Ind. 404"]
+---
+
+# Elmer v. Marsh
+
+## Majority (Reinhard, J. —)
+
+Reinhard, J. —
+The appellee, as administrator of the estate of Wilson Cox, deceased, brought this action in the court below against the appellant upon two notes and an open account. Issues were joined, and the cause submitted for trial to the court, resulting in a finding and judgment in favor of the appellee. The trial of the cause ended on the last day of the term, and the appellant was given until the first day of the next term to prepare and file a motion for a new trial. The overruling of this motion is the single error assigned. »
+The following is one of the causes specified, and the only one relied upon for a new trial:
+“ Error of law occurring at the trial as follows, to wit: That at the time for the adjournment of the court, and after the evidence in chief, both for the plaintiff and the defendant, and the evidence for the plaintiff in rebuttal, had been given to the court, the defendant had further evidence to be given, and offered the witness John Elmer, present, to testify ; that the court was adjourned till the next morning, on the promise of the court that the said evidence would be heard in the morning; that the next morning the witness was present, and the defendant offered to give the evidence of said witness to the court in this case, but the court refused to hear any further evidence in said cause, and announced his find-, ing, and rendered judgment on the finding ; that the defendant, at the time of offering said evidence, stated to the court what additional facts he expected to prove by said witness ; that said additional facts are fully stated in the affidavit of said John Elmer, which affidavit is filed herewith, and made part hereof.”
+Accompanying the motion were the affidavits of John Elmer and the appellant, setting forth in detail the facts alleged to have occurred upon the trial, and the testimony offered and rejected substantially as stated in the motion. These were properly incorporated in the bill of exceptions. The appellant insists that the overruling of the motion for a new trial is reversible error.
+We have carefully examined the bill of exceptions, and fail to find in it anything to indicate that any such action was had, or ruling made, as that set out in the motion for a new trial, and in the affidavits. There is, besides the motion itself and the affidavits, absolutely nothing which shows that any evidence was offered by the appellant which the court refused to hear. There is, consequently, no ruling in the record upon this point which is adverse to the appellant, and which has been paoperly saved by an exception.
+To save the question properly, and bring it before the Supreme Court or Appellate Court for review, the appellant should have offered to make the proof before the finding was announced, and should have secured a ruling thereon. If the ruling was against the appellant, he should then have taken an exception, and the offer to make the proof, and the reason therefor, the ruling of the court thei’eon, and the exception, should all have been incorporated in the bill of exceptions as a part of the history of the trial.
+In case of a disagreement between court and counsel in reference to any previous understanding or announcement that the evidence was not to be closed till the next morning, etc., it might have been proper for the court to hear affidavits of the parties and others present, or it might have determined the question according to its own judgment and recollection as to what had taken place.
+When the appellant submitted to the court his bill of exceptions he should have insisted in having embodied in it all the facts and rulings of the court that had taken place upon the trial, and if the judge to whom such bill was submitted had forgotten any portion of the history of the trial that properly belonged in the same, it would have been proper to refresh his memory by the submission of affidavits showing what really occurred. But whatever was done, whatever ruling the court made, in order to derive any benefit from the same on appeal, it was the appellant’s duty to have it recited in the bill of exceptions, for the latter imports absolute verity in regard to all that occurred during the trial. It devolves upon the party alleging error to establish it affirmatively. Every presumption is in favor of the correctness of the court’s action until the contrary is made to appear.
+Filed Feb. 16, 1892.
+The position of appellant’s counsel, that if the affidavits did not state the truth the court should have stated the facts in contravention thereof in thé bill of exceptions, is utterly untenable. If this were the rule, there would be but little use for a bill of exceptions, as the various transactions — the rulings of the court, and the exceptions thereon — could be made to appear by affidavit at the time of the hearing of the motion for a new trial. We know, however, from numerous decisions of the Supreme Court, that the rule is otherwise. The statements in the motion or affidavits are not Regarded as true unless they are shown to be so by the bill of exceptions. The action of the court, and the facts upon which the same is predicated, must appear in the bill of exceptions, and the recital thereof in affidavits in support of the motion for a new trial will of itself avail the appellant nothing.
+The following, among many cases that might be cited, will be found to sustain the views here expressed : Keene v. Russell, 80 Ind. 163 ; Heckelman v. Rupp, 85 Ind. 286 ; Choen v. State, 85 Ind. 209 ; Powers v. State, 87 Ind. 144 ; Rudolph, v. Landwerlen, 92 Ind. 34 ; Ireland v. Emmerson, 93 Ind. 1 ; Indianapolis, etc., G. R. Co. v. Christian, 93 Ind. 360 ; Sweetser v. McCrea, 97 Ind. 404 ; Clouser v. Ruckman 104 Ind. 588 ; Buscher v. Scully, 107 Ind. 246 ; Matsinger v. Fort, 118 Ind. 107.
+We are of the opinion that the appellant has failed to properly present the question he asks us to decide, and have found no available error.
+The judgment is therefore affirmed.
