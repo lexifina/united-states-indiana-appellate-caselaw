@@ -1,0 +1,29 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,946"
+decided: "1909-04-08"
+citations: ["43 Ind. App. 506"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holcomb v. Norman, by Next Friend."]
+source_url: "https://static.case.law/ind-app/43/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4930785
+cites_cases: ["41 Ind. App. 310"]
+---
+
+# Holcomb v. Norman
+
+## Majority (Rabb, J.)
+
+Rabb, J.
+The appellee brought an action in the court below to recover damages for a personal injury alleged to have been caused by the negligence of appellant.
+Issues were formed, a trial had, resulting in a verdict and judgment in favor of appellee, from which judgment an appeal was taken to this court and is now pending.
+Upon the trial of the cause certain written instructions, each separately numbered, were prepared by both parties to the action, properly signed, and at the proper time presented by the respective parties to the court, with the request that they be given to the jury, and that the court indicate, before the beginning of the argument, which of said instructions would be given. The court orally refused to give any of the instructions thus tendered by either party, but failed to indicate, before instructing the jury, by a memorandum in writing at the close of the instructions so requested, the numbers of those given and of those refused, signed by the judge, as required by §561 Burns 1908, Acts 3907, p. 652.
+All of the instructions, both those given and those refused, were ordered filed by the court. Long after the close of the term at which the judgment was rendered, and after the appeal had been taken therefrom to this court, the appellant filed in the court below his petition for the alleged correction of the record of the court in said cause, by which he sought to make the record show a compliance with the statute before referred to, in reference to the court’s indicating, by a written memorandum at the close of the instructions tendered, the numbers of said instructions given and those refused, and the signature of the judge to such memorandum.
+The appellee’s motion to dismiss this petition was overruled. Evidence was heard by the court upon the petition, and a finding in favor of the petitioner thereon, and a nunc pro tunc order, amending the record as prayed for, directed to be entered in said cause by the court. From this order the appellee appeals here, and the appeal is made auxiliary to the appeal in the original case, and upon this record the appellant has petitioned this court for a writ of certiorari, to bring into the record of the original appeal these proceedings of the court below. The provisions of the section of the code under consideration, are too plain and simple to be misunderstood. They set forth clearly and explicitly the manner in which instructions given and refused become a part of the record in the cause. These provisions show exactly how instructions refused are to be indorsed by the court, and the mandate of the statute in this respect must be followed. Petril v. Ludwig (1908), 41 Ind. App. 310. The judge is not authorized to act orally upon written requests for the giving of certain numbered instructions, but must indicate his action in the matter by a signed memorandum. This confessedly was not done. This act — that is, the act of indorsing by a signed memorandum the action of the court in giving and refusing instructions — is a judicial act.
+All courts of record have the inherent power to make their records speak the truth, correctly to record what transpired in the court, where, through any omission or misprision of the clerk, this has not been done. But after judgment has been rendered in a cause, and the term of the court has closed, the power of the court ceases, and it cannot resurrect the cause disposed of for the purpose of performing any further judicial function therein. The appellant, in his petition, was not asking that the record of the court in the cause be made to show what he claims actually took place — that is, that the court orally refused to give any of the instructions tendered; but he is asking that the court open up the record and perform a judicial act, and that, when this judicial act has been performed, the record in the cause be so amended as to show the fact. Appellant earnestly contends that this should be done in this case; otherwise he suffers, not through his own negligence, or by reason of his own act, but by reason of the failure of the judge to perform his duty in the matter.
+It is presumed that the parties to a cause in court are personally present in court at every step taken in the cause, and that no act is done or omitted by the court without the knowledge of all parties to the proceedings. It is to be presumed that the failure of the judge to indorse the memorandum in writing, evidencing his refusal to give the appellant’s instructions, as the law required, was fully known to the appellant. He had the right to insist upon the court’s taking proper action in the matter.
+If the court, upon his insistence, refused to make the proper indorsement, and exception was taken to the action of the court, such refusal would constitute reversible error, regardless of what the instructions contained. But where no exception was taken to the omission of the court to indorse such action upon the instructions, as the statute requires shall be done, it is presumed that the parties knew of such omission, and consented thereto.
+Appellee’s motion to dismiss appellant’s petition for the correction of the record in the court below should have been sustained, and the order of the court correcting the record is reversed, at appellant’s costs, and appellant’s petition for a writ of certiorari is refused.
