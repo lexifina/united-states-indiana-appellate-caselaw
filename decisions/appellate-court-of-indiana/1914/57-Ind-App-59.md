@@ -1,0 +1,27 @@
+---
+court: "Appellate Court of Indiana"
+docket: "8,433"
+decided: "1914-10-09"
+citations: ["57 Ind. App. 59"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Weaver et al. v. Kaufman et al."]
+source_url: "https://static.case.law/ind-app/57/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5185817
+cites_cases: ["111 Ind. 467", "114 Ind. 84", "12 N. E. 134", "124 Ind. 254", "14 N. E. 546", "15 N. E. 806", "162 Ind. 534", "23 Am. Rep. 622", "24 N. E. 88", "35 Ind. App. 20", "40 Ind. App. 555", "49 Am. Rep. 287", "53 Am. Rep. 110", "53 Ind. 196", "68 Ind. 500", "70 N. E. 812", "73 N. E. 719", "82 N. E. 539"]
+---
+
+# Weaver v. Kaufman
+
+## Majority (Lairy, J.)
+
+Lairy, J.
+Appellees brought this suit against appellants as the auditor and the treasurer of Huntington County, respectively, and obtained an injunction, restraining them from selling at tax sale certain real estate described in the complaint, of which appellees were at the time the owners. Prom the complaint it appears that appellees were the owners of personal property located in Huntington County of the value of more than $2,000 which was subject to levy and sale for the payment of the taxes which appellants are seeking to enforce by sale of the real estate described, and that such personal property had. a value more than sufficient to pay all of such taxes in full. The injunction was asked and granted upon the ground that it is the duty of the collecting officers to enforce the payment of taxes by a levy and sale of the personal property of the delinquent taxpayer before resorting to a sale of his real estate, and that a delinquent taxpayer has a right to enjoin the sale of his real estate in the event he has personal property subject to levy of sufficient value to satisfy the claim against him for delinquent taxes.
+A demurrer to the complaint was overruled whereupon appellants filed a special paragraph of answer to which a demurrer was sustained. Appellants refusing to plead further, judgment was entered against them on the pleadings. The errors relied on for reversal are, that the court erred in overruling the demurrer addressed to the complaint and, in sustaining appellees’ demurrer to appellants’ answer.
+It is clearly the purpose of our statute to require that delinquent taxes shall be enforced by levy and sale of the personal property of the delinquent taxpayer, if any can be found within the county, before resorting to the sale of his real estate. §10324 Burns 1914, Acts 1903 p. 49. If a delinquent taxpayer has personal property subject to levy he may enjoin the sale of his real estate for taxes. Abbott v. Edgerton (1876), 53 Ind. 196. Counsel for appellants cite and rely upon a line of cases which hold that the collection of a tax will not be enjoined, unless it is shown that the property against which it was assessed was not subject to taxation, or that the tax has been paid. Nyce v. Schmoll (1907), 40 Ind. App. 555, 558, 82 N. E. 539; McCrory v. O’Keefe (1904), 162 Ind. 534, 536, 70 N. E. 812; Fell v. West (1905), 35 Ind. App. 20, 29, 73 N. E. 719; City of Logansport v. Case (1890), 124 Ind. 254, 260, 24 N. E. 88; Morrison v. Jacoby (1888), 114 Ind. 84, 14 N. E. 546, 15 N. E. 806; Foresman v. Chase (1879), 68 Ind. 500, 506. The principle announced in these cases has no application here. If appellees were seeking to enjoin the collection of the tax, the complaint would have been defective, unless it averred facts showing, either that the tax had been paid, or that the property on which it was assessed was not subject to taxation; but it is not the purpose of this suit to enjoin the collection of the tax. It is not claimed on behalf of appellees, that the collection of the tax in question can not be enforced in the proper manner by a levy and sale of personal property, and the decree of the court does not enjoin appellants from so enforcing it.
+If a taxpayer permits his real estate to be sold for the payment of delinquent taxes when he is the owner of personal property subject to levy and sale for such purpose, he can not on such account treat the sale as void and enjoin the execution and delivery of a tax
+deed. In such a case the purchaser at the tax sale parts with his money on the faith of the regularity of the proceedings, and our courts have held that, while such a sale is ineffective to convey the title it is not absolutely void for all purposes. Such sales have the effect of transferring to the purchaser at the tax sale, the lien which formerly belonged to the State. St. Clair v. McClure (1887), 111 Ind. 467, 12 N. E. 134; City of Logansport v. Case, supra; Morrison v. Jacoby, supra. Counsel for appellants cite these cases and rely upon them as sustaining his position, but the doctrine which they announce is not in conflict with the conclusion reached in this opinion. This suit was brought and the injunction obtained before the real estate was sold for taxes, its purpose being to prevent such sale, and the rights of a purchaser at a tax sale are not involved.
+The court did not err in overruling .the demurrer to the complaint, and the demurrer to the special answer was properly sustained. Judgment affirmed.
+Note. — Reported in 106 N. ID. 398. As to injunctions against sales of property for illegal taxes, see C9 Am. Dee. 198; 23 Am. Rep. 622; 49 Am. Rep. 287; 53 Am. Rep. 110. See, also, under (1) 37 Cyc. 1321; (2) 37 Oye. 1285.
