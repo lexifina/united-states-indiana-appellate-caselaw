@@ -1,0 +1,55 @@
+---
+court: "Appellate Court of Indiana"
+docket: "1,522"
+decided: "1895-09-17"
+citations: ["14 Ind. App. 518"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Pennsylvania Company v. Liveright et al."]
+source_url: "https://static.case.law/ind-app/14/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4782182
+cites_cases: ["1 Gray, 263", "10 Mo. App. 125", "111 Ind. 5", "127 N. Y. 500", "132 Ind. 129", "14 L. R. A. 215", "16 Pa. St. 67", "17 Ill. App. 632", "17 L. R. A. 339", "25 Ind. 434", "26 Ind. 140", "27 Iowa, 22", "31 Ind. 20", "34 N. Y. 548", "35 Vt. 605", "36 N. E. Rep. 592", "4 Ind. App. 119", "43 Ind. 423", "45 N. Y. 184", "6 Ind. App. 304", "61 Iowa, 648", "67 N. Y. 11", "71 Ky. 184", "73 N. Y. 167", "76 N. Y. 381", "9 Ind. App. 689", "92 Ky. 645"]
+---
+
+# Pennsylvania Co. v. Liveright
+
+## Majority (Gavin, J.)
+
+Gavin, J.
+Appellees sued to recover the value of a lost trunk checked as baggage by one of them while traveling as a passenger from Madison to Indianapolis over appellant’s railroad.
+. The Indianapolis Union Railway Company owns the Union Station at Indianapolis, and acts as the receiving and delivering agent for appellant,- as to such baggage as it hauls to that point.
+The sufficiency of the complaint hangs upon appellant’s proposition that “the relation of the Pennsylvania Company and its agent, the Union Railway Company, to the goods in question, was that of a warehouseman from the moment the trunks were delivered by the former into the possession of the latter at Indianapolis.
+Counsel rely upon a number of cases involving the duty of the carrier of ordinary freight. Bansemer v. Toledo, etc., R. W. Co., 25 Ind. 434; Cincinnati, etc., R. R. Co. v. McCool, 26 Ind. 140; Adams Express Co. v. Darnell, 31 Ind. 20; Pittsburg, etc., R. W. Co. v. Nash, 43 Ind. 423; Merchants’ Dispatch, etc., Co. v. Merriam, 111 Ind. 5.
+The original case is founded upon Norway Plains Co. v. Boston, etc., R. R. Co., 1 Gray, 263.
+Without undertaking to determine the correctness of, or the limitations upon, the rule advocated as applicable to ordinary freight, the position cannot be regarded as tenable either upon principle or authority, where a passenger’s baggage is the subject of controversy.
+It was ruled by this court in Toledo, etc., R. R. Co. v. Tapp, 6 Ind. App. 304, that “it was the duty of the appellant or its servants to give the appellee a reasonable time after the arrival of the trunk at Russiaville, to take it away before locking it up in the warehouse, and failing to do so the liability of the company as carrier did not cease.”
+It was appellant’s duty as a carrier not only to haul the baggage to Indianapolis, but there to deliver it to appellees if called for within a reasonable time. If not, it could hold it as a bailee for hire, and its duty as warehouseman then arose.
+Its duty as carrier was not fully performed by simply delivering the baggage to its own agent at the station. It does not even follow from its receipt by the Union Railway Company that the trunk was eo instanti ready for delivery to the passenger, although we do not base our decision upon this fact, but rather upon the broader ground that the passenger is entitled to a reasonable time within which to receive his baggage before the strict carrier’s liability ceases and the less burdensome responsibility as warehouseman begins.
+Our conclusion is in harmony with the almost universal opinions expressed by courts and textwriters. Roth v. Buffalo, etc., R. R. Co., 34 N. Y. 548; Burnell v. New. York, etc., R. R. Co., 45 N. Y. 184; Matteson v. New York, etc., R. R. Co., 76 N. Y. 381; Louisville, etc., R. R. Co. v. Mahan, 71 Ky. 184; Wald & Co. v. Louisville, etc., R. R. Co., 92 Ky. 645; Mote v. Chicago, etc., R. R. Co., 27 Iowa, 22; Arthur v. Chicago, etc., R. W. Co., 61 Iowa, 648; Texas, etc., R. W. Co. v. Capps, 2 Tex. Ct. App. Cas. (Civ.) 35; Ouimit v. Henshaw, 35 Vt. 605; Lin v. Terre Haute, etc., R. R. Co., 10 Mo. App. 125; Chicago, etc., R. R. Co. v. Addizoat, 17 Ill. App. 632; Hutchinson Carriers, section 708 ; 3 Wood R. R. (1894 ed.),sections 400 and 402.
+In section 402 of the authority -last cited it is said : “The liability of a common carrier for the baggage of a passenger continues until the baggage is ready to be delivered to the owner at his destination, and until he has had a reasonable opportunity of receiving and removing it. What constitutes such reasonable time and opportunity is !a mixed question of law and fact, necessarily dependent upon the peculiar surroundings of each particular case.”
+As to just what constitutes a reasonablé time, courts differ, but we are not called upon to solve that question.
+Massachusetts in Nealand v. Boston, etc., R. W. Co., 36 N. E. Rep. 592, indicates a willingness to apply to baggage, the rule laid down in the 1 Gray case. We are, however, satisfied that this rule should not he extended by analogy.
+Filed September 17, 1895.
+Under the evidence the court was fully justified in finding that the baggage never was ready for delivery to the appellees.
+Judgment affirmed.
+
+## Rehearing (Gavin, C. J.)
+
+On Petition for Rehearing.
+Gavin, C. J.
+By printing its brief upon petition for rehearing, and thus making available a copy to each member of the court, the appellant’s counsel has placed before "us in convenient form the propositions upon which he bases his request for a rehearing. Our high appreciation of the ability and fairness of the counsel has led us to give it a special consideration, but we are the more fully satisfied that the cause was fairly and correctly decided below, and that the views expressed in the original opinion are well founded.
+Appellant now makes objection to the second paragraph of complaint. In the original brief its counsel stated: “The second paragraph of complaint is substantially like the first, except that there is no allegation that the trunk and its contents were lost and stolen.
+‘ c The second paragraph of the complaint, I think, is insufficient to withstand the demurrer.” It is now too late for appellant to present objections to the sufficiency of this pleading.
+"We have reread the original brief with care, and have searched in vain for a single statement in the argument as to the sufficiency of the first paragraph of complaint that it was bad because the demand was not made within a reasonable time after the arrival of the trunk at Indianapolis. On the contrary, the position taken is that the carrier’s contract was performed by delivery to the Union Railway Company at its station at Indianapolis, and that the carrier’s liability having been affirmatively shown to be determined, there was no breach averred of the non-performance of its warehouseman’s duty. We quote further from counsel’s brief to show that any misconception of his position was not that of the court:
+“ That is, while the property was in transit it was an insurer, but when the transit ended by the arrival of the property at Indianapolis, and it was delivered into the possession of the Union Railway Company, the strict liability of an insurer ceased and the liability of a warehouseman supervened.
+“The allegations of the complaint in this case show conclusively that the Pennsylvania Company’s strict responsibility as a carrier ceased upon the arrival of the trunk in question at Indianapolis.
+‘‘Clearly the relation of the Pennsylvania Company to the property in question after it had delivered it to the Union Company was the relation of a warehouseman.”-'
+The objection made was held to be not well taken, because the mere arrival of the goods at the station and their delivery to appellant’s receiving agent did not terminate the carrier’s liability.
+By giving to the evidence the interpretation most favorable to the appellant, it only shows that the trunk in question was received by the Union Railway Company. There is absolutely nothing to indicate how long it remained in its hands, or that it was ever ready for delivery to the appellees. For that reason the time of appellees’ making the demand was not a controlling factor. If it appeared that the trunk was lost or stolen after the appellant or its agent was ready to deliver it to appellees, then the determination of the reasonableness* of the time within which the demand was made might.become important.
+Under established rules of law, it is at least doubtful whether the jury might not have found that the trunk never was really delivered to the Union Railway Company. The only evidence that it was delivered is the statement of the employes made to appellees that the books showed that the trunk had come into Indianapolis. It was clearly proved, however, that on demand made, first twenty-four' hours and again two or three days afterwards, the trunk was nbt forthcoming, nor could appellee find it in the baggage room. At that time the Union Railway Company’s agent said’ may be it had gone down to Lawrenceburg. Upon the trial there was no effort upon the part of appellant or the Union Railway Company to account for the trunk. They offered-not a word of evidence upon the subject. There was nothing to show that it had been stolen, or destroyed, or lost, save what we have given. Evidently there had been a mistake somewhere, unless appellant or its agent was willfully retaining the trunk.
+The jury was by no means bound to believe that the books were correct. If all things had been properly done, the trunk should have been on hand for delivery when asked for, but it was not, and appellant did not endeavor to throw any light upon the cause of its absence. The jury had a right to infer from this fact that the trunk had not really been received at the station, in the absence of any showing by the defendants as to its ever having gone out, and in the absence of the books or the testimony of any of the employes who should, have handled the trunk. Closely analogous to the case in hand are the cases declaring that where the railroad company fails or refuses to explain and account for its failure to deliver property received and carried by it, the court or jury may properly infer negligence upon its part. Louisville, etc., R. W. Co. v. Nicholai, 4 Ind. App. 119; or that by failure to deliver on proper demand, a prima facie case is made out against the company. Camden, etc., R. R. Co. v. Baldauf, 16 Pa. St. 67; Fairfax v. New York Central, etc., R. R. Co., 67 N. Y. 11; same case, 73 N. Y. 167; Matteson v. New York, etc., R. R. Co., 76 N. Y. 381; Stewart v. Stone, 127 N. Y. 500 (14 L. R. A. 215); Terre Haute, etc., R. W. Co. v. Sherwood, 132 Ind. 129 (17 L. R. A. 339); Cleveland, etc., R. W. Co. v. Tyler, 9 Ind. App. 689.
+Filed March 6, 1896.
+It is probably true, as indicated by some of these cases, that where negligence is the issue, proof of loss of the goods by fire, theft, etc., will be sufficient to overthrow the prima facie case, and require from the plaintiff actual proof of negligence.
+Petition overruled.
