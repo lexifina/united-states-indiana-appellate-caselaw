@@ -1,0 +1,47 @@
+---
+court: "Court of Appeals of Indiana"
+docket: "3-274A29"
+decided: "1975-12-03"
+citations: ["167 Ind. App. 82"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Esther C. Batchelder v. Stephen M. Haxby, City of Fort Wayne and City of Fort Wayne Board of Public Works."]
+source_url: "https://static.case.law/ind-app/167/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395929
+cites_cases: ["114 Cal. Rep. 518", "128 Ind. App. 53", "144 So.2d 505", "145 N.E.2d 908", "148 Ind. App. 436", "163 Ind. App. 518", "175 Ind. 98", "194 N.W.2d 700", "213 N.W.2d 904", "218 Ind. 227", "253 Ind. 472", "255 N.E.2d 225", "261 Ind. 463", "263 Ind. 187", "267 N.E.2d 400", "282 N.E.2d 437", "305 N.E.2d 877", "313 N.E.2d 713", "32 N.E.2d 88", "325 N.E.2d 223", "325 N.E.2d 839", "337 N.E.2d 887", "388 Mich. 617", "39 Cal. App.3d 844", "51 Ill.2d 357", "510 P.2d 879", "93 N.E. 540"]
+---
+
+# Batchelder v. Haxby
+
+## Majority (Garrard, J.)
+
+Garrard, J.
+— Appellant Batchelder filed suit for injuries sustained in an automobile collision between her vehicle and one owned by the City. The City answered in three paragraphs, one of which asserted as a defense the failure of Batchelder to give the notice required by statute. The City’s subsequent motion for summary judgment was granted for Batchelder’s failure to comply with the notice requirements of the tort claims statute. IC 1971, 18-2-2-1, Ind. Ann. Stat. § 48-8001 (Burns 1983 Repl.)
+■ On appeal Batchelder asserts the statute is an unconstitutional denial of equal protection. She also asserts that her compliance with the statute was excused.
+Batchelder’s primary contention is that the notice statute is an unconstitutional violation of the protections afforded by the equal protection clause of the Fourteenth Amendment and Art. 1, § 23 of the Indiana Constitution. It is asserted that the statute imposes an unreasonably short statute of limitations upon the class of plaintiffs who wish to sue municipal, as opposed to private, tortfeasors.
+It is true that some jurisdictions have found that similar provisions deny equal protection where the purpose of the statute containing the notice provision was- to abrogate governmental immunity. See, Reich v. State Highway Dept. (1972), 388 Mich. 617, 194 N.W.2d 700; Turner v. Staggs (1973 Nev.), 510 P.2d 879.
+In the absence of such a construction, other jurisdictions have found such provisions valid. Thus, the California court in Roberts v. State (1974), 39 Cal. App.3d 844, 114 Cal. Rep. 518, rejected the Reich rationale because they determined the legislative purpose to be other than an intention to put governmental and private tortfeasors on the same footing. See also, Lunday v. Vogelmann (1973 Iowa), 213 N.W.2d 904; Housewright v. City of La Harpe (1972), 51 Ill.2d 357, 282 N.E.2d 437; McCann v. City of Lake Wales (1962 Fla.), 144 So.2d 505.
+Prior Indiana cases have stated that the statute in question does not establish a condition precedent to liability of a municipality, nor is it properly a statute of limitations. Instead it establishes a procedural step necessary to the remedy of bringing an action. Its purpose is to enable the City to make a prompt investigation as to its liability. Aaron v. City of Tipton (1941), 218 Ind. 227, 32 N.E.2d 88; City of Logansport v. Gammill (1957), 128 Ind. App. 53, 145 N.E.2d 908.
+Following these interpretations of the purpose of the Indiana statute, the First District recently held the notice of claim statute applicable to counties, IC 1971, 17-2-1-1 (Burns Code Ed.), constitutional in the face of an equal protection claim. Foster v. Co. Commr’s. (1975), 163 Ind. App. 518, 325 N.E.2d 223.
+Furthermore, in Thompson v. City of Aurora (1975), 263 Ind. 187, 325 N.E.2d 839, our Supreme Court applied the statute- before us and underscored its notice purposes.
+Accordingly, it appears that our statute establishes governmental tortfeasors as a classification entitled to notice to permit prompt investigation of claims. Governmental units are different from private tortfeasors. There are basic differences in the manner and responsibility of passing on claims and the sources of funds used to compensate those innocently injured. The nature of the employment process of their agents and servants also differs.- Consideration of these differences is proper since litigation is not the only means of compensating injured individuals. The fact that the statute in question might oftentimes produce a harsh result through application of the short notice period it provides does not elevate the problem to constitutional proportions. We are unable to say the classification .does not rest upon any reasonable basis. We find the statute constitutional in this regard.
+Batchelder next asserts the City had actual notice, although there is no contention that there was any attempt to give formal notice. Thus, to sustain the argument, notice of the potential claim must be inferred from mere knowledge of the collision by city employees.
+While substantial compliance with the statute in attempting to give notice will suffice, mere knowledge of the incident acquired independently will not. Touhey v. City of Decatur (1911), 175 Ind. 98, 93 N.E. 540. This interpretation of our statute remains valid because the statutory purpose of providing opportunity to investigate is not fully realized except when notice is had in the context that one is claiming municipal liability for injury. See, Galbreath v. City of Indianapolis (1970), 253 Ind. 472, 255 N.E.2d 225, which discusses substantial compliance at length.
+Finally, it is urged that Batchelder was excused from giving notice because of her physical condition. While Touhey, supra, rejected a similar contention, we do not reach the issue. If Batchelder desired to rely upon such a contention to excuse her noncompliance with the statute, it was incumbent upon her under Indiana Rules of Procedure, Trial Rule 56(E) by affidavit, or as otherwise provided in the rule, to set up facts demonstrating the existence of an issue. This was not done, and she may not now complain.
+The judgment is affirmed.
+Hoffman, J., concurs; Staton, P.J., dissents with opinion.
+. This act was repealed by the Acts of 1974. The present law appears at IC 1971, 34-4-16.5-6 et seq. (Burns Code Ed.).
+. The opinion did not discuss the constitutional issue. While the argument had been raised on appeal, the Court of Appeals’ opinion rejected its consideration since it had not been raised at trial. See, Thompson v. City of Aurora (1974), Ind. App., 313 N.E.2d 713, 717.
+
+## Dissent (Staton, P.J.)
+
+Dissenting Opinion
+Staton, P.J.
+— Batchelder asserts that the notice provision of the tort claims statute, IC 1971, 18-2-2-1, Ind. Ann. Stat. §48-8001 (Burns Repl. 1983) (repealed 1974), is an unconstitutional denial of equal protection.' I agree, and I respectfully dissent from the majority opinion.
+The notice requirement creates classes in two ways. First, the natural class of tortfeasors is split into governmental tortfeasors entitled to a special notice of claims within sixty (60) days of their occurrence, and private tortfeasors who are not entitled to special notice prior to suit. Secondly, the natural class of tort victims is split into victims of governmental negligence who must give the required notice or be subject to a defense against their claims, and victims of private negligence who need not give notice except as required by the two-year tort statute of limitations. These classes create and unequal burden of notice and trigger the equal protection analysis. See Sturrup v. Mahan (1974), 261 Ind. 463, 305 N.E.2d 877.
+Although the equal protection clause of the Fourteenth Amendment to the United States Constitution, and Art. 1, section 23, in the Indiana Constitution, mandate that all persons similarly situated be treated alike, these provisions do not prevent reasonable classifications created by the State. Under the traditional, rational basis test, the question is whether the statutory classification is reasonably related to the achievement of a legitimate state purpose.
+Repeatedly, the stated purpose of the notice provision in section 48-8001 has been to inform the governmental entity so that it may investigate the claim, prepare its defense, or settle the claim. Aaron v. City of Tipton (1941), 218 Ind. 227, 32 N.E.2d 88; City of Logansport v. Gammill (1957), 128 Ind. App. 53, 145 N.E.2d 908; Brown v. City of South Bend (1971), 148 Ind. App. 436, 267 N.E.2d 400. In light of this purpose, I can perceive of no rational basis for the distinction between similarly situated tortfeasors and victims on the basis of the tortfeasor’s status as a governmental or a private entity. All tortfeasors have a similar interest in the prompt investigation of claims, in settlement, and in the preparation of a defense. All victims have a similar interest in seeking redress for their injuries. The special treatment afforded governmental tortfeasors, and the special burden placed upon victims of governmental negligence, are arbitrary and without rational basis and, therefore, violative of the equal protection guarantee.
+Note. — Reported at 337 N.E.2d 887.
+. There is no contention that the statutory classification creates a suspect class, and there is no fundamental right involved because all persons have access to the courts so long as they comply with the st^tp-tory conditions,
