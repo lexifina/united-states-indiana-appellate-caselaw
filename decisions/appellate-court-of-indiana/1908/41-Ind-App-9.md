@@ -1,0 +1,23 @@
+---
+court: "Appellate Court of Indiana"
+docket: "6,159"
+decided: "1908-01-07"
+citations: ["41 Ind. App. 9"]
+reporter: "ind-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pfingston v. Grand Lodge, Ancient Order of United Workmen of Indiana."]
+source_url: "https://static.case.law/ind-app/41/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4960466
+---
+
+# Pfingston v. Grand Lodge
+
+## Majority (Comstock, J.)
+
+Comstock, J.
+Appellant brought this action against appellee on a certificate of insurance in the sum of $2,000 on thé life of John H. Pfingston, her husband. In her amended complaint she set up the certificate of insurance and alleged the performance of all the conditions thereof. A demurrer for want of facts was filed to the complaint and overruled. The answer set up a forfeiture for failure of the member to pay the assessment for the month of March, 1896, on or before the twenty-eighth day of said month, as provided in the by-laws of the association. To this answer a reply was filed in two paragraphs, the first being a general denial. The second set up a by-law which provided that no member could become delinquent for failing to pay an assessment while sick, and alleged that the member was sick. At the close of the evidence the court gave a peremptory instruction to the jury to return a verdict for the appellee, which was done.
+The error relied upon is the overruling of appellant’s motion for a new trial. The errors stated in the motion may be summed up under the head of the action of the court in directing the jury to return a verdict for the appellee.
+The insured received a physical injury in September, 1893, for which he was visited at least once, and perhaps several times, by his physician. The last medical attention given him was in February, 1894. His death occurred in May, 1902, and resulted from carbolic acid taken by mistake. Sick benefits were paid him in December, 1893, and January, 1894. The assessment for March, 1896, was not paid, and by the operation of the laws of the order he was suspended on March 28, 1896, and so remained until his death. The bylaws of the order required a sick member to report his sickness to the master workman. There was no positive evidence that any notice was given to the lodge of the siclmess of the insured, although there was evidence that sick benefits were paid for the two months named. Prom this it might fairly be inferred that notice of some kind was given. Prom the same reasoning it may be concluded that the sickness terminated, in the opinion of the parties herein, when the payment of sick benefits ceased. There is evidence that the assessments for September, October and November, 1893, were paid. It is argued in favor of appellant that during these months the insured was sick, and for such payments he should have had credit to prevent forfeiture. This for the reason that a by-law provided that no member could become delinquent from the failure to pay any assessment while sick, provided he was not in arrears for dues or assessments when taken sick, and that up to March 1, 1896, the insured was not in arrears. But there was no forfeiture, nor was there any delinquency for either of those months. The delinquency arose more than two years afterwards, and there is no pretense that any notice was given the master workman of sickness for the month of March, 1896, when the delinquency occurred. It is manifest from the evidence that neither of the parties understood that the insured was entitled to credit for payments for September, October and November. If such right existed it was waived, not only by lapse of time, but by the conduct of the insured. Shortly after he had failed to pay such March assessment, he was asked by the collector of the lodge if he did not want to come back in the lodge, to which he answered, that ‘ ‘ as soon as he had enough money he would come back:” That was all he said. Tie at no time claimed that he was entitled to credit for the payment of the assessments for which he was not liable, nor does it appear that he had made any effort for reinstatement, although the laws made provision for the reinstatement of a member who had forfeited his rights by reason of nonpayment of assessments. The insured knew that he had been suspended; knew the reason therefor, and for six years acquiesced therein. In the meantime the order depended for its life upon the assessments made upon its members. There is no equity in the claim.
+Judgment affirmed.
