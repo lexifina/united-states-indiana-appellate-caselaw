@@ -6634,7 +6634,6 @@ reference	path
 1069A171	decisions/appellate-court-of-indiana/1971/150-Ind-App-485.md
 1069A172	decisions/appellate-court-of-indiana/1970/147-Ind-App-482.md
 1069A173	decisions/appellate-court-of-indiana/1971/150-Ind-App-615.md
-1069A174, 1269A235, 1069A196, 1169A209, 1069A195, 1169A205, 1169A206, 1069A175, 1269A232	decisions/appellate-court-of-indiana/1971/148-Ind-App-340.md
 1069A178	decisions/appellate-court-of-indiana/1971/148-Ind-App-508.md
 1069A181	decisions/appellate-court-of-indiana/1970/147-Ind-App-295.md
 1069A182	decisions/appellate-court-of-indiana/1970/148-Ind-App-90.md
@@ -9257,6 +9256,7 @@ reference	path
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540006.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540007.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540008.md
+113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540009.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540010.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540011.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540012.md
@@ -9264,7 +9264,6 @@ reference	path
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540014.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540015.md
 113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818.md
-113 N.E.3d 818	decisions/court-of-appeals-of-indiana/2018/116-N-E-3d-1101.md
 113 N.E.3d 819	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-819--cap-12540017.md
 113 N.E.3d 819	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-819--cap-12540018.md
 113 N.E.3d 819	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-819--cap-12540019.md
@@ -12572,8 +12571,8 @@ reference	path
 126 N.E.3d 41	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41--cap-12545650.md
 126 N.E.3d 41	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41--cap-12545651.md
 126 N.E.3d 41	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41.md
-126 N.E.3d 42	decisions/court-of-appeals-of-indiana/2019/123-N-E-3d-179.md
 126 N.E.3d 42	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42--cap-12545653.md
+126 N.E.3d 42	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42--cap-12545654.md
 126 N.E.3d 42	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42.md
 126 N.E.3d 43	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-43--cap-12545658.md
 126 N.E.3d 43	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-43--cap-12545659.md
@@ -15213,7 +15212,7 @@ reference	path
 139 Ind. App. 525	decisions/appellate-court-of-indiana/1965/139-Ind-App-525.md
 139 Ind. App. 533	decisions/appellate-court-of-indiana/1966/139-Ind-App-533.md
 139 Ind. App. 547	decisions/appellate-court-of-indiana/1966/139-Ind-App-547.md
-139 Ind. App. 562	decisions/appellate-court-of-indiana/1965/139-Ind-App-567.md
+139 Ind. App. 562	decisions/appellate-court-of-indiana/1965/139-Ind-App-562.md
 139 Ind. App. 567	decisions/appellate-court-of-indiana/1965/139-Ind-App-567.md
 139 Ind. App. 597	decisions/appellate-court-of-indiana/1966/139-Ind-App-597.md
 139 Ind. App. 602	decisions/appellate-court-of-indiana/1966/139-Ind-App-602.md
@@ -24971,6 +24970,7 @@ reference	path
 19,984	decisions/appellate-court-of-indiana/1964/137-Ind-App-72.md
 19,986	decisions/appellate-court-of-indiana/1965/137-Ind-App-644.md
 19,987	decisions/appellate-court-of-indiana/1964/136-Ind-App-269.md
+19,989	decisions/appellate-court-of-indiana/1965/139-Ind-App-562.md
 19,989	decisions/appellate-court-of-indiana/1965/139-Ind-App-567.md
 19,990	decisions/appellate-court-of-indiana/1965/137-Ind-App-293.md
 19,991	decisions/appellate-court-of-indiana/1964/136-Ind-App-254.md
@@ -51462,9 +51462,7 @@ reference	path
 5,238	decisions/appellate-court-of-indiana/1905/35-Ind-App-676.md
 5,239	decisions/appellate-court-of-indiana/1905/39-Ind-App-636.md
 5,240	decisions/appellate-court-of-indiana/1905/36-Ind-App-408.md
-5,241; No. 5,242; No. 5,243; No. 5,244; No. 5,245; No. 5,246; No. 5,247; No. 5,248; No. 5,249; No. 5,250; No. 5,251; No. 5,252; No. 5,253; No. 5,254; No. 5,255	decisions/appellate-court-of-indiana/1905/36-Ind-App-703.md
 5,256	decisions/appellate-court-of-indiana/1905/36-Ind-App-439.md
-5,257; No. 5,258; No. 5,259; No. 5,260; No. 5,261; No. 5,262; No. 5,263; No. 5,264; No. 5,265; No. 5,266; No. 5,267	decisions/appellate-court-of-indiana/1905/36-Ind-App-705.md
 5,268	decisions/appellate-court-of-indiana/1905/35-Ind-App-501.md
 5,270	decisions/appellate-court-of-indiana/1905/36-Ind-App-84.md
 5,271	decisions/appellate-court-of-indiana/1906/37-Ind-App-154.md
@@ -61288,7 +61286,7 @@ reference	path
 654 N.E.2d 40	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-40.md
 654 N.E.2d 44	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-44.md
 654 N.E.2d 746	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-746.md
-654 N.E.2d 750	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-752.md
+654 N.E.2d 750	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-750.md
 654 N.E.2d 752	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-752.md
 654 N.E.2d 767	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-767.md
 654 N.E.2d 776	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-776.md
@@ -83156,6 +83154,7 @@ reference	path
 93A02-9307-EX-376	decisions/court-of-appeals-of-indiana/1994/635-N-E-2d-181.md
 93A02-9307-EX-398	decisions/court-of-appeals-of-indiana/1994/632-N-E-2d-736.md
 93A02-9308-EX-459	decisions/court-of-appeals-of-indiana/1994/637-N-E-2d-155.md
+93A02-9309-EX-489	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-750.md
 93A02-9309-EX-489	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-752.md
 93A02-9310-EX-538	decisions/court-of-appeals-of-indiana/1994/637-N-E-2d-162.md
 93A02-9311-EX-607	decisions/court-of-appeals-of-indiana/1994/638-N-E-2d-1258.md
@@ -87551,6 +87550,7 @@ Court of Appeals Case No. 18A-CR-2597	decisions/court-of-appeals-of-indiana/2019
 Court of Appeals Case No. 18A-CR-26	decisions/court-of-appeals-of-indiana/2018/110-N-E-3d-1183--cap-12537785.md
 Court of Appeals Case No. 18A-CR-2600	decisions/court-of-appeals-of-indiana/2019/123-N-E-3d-717--cap-12543891.md
 Court of Appeals Case No. 18A-CR-2604	decisions/court-of-appeals-of-indiana/2019/123-N-E-3d-179.md
+Court of Appeals Case No. 18A-CR-2604	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42--cap-12545654.md
 Court of Appeals Case No. 18A-CR-2605	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-44--cap-12545665.md
 Court of Appeals Case No. 18A-CR-2609	decisions/court-of-appeals-of-indiana/2019/124-N-E-3d-660--cap-12544599.md
 Court of Appeals Case No. 18A-CR-2611	decisions/court-of-appeals-of-indiana/2019/123-N-E-3d-718--cap-12543897.md
@@ -88646,6 +88646,7 @@ Court of Appeals Case No. 18A-PL-771	decisions/court-of-appeals-of-indiana/2019/
 Court of Appeals Case No. 18A-PL-792	decisions/court-of-appeals-of-indiana/2018/110-N-E-3d-369.md
 Court of Appeals Case No. 18A-PL-806	decisions/court-of-appeals-of-indiana/2018/114-N-E-3d-488.md
 Court of Appeals Case No. 18A-PL-819	decisions/court-of-appeals-of-indiana/2018/119-N-E-3d-238.md
+Court of Appeals Case No. 18A-PL-824	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540009.md
 Court of Appeals Case No. 18A-PL-824	decisions/court-of-appeals-of-indiana/2018/116-N-E-3d-1101.md
 Court of Appeals Case No. 18A-PL-836	decisions/court-of-appeals-of-indiana/2018/119-N-E-3d-228--cap-12541745.md
 Court of Appeals Case No. 18A-PL-848	decisions/court-of-appeals-of-indiana/2018/110-N-E-3d-380.md
@@ -90727,12 +90728,9 @@ Court of Appeals Cause No. 79A02–1709–CR–2138	decisions/court-of-appeals-o
 Court of Appeals Cause No. 82A04–1712–CR–2959	decisions/court-of-appeals-of-indiana/2018/107-N-E-3d-1112--cap-12536403.md
 Court of Appeals Cause No. 84A01–1706–CR–1342	decisions/court-of-appeals-of-indiana/2018/98-N-E-3d-138--cap-12553595.md
 Court of Appeals Cause No. 91A05–1710–CR–2412	decisions/court-of-appeals-of-indiana/2018/98-N-E-3d-140--cap-12553610.md
-Court of Appeals of Indiana	decisions/court-of-appeals-of-indiana/2009/900-N-E-2d-780.md
-Court of Appeals of Indiana	decisions/court-of-appeals-of-indiana/2012/967-N-E-2d-41.md
 HOFFMAN, Senior Judge	decisions/court-of-appeals-of-indiana/2001/740-N-E-2d-1266.md
 Ho. 1,454	decisions/appellate-court-of-indiana/1895/12-Ind-App-191.md
 I-473A67	decisions/court-of-appeals-of-indiana/1973/158-Ind-App-257.md
-No	decisions/court-of-appeals-of-indiana/1992/587-N-E-2d-1370.md
 No 1,269	decisions/appellate-court-of-indiana/1895/12-Ind-App-161.md
 No 1,631	decisions/appellate-court-of-indiana/1895/13-Ind-App-296.md
 No 1,782	decisions/appellate-court-of-indiana/1895/13-Ind-App-570.md
@@ -91876,6 +91874,7 @@ cap-10870861	decisions/court-of-appeals-of-indiana/1995/651-N-E-2d-294.md
 cap-10870924	decisions/court-of-appeals-of-indiana/1994/633-N-E-2d-1028.md
 cap-10870929	decisions/court-of-appeals-of-indiana/1995/650-N-E-2d-77.md
 cap-10870966	decisions/court-of-appeals-of-indiana/1995/651-N-E-2d-297.md
+cap-10870972	decisions/court-of-appeals-of-indiana/1993/626-N-E-2d-533.md
 cap-10871025	decisions/court-of-appeals-of-indiana/1995/650-N-E-2d-80.md
 cap-10871029	decisions/court-of-appeals-of-indiana/1995/651-N-E-2d-300.md
 cap-10871087	decisions/court-of-appeals-of-indiana/1993/626-N-E-2d-538.md
@@ -92189,6 +92188,7 @@ cap-10885632	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-746.md
 cap-10885634	decisions/court-of-appeals-of-indiana/1994/637-N-E-2d-826.md
 cap-10885653	decisions/court-of-appeals-of-indiana/1994/634-N-E-2d-862.md
 cap-10885654	decisions/court-of-appeals-of-indiana/1996/666-N-E-2d-424.md
+cap-10885795	decisions/court-of-appeals-of-indiana/1995/654-N-E-2d-750.md
 cap-10885797	decisions/court-of-appeals-of-indiana/1995/647-N-E-2d-361.md
 cap-10885800	decisions/court-of-appeals-of-indiana/1995/651-N-E-2d-790.md
 cap-10885813	decisions/court-of-appeals-of-indiana/1995/649-N-E-2d-697.md
@@ -94537,6 +94537,7 @@ cap-10994061	decisions/court-of-appeals-of-indiana/1991/573-N-E-2d-934.md
 cap-10994109	decisions/court-of-appeals-of-indiana/1991/567-N-E-2d-865.md
 cap-10994110	decisions/court-of-appeals-of-indiana/1991/573-N-E-2d-941.md
 cap-10994168	decisions/court-of-appeals-of-indiana/1991/567-N-E-2d-872.md
+cap-10994340	decisions/court-of-appeals-of-indiana/1990/568-N-E-2d-549.md
 cap-10994366	decisions/court-of-appeals-of-indiana/1991/568-N-E-2d-1017.md
 cap-10994433	decisions/court-of-appeals-of-indiana/1991/568-N-E-2d-1020.md
 cap-10994484	decisions/court-of-appeals-of-indiana/1991/568-N-E-2d-1028.md
@@ -96873,6 +96874,7 @@ cap-11042977	decisions/court-of-appeals-of-indiana/1983/451-N-E-2d-388.md
 cap-11042994	decisions/court-of-appeals-of-indiana/1982/435-N-E-2d-82.md
 cap-11043020	decisions/court-of-appeals-of-indiana/1982/434-N-E-2d-104.md
 cap-11043025	decisions/court-of-appeals-of-indiana/1983/452-N-E-2d-455.md
+cap-11043043	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-536.md
 cap-11043062	decisions/court-of-appeals-of-indiana/1983/454-N-E-2d-425.md
 cap-11043065	decisions/court-of-appeals-of-indiana/1984/458-N-E-2d-682.md
 cap-11043075	decisions/court-of-appeals-of-indiana/1982/435-N-E-2d-85.md
@@ -96940,6 +96942,7 @@ cap-11044083	decisions/court-of-appeals-of-indiana/1985/479-N-E-2d-1349.md
 cap-11044087	decisions/court-of-appeals-of-indiana/1984/471-N-E-2d-708.md
 cap-11044116	decisions/court-of-appeals-of-indiana/1982/437-N-E-2d-130.md
 cap-11044121	decisions/court-of-appeals-of-indiana/1982/436-N-E-2d-102.md
+cap-11044126	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-628.md
 cap-11044128	decisions/court-of-appeals-of-indiana/1985/479-N-E-2d-1352.md
 cap-11044132	decisions/court-of-appeals-of-indiana/1982/434-N-E-2d-149.md
 cap-11044134	decisions/court-of-appeals-of-indiana/1982/440-N-E-2d-9.md
@@ -96969,6 +96972,7 @@ cap-11044342	decisions/court-of-appeals-of-indiana/1984/471-N-E-2d-726.md
 cap-11044383	decisions/court-of-appeals-of-indiana/1983/457-N-E-2d-600.md
 cap-11044387	decisions/court-of-appeals-of-indiana/1985/479-N-E-2d-1367.md
 cap-11044391	decisions/court-of-appeals-of-indiana/1982/436-N-E-2d-123.md
+cap-11044392	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-20.md
 cap-11044395	decisions/court-of-appeals-of-indiana/1984/471-N-E-2d-733.md
 cap-11044401	decisions/court-of-appeals-of-indiana/1982/437-N-E-2d-145.md
 cap-11044457	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-258.md
@@ -96979,6 +96983,7 @@ cap-11044488	decisions/court-of-appeals-of-indiana/1982/437-N-E-2d-154.md
 cap-11044512	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-261.md
 cap-11044556	decisions/court-of-appeals-of-indiana/1982/436-N-E-2d-130.md
 cap-11044566	decisions/court-of-appeals-of-indiana/1983/457-N-E-2d-609.md
+cap-11044577	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-43.md
 cap-11044627	decisions/court-of-appeals-of-indiana/1983/457-N-E-2d-613.md
 cap-11044639	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-264.md
 cap-11044684	decisions/court-of-appeals-of-indiana/1983/457-N-E-2d-615.md
@@ -97457,6 +97462,7 @@ cap-11052148	decisions/court-of-appeals-of-indiana/1981/422-N-E-2d-384.md
 cap-11052155	decisions/court-of-appeals-of-indiana/1982/441-N-E-2d-501.md
 cap-11052156	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-807.md
 cap-11052215	decisions/court-of-appeals-of-indiana/1981/424-N-E-2d-158.md
+cap-11052232	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-651.md
 cap-11052286	decisions/court-of-appeals-of-indiana/1981/422-N-E-2d-395.md
 cap-11052290	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-814.md
 cap-11052293	decisions/court-of-appeals-of-indiana/1981/429-N-E-2d-1.md
@@ -97480,6 +97486,7 @@ cap-11052496	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-823.md
 cap-11052497	decisions/court-of-appeals-of-indiana/1983/453-N-E-2d-1026.md
 cap-11052500	decisions/court-of-appeals-of-indiana/1982/434-N-E-2d-561.md
 cap-11052504	decisions/court-of-appeals-of-indiana/1982/441-N-E-2d-514.md
+cap-11052512	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-697.md
 cap-11052544	decisions/court-of-appeals-of-indiana/1981/428-N-E-2d-33.md
 cap-11052550	decisions/court-of-appeals-of-indiana/1981/422-N-E-2d-403.md
 cap-11052556	decisions/court-of-appeals-of-indiana/1981/426-N-E-2d-77.md
@@ -97498,6 +97505,7 @@ cap-11052646	decisions/court-of-appeals-of-indiana/1982/434-N-E-2d-575.md
 cap-11052678	decisions/court-of-appeals-of-indiana/1981/417-N-E-2d-357.md
 cap-11052679	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-835.md
 cap-11052683	decisions/court-of-appeals-of-indiana/1983/453-N-E-2d-1032.md
+cap-11052689	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-10.md
 cap-11052691	decisions/court-of-appeals-of-indiana/1983/448-N-E-2d-1094.md
 cap-11052697	decisions/court-of-appeals-of-indiana/1981/424-N-E-2d-184.md
 cap-11052708	decisions/court-of-appeals-of-indiana/1981/422-N-E-2d-416.md
@@ -97514,6 +97522,7 @@ cap-11052826	decisions/court-of-appeals-of-indiana/1981/428-N-E-2d-48.md
 cap-11052835	decisions/court-of-appeals-of-indiana/1981/426-N-E-2d-104.md
 cap-11052845	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-841.md
 cap-11052859	decisions/court-of-appeals-of-indiana/1981/417-N-E-2d-364.md
+cap-11052876	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-24.md
 cap-11052879	decisions/court-of-appeals-of-indiana/1982/434-N-E-2d-581.md
 cap-11052893	decisions/court-of-appeals-of-indiana/1981/422-N-E-2d-423.md
 cap-11052927	decisions/court-of-appeals-of-indiana/1982/433-N-E-2d-847.md
@@ -98752,6 +98761,7 @@ cap-11067932	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-297.md
 cap-11067935	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-310.md
 cap-11067948	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-550.md
 cap-11067961	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-315.md
+cap-11067974	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-586.md
 cap-11067982	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-556.md
 cap-11067988	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-319.md
 cap-11068002	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-301.md
@@ -98769,9 +98779,11 @@ cap-11068079	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-207.md
 cap-11068081	decisions/court-of-appeals-of-indiana/1980/399-N-E-2d-437.md
 cap-11068083	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-315.md
 cap-11068087	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-573.md
+cap-11068106	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-91.md
 cap-11068115	decisions/court-of-appeals-of-indiana/1980/399-N-E-2d-443.md
 cap-11068128	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-576.md
 cap-11068139	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-211.md
+cap-11068140	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-350.md
 cap-11068148	decisions/court-of-appeals-of-indiana/1980/399-N-E-2d-445.md
 cap-11068156	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-583.md
 cap-11068157	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-336.md
@@ -98782,11 +98794,13 @@ cap-11068185	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-585.md
 cap-11068203	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-222.md
 cap-11068211	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-343.md
 cap-11068228	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-225.md
+cap-11068236	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-640.md
 cap-11068240	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-591.md
 cap-11068255	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-398.md
 cap-11068261	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-229.md
 cap-11068283	decisions/court-of-appeals-of-indiana/1980/410-N-E-2d-1202.md
 cap-11068285	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-601.md
+cap-11068287	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-187.md
 cap-11068289	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-399.md
 cap-11068309	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-606.md
 cap-11068310	decisions/court-of-appeals-of-indiana/1980/410-N-E-2d-1205.md
@@ -98802,6 +98816,7 @@ cap-11068412	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-417.md
 cap-11068417	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-621.md
 cap-11068426	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-247.md
 cap-11068445	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-627.md
+cap-11068457	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-684.md
 cap-11068469	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-250.md
 cap-11068470	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-630.md
 cap-11068500	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-258.md
@@ -98821,7 +98836,9 @@ cap-11068729	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-418.md
 cap-11068775	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-429.md
 cap-11068802	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-433.md
 cap-11068834	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-674.md
+cap-11068837	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-381.md
 cap-11068862	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-679.md
+cap-11068882	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-404.md
 cap-11068897	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-680.md
 cap-11068929	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-683.md
 cap-11068952	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-686.md
@@ -98837,8 +98854,11 @@ cap-11069072	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-23.md
 cap-11069083	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-698.md
 cap-11069100	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-193.md
 cap-11069103	decisions/court-of-appeals-of-indiana/1980/408-N-E-2d-1286.md
+cap-11069105	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-333.md
 cap-11069108	decisions/court-of-appeals-of-indiana/1979/398-N-E-2d-701.md
 cap-11069128	decisions/court-of-appeals-of-indiana/1980/408-N-E-2d-1295.md
+cap-11069129	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-627.md
+cap-11069136	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-385.md
 cap-11069142	decisions/court-of-appeals-of-indiana/1980/398-N-E-2d-704.md
 cap-11069147	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-208.md
 cap-11069149	decisions/court-of-appeals-of-indiana/1980/408-N-E-2d-1302.md
@@ -98861,6 +98881,7 @@ cap-11069245	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-246.md
 cap-11069250	decisions/court-of-appeals-of-indiana/1980/409-N-E-2d-1121.md
 cap-11069260	decisions/court-of-appeals-of-indiana/1980/410-N-E-2d-1325.md
 cap-11069268	decisions/court-of-appeals-of-indiana/1980/408-N-E-2d-1317.md
+cap-11069270	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-657.md
 cap-11069275	decisions/court-of-appeals-of-indiana/1980/409-N-E-2d-1124.md
 cap-11069284	decisions/court-of-appeals-of-indiana/1980/410-N-E-2d-1333.md
 cap-11069293	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-229.md
@@ -99008,22 +99029,31 @@ cap-11070289	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-661.md
 cap-11070362	decisions/court-of-appeals-of-indiana/1980/405-N-E-2d-919.md
 cap-11070407	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-791.md
 cap-11070427	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-802.md
+cap-11070462	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-432.md
+cap-11070463	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-392.md
+cap-11070480	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-459.md
 cap-11070485	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-184.md
+cap-11070499	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-464.md
 cap-11070507	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-678.md
 cap-11070508	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-283.md
 cap-11070514	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-187.md
 cap-11070516	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-319.md
+cap-11070520	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-473.md
 cap-11070526	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-693.md
+cap-11070536	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-202.md
+cap-11070545	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-465.md
 cap-11070548	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-695.md
 cap-11070555	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-820.md
 cap-11070557	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-287.md
 cap-11070561	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-192.md
+cap-11070568	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-483.md
 cap-11070571	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-971.md
 cap-11070572	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-826.md
 cap-11070573	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-699.md
 cap-11070577	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-208.md
 cap-11070579	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-290.md
 cap-11070587	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-332.md
+cap-11070591	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-480.md
 cap-11070595	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-292.md
 cap-11070603	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-976.md
 cap-11070617	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-830.md
@@ -99034,11 +99064,14 @@ cap-11070639	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-293.md
 cap-11070652	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-834.md
 cap-11070655	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-991.md
 cap-11070657	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-342.md
+cap-11070660	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-251.md
 cap-11070678	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-841.md
 cap-11070693	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-346.md
 cap-11070721	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-352.md
 cap-11070737	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-845.md
 cap-11070742	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-357.md
+cap-11070763	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-511.md
+cap-11070770	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-528.md
 cap-11070787	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-856.md
 cap-11070796	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-364.md
 cap-11070815	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-367.md
@@ -99046,6 +99079,7 @@ cap-11070820	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-859.md
 cap-11070845	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-863.md
 cap-11070859	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-371.md
 cap-11070868	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-867.md
+cap-11070884	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-546.md
 cap-11070898	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-870.md
 cap-11070938	decisions/court-of-appeals-of-indiana/1980/403-N-E-2d-1093.md
 cap-11070967	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-874.md
@@ -99062,6 +99096,7 @@ cap-11071209	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-623.md
 cap-11071226	decisions/court-of-appeals-of-indiana/1980/403-N-E-2d-1136.md
 cap-11071241	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-629.md
 cap-11071253	decisions/court-of-appeals-of-indiana/1980/403-N-E-2d-1144.md
+cap-11071271	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-213.md
 cap-11071283	decisions/court-of-appeals-of-indiana/1980/403-N-E-2d-1150.md
 cap-11071298	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-638.md
 cap-11071315	decisions/court-of-appeals-of-indiana/1980/403-N-E-2d-1152.md
@@ -99131,6 +99166,7 @@ cap-11071936	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-568.md
 cap-11071938	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1195.md
 cap-11071944	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-927.md
 cap-11071950	decisions/court-of-appeals-of-indiana/1980/402-N-E-2d-1285.md
+cap-11071960	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-242.md
 cap-11071962	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-930.md
 cap-11071965	decisions/court-of-appeals-of-indiana/1980/398-N-E-2d-1339.md
 cap-11071967	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1199.md
@@ -99201,6 +99237,7 @@ cap-11072189	decisions/court-of-appeals-of-indiana/1980/398-N-E-2d-1379.md
 cap-11072192	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1239.md
 cap-11072194	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1066.md
 cap-11072200	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-848.md
+cap-11072202	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-420.md
 cap-11072204	decisions/court-of-appeals-of-indiana/1980/398-N-E-2d-1382.md
 cap-11072211	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1071.md
 cap-11072216	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1242.md
@@ -99211,9 +99248,11 @@ cap-11072225	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1075.md
 cap-11072229	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-712.md
 cap-11072231	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1247.md
 cap-11072237	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-858.md
+cap-11072238	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-402.md
 cap-11072241	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1079.md
 cap-11072245	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-719.md
 cap-11072250	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1249.md
+cap-11072251	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-103.md
 cap-11072253	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-861.md
 cap-11072255	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-630.md
 cap-11072258	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1082.md
@@ -99229,6 +99268,7 @@ cap-11072286	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1255.md
 cap-11072288	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-1114.md
 cap-11072298	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1264.md
 cap-11072299	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-867.md
+cap-11072302	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-342.md
 cap-11072312	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1000.md
 cap-11072313	decisions/court-of-appeals-of-indiana/1980/406-N-E-2d-1267.md
 cap-11072316	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-872.md
@@ -99243,11 +99283,15 @@ cap-11072380	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1283.md
 cap-11072398	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1287.md
 cap-11072476	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1292.md
 cap-11072540	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-692.md
+cap-11072553	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-497.md
+cap-11072571	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-517.md
 cap-11072586	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-709.md
 cap-11072596	decisions/court-of-appeals-of-indiana/1980/401-N-E-2d-1362.md
 cap-11072612	decisions/court-of-appeals-of-indiana/1980/401-N-E-2d-1372.md
 cap-11072614	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-714.md
+cap-11072637	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-547.md
 cap-11072643	decisions/court-of-appeals-of-indiana/1980/401-N-E-2d-1380.md
+cap-11072653	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-557.md
 cap-11072781	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1172.md
 cap-11072782	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1022.md
 cap-11072793	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1180.md
@@ -99255,7 +99299,9 @@ cap-11072794	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1036.md
 cap-11072807	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1182.md
 cap-11072808	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1044.md
 cap-11072820	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1046.md
+cap-11072837	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-50.md
 cap-11072855	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1052.md
+cap-11072866	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-98.md
 cap-11072885	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1058.md
 cap-11072898	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1066.md
 cap-11072914	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1073.md
@@ -99269,13 +99315,17 @@ cap-11072978	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1096.md
 cap-11072987	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1104.md
 cap-11072989	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1277.md
 cap-11073000	decisions/court-of-appeals-of-indiana/1979/397-N-E-2d-1283.md
+cap-11073080	decisions/court-of-appeals-of-indiana/1978/179-Ind-App-1.md
 cap-11073175	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1139.md
 cap-11073192	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1148.md
 cap-11073211	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1152.md
 cap-11073225	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1157.md
 cap-11073239	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1164.md
 cap-11073251	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1168.md
+cap-11073269	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-396.md
+cap-11073287	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-409.md
 cap-11073306	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1182.md
+cap-11073331	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-379.md
 cap-11073347	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1192.md
 cap-11073360	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1196.md
 cap-11073370	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1199.md
@@ -99288,6 +99338,7 @@ cap-11073523	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-950.md
 cap-11073530	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-1175.md
 cap-11073535	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-953.md
 cap-11073544	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-956.md
+cap-11073553	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-530.md
 cap-11073561	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-963.md
 cap-11073579	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-965.md
 cap-11073588	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-982.md
@@ -99303,13 +99354,17 @@ cap-11073693	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1015.md
 cap-11073701	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1017.md
 cap-11073715	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1022.md
 cap-11073722	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1026.md
+cap-11073859	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-295--cap-1520958.md
+cap-11073863	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-299.md
 cap-11073875	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-461.md
 cap-11073881	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-466.md
 cap-11073892	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-469.md
 cap-11073898	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-473.md
+cap-11073907	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-316.md
 cap-11073912	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-482.md
 cap-11073919	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-486.md
 cap-11073925	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-488.md
+cap-11073931	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-357.md
 cap-11073935	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-496.md
 cap-11073947	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-607.md
 cap-11073954	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-620.md
@@ -99317,6 +99372,7 @@ cap-11074023	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1211.md
 cap-11074028	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1218.md
 cap-11074037	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1221.md
 cap-11074042	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1230.md
+cap-11074047	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-693.md
 cap-11074293	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1035.md
 cap-11074297	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1041.md
 cap-11074300	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1055.md
@@ -99334,6 +99390,7 @@ cap-11074327	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1116.md
 cap-11074329	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1119.md
 cap-11074332	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1122.md
 cap-11074334	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1126.md
+cap-11074338	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-194.md
 cap-11074341	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1129.md
 cap-11074344	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1132.md
 cap-11074347	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1136.md
@@ -99344,6 +99401,7 @@ cap-11074363	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1159.md
 cap-11074367	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1177.md
 cap-11074491	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1153.md
 cap-11074495	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1162.md
+cap-11074497	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-378.md
 cap-11074501	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1168.md
 cap-11074503	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1174.md
 cap-11074505	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1176.md
@@ -99352,6 +99410,7 @@ cap-11074509	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1183.md
 cap-11074511	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1189.md
 cap-11074513	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1195.md
 cap-11074515	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1196.md
+cap-11074517	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-456.md
 cap-11074520	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1203.md
 cap-11074522	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1205.md
 cap-11074524	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1208.md
@@ -101446,6 +101505,7 @@ cap-11707767	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-88.md
 cap-11707819	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-92.md
 cap-11707857	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-98.md
 cap-11709575	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-392.md
+cap-11709618	decisions/court-of-appeals-of-indiana/1998/706-N-E-2d-183.md
 cap-11709645	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-409.md
 cap-11709696	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-416.md
 cap-11709781	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-422.md
@@ -101463,6 +101523,7 @@ cap-11713090	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-877.md
 cap-11713143	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-882.md
 cap-11713223	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-884.md
 cap-11713276	decisions/court-of-appeals-of-indiana/1998/696-N-E-2d-888.md
+cap-11714983	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-659.md
 cap-11715021	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-72.md
 cap-11715062	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-74.md
 cap-11715110	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-78.md
@@ -101471,9 +101532,11 @@ cap-11715197	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-86.md
 cap-11715222	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-93.md
 cap-11715246	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-96.md
 cap-11715272	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-99.md
+cap-11715303	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-152.md
 cap-11715340	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-104.md
 cap-11715369	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-107.md
 cap-11719425	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-452.md
+cap-11719520	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-94.md
 cap-11719596	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-464.md
 cap-11719638	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-474.md
 cap-11719715	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-476.md
@@ -101482,6 +101545,7 @@ cap-11719813	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-488.md
 cap-11719854	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-491.md
 cap-11730014	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1332.md
 cap-11730116	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1335.md
+cap-11730173	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-185.md
 cap-11730261	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1346.md
 cap-11730357	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1349.md
 cap-11730549	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1354.md
@@ -106187,6 +106251,7 @@ cap-12540005	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-1254
 cap-12540006	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540006.md
 cap-12540007	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540007.md
 cap-12540008	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540008.md
+cap-12540009	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540009.md
 cap-12540010	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540010.md
 cap-12540011	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540011.md
 cap-12540012	decisions/court-of-appeals-of-indiana/2018/113-N-E-3d-818--cap-12540012.md
@@ -107116,6 +107181,7 @@ cap-12545649	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41--cap-12545
 cap-12545650	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41--cap-12545650.md
 cap-12545651	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-41--cap-12545651.md
 cap-12545653	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42--cap-12545653.md
+cap-12545654	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42--cap-12545654.md
 cap-12545655	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-42.md
 cap-12545657	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-43.md
 cap-12545658	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-43--cap-12545658.md
@@ -107273,6 +107339,7 @@ cap-12545871	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-915.md
 cap-12545876	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-924.md
 cap-12545877	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-928.md
 cap-12545882	decisions/court-of-appeals-of-indiana/2019/126-N-E-3d-932.md
+cap-12545937	decisions/court-of-appeals-of-indiana/2019/128-N-E-3d-8.md
 cap-12545938	decisions/court-of-appeals-of-indiana/2019/127-N-E-3d-1178.md
 cap-12545939	decisions/court-of-appeals-of-indiana/2019/127-N-E-3d-1181.md
 cap-12545940	decisions/court-of-appeals-of-indiana/2019/127-N-E-3d-1187.md
@@ -112066,154 +112133,387 @@ cap-1514194	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-653.md
 cap-1514195	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-187.md
 cap-1514196	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-24.md
 cap-1514197	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-552.md
+cap-1514198	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-856.md
 cap-1514199	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-84.md
+cap-1514200	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-841.md
+cap-1514201	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-417.md
+cap-1514202	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-693.md
 cap-1514203	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-381.md
 cap-1514204	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-38.md
 cap-1514205	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-480.md
 cap-1514206	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-418.md
 cap-1514207	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-150.md
+cap-1514208	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-429.md
+cap-1514209	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-263.md
+cap-1514210	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-201.md
+cap-1514211	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-245.md
 cap-1514212	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-43.md
 cap-1514213	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-256.md
 cap-1514214	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-404.md
+cap-1514215	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-949.md
+cap-1514216	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-834.md
+cap-1514217	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-267.md
+cap-1514218	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-283.md
 cap-1514219	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-192.md
+cap-1514220	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-229.md
+cap-1514221	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-946.md
+cap-1514222	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-315.md
+cap-1514223	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-250.md
+cap-1514224	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-863.md
+cap-1514225	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-870.md
+cap-1514226	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-820.md
+cap-1514227	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-272.md
+cap-1514228	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-222.md
 cap-1514229	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-661.md
+cap-1514230	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-215.md
 cap-1514231	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-20.md
 cap-1514232	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-377.md
+cap-1514233	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-433.md
+cap-1514234	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-429.md
+cap-1514235	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-845.md
+cap-1514236	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-859.md
 cap-1514237	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-91.md
+cap-1514238	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-276.md
+cap-1514239	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-935.md
 cap-1514240	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-236.md
+cap-1514241	decisions/court-of-appeals-of-indiana/1979/471-N-E-2d-1.md
 cap-1514242	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-650.md
+cap-1514243	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-301.md
+cap-1514244	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-234.md
+cap-1514245	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-874.md
 cap-1514246	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-327.md
 cap-1514247	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-200.md
+cap-1514248	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-790.md
+cap-1514249	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-678.md
 cap-1514250	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-48.md
+cap-1514251	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-802.md
 cap-1514252	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-684.md
+cap-1514253	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-339.md
+cap-1514254	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-798.md
+cap-1514255	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-207.md
+cap-1514256	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1272.md
 cap-1514257	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-626.md
+cap-1514258	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1283.md
+cap-1514259	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-957.md
 cap-1514260	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-640.md
 cap-1514261	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-308.md
 cap-1514262	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-432.md
+cap-1514263	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1280.md
 cap-1514264	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-464.md
+cap-1514265	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-867.md
+cap-1514266	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-791.md
+cap-1514267	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-826.md
+cap-1514268	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-314.md
+cap-1514269	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1259.md
 cap-1514270	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-350.md
+cap-1514271	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-211.md
 cap-1514272	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-511.md
+cap-1514273	decisions/court-of-appeals-of-indiana/1979/396-N-E-2d-415.md
 cap-1514274	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-10.md
+cap-1514275	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-277.md
+cap-1514276	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-247.md
+cap-1514277	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-1114.md
+cap-1514278	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-1292.md
+cap-1514279	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-830.md
 cap-1514280	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-664.md
 cap-1514281	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-473.md
+cap-1514282	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-204.md
 cap-1514283	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-645.md
+cap-1514284	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-258.md
+cap-1514285	decisions/court-of-appeals-of-indiana/1979/395-N-E-2d-418.md
 cap-1514286	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-103.md
 cap-1514287	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-303.md
+cap-1514288	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-1098.md
 cap-1514289	decisions/court-of-appeals-of-indiana/1979/182-Ind-App-342.md
 cap-1516717	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-176.md
 cap-1516718	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-586.md
+cap-1516719	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-228.md
+cap-1516720	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-623.md
+cap-1516721	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1196.md
+cap-1516722	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-829.md
+cap-1516723	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1157.md
+cap-1516724	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-820.md
 cap-1516725	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-439.md
+cap-1516726	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-653.md
 cap-1516727	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-295.md
+cap-1516728	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-235.md
+cap-1516729	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1036.md
 cap-1516730	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-651.md
+cap-1516731	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-246.md
+cap-1516732	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-520.md
 cap-1516733	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-81.md
+cap-1516734	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-677.md
 cap-1516735	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-258.md
+cap-1516736	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-199.md
+cap-1516737	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-646.md
+cap-1516738	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-242.md
+cap-1516739	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-817.md
+cap-1516740	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-665.md
+cap-1516741	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-662.md
+cap-1516742	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1066.md
+cap-1516743	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-867.md
+cap-1516744	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-657.md
+cap-1516745	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-496.md
+cap-1516746	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-848.md
+cap-1516747	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-702.md
+cap-1516748	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-670.md
+cap-1516749	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-516.md
+cap-1516750	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-841.md
+cap-1516751	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1182.md
+cap-1516752	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1096.md
+cap-1516753	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1046.md
 cap-1516754	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-536.md
+cap-1516755	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-223.md
+cap-1516756	decisions/court-of-appeals-of-indiana/1979/394-N-E-2d-187.md
+cap-1516757	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-211.md
+cap-1516758	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-213.md
 cap-1516759	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-98.md
+cap-1516760	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1148.md
 cap-1516761	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-396.md
+cap-1516762	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-498.md
+cap-1516763	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-838.md
+cap-1516764	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-246.md
+cap-1516765	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-861.md
+cap-1516766	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-705.md
+cap-1516767	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-230.md
+cap-1516768	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1164.md
 cap-1516769	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-38.md
+cap-1516770	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-858.md
+cap-1516771	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-649.md
+cap-1516772	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1182.md
+cap-1516773	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1073.md
+cap-1516774	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1092.md
 cap-1516775	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-409.md
+cap-1516776	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-229.md
+cap-1516777	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-642.md
+cap-1516778	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-700.md
+cap-1516779	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-878.md
+cap-1516780	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-503.md
+cap-1516781	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-855.md
+cap-1516782	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-235.md
 cap-1516783	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-379.md
+cap-1516784	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-251.md
 cap-1516785	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-262.md
 cap-1516786	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-213.md
 cap-1516787	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-16.md
+cap-1516788	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1172.md
+cap-1516789	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1168.md
 cap-1516790	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-197.md
+cap-1516791	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-671.md
+cap-1516792	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-696.md
+cap-1516793	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-638.md
+cap-1516794	decisions/court-of-appeals-of-indiana/1979/393-N-E-2d-204.md
+cap-1516795	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-834.md
 cap-1516796	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-639.md
 cap-1516797	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-141.md
 cap-1516798	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-155.md
+cap-1516799	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-666.md
+cap-1516800	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1087.md
 cap-1516801	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-543.md
 cap-1516802	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-628.md
 cap-1516803	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-697.md
+cap-1516804	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1199.md
+cap-1516805	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-1180.md
+cap-1516806	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-864.md
 cap-1516807	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-299.md
+cap-1516808	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-1152.md
+cap-1516809	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-825.md
 cap-1516810	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-421.md
 cap-1516811	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-532.md
+cap-1516812	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-620.md
+cap-1516813	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-239.md
 cap-1516814	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-50.md
+cap-1516815	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-709.md
+cap-1516816	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-1058.md
+cap-1516817	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-490.md
+cap-1516818	decisions/court-of-appeals-of-indiana/1979/391-N-E-2d-866.md
+cap-1516819	decisions/court-of-appeals-of-indiana/1979/392-N-E-2d-505.md
 cap-1516820	decisions/court-of-appeals-of-indiana/1979/181-Ind-App-281.md
+cap-1518788	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-357.md
 cap-1518789	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-528.md
 cap-1518790	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-251.md
 cap-1518791	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-152.md
+cap-1518792	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-208.md
+cap-1518793	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-367.md
+cap-1518794	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-1156.md
 cap-1518795	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-33.md
+cap-1518796	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-216.md
 cap-1518797	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-539.md
+cap-1518798	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1335.md
+cap-1518799	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-663.md
 cap-1518800	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-385.md
+cap-1518801	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-352.md
 cap-1518802	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-402.md
+cap-1518803	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-578.md
+cap-1518804	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1332.md
 cap-1518805	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-115.md
+cap-1518806	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-620.md
+cap-1518807	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-371.md
 cap-1518808	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-627.md
+cap-1518809	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-319.md
+cap-1518810	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-607.md
+cap-1518811	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-96.md
+cap-1518812	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-290.md
 cap-1518813	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-496.md
 cap-1518814	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-242.md
 cap-1518815	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-157.md
+cap-1518816	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-93.md
+cap-1518817	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-346.md
 cap-1518818	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-77.md
+cap-1518819	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-332.md
 cap-1518820	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-141.md
+cap-1518821	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1346.md
+cap-1518822	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-82.md
 cap-1518823	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-251--cap-1518823.md
+cap-1518824	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-586.md
 cap-1518825	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-472.md
+cap-1518826	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-638.md
+cap-1518827	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-488.md
 cap-1518828	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-185.md
+cap-1518829	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-676.md
 cap-1518830	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-679.md
 cap-1518831	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-24.md
+cap-1518832	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-591.md
+cap-1518833	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-72.md
+cap-1518834	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1349.md
 cap-1518835	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-299.md
+cap-1518836	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-104.md
 cap-1518837	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-611.md
+cap-1518838	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-189.md
 cap-1518839	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-106.md
+cap-1518840	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-452.md
 cap-1518841	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-657.md
 cap-1518842	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-94.md
 cap-1518843	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-12.md
 cap-1518844	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-207.md
+cap-1518845	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-603.md
 cap-1518846	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-646.md
 cap-1518847	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-438.md
 cap-1518848	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-284.md
+cap-1518849	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-673.md
+cap-1518850	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-491.md
 cap-1518851	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-366.md
+cap-1518852	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-218.md
+cap-1518853	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-582.md
 cap-1518854	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-250.md
+cap-1518855	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-283.md
 cap-1518856	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-432.md
+cap-1518857	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-193.md
 cap-1518858	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-637.md
+cap-1518859	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-611.md
+cap-1518860	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-1354.md
+cap-1518861	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-596.md
 cap-1518862	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-490.md
+cap-1518863	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-719.md
 cap-1518864	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-572.md
+cap-1518865	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-474.md
+cap-1518866	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-687.md
+cap-1518867	decisions/court-of-appeals-of-indiana/1979/390-N-E-2d-184.md
 cap-1518868	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-198.md
 cap-1518869	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-420.md
 cap-1518870	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-465.md
+cap-1518871	decisions/court-of-appeals-of-indiana/1979/389-N-E-2d-364.md
 cap-1518872	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-588.md
 cap-1518873	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-202.md
 cap-1518874	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-483.md
+cap-1518875	decisions/court-of-appeals-of-indiana/1979/388-N-E-2d-588.md
 cap-1518876	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-546.md
 cap-1518877	decisions/court-of-appeals-of-indiana/1979/180-Ind-App-333.md
+cap-1518878	decisions/court-of-appeals-of-indiana/1979/387-N-E-2d-99.md
+cap-1520881	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-714.md
+cap-1520882	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1152.md
 cap-1520883	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-456.md
 cap-1520884	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-447.md
+cap-1520885	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1116.md
+cap-1520886	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1035.md
+cap-1520887	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1012.md
 cap-1520888	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-392.md
+cap-1520889	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-955.md
+cap-1520890	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1221.md
 cap-1520891	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-441.md
 cap-1520892	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-547.md
+cap-1520893	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1179.md
 cap-1520894	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-166.md
 cap-1520895	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-434.md
+cap-1520896	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1006.md
 cap-1520897	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-381.md
+cap-1520898	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1003.md
 cap-1520899	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-357.md
 cap-1520900	decisions/court-of-appeals-of-indiana/1978/179-Ind-App-1.md
+cap-1520901	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1145.md
+cap-1520902	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-956.md
 cap-1520903	decisions/court-of-appeals-of-indiana/1978/179-Ind-App-421.md
+cap-1520904	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-461.md
 cap-1520905	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-368.md
+cap-1520906	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1205.md
 cap-1520907	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-194.md
+cap-1520908	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-466.md
 cap-1520909	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-693.md
+cap-1520910	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-225.md
 cap-1520911	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-134.md
 cap-1520912	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-497.md
 cap-1520913	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-592.md
 cap-1520914	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-557.md
+cap-1520915	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1015.md
 cap-1520916	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-372.md
 cap-1520917	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-378.md
 cap-1520918	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-173.md
 cap-1520919	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-517.md
+cap-1520920	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1077.md
 cap-1520921	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-607.md
+cap-1520922	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-709.md
 cap-1520923	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-407.md
+cap-1520924	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1063.md
+cap-1520925	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1136.md
+cap-1520926	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1211.md
 cap-1520927	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-161.md
+cap-1520928	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1140.md
+cap-1520929	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1132.md
+cap-1520930	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-217.md
+cap-1520931	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1129.md
 cap-1520932	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-472.md
+cap-1520933	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1022.md
 cap-1520934	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-331.md
 cap-1520935	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-530.md
 cap-1520936	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-616.md
 cap-1520937	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-659.md
 cap-1520938	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-671.md
+cap-1520939	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1208.md
+cap-1520940	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-198.md
 cap-1520941	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-299.md
+cap-1520942	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-950.md
 cap-1520943	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-363.md
 cap-1520944	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-603.md
+cap-1520945	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-620.md
+cap-1520946	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1055.md
+cap-1520947	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1189.md
 cap-1520948	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-295.md
 cap-1520949	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-25.md
+cap-1520950	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1041.md
 cap-1520951	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-503.md
+cap-1520952	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1183.md
+cap-1520953	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1026.md
+cap-1520954	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1230.md
 cap-1520955	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-405.md
 cap-1520956	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-316.md
+cap-1520957	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-486.md
 cap-1520958	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-295--cap-1520958.md
+cap-1520959	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-473.md
+cap-1520960	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1084.md
+cap-1520961	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1218.md
 cap-1520962	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-17.md
+cap-1520963	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1000.md
 cap-1520964	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-563.md
+cap-1520965	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1159.md
+cap-1520966	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1195.md
+cap-1520967	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1114.md
+cap-1520968	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-1009.md
+cap-1520969	decisions/court-of-appeals-of-indiana/1979/386-N-E-2d-953.md
+cap-1520970	decisions/court-of-appeals-of-indiana/1979/385-N-E-2d-1153.md
+cap-1520971	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1126.md
+cap-1520972	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1099.md
 cap-1520973	decisions/court-of-appeals-of-indiana/1979/179-Ind-App-305.md
+cap-1520974	decisions/court-of-appeals-of-indiana/1979/384-N-E-2d-1104.md
 cap-1522458	decisions/court-of-appeals-of-indiana/1978/178-Ind-App-435.md
 cap-1522459	decisions/court-of-appeals-of-indiana/1978/178-Ind-App-364.md
 cap-1522460	decisions/court-of-appeals-of-indiana/1978/178-Ind-App-16.md
@@ -115936,6 +116236,7 @@ cap-1578470	decisions/appellate-court-of-indiana/1966/139-Ind-App-160.md
 cap-1578473	decisions/appellate-court-of-indiana/1966/139-Ind-App-156.md
 cap-1578475	decisions/appellate-court-of-indiana/1966/139-Ind-App-477.md
 cap-1578477	decisions/appellate-court-of-indiana/1965/139-Ind-App-302.md
+cap-1578478	decisions/appellate-court-of-indiana/1965/139-Ind-App-562.md
 cap-1578481	decisions/appellate-court-of-indiana/1966/139-Ind-App-645.md
 cap-1578482	decisions/appellate-court-of-indiana/1966/139-Ind-App-641.md
 cap-1578484	decisions/appellate-court-of-indiana/1966/139-Ind-App-73.md
@@ -127965,8 +128266,10 @@ cap-6880690	decisions/court-of-appeals-of-indiana/2015/25-N-E-3d-786.md
 cap-6880730	decisions/court-of-appeals-of-indiana/2015/25-N-E-3d-791.md
 cap-6880752	decisions/court-of-appeals-of-indiana/2015/25-N-E-3d-800.md
 cap-6880791	decisions/court-of-appeals-of-indiana/2015/25-N-E-3d-807.md
+cap-6884936	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-12.md
 cap-6884966	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-19.md
 cap-6884985	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-27.md
+cap-6885008	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-30.md
 cap-6885040	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-39.md
 cap-6885164	decisions/court-of-appeals-of-indiana/2015/26-N-E-3d-983.md
 cap-6885205	decisions/court-of-appeals-of-indiana/2015/26-N-E-3d-986.md
@@ -127988,6 +128291,7 @@ cap-6887528	decisions/court-of-appeals-of-indiana/2014/23-N-E-3d-18.md
 cap-6887568	decisions/court-of-appeals-of-indiana/2014/23-N-E-3d-28.md
 cap-6887638	decisions/court-of-appeals-of-indiana/2014/23-N-E-3d-29.md
 cap-6887690	decisions/court-of-appeals-of-indiana/2015/23-N-E-3d-37.md
+cap-6889812	decisions/court-of-appeals-of-indiana/2013/3-N-E-3d-541.md
 cap-6889868	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-548.md
 cap-6890004	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-556.md
 cap-6890689	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-588.md
@@ -128021,6 +128325,7 @@ cap-6891985	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-801.md
 cap-6892027	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-804.md
 cap-6892093	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-809.md
 cap-6892133	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-818.md
+cap-6892197	decisions/court-of-appeals-of-indiana/2013/3-N-E-3d-976.md
 cap-6892205	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-824.md
 cap-6892230	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-836.md
 cap-6892231	decisions/court-of-appeals-of-indiana/2013/24-N-E-3d-980.md
@@ -128039,6 +128344,7 @@ cap-6892445	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1020.md
 cap-6892453	decisions/court-of-appeals-of-indiana/2014/22-N-E-3d-882.md
 cap-6892455	decisions/court-of-appeals-of-indiana/2014/21-N-E-3d-96.md
 cap-6892481	decisions/court-of-appeals-of-indiana/2014/21-N-E-3d-99.md
+cap-6892508	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1034.md
 cap-6892527	decisions/court-of-appeals-of-indiana/2014/21-N-E-3d-114.md
 cap-6892563	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1042.md
 cap-6892565	decisions/court-of-appeals-of-indiana/2014/21-N-E-3d-121.md
@@ -128046,6 +128352,8 @@ cap-6892594	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1047.md
 cap-6892649	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1051.md
 cap-6892670	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1058.md
 cap-6892696	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1062.md
+cap-6892720	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1068.md
+cap-6892744	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1073.md
 cap-6892778	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1080.md
 cap-6893918	decisions/court-of-appeals-of-indiana/2014/23-N-E-3d-682.md
 cap-6894006	decisions/court-of-appeals-of-indiana/2014/23-N-E-3d-716.md
@@ -130710,6 +131018,7 @@ cap-7232026	decisions/court-of-appeals-of-indiana/2010/934-N-E-2d-1257.md
 cap-7232082	decisions/court-of-appeals-of-indiana/2010/932-N-E-2d-1284.md
 cap-7232089	decisions/court-of-appeals-of-indiana/2010/934-N-E-2d-1260.md
 cap-7234012	decisions/court-of-appeals-of-indiana/2010/924-N-E-2d-1249.md
+cap-7234013	decisions/court-of-appeals-of-indiana/2010/921-N-E-2d-867.md
 cap-7234057	decisions/court-of-appeals-of-indiana/2010/924-N-E-2d-1262.md
 cap-7234081	decisions/court-of-appeals-of-indiana/2010/925-N-E-2d-747.md
 cap-7234122	decisions/court-of-appeals-of-indiana/2010/924-N-E-2d-1270.md
@@ -131235,14 +131544,30 @@ cap-7282032	decisions/court-of-appeals-of-indiana/2014/2-N-E-3d-807.md
 cap-7282093	decisions/court-of-appeals-of-indiana/2014/2-N-E-3d-814.md
 cap-7282226	decisions/court-of-appeals-of-indiana/2014/2-N-E-3d-828.md
 cap-7324032	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-12.md
+cap-7324060	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-19.md
+cap-7324090	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-27.md
 cap-7324121	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-30.md
+cap-7324142	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-39.md
 cap-7328993	decisions/court-of-appeals-of-indiana/2013/3-N-E-3d-541.md
+cap-7329000	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-548.md
+cap-7329005	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-556.md
 cap-7329717	decisions/court-of-appeals-of-indiana/2013/3-N-E-3d-976.md
+cap-7329719	decisions/court-of-appeals-of-indiana/2013/24-N-E-3d-980.md
+cap-7329722	decisions/court-of-appeals-of-indiana/2013/24-N-E-3d-985.md
 cap-7329728	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-989.md
+cap-7329731	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1000.md
+cap-7329736	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1009.md
+cap-7329740	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1014.md
+cap-7329745	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1020.md
 cap-7329749	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1034.md
+cap-7329754	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1042.md
+cap-7329756	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1047.md
+cap-7329761	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1051.md
+cap-7329766	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1058.md
 cap-7329773	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1062.md
 cap-7329778	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1068.md
 cap-7329784	decisions/court-of-appeals-of-indiana/2014/3-N-E-3d-1073.md
+cap-7329787	decisions/court-of-appeals-of-indiana/2014/24-N-E-3d-1080.md
 cap-7331533	decisions/court-of-appeals-of-indiana/2013/998-N-E-2d-215.md
 cap-7331570	decisions/court-of-appeals-of-indiana/2013/998-N-E-2d-216.md
 cap-7331618	decisions/court-of-appeals-of-indiana/2013/998-N-E-2d-232.md
@@ -134534,6 +134859,7 @@ cap-9159551	decisions/court-of-appeals-of-indiana/2004/818-N-E-2d-126.md
 cap-9159584	decisions/court-of-appeals-of-indiana/2004/818-N-E-2d-133.md
 cap-9159624	decisions/court-of-appeals-of-indiana/2004/818-N-E-2d-143.md
 cap-9159658	decisions/court-of-appeals-of-indiana/2004/818-N-E-2d-148.md
+cap-9160607	decisions/court-of-appeals-of-indiana/2004/808-N-E-2d-670.md
 cap-9160643	decisions/court-of-appeals-of-indiana/2004/816-N-E-2d-868.md
 cap-9160696	decisions/court-of-appeals-of-indiana/2004/816-N-E-2d-872.md
 cap-9160740	decisions/court-of-appeals-of-indiana/2004/816-N-E-2d-880.md
